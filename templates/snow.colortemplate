@@ -31,10 +31,10 @@ MatchParen  gry4 yllw
 
 # dark
 Background: dark
-Color:      gry0 #162b3a ~ # lch 16.67 012.50 255
-Color:      gry1 #293e4d ~ # lch 25.00 012.50 255
-Color:      gry2 #65798b ~ # lch 50.00 012.50 255
-Color:      gry3 #859aac ~ # lch 62.50 012.50 255
+Color:      gry0 #1e2b34 ~ # lch 16.67 008.33 255
+Color:      gry1 #303d47 ~ # lch 25.00 008.33 255
+Color:      gry2 #6c7984 ~ # lch 50.00 008.33 255
+Color:      gry3 #8b99a5 ~ # lch 62.50 008.33 255
 Color:      red_ #b2706a ~ # lch 54.17 029.17 030
 Color:      orng #a77757 ~ # lch 54.17 029.17 060
 Color:      yllw #baa056 ~ # lch 66.67 041.67 090
