@@ -2,7 +2,7 @@
 " Author:       nightsense
 " Maintainer:   nightsense
 " License:      MIT
-" Last Updated: Tue 26 Jun 2018 06:43:53 AM EDT
+" Last Updated: Tue 26 Jun 2018 06:59:21 AM EDT
 
 if !(has('termguicolors') && &termguicolors) && !has('gui_running')
       \ && (!exists('&t_Co') || &t_Co < 256)
@@ -135,20 +135,20 @@ endif
 " Color similarity table (light background)
 " baqu: GUI=#00af8a/rgb(  0,175,138)  Term= 36 #00af87/rgb(  0,175,135)  [delta=0.834852]
 " blue: GUI=#008ade/rgb(  0,138,222)  Term= 32 #0087d7/rgb(  0,135,215)  [delta=1.472337]
+" prpl: GUI=#a864d4/rgb(168,100,212)  Term=134 #af5fd7/rgb(175, 95,215)  [delta=1.515007]
 " bred: GUI=#f3000d/rgb(243,  0, 13)  Term=196 #ff0000/rgb(255,  0,  0)  [delta=2.942988]
 " born: GUI=#fa6c00/rgb(250,108,  0)  Term=202 #ff5f00/rgb(255, 95,  0)  [delta=3.617174]
 " bprp: GUI=#a940f2/rgb(169, 64,242)  Term=129 #af00ff/rgb(175,  0,255)  [delta=4.444948]
-" prpl: GUI=#ad76d0/rgb(173,118,208)  Term=140 #af87d7/rgb(175,135,215)  [delta=4.726045]
 " yllw: GUI=#f8ba18/rgb(248,186, 24)  Term=214 #ffaf00/rgb(255,175,  0)  [delta=4.926791]
 " orng: GUI=#d57221/rgb(213,114, 33)  Term=166 #d75f00/rgb(215, 95,  0)  [delta=5.158512]
 " pink: GUI=#e36176/rgb(227, 97,118)  Term=204 #ff5f87/rgb(255, 95,135)  [delta=5.530871]
 " gry0: GUI=#e9f4ff/rgb(233,244,255)  Term=255 #eeeeee/rgb(238,238,238)  [delta=6.070585]
+" gren: GUI=#5c9c23/rgb( 92,156, 35)  Term= 70 #5faf00/rgb( 95,175,  0)  [delta=6.236943]
 " red_: GUI=#fe4b36/rgb(254, 75, 54)  Term=196 #ff0000/rgb(255,  0,  0)  [delta=6.550297]
 " gry2: GUI=#838d9a/rgb(131,141,154)  Term=245 #8a8a8a/rgb(138,138,138)  [delta=6.968974]
 " gry3: GUI=#636e7a/rgb( 99,110,122)  Term=242 #6c6c6c/rgb(108,108,108)  [delta=7.003613]
 " gry1: GUI=#d1ddeb/rgb(209,221,235)  Term=253 #dadada/rgb(218,218,218)  [delta=7.103856]
 " gry4: GUI=#323c48/rgb( 50, 60, 72)  Term=237 #3a3a3a/rgb( 58, 58, 58)  [delta=7.349022]
-" gren: GUI=#689a3c/rgb(104,154, 60)  Term=107 #87af5f/rgb(135,175, 95)  [delta=7.761188]
 " aqua: GUI=#009880/rgb(  0,152,128)  Term= 36 #00af87/rgb(  0,175,135)  [delta=7.997496]
 hi Bold ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi Conceal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -209,17 +209,17 @@ hi PreCondit ctermfg=166 ctermbg=NONE guifg=#d57221 guibg=NONE guisp=NONE cterm=
 hi PreProc ctermfg=166 ctermbg=NONE guifg=#d57221 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Question ctermfg=166 ctermbg=NONE guifg=#d57221 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi SpellCap ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#fa6c00 cterm=NONE,undercurl gui=NONE,undercurl
-hi Conditional ctermfg=107 ctermbg=NONE guifg=#689a3c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi DiffAdd ctermfg=107 ctermbg=NONE guifg=#689a3c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi DiffAdded ctermfg=107 ctermbg=NONE guifg=#689a3c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Exception ctermfg=107 ctermbg=NONE guifg=#689a3c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Keyword ctermfg=107 ctermbg=NONE guifg=#689a3c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Label ctermfg=107 ctermbg=NONE guifg=#689a3c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi ModeMsg ctermfg=107 ctermbg=NONE guifg=#689a3c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi MoreMsg ctermfg=107 ctermbg=NONE guifg=#689a3c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Operator ctermfg=107 ctermbg=NONE guifg=#689a3c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Repeat ctermfg=107 ctermbg=NONE guifg=#689a3c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Statement ctermfg=107 ctermbg=NONE guifg=#689a3c guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Conditional ctermfg=70 ctermbg=NONE guifg=#5c9c23 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi DiffAdd ctermfg=70 ctermbg=NONE guifg=#5c9c23 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi DiffAdded ctermfg=70 ctermbg=NONE guifg=#5c9c23 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Exception ctermfg=70 ctermbg=NONE guifg=#5c9c23 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Keyword ctermfg=70 ctermbg=NONE guifg=#5c9c23 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Label ctermfg=70 ctermbg=NONE guifg=#5c9c23 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi ModeMsg ctermfg=70 ctermbg=NONE guifg=#5c9c23 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi MoreMsg ctermfg=70 ctermbg=NONE guifg=#5c9c23 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Operator ctermfg=70 ctermbg=NONE guifg=#5c9c23 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Repeat ctermfg=70 ctermbg=NONE guifg=#5c9c23 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Statement ctermfg=70 ctermbg=NONE guifg=#5c9c23 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi SpellLocal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#00af8a cterm=NONE,undercurl gui=NONE,undercurl
 hi StorageClass ctermfg=36 ctermbg=NONE guifg=#009880 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Structure ctermfg=36 ctermbg=NONE guifg=#009880 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -231,15 +231,15 @@ hi Constant ctermfg=32 ctermbg=NONE guifg=#008ade guibg=NONE guisp=NONE cterm=NO
 hi Float ctermfg=32 ctermbg=NONE guifg=#008ade guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Number ctermfg=32 ctermbg=NONE guifg=#008ade guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi String ctermfg=32 ctermbg=NONE guifg=#008ade guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Debug ctermfg=140 ctermbg=NONE guifg=#ad76d0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Delimiter ctermfg=140 ctermbg=NONE guifg=#ad76d0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Special ctermfg=140 ctermbg=NONE guifg=#ad76d0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi SpecialChar ctermfg=140 ctermbg=NONE guifg=#ad76d0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi SpecialComment ctermfg=140 ctermbg=NONE guifg=#ad76d0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi SpecialKey ctermfg=140 ctermbg=NONE guifg=#ad76d0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Debug ctermfg=134 ctermbg=NONE guifg=#a864d4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Delimiter ctermfg=134 ctermbg=NONE guifg=#a864d4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Special ctermfg=134 ctermbg=NONE guifg=#a864d4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi SpecialChar ctermfg=134 ctermbg=NONE guifg=#a864d4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi SpecialComment ctermfg=134 ctermbg=NONE guifg=#a864d4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi SpecialKey ctermfg=134 ctermbg=NONE guifg=#a864d4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi SpellRare ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#a940f2 cterm=NONE,undercurl gui=NONE,undercurl
-hi Tag ctermfg=140 ctermbg=NONE guifg=#ad76d0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Todo ctermfg=140 ctermbg=NONE guifg=#ad76d0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Tag ctermfg=134 ctermbg=NONE guifg=#a864d4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Todo ctermfg=134 ctermbg=NONE guifg=#a864d4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Function ctermfg=204 ctermbg=NONE guifg=#e36176 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Identifier ctermfg=204 ctermbg=NONE guifg=#e36176 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Search ctermfg=237 ctermbg=214 guifg=#323c48 guibg=#f8ba18 guisp=NONE cterm=NONE gui=NONE
@@ -255,10 +255,10 @@ finish
 " Color:      red_ #fe4b36 ~ # lch 58.33 083.33 037.5
 " Color:      orng #d57221 ~ # lch 58.33 066.67 060.0
 " Color:      yllw #f8ba18 ~ # lch 79.17 079.17 082.5
-" Color:      gren #689a3c ~ # lch 58.33 054.17 127.5
+" Color:      gren #5c9c23 ~ # lch 58.33 066.67 127.5
 " Color:      aqua #009880 ~ # lch 54.17 054.17 180.0
 " Color:      blue #008ade ~ # lch 54.17 054.17 262.5
-" Color:      prpl #ad76d0 ~ # lch 58.33 054.17 315.0
+" Color:      prpl #a864d4 ~ # lch 50.00 054.17 315.0
 " Color:      pink #e36176 ~ # lch 58.33 054.17 015.0
 " Color:      bred #f3000d ~ # lch 50.00 100.00 037.5
 " Color:      born #fa6c00 ~ # lch 62.50 100.00 060.0
