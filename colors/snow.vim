@@ -2,7 +2,7 @@
 " Author:       nightsense
 " Maintainer:   nightsense
 " License:      MIT
-" Last Updated: Tue 26 Jun 2018 03:51:36 AM EDT
+" Last Updated: Tue 26 Jun 2018 03:59:14 AM EDT
 
 if !(has('termguicolors') && &termguicolors) && !has('gui_running')
       \ && (!exists('&t_Co') || &t_Co < 256)
@@ -40,7 +40,7 @@ if &background ==# 'dark'
   hi Directory ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
   hi EndOfBuffer ctermfg=67 ctermbg=NONE guifg=#7a8fa1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Ignore ctermfg=67 ctermbg=NONE guifg=#7a8fa1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Italic ctermfg=235 ctermbg=NONE guifg=#162b3a guibg=NONE guisp=NONE cterm=NONE,italic gui=NONE,italic
+  hi Italic ctermfg=67 ctermbg=NONE guifg=#7a8fa1 guibg=NONE guisp=NONE cterm=NONE,italic gui=NONE,italic
   hi NonText ctermfg=67 ctermbg=NONE guifg=#7a8fa1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Normal ctermfg=67 ctermbg=235 guifg=#7a8fa1 guibg=#162b3a guisp=NONE cterm=NONE gui=NONE
   hi Terminal ctermfg=67 ctermbg=NONE guifg=#7a8fa1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -155,7 +155,7 @@ hi Conceal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE
 hi Directory ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi EndOfBuffer ctermfg=243 ctermbg=NONE guifg=#6c7984 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Ignore ctermfg=243 ctermbg=NONE guifg=#6c7984 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Italic ctermfg=255 ctermbg=NONE guifg=#e7f5ff guibg=NONE guisp=NONE cterm=NONE,italic gui=NONE,italic
+hi Italic ctermfg=243 ctermbg=NONE guifg=#6c7984 guibg=NONE guisp=NONE cterm=NONE,italic gui=NONE,italic
 hi NonText ctermfg=243 ctermbg=NONE guifg=#6c7984 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Normal ctermfg=243 ctermbg=255 guifg=#6c7984 guibg=#e7f5ff guisp=NONE cterm=NONE gui=NONE
 hi Terminal ctermfg=243 ctermbg=NONE guifg=#6c7984 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -269,7 +269,7 @@ finish
 " Directory          none   none   bold
 " EndOfBuffer        gry3   none
 " Ignore             gry3   none
-" Italic             gry0   none   italic
+" Italic             gry3   none   italic
 " NonText            gry3   none
 " Normal             gry3   gry0
 " Terminal           gry3   none
@@ -380,7 +380,7 @@ finish
 " Directory          none   none   bold
 " EndOfBuffer        gry3   none
 " Ignore             gry3   none
-" Italic             gry0   none   italic
+" Italic             gry3   none   italic
 " NonText            gry3   none
 " Normal             gry3   gry0
 " Terminal           gry3   none
