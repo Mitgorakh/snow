@@ -2,7 +2,7 @@
 " Author:       nightsense
 " Maintainer:   nightsense
 " License:      MIT
-" Last Updated: Tue 26 Jun 2018 04:24:48 AM EDT
+" Last Updated: Tue 26 Jun 2018 04:30:39 AM EDT
 
 if !(has('termguicolors') && &termguicolors) && !has('gui_running')
       \ && (!exists('&t_Co') || &t_Co < 256)
@@ -50,17 +50,17 @@ if &background ==# 'dark'
   hi CursorLineNr ctermfg=67 ctermbg=NONE guifg=#65798b guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi DiffChange ctermfg=67 ctermbg=NONE guifg=#65798b guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi LineNr ctermfg=67 ctermbg=NONE guifg=#65798b guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Cursor ctermfg=235 ctermbg=110 guifg=#162b3a guibg=#859aac guisp=NONE cterm=NONE gui=NONE
   hi PmenuSel ctermfg=235 ctermbg=110 guifg=#162b3a guibg=#859aac guisp=NONE cterm=NONE gui=NONE
-  hi TermCursor ctermfg=235 ctermbg=110 guifg=#162b3a guibg=#859aac guisp=NONE cterm=NONE gui=NONE
-  hi TermCursorNC ctermfg=235 ctermbg=110 guifg=#162b3a guibg=#859aac guisp=NONE cterm=NONE gui=NONE
   hi WildMenu ctermfg=235 ctermbg=110 guifg=#162b3a guibg=#859aac guisp=NONE cterm=NONE gui=NONE
+  hi Cursor ctermfg=235 ctermbg=67 guifg=#162b3a guibg=#65798b guisp=NONE cterm=NONE gui=NONE
   hi FoldColumn ctermfg=235 ctermbg=67 guifg=#162b3a guibg=#65798b guisp=NONE cterm=NONE gui=NONE
   hi IncSearch ctermfg=235 ctermbg=67 guifg=#162b3a guibg=#65798b guisp=NONE cterm=NONE gui=NONE
-  hi ToolbarButton ctermfg=235 ctermbg=67 guifg=#162b3a guibg=#65798b guisp=NONE cterm=NONE gui=NONE
   hi StatusLineNC ctermfg=235 ctermbg=67 guifg=#162b3a guibg=#65798b guisp=NONE cterm=NONE gui=NONE
   hi StatusLineTermNC ctermfg=235 ctermbg=67 guifg=#162b3a guibg=#65798b guisp=NONE cterm=NONE gui=NONE
   hi TabLine ctermfg=235 ctermbg=67 guifg=#162b3a guibg=#65798b guisp=NONE cterm=NONE gui=NONE
+  hi TermCursor ctermfg=235 ctermbg=67 guifg=#162b3a guibg=#65798b guisp=NONE cterm=NONE gui=NONE
+  hi TermCursorNC ctermfg=235 ctermbg=67 guifg=#162b3a guibg=#65798b guisp=NONE cterm=NONE gui=NONE
+  hi ToolbarButton ctermfg=235 ctermbg=67 guifg=#162b3a guibg=#65798b guisp=NONE cterm=NONE gui=NONE
   hi VertSplit ctermfg=235 ctermbg=67 guifg=#162b3a guibg=#65798b guisp=NONE cterm=NONE gui=NONE
   hi ColorColumn ctermfg=110 ctermbg=237 guifg=#859aac guibg=#293e4d guisp=NONE cterm=NONE gui=NONE
   hi CursorColumn ctermfg=110 ctermbg=237 guifg=#859aac guibg=#293e4d guisp=NONE cterm=NONE gui=NONE
@@ -165,17 +165,17 @@ hi Comment ctermfg=245 ctermbg=NONE guifg=#818e9a guibg=NONE guisp=NONE cterm=NO
 hi CursorLineNr ctermfg=245 ctermbg=NONE guifg=#818e9a guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi DiffChange ctermfg=245 ctermbg=NONE guifg=#818e9a guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi LineNr ctermfg=245 ctermbg=NONE guifg=#818e9a guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Cursor ctermfg=255 ctermbg=242 guifg=#e7f5ff guibg=#616e7a guisp=NONE cterm=NONE gui=NONE
 hi PmenuSel ctermfg=255 ctermbg=242 guifg=#e7f5ff guibg=#616e7a guisp=NONE cterm=NONE gui=NONE
-hi TermCursor ctermfg=255 ctermbg=242 guifg=#e7f5ff guibg=#616e7a guisp=NONE cterm=NONE gui=NONE
-hi TermCursorNC ctermfg=255 ctermbg=242 guifg=#e7f5ff guibg=#616e7a guisp=NONE cterm=NONE gui=NONE
 hi WildMenu ctermfg=255 ctermbg=242 guifg=#e7f5ff guibg=#616e7a guisp=NONE cterm=NONE gui=NONE
+hi Cursor ctermfg=255 ctermbg=245 guifg=#e7f5ff guibg=#818e9a guisp=NONE cterm=NONE gui=NONE
 hi FoldColumn ctermfg=255 ctermbg=245 guifg=#e7f5ff guibg=#818e9a guisp=NONE cterm=NONE gui=NONE
 hi IncSearch ctermfg=255 ctermbg=245 guifg=#e7f5ff guibg=#818e9a guisp=NONE cterm=NONE gui=NONE
-hi ToolbarButton ctermfg=255 ctermbg=245 guifg=#e7f5ff guibg=#818e9a guisp=NONE cterm=NONE gui=NONE
 hi StatusLineNC ctermfg=255 ctermbg=245 guifg=#e7f5ff guibg=#818e9a guisp=NONE cterm=NONE gui=NONE
 hi StatusLineTermNC ctermfg=255 ctermbg=245 guifg=#e7f5ff guibg=#818e9a guisp=NONE cterm=NONE gui=NONE
 hi TabLine ctermfg=255 ctermbg=245 guifg=#e7f5ff guibg=#818e9a guisp=NONE cterm=NONE gui=NONE
+hi TermCursor ctermfg=255 ctermbg=245 guifg=#e7f5ff guibg=#818e9a guisp=NONE cterm=NONE gui=NONE
+hi TermCursorNC ctermfg=255 ctermbg=245 guifg=#e7f5ff guibg=#818e9a guisp=NONE cterm=NONE gui=NONE
+hi ToolbarButton ctermfg=255 ctermbg=245 guifg=#e7f5ff guibg=#818e9a guisp=NONE cterm=NONE gui=NONE
 hi VertSplit ctermfg=255 ctermbg=245 guifg=#e7f5ff guibg=#818e9a guisp=NONE cterm=NONE gui=NONE
 hi ColorColumn ctermfg=242 ctermbg=253 guifg=#616e7a guibg=#cfddea guisp=NONE cterm=NONE gui=NONE
 hi CursorColumn ctermfg=242 ctermbg=253 guifg=#616e7a guibg=#cfddea guisp=NONE cterm=NONE gui=NONE
@@ -279,17 +279,17 @@ finish
 " CursorLineNr       gry2   none
 " DiffChange         gry2   none
 " LineNr             gry2   none
-" Cursor             gry0   gry3
 " PmenuSel           gry0   gry3
-" TermCursor         gry0   gry3
-" TermCursorNC       gry0   gry3
 " WildMenu           gry0   gry3
+" Cursor             gry0   gry2
 " FoldColumn         gry0   gry2
 " IncSearch          gry0   gry2
-" ToolbarButton      gry0   gry2
 " StatusLineNC       gry0   gry2
 " StatusLineTermNC   gry0   gry2
 " TabLine            gry0   gry2
+" TermCursor         gry0   gry2
+" TermCursorNC       gry0   gry2
+" ToolbarButton      gry0   gry2
 " VertSplit          gry0   gry2
 " ColorColumn        gry3   gry1
 " CursorColumn       gry3   gry1
@@ -390,17 +390,17 @@ finish
 " CursorLineNr       gry2   none
 " DiffChange         gry2   none
 " LineNr             gry2   none
-" Cursor             gry0   gry3
 " PmenuSel           gry0   gry3
-" TermCursor         gry0   gry3
-" TermCursorNC       gry0   gry3
 " WildMenu           gry0   gry3
+" Cursor             gry0   gry2
 " FoldColumn         gry0   gry2
 " IncSearch          gry0   gry2
-" ToolbarButton      gry0   gry2
 " StatusLineNC       gry0   gry2
 " StatusLineTermNC   gry0   gry2
 " TabLine            gry0   gry2
+" TermCursor         gry0   gry2
+" TermCursorNC       gry0   gry2
+" ToolbarButton      gry0   gry2
 " VertSplit          gry0   gry2
 " ColorColumn        gry3   gry1
 " CursorColumn       gry3   gry1
