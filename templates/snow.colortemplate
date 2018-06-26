@@ -11,7 +11,7 @@ Background: light
 Color:      gry0 #e7f5ff ~ # lch 95.83 008.33 255
 Color:      gry1 #cfddea ~ # lch 87.50 008.33 255
 Color:      gry2 #818e9a ~ # lch 58.33 008.33 255
-Color:      gry3 #6c7984 ~ # lch 50.00 008.33 255
+Color:      gry3 #616e7a ~ # lch 45.83 008.33 255
 Color:      gry4 #293e4d ~ # lch 25.00 012.50 255
 Color:      red_ #d0726a ~ # lch 58.33 041.67 030
 Color:      orng #bf7d4e ~ # lch 58.33 041.67 060
@@ -34,7 +34,7 @@ Background: dark
 Color:      gry0 #162b3a ~ # lch 16.67 012.50 255
 Color:      gry1 #293e4d ~ # lch 25.00 012.50 255
 Color:      gry2 #65798b ~ # lch 50.00 012.50 255
-Color:      gry3 #7a8fa1 ~ # lch 58.33 012.50 255
+Color:      gry3 #859aac ~ # lch 62.50 012.50 255
 Color:      red_ #b2706a ~ # lch 54.17 029.17 030
 Color:      orng #a77757 ~ # lch 54.17 029.17 060
 Color:      yllw #baa056 ~ # lch 66.67 041.67 090
