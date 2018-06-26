@@ -1,0 +1,117 @@
+# regular fg/bg
+Bold               none   none   bold
+Conceal            none   none
+Directory          none   none   bold
+EndOfBuffer        gry3   none
+Ignore             gry3   none
+Italic             gry0   none   italic
+NonText            gry3   none
+Normal             gry3   gry0
+Terminal           gry3   none
+Title              none   none   bold
+Underlined         none   none   underline
+
+# soft fg
+Comment            gry2   none
+CursorLineNr       gry2   none
+DiffChange         gry2   none
+LineNr             gry2   none
+
+# reverse regular
+Cursor             gry0   gry3
+PmenuSel           gry0   gry3
+TermCursor         gry0   gry3
+TermCursorNC       gry0   gry3
+WildMenu           gry0   gry3
+
+# reverse soft
+FoldColumn         gry0   gry2
+IncSearch          gry0   gry2
+ToolbarButton      gry0   gry2
+StatusLineNC       gry0   gry2
+StatusLineTermNC   gry0   gry2
+TabLine            gry0   gry2
+VertSplit          gry0   gry2
+
+# highlit bg
+ColorColumn        gry3   gry1
+CursorColumn       gry3   gry1
+CursorLine         gry3   gry1
+Folded             gry3   gry1
+Pmenu              gry3   gry1
+QuickFixLine       none   gry1
+SignColumn         gry3   gry1
+StatusLine         gry3   gry1
+StatusLineTerm     gry3   gry1
+TabLineSel         gry3   gry1
+Visual             gry3   gry1
+VisualNOS          gry3   gry1
+
+# solid
+PmenuSbar          gry1   gry1
+PmenuThumb         gry2   gry2
+TabLineFill        gry2   gry2
+ToolbarLine        gry2   gry2
+
+# red warnings/removals
+DiffDelete         red_   none
+DiffRemoved        red_   none
+Error              red_   none
+ErrorMsg           red_   none
+SpellBad           none   none   undercurl s=bred
+TooLong            red_   none
+WarningMsg         red_   none
+
+# orange preliminaries/changes
+Define             orng   none
+DiffChanged        orng   none
+DiffText           orng   none
+Include            orng   none
+Macro              orng   none
+PreCondit          orng   none
+PreProc            orng   none
+Question           orng   none
+SpellCap           none   none   undercurl s=born
+
+# green actions/additions
+Conditional        gren   none
+DiffAdd            gren   none
+DiffAdded          gren   none
+Exception          gren   none
+Keyword            gren   none
+Label              gren   none
+ModeMsg            gren   none
+MoreMsg            gren   none
+Operator           gren   none
+Repeat             gren   none
+Statement          gren   none
+
+# aqua types
+SpellLocal         none   none   undercurl s=baqu
+StorageClass       aqua   none
+Structure          aqua   none
+Type               aqua   none
+Typedef            aqua   none
+
+# blue constants
+Boolean            blue   none
+Character          blue   none
+Constant           blue   none
+Float              blue   none
+Number             blue   none
+String             blue   none
+
+# purple specials
+Debug              prpl   none
+Delimiter          prpl   none
+Special            prpl   none
+SpecialChar        prpl   none
+SpecialComment     prpl   none
+SpecialKey         prpl   none
+SpellRare          none   none   undercurl s=bprp
+Tag                prpl   none
+Todo               prpl   none
+
+# pink names
+Function           pink   none
+Identifier         pink   none
