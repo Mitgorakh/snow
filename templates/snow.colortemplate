@@ -8,20 +8,20 @@ Terminal Colors: 256
 
 # light
 Background: light
-Color:      gry0 #e7f5ff ~ # lch 95.83 008.33 255
-Color:      gry1 #cfddea ~ # lch 87.50 008.33 255
-Color:      gry2 #818e9a ~ # lch 58.33 008.33 255
-Color:      gry3 #616e7a ~ # lch 45.83 008.33 255
-Color:      gry4 #293e4d ~ # lch 25.00 012.50 255
-Color:      red_ #d0726a ~ # lch 58.33 041.67 030
+Color:      gry0 #e9f4ff ~ # lch 95.83 008.33 262.5
+Color:      gry1 #d1ddeb ~ # lch 87.50 008.33 262.5
+Color:      gry2 #838d9a ~ # lch 58.33 008.33 262.5
+Color:      gry3 #636e7a ~ # lch 45.83 008.33 262.5
+Color:      gry4 #323c48 ~ # lch 25.00 008.33 262.5
+Color:      red_ #d0726a ~ # lch 58.33 041.67 037.5
 Color:      orng #bf7d4e ~ # lch 58.33 041.67 060
-Color:      yllw #e8c10f ~ # lch 79.17 079.17 090
-Color:      gren #689957 ~ # lch 58.33 041.67 135
+Color:      yllw #f8ba18 ~ # lch 79.17 079.17 082.5
+Color:      gren #739750 ~ # lch 58.33 041.67 127.5
 Color:      aqua #009f8b ~ # lch 58.33 041.67 180
-Color:      blue #0995d2 ~ # lch 58.33 041.67 255
+Color:      blue #3593d4 ~ # lch 58.33 041.67 262.5
 Color:      prpl #a77cc0 ~ # lch 58.33 041.67 315
-Color:      pink #cf6e8e ~ # lch 58.33 041.67 360
-Color:      bred #fa0028 ~ # lch 50.00 100.00 030
+Color:      pink #d26e7b ~ # lch 58.33 041.67 015
+Color:      bred #f3000d ~ # lch 50.00 100.00 037.5
 Color:      born #fa6c00 ~ # lch 62.50 100.00 060
 Color:      baqu #00af8a ~ # lch 58.33 100.00 180
 Color:      bprp #a940f2 ~ # lch 50.00 100.00 315
@@ -31,19 +31,19 @@ MatchParen  gry4 yllw
 
 # dark
 Background: dark
-Color:      gry0 #1e2b34 ~ # lch 16.67 008.33 255
-Color:      gry1 #303d47 ~ # lch 25.00 008.33 255
-Color:      gry2 #6c7984 ~ # lch 50.00 008.33 255
-Color:      gry3 #8b99a5 ~ # lch 62.50 008.33 255
-Color:      red_ #b2706a ~ # lch 54.17 029.17 030
+Color:      gry0 #202a35 ~ # lch 16.67 008.33 262.5
+Color:      gry1 #323c48 ~ # lch 25.00 008.33 262.5
+Color:      gry2 #6d7885 ~ # lch 50.00 008.33 262.5
+Color:      gry3 #8d98a6 ~ # lch 62.50 008.33 262.5
+Color:      red_ #b07264 ~ # lch 54.17 029.17 037.5
 Color:      orng #a77757 ~ # lch 54.17 029.17 060
-Color:      yllw #baa056 ~ # lch 66.67 041.67 090
-Color:      gren #6a8a5d ~ # lch 54.17 029.17 135
+Color:      yllw #c29d57 ~ # lch 66.67 041.67 082.5
+Color:      gren #718959 ~ # lch 54.17 029.17 127.5
 Color:      aqua #3a8f81 ~ # lch 54.17 029.17 180
-Color:      blue #4988b2 ~ # lch 54.17 029.17 255
+Color:      blue #5386b3 ~ # lch 54.17 029.17 262.5
 Color:      prpl #9476a5 ~ # lch 54.17 029.17 315
-Color:      pink #b16e82 ~ # lch 54.17 029.17 360
-Color:      bred #c2554f ~ # lch 50.00 050.00 030
+Color:      pink #b36e76 ~ # lch 54.17 029.17 015
+Color:      bred #be5845 ~ # lch 50.00 050.00 037.5
 Color:      born #d3844a ~ # lch 62.50 050.00 060
 Color:      baqu #00a28b ~ # lch 58.33 050.00 180
 Color:      bprp #9462b4 ~ # lch 50.00 050.00 315
