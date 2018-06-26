@@ -39,7 +39,7 @@ CursorColumn       gry3   gry1
 CursorLine         gry3   gry1
 Folded             gry3   gry1
 Pmenu              gry3   gry1
-QuickFixLine       none   gry1
+QuickFixLine       gry3   gry1
 SignColumn         gry3   gry1
 StatusLine         gry3   gry1
 StatusLineTerm     gry3   gry1
