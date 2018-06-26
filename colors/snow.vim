@@ -2,7 +2,7 @@
 " Author:       nightsense
 " Maintainer:   nightsense
 " License:      MIT
-" Last Updated: Tue 26 Jun 2018 03:59:14 AM EDT
+" Last Updated: Tue 26 Jun 2018 04:01:43 AM EDT
 
 if !(has('termguicolors') && &termguicolors) && !has('gui_running')
       \ && (!exists('&t_Co') || &t_Co < 256)
@@ -67,7 +67,7 @@ if &background ==# 'dark'
   hi CursorLine ctermfg=67 ctermbg=237 guifg=#7a8fa1 guibg=#293e4d guisp=NONE cterm=NONE gui=NONE
   hi Folded ctermfg=67 ctermbg=237 guifg=#7a8fa1 guibg=#293e4d guisp=NONE cterm=NONE gui=NONE
   hi Pmenu ctermfg=67 ctermbg=237 guifg=#7a8fa1 guibg=#293e4d guisp=NONE cterm=NONE gui=NONE
-  hi QuickFixLine ctermfg=NONE ctermbg=237 guifg=NONE guibg=#293e4d guisp=NONE cterm=NONE gui=NONE
+  hi QuickFixLine ctermfg=67 ctermbg=237 guifg=#7a8fa1 guibg=#293e4d guisp=NONE cterm=NONE gui=NONE
   hi SignColumn ctermfg=67 ctermbg=237 guifg=#7a8fa1 guibg=#293e4d guisp=NONE cterm=NONE gui=NONE
   hi StatusLine ctermfg=67 ctermbg=237 guifg=#7a8fa1 guibg=#293e4d guisp=NONE cterm=NONE gui=NONE
   hi StatusLineTerm ctermfg=67 ctermbg=237 guifg=#7a8fa1 guibg=#293e4d guisp=NONE cterm=NONE gui=NONE
@@ -182,7 +182,7 @@ hi CursorColumn ctermfg=243 ctermbg=253 guifg=#6c7984 guibg=#cfddea guisp=NONE c
 hi CursorLine ctermfg=243 ctermbg=253 guifg=#6c7984 guibg=#cfddea guisp=NONE cterm=NONE gui=NONE
 hi Folded ctermfg=243 ctermbg=253 guifg=#6c7984 guibg=#cfddea guisp=NONE cterm=NONE gui=NONE
 hi Pmenu ctermfg=243 ctermbg=253 guifg=#6c7984 guibg=#cfddea guisp=NONE cterm=NONE gui=NONE
-hi QuickFixLine ctermfg=NONE ctermbg=253 guifg=NONE guibg=#cfddea guisp=NONE cterm=NONE gui=NONE
+hi QuickFixLine ctermfg=243 ctermbg=253 guifg=#6c7984 guibg=#cfddea guisp=NONE cterm=NONE gui=NONE
 hi SignColumn ctermfg=243 ctermbg=253 guifg=#6c7984 guibg=#cfddea guisp=NONE cterm=NONE gui=NONE
 hi StatusLine ctermfg=243 ctermbg=253 guifg=#6c7984 guibg=#cfddea guisp=NONE cterm=NONE gui=NONE
 hi StatusLineTerm ctermfg=243 ctermbg=253 guifg=#6c7984 guibg=#cfddea guisp=NONE cterm=NONE gui=NONE
@@ -296,7 +296,7 @@ finish
 " CursorLine         gry3   gry1
 " Folded             gry3   gry1
 " Pmenu              gry3   gry1
-" QuickFixLine       none   gry1
+" QuickFixLine       gry3   gry1
 " SignColumn         gry3   gry1
 " StatusLine         gry3   gry1
 " StatusLineTerm     gry3   gry1
@@ -407,7 +407,7 @@ finish
 " CursorLine         gry3   gry1
 " Folded             gry3   gry1
 " Pmenu              gry3   gry1
-" QuickFixLine       none   gry1
+" QuickFixLine       gry3   gry1
 " SignColumn         gry3   gry1
 " StatusLine         gry3   gry1
 " StatusLineTerm     gry3   gry1
