@@ -16,10 +16,10 @@ Color:      gry4 #323c48 ~ # lch 25.00 008.33 262.5
 Color:      red_ #fe4b36 ~ # lch 58.33 083.33 037.5
 Color:      orng #d57221 ~ # lch 58.33 066.67 060.0
 Color:      yllw #f8ba18 ~ # lch 79.17 079.17 082.5
-Color:      gren #689a3c ~ # lch 58.33 054.17 127.5
+Color:      gren #609c2c ~ # lch 58.33 062.50 127.5
 Color:      aqua #009880 ~ # lch 54.17 054.17 180.0
 Color:      blue #008ade ~ # lch 54.17 054.17 262.5
-Color:      prpl #ad76d0 ~ # lch 58.33 054.17 315.0
+Color:      prpl #a26bc4 ~ # lch 54.17 054.17 315.0
 Color:      pink #e36176 ~ # lch 58.33 054.17 015.0
 Color:      bred #f3000d ~ # lch 50.00 100.00 037.5
 Color:      born #fa6c00 ~ # lch 62.50 100.00 060.0
