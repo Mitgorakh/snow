@@ -2,7 +2,7 @@
 " Author:       nightsense
 " Maintainer:   nightsense
 " License:      MIT
-" Last Updated: Wed 27 Jun 2018 12:43:25 AM EDT
+" Last Updated: Wed 27 Jun 2018 12:53:29 AM EDT
 
 if !(has('termguicolors') && &termguicolors) && !has('gui_running')
       \ && (!exists('&t_Co') || &t_Co < 256)
@@ -22,8 +22,8 @@ if &background ==# 'dark'
   " blue: GUI=#6b91b7/rgb(107,145,183)  Term= 67 #5f87af/rgb( 95,135,175)  [delta=3.637487]
   " prpl: GUI=#9d83ab/rgb(157,131,171)  Term=139 #af87af/rgb(175,135,175)  [delta=4.255024]
   " pink: GUI=#c78188/rgb(199,129,136)  Term=174 #d78787/rgb(215,135,135)  [delta=4.378339]
+  " yllw: GUI=#c99e46/rgb(201,158, 70)  Term=179 #d7af5f/rgb(215,175, 95)  [delta=4.887804]
   " orng: GUI=#cc814b/rgb(204,129, 75)  Term=173 #d7875f/rgb(215,135, 95)  [delta=5.103070]
-  " yllw: GUI=#eebb51/rgb(238,187, 81)  Term=179 #d7af5f/rgb(215,175, 95)  [delta=5.412119]
   " gren: GUI=#7c9a5f/rgb(124,154, 95)  Term=107 #87af5f/rgb(135,175, 95)  [delta=6.978600]
   " red_: GUI=#e3735e/rgb(227,115, 94)  Term=203 #ff5f5f/rgb(255, 95, 95)  [delta=7.042679]
   " gry2: GUI=#6d7885/rgb(109,120,133)  Term=243 #767676/rgb(118,118,118)  [delta=7.243619]
@@ -123,8 +123,8 @@ if &background ==# 'dark'
   hi Todo ctermfg=139 ctermbg=NONE guifg=#9d83ab guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Function ctermfg=174 ctermbg=NONE guifg=#c78188 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Identifier ctermfg=174 ctermbg=NONE guifg=#c78188 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi MatchParen ctermfg=235 ctermbg=179 guifg=#202a35 guibg=#eebb51 guisp=NONE cterm=NONE gui=NONE
-  hi Search ctermfg=235 ctermbg=179 guifg=#202a35 guibg=#eebb51 guisp=NONE cterm=NONE gui=NONE
+  hi MatchParen ctermfg=235 ctermbg=179 guifg=#202a35 guibg=#c99e46 guisp=NONE cterm=NONE gui=NONE
+  hi Search ctermfg=235 ctermbg=179 guifg=#202a35 guibg=#c99e46 guisp=NONE cterm=NONE gui=NONE
   finish
 endif
 
@@ -351,7 +351,7 @@ finish
 " Color:      gry3 #8d98a6 ~ # lch 062.50 008.33 262.50
 " Color:      red_ #e3735e ~ # lch 061.11 052.37 037.50
 " Color:      orng #cc814b ~ # lch 060.88 047.28 060.00
-" Color:      yllw #eebb51 ~ # lch 078.62 059.42 082.50
+" Color:      yllw #c99e46 ~ # lch 067.56 051.06 082.50
 " Color:      gren #7c9a5f ~ # lch 060.21 035.05 127.50
 " Color:      aqua #4c9d8f ~ # lch 059.68 028.68 180.00
 " Color:      blue #6b91b7 ~ # lch 058.86 024.25 262.50
