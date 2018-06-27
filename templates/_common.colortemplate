@@ -18,11 +18,11 @@ DiffChange         gry2   none
 LineNr             gry2   none
 
 # reverse regular
+Cursor             gry0   gry3
 PmenuSel           gry0   gry3
 WildMenu           gry0   gry3
 
 # reverse soft
-Cursor             gry0   gry2
 FoldColumn         gry0   gry2
 IncSearch          gry0   gry2
 StatusLineNC       gry0   gry2
@@ -32,6 +32,8 @@ TermCursor         gry0   gry2
 TermCursorNC       gry0   gry2
 ToolbarButton      gry0   gry2
 VertSplit          gry0   gry2
+Visual             gry0   gry2
+VisualNOS          gry0   gry2
 
 # highlit bg
 ColorColumn        gry3   gry1
@@ -44,8 +46,6 @@ SignColumn         gry3   gry1
 StatusLine         gry3   gry1
 StatusLineTerm     gry3   gry1
 TabLineSel         gry3   gry1
-Visual             gry3   gry1
-VisualNOS          gry3   gry1
 
 # solid
 PmenuSbar          gry1   gry1
