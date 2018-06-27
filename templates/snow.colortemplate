@@ -8,36 +8,36 @@ Terminal Colors: 256
 
 # light
 Background: light
-Color:      gry0 #e9f4ff ~ # lch 095.83 008.33 262.50
-Color:      gry1 #d1ddeb ~ # lch 087.50 008.33 262.50
-Color:      gry2 #788390 ~ # lch 054.17 008.33 262.50
-Color:      gry3 #596370 ~ # lch 041.67 008.33 262.50
-Color:      red_ #f74935 ~ # lch 056.95 081.53 037.50
-Color:      orng #d76a00 ~ # lch 056.72 076.44 060.00
-Color:      yllw #ffbf00 ~ # lch 081.96 100.00 082.50
-Color:      gren #589622 ~ # lch 056.05 064.21 127.50
-Color:      aqua #009c83 ~ # lch 055.52 057.84 180.00
-Color:      blue #008cde ~ # lch 054.70 053.41 262.50
-Color:      prpl #a26bc4 ~ # lch 054.17 054.13 315.00
-Color:      pink #e55972 ~ # lch 057.17 058.33 015.00
+Color:      gry0 #ebf4ff ~
+Color:      gry1 #d3dceb ~
+Color:      gry2 #7a8290 ~
+Color:      gry3 #5b6370 ~
+Color:      red_ #f74332 ~
+Color:      orng #d56800 ~
+Color:      yllw #ffcd00 ~
+Color:      gren #489811 ~
+Color:      aqua #009e83 ~
+Color:      blue #008ae6 ~
+Color:      prpl #ab66ca ~
+Color:      pink #e85271 ~
 Include:    _common.colortemplate
-Search      gry3 yllw
 MatchParen  gry3 yllw
+Search      gry3 yllw
 
 # dark
 Background: dark
-Color:      gry0 #202a35 ~ # lch 016.67 008.33 262.50
-Color:      gry1 #323c48 ~ # lch 025.00 008.33 262.50
-Color:      gry2 #788390 ~ # lch 054.17 008.33 262.50
-Color:      gry3 #98a3b1 ~ # lch 066.67 008.33 262.50
-Color:      red_ #e3735e ~ # lch 061.11 052.37 037.50
-Color:      orng #cc814b ~ # lch 060.88 047.28 060.00
-Color:      yllw #c99e46 ~ # lch 067.56 051.06 082.50
-Color:      gren #7c9a5f ~ # lch 060.21 035.05 127.50
-Color:      aqua #4c9d8f ~ # lch 059.68 028.68 180.00
-Color:      blue #6b91b7 ~ # lch 058.86 024.25 262.50
-Color:      prpl #9d83ab ~ # lch 058.33 024.97 315.00
-Color:      pink #c78188 ~ # lch 061.33 029.17 015.00
+Color:      gry0 #222a35 ~
+Color:      gry1 #343c48 ~
+Color:      gry2 #7a8290 ~
+Color:      gry3 #9aa3b1 ~
+Color:      red_ #eb7e68 ~
+Color:      orng #d38d55 ~
+Color:      yllw #be9b44 ~
+Color:      gren #82a669 ~
+Color:      aqua #59a99a ~
+Color:      blue #7e9bc3 ~
+Color:      prpl #ab8db7 ~
+Color:      pink #d28b93 ~
 Include:    _common.colortemplate
 MatchParen  gry0 yllw
 Search      gry0 yllw
