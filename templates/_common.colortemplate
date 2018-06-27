@@ -58,7 +58,7 @@ DiffDelete         red_   none
 DiffRemoved        red_   none
 Error              red_   none
 ErrorMsg           red_   none
-SpellBad           none   none   undercurl s=bred
+SpellBad           none   none   undercurl s=red_
 TooLong            red_   none
 WarningMsg         red_   none
 
@@ -71,7 +71,7 @@ Macro              orng   none
 PreCondit          orng   none
 PreProc            orng   none
 Question           orng   none
-SpellCap           none   none   undercurl s=born
+SpellCap           none   none   undercurl s=orng
 
 # green actions/additions
 Conditional        gren   none
@@ -87,7 +87,7 @@ Repeat             gren   none
 Statement          gren   none
 
 # aqua types
-SpellLocal         none   none   undercurl s=baqu
+SpellLocal         none   none   undercurl s=aqua
 StorageClass       aqua   none
 Structure          aqua   none
 Type               aqua   none
@@ -108,7 +108,7 @@ Special            prpl   none
 SpecialChar        prpl   none
 SpecialComment     prpl   none
 SpecialKey         prpl   none
-SpellRare          none   none   undercurl s=bprp
+SpellRare          none   none   undercurl s=prpl
 Tag                prpl   none
 Todo               prpl   none
 

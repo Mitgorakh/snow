@@ -8,45 +8,36 @@ Terminal Colors: 256
 
 # light
 Background: light
-Color:      gry0 #e9f4ff ~ # lch 95.83 008.33 262.5
-Color:      gry1 #d1ddeb ~ # lch 87.50 008.33 262.5
-Color:      gry2 #838d9a ~ # lch 58.33 008.33 262.5
-Color:      gry3 #636e7a ~ # lch 45.83 008.33 262.5
-Color:      gry4 #323c48 ~ # lch 25.00 008.33 262.5
-Color:      red_ #fe4b36 ~ # lch 58.33 083.33 037.5
-Color:      orng #d57221 ~ # lch 58.33 066.67 060.0
-Color:      yllw #f8ba18 ~ # lch 79.17 079.17 082.5
-Color:      gren #5c9c23 ~ # lch 58.33 066.67 127.5
-Color:      aqua #009880 ~ # lch 54.17 054.17 180.0
-Color:      blue #008ade ~ # lch 54.17 054.17 262.5
-Color:      prpl #a864d4 ~ # lch 50.00 054.17 315.0
-Color:      pink #e36176 ~ # lch 58.33 054.17 015.0
-Color:      bred #f3000d ~ # lch 50.00 100.00 037.5
-Color:      born #fa6c00 ~ # lch 62.50 100.00 060.0
-Color:      baqu #00af8a ~ # lch 58.33 100.00 180.0
-Color:      bprp #a940f2 ~ # lch 50.00 100.00 315.0
+Color:      gry0 #e9f4ff ~ # lch 095.83 008.33 262.50
+Color:      gry1 #d1ddeb ~ # lch 087.50 008.33 262.50
+Color:      gry2 #838d9a ~ # lch 058.33 008.33 262.50
+Color:      gry3 #636e7a ~ # lch 045.83 008.33 262.50
+Color:      red_ #f74935 ~ # lch 056.95 081.53 037.50
+Color:      orng #d76a00 ~ # lch 056.72 076.44 060.00
+Color:      yllw #ffbf00 ~ # lch 081.96 100.00 082.50
+Color:      gren #589622 ~ # lch 056.05 064.21 127.50
+Color:      aqua #009c83 ~ # lch 055.52 057.84 180.00
+Color:      blue #008cde ~ # lch 054.70 053.41 262.50
+Color:      prpl #a26bc4 ~ # lch 054.17 054.13 315.00
+Color:      pink #e55972 ~ # lch 057.17 058.33 015.00
 Include:    _common.colortemplate
-Search      gry4 yllw
-MatchParen  gry4 yllw
+Search      gry3 yllw
+MatchParen  gry3 yllw
 
 # dark
 Background: dark
-Color:      gry0 #202a35 ~ # lch 16.67 008.33 262.5
-Color:      gry1 #323c48 ~ # lch 25.00 008.33 262.5
-Color:      gry2 #6d7885 ~ # lch 50.00 008.33 262.5
-Color:      gry3 #8d98a6 ~ # lch 62.50 008.33 262.5
-Color:      red_ #dc6a55 ~ # lch 58.33 054.17 037.5
-Color:      orng #c7895e ~ # lch 62.50 037.50 060.0
-Color:      yllw #c29d57 ~ # lch 66.67 041.67 082.5
-Color:      gren #7e9369 ~ # lch 58.33 025.00 127.5
-Color:      aqua #54988b ~ # lch 58.33 025.00 180.0
-Color:      blue #6890b7 ~ # lch 58.33 025.00 262.5
-Color:      prpl #9d83ab ~ # lch 58.33 025.00 315.0
-Color:      pink #cb848b ~ # lch 62.50 029.17 015.0
-Color:      bred #be5845 ~ # lch 50.00 050.00 037.5
-Color:      born #d3844a ~ # lch 62.50 050.00 060.0
-Color:      baqu #00a28b ~ # lch 58.33 050.00 180.0
-Color:      bprp #9462b4 ~ # lch 50.00 050.00 315.0
+Color:      gry0 #202a35 ~ # lch 016.67 008.33 262.50
+Color:      gry1 #323c48 ~ # lch 025.00 008.33 262.50
+Color:      gry2 #6d7885 ~ # lch 050.00 008.33 262.50
+Color:      gry3 #8d98a6 ~ # lch 062.50 008.33 262.50
+Color:      red_ #e3735e ~ # lch 061.11 052.37 037.50
+Color:      orng #cc814b ~ # lch 060.88 047.28 060.00
+Color:      yllw #eebb51 ~ # lch 078.62 059.42 082.50
+Color:      gren #7c9a5f ~ # lch 060.21 035.05 127.50
+Color:      aqua #4c9d8f ~ # lch 059.68 028.68 180.00
+Color:      blue #6b91b7 ~ # lch 058.86 024.25 262.50
+Color:      prpl #9d83ab ~ # lch 058.33 024.97 315.00
+Color:      pink #c78188 ~ # lch 061.33 029.17 015.00
 Include:    _common.colortemplate
 MatchParen  gry0 yllw
 Search      gry0 yllw
