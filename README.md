@@ -1,5 +1,5 @@
 <table><tbody><tr><td align="center"><h1>snow<br>
-<a href='https://github.com/lifepillar/vim-colortemplate'><img src='https://img.shields.io/badge/made%20with-Colortemplate-0095ea.svg' alt='a Vim theme made with Colortemplate' /></a>
+<a href='https://github.com/lifepillar/vim-colortemplate'><img src='https://img.shields.io/badge/made%20with-Colortemplate-00a0ff.svg' alt='a Vim theme made with Colortemplate' /></a>
 </h1>
 <img src="https://github.com/nightsense/snow/raw/master/images/header.jpg" />
 <h4>a cozy, blue-tinted winter vimscape</h4>
