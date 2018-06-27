@@ -9,9 +9,9 @@ Terminal Colors: 256
 # light
 Background: light
 Color:      gry0 #e9f4ff ~ # lch 095.83 008.33 262.50
-Color:      gry1 #d1ddeb ~ # lch 087.50 008.33 262.50
-Color:      gry2 #838d9a ~ # lch 058.33 008.33 262.50
-Color:      gry3 #636e7a ~ # lch 045.83 008.33 262.50
+Color:      gry1 #c5d1df ~ # lch 083.33 008.33 262.50
+Color:      gry2 #788390 ~ # lch 054.17 008.33 262.50
+Color:      gry3 #596370 ~ # lch 041.67 008.33 262.50
 Color:      red_ #f74935 ~ # lch 056.95 081.53 037.50
 Color:      orng #d76a00 ~ # lch 056.72 076.44 060.00
 Color:      yllw #ffbf00 ~ # lch 081.96 100.00 082.50
@@ -27,9 +27,9 @@ MatchParen  gry3 yllw
 # dark
 Background: dark
 Color:      gry0 #202a35 ~ # lch 016.67 008.33 262.50
-Color:      gry1 #323c48 ~ # lch 025.00 008.33 262.50
-Color:      gry2 #6d7885 ~ # lch 050.00 008.33 262.50
-Color:      gry3 #8d98a6 ~ # lch 062.50 008.33 262.50
+Color:      gry1 #3c4651 ~ # lch 029.17 008.33 262.50
+Color:      gry2 #788390 ~ # lch 054.17 008.33 262.50
+Color:      gry3 #98a3b1 ~ # lch 066.67 008.33 262.50
 Color:      red_ #e3735e ~ # lch 061.11 052.37 037.50
 Color:      orng #cc814b ~ # lch 060.88 047.28 060.00
 Color:      yllw #c99e46 ~ # lch 067.56 051.06 082.50
