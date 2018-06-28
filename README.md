@@ -33,8 +33,8 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/343c48.png" height="18" width="18">&nbsp;
 <img src="http://www.colorhexa.com/222a35.png" height="18" width="18">
 </h4>
-<h6>for the four basic parts of the visual environment<br>(normal/highlit background, muted/normal text)</h6>
-<h6>selected by eye from the LCh color space<br>from among intervals of 1/48</h6>
+<h5>for the four basic parts of the visual environment<br>(normal/highlit background, muted/normal text)</h5>
+<h5>selected by eye from the LCh color space<br>(from among intervals of 1/48)</h5>
 
 </tr>
 
@@ -65,7 +65,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 
 <h6><img src="http://www.colorhexa.com/ea5a44.png" height="12" width="12">&nbsp;&nbsp;red, the color of alarm, is for warnings and deletions&nbsp;&nbsp;<img src="http://www.colorhexa.com/c87361.png" height="12" width="12"><br>(like errors and diff removals)</h6>
 
-<h6><img src="http://www.colorhexa.com/d07018.png" height="12" width="12">&nbsp;&nbsp;red, the color of alarm, is for warnings and deletions&nbsp;&nbsp;orange, the color of fire, is for preliminaries ("warmups") and changes&nbsp;&nbsp;<img src="http://www.colorhexa.com/b87c4e.png" height="12" width="12"><br>(like preprocessor code and diff changes)</h6>
+<h6><img src="http://www.colorhexa.com/d07018.png" height="12" width="12">&nbsp;&nbsp;orange, the color of fire, is for preliminaries ("warmups") and changes&nbsp;&nbsp;<img src="http://www.colorhexa.com/b87c4e.png" height="12" width="12"><br>(like preprocessor code and diff changes)</h6>
 <h6>yellow, the color of highlighting, is for search results<br>(like manual search terms and automatic bracket pairing)</h6>
 <h6>green, the color of "proceed", is for actions<br>(like statements and diff additions)</h6>
 <h6>aqua, the color of water (a fundamental type of substance), is for types<br>(like data types and storage classes)</h6>
