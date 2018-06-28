@@ -33,8 +33,8 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/343c48.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/222a35.png" height="12" width="12">
 </h4>
-<h6>for the four basic parts of the visual environment<br>(normal/highlit background, muted/normal text)</h6>
-<h6>selected by eye from the LCh color space<br>(from among intervals of 1/48)</h6>
+<h6>for the four basic parts of the visual environment<br>(normal & highlit background, muted & normal text)</h6>
+<h6>selected by eye from 1/48 intervals of LCh color space</h6>
 
 </tr>
 
@@ -61,7 +61,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/9776a4.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/b77c82.png" height="12" width="12">
 </h4>
-<h6>for eight special kinds of text, selected through a combination<br>of linear formulas (see <a href='https://github.com/nightsense/snow/blob/master/templates/template-generator.py'>template-generator.py</a>) for LC and eye for h (again, using 1/48 intervals)</h6>
+<h6>for eight special kinds of text, selected with linear formulas (see <a href='https://github.com/nightsense/snow/blob/master/templates/template-generator.py'>template-generator.py</a>) (L & C) and eye (h, again using 1/48 intervals)</h6>
 
 <h6><img src="http://www.colorhexa.com/ea5a44.png" height="12" width="12">&nbsp;&nbsp;red, the color of alarm, is for warnings and deletions&nbsp;&nbsp;<img src="http://www.colorhexa.com/c87361.png" height="12" width="12"><br>(like errors and diff removals)</h6>
 
