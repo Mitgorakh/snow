@@ -18,8 +18,10 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 </td>
 </tr>
 
+<tr></tr>
+
 <tr>
-<td colspan='2'>base colors</td>
+<td align='center' colspan='2'>base colors</td>
 </tr>
 
 </tbody></table>
