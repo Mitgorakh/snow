@@ -12,17 +12,18 @@ Color:      gry0 #ebf4ff ~
 Color:      gry1 #d3dceb ~
 Color:      gry2 #7a8290 ~
 Color:      gry3 #5b6370 ~
-Color:      red_ #f74332 ~
-Color:      orng #d56800 ~
-Color:      yllw #ffcd00 ~
-Color:      gren #489811 ~
-Color:      aqua #009e83 ~
-Color:      blue #008ae6 ~
-Color:      prpl #ab66ca ~
-Color:      pink #e85271 ~
+Color:      gry4 #222a35 ~
+Color:      red_ #ea5a44 ~
+Color:      orng #d07018 ~
+Color:      yllw #fcbf00 ~
+Color:      gren #4d991b ~
+Color:      aqua #00a084 ~
+Color:      blue #008beb ~
+Color:      prpl #aa67c8 ~
+Color:      pink #e16177 ~
 Include:    _common.colortemplate
-MatchParen  gry3 yllw
-Search      gry3 yllw
+MatchParen  gry4 yllw
+Search      gry4 yllw
 
 # dark
 Background: dark
@@ -30,14 +31,14 @@ Color:      gry0 #222a35 ~
 Color:      gry1 #343c48 ~
 Color:      gry2 #7a8290 ~
 Color:      gry3 #9aa3b1 ~
-Color:      red_ #eb7e68 ~
-Color:      orng #d38d55 ~
-Color:      yllw #be9b44 ~
-Color:      gren #82a669 ~
-Color:      aqua #59a99a ~
-Color:      blue #7e9bc3 ~
-Color:      prpl #ab8db7 ~
-Color:      pink #d28b93 ~
+Color:      red_ #c87361 ~
+Color:      orng #b87c4e ~
+Color:      yllw #cfaa54 ~
+Color:      gren #6d9353 ~
+Color:      aqua #2b9685 ~
+Color:      blue #5f87b7 ~
+Color:      prpl #9776a4 ~
+Color:      pink #b77c82 ~
 Include:    _common.colortemplate
 MatchParen  gry0 yllw
 Search      gry0 yllw
