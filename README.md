@@ -99,7 +99,7 @@ Plug 'nightsense/snow'
 call plug#end()
 ```
 
-...then reloading vimrc (with `:so %`; or you could just restart vim) and running `PlugUpdate` (from the vim command line).
+...then reloading vimrc (with `:so %`; or you could just restart vim), followed by `:PlugUpdate`.
 
 ## activation
 
