@@ -23,26 +23,26 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <tr>
 <td align='center' colspan='2'>
 <h4>
-<img src="http://www.colorhexa.com/ebf4ff.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/d3dceb.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/7a8290.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/5b6370.png" height="12" width="12">
+<img src="http://www.colorhexa.com/ebf4ff.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/d3dceb.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/7a8290.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/5b6370.png" height="6" width="6">
 &nbsp;&nbsp;base colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/9aa3b1.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/7a8290.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/343c48.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/222a35.png" height="12" width="12">
+<img src="http://www.colorhexa.com/9aa3b1.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/7a8290.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/343c48.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/222a35.png" height="6" width="6">
 </h4>
 
 <h6>for the four basic parts of the visual environment,<br>selected by eye from 1/48 intervals of LCh color space<br>(C & h are static, at 1/12 and 35/48)</h6>
 
 <h6><img src="http://www.colorhexa.com/ebf4ff.png" height="12" width="12">&nbsp;&nbsp;background&nbsp;&nbsp;<img src="http://www.colorhexa.com/222a35.png" height="12" width="12"><br>(the space in which everything happens)</h6>
 
-<h6><img src="http://www.colorhexa.com/d3dceb.png" height="12" width="12">&nbsp;&nbsp;background highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/343c48.png" height="12" width="12"><br>(light contrast for visual structure)</h6>
+<h6><img src="http://www.colorhexa.com/d3dceb.png" height="12" width="12">&nbsp;&nbsp;background highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/343c48.png" height="12" width="12"><br>(like the status bar and cursor guides)</h6>
 
 <h6><img src="http://www.colorhexa.com/7a8290.png" height="12" width="12">&nbsp;&nbsp;soft text/highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/7a8290.png" height="12" width="12"><br>(like comments and selected text)</h6>
 
-<h6><img src="http://www.colorhexa.com/5b6370.png" height="12" width="12">&nbsp;&nbsp;regular text/highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/9aa3b1.png" height="12" width="12"><br>(like normal text and menu selections)</h6>
+<h6><img src="http://www.colorhexa.com/5b6370.png" height="12" width="12">&nbsp;&nbsp;regular text/highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/9aa3b1.png" height="12" width="12"><br>(like normal text and the cursor)</h6>
 
 </tr>
 
