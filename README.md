@@ -99,7 +99,7 @@ Plug 'nightsense/snow'
 call plug#end()
 ```
 
-...then restarting vim and running `PlugUpdate` (from the vim command line).
+...then reloading vimrc (with `:so %`; or you could just restart vim) and running `PlugUpdate` (from the vim command line).
 
 ## activation
 
@@ -121,7 +121,7 @@ set background=dark
 
 ### colors
 
-This theme should work in 256-color and true-color terminals. The following may be necessary in vimrc:
+This theme should work in 256-color and true-color terminals. You may need the following setting in your vimrc:
 
 ```
 set termguicolors
@@ -131,7 +131,7 @@ set termguicolors
 
 To set mode-specific cursor shapes in terminal vim, see the [Vim Tips Wiki](http://vim.wikia.com/wiki/Change_cursor_shape_in_different_modes).
 
-For instance, to set cursor shapes in vte-compatible terminals (like urxvt), you could use:
+For instance, to set cursor shapes in vte-compatible terminals (like urxvt), you could add to vimrc:
 
 ```
 let &t_SI = "\<Esc>[6 q"
