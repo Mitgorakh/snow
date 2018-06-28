@@ -123,7 +123,7 @@ If you'd like the background to switch automatically at sunrise/set (or any othe
 
 ### colors
 
-This theme should work in 256-color and true-color terminals. You may need the following setting in your vimrc:
+This theme should work in 256-color and true-color terminals. You may need the following in your vimrc:
 
 ```
 set termguicolors
