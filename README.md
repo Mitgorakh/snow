@@ -117,7 +117,7 @@ colorscheme snow
 set background=dark
 ```
 
-If you'd like the background to switch automatically at sunrise/set (or any other time), you may want to give [night-and-day](https://github.com/nightsense/night-and-day) a try.
+If you'd like the background to switch automatically at sunrise/set (or any other time), consider trying [night-and-day](https://github.com/nightsense/night-and-day).
 
 ## terminal vim
 
