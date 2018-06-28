@@ -23,19 +23,48 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <tr>
 <td align='center' colspan='2'>
 <h4>
-<img src="http://www.colorhexa.com/ebf4ff.png" height="24" width="24">
-<img src="http://www.colorhexa.com/d3dceb.png" height="24" width="24">
-<img src="http://www.colorhexa.com/7a8290.png" height="24" width="24">
-<img src="http://www.colorhexa.com/5b6370.png" height="24" width="24">
+<img src="http://www.colorhexa.com/ebf4ff.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/d3dceb.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/7a8290.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/5b6370.png" height="18" width="18">
 &nbsp;&nbsp;base colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/9aa3b1.png" height="24" width="24">
-<img src="http://www.colorhexa.com/7a8290.png" height="24" width="24">
-<img src="http://www.colorhexa.com/343c48.png" height="24" width="24">
-<img src="http://www.colorhexa.com/222a35.png" height="24" width="24">
+<img src="http://www.colorhexa.com/9aa3b1.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/7a8290.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/343c48.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/222a35.png" height="18" width="18">
 </h4>
 <h6>for the four basic parts of the visual environment<br>(normal/highlit background, muted/normal text)</h6>
-<h6>selected by eye from the LCh color space<br>(from among intervals of 1/48)</h6>
+<h6>selected by eye from the LCh color space<br>from among intervals of 1/48</h6>
 
+</tr>
+
+<tr></tr>
+
+<tr>
+<td align='center' colspan='2'>
+<h4>
+<img src="http://www.colorhexa.com/ea5a44.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/d07018.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/fcbf00.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/4d991b.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/00a084.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/008beb.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/aa67c8.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/e16177.png" height="18" width="18">
+&nbsp;&nbsp;accent colors&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/c87361.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/b87c4e.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/cfaa54.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/6d9353.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/2b9685.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/5f87b7.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/9776a4.png" height="18" width="18">&nbsp;
+<img src="http://www.colorhexa.com/b77c82.png" height="18" width="18">
+</h4>
+<h6>for eight special kinds of text<br>selected through a combination of linear formulas (see [template-generator.py](https://github.com/nightsense/snow/blob/master/templates/template-generator.py) for LC and eye for h (again, using 1/48 intervals)</h6>
+<h6>red, the color of alarm, is for warnings<br>(errors, misspellings, diff removals...)</h6>
+orange, the color of fire, is for preliminary "warmup" elements<br>
+(preprocessor code...)</h6>
 </tr>
 
 </tbody></table>
