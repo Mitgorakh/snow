@@ -22,7 +22,8 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 
 <tr>
 <td align='center' colspan='2'>
-<h5><img src="http://www.colorhexa.com/008beb.png" height="12" width="12">base colors</h5><h6>for the general visual environment</h6>
+<h5><img src="http://www.colorhexa.com/008beb.png" height="24" width="24"> base colors</h5>
+<h6>for the general visual environment<br>, selected by eye from the LCh color space from among intervals of ¹/₄₈</h6>
 
 </tr>
 
