@@ -5,7 +5,7 @@
 <h4>a cozy, blue-tinted winter vimscape</h4>
 </td></tr></tbody></table>
 
-## screenshots
+## palette
 
 <table><tbody>
 
@@ -61,10 +61,15 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/9776a4.png" height="18" width="18">&nbsp;
 <img src="http://www.colorhexa.com/b77c82.png" height="18" width="18">
 </h4>
-<h6>for eight special kinds of text<br>selected through a combination of linear formulas (see [template-generator.py](https://github.com/nightsense/snow/blob/master/templates/template-generator.py) for LC and eye for h (again, using 1/48 intervals)</h6>
-<h6>red, the color of alarm, is for warnings<br>(errors, misspellings, diff removals...)</h6>
-orange, the color of fire, is for preliminary "warmup" elements<br>
-(preprocessor code...)</h6>
+<h6>for eight special kinds of text<br>selected through a combination of linear formulas (see <a href='https://github.com/nightsense/snow/blob/master/templates/template-generator.py'>template-generator.py</a>) for LC and eye for h (again, using 1/48 intervals)</h6>
+<h6>red, the color of alarm, is for warnings<br>(errors, diff removals...)</h6>
+<h6>orange, the color of fire, is for preliminary "warmup" elements and changes<br>(preprocessor code, diff changes...)</h6>
+<h6>yellow, the color of highlighting, is for search results<br>(search terms, paired brackets)</h6>
+<h6>green, the color of "proceed", is for action elements<br>(statements, diff additions...)</h6>
+<h6>aqua, the color of , is for action elements<br>(statements, diff additions...)</h6>
+<h6>blue, the color of calm, is for constants<br>(integers, strings...)</h6>
+<h6>purple, the color of rare dye, is for special elements<br>(delimiters, special characters...)</h6>
+<h6>pink, the color of blossoms, is for names<br>(identifiers, functions)</h6>
 </tr>
 
 </tbody></table>
