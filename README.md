@@ -22,18 +22,18 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 
 <tr>
 <td align='center' colspan='2'>
-<h4>
+<h3>
 <img src="http://www.colorhexa.com/ebf4ff.png" height="24" width="24">
 <img src="http://www.colorhexa.com/d3dceb.png" height="24" width="24">
 <img src="http://www.colorhexa.com/7a8290.png" height="24" width="24">
 <img src="http://www.colorhexa.com/5b6370.png" height="24" width="24">
-&nbsp;base colors&nbsp;
+&nbsp;&nbsp;base colors&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/9aa3b1.png" height="24" width="24">
 <img src="http://www.colorhexa.com/7a8290.png" height="24" width="24">
 <img src="http://www.colorhexa.com/343c48.png" height="24" width="24">
 <img src="http://www.colorhexa.com/222a35.png" height="24" width="24">
-</h4>
-<h6>for the four basic parts of the visual environment<br>(normal/highlit background, muted/normal text)<br>selected by eye from the LCh color space<br>(from among intervals of 1/48)</h6>
+</h3>
+<h5>for the four basic parts of the visual environment<h6>(normal/highlit background, muted/normal text)</h6><br>selected by eye from the LCh color space<br>(from among intervals of 1/48)</h5>
 
 </tr>
 
