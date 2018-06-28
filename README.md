@@ -7,16 +7,20 @@
 
 ## screenshots
 
-<table><tbody><tr>
+<table><tbody>
 
+<tr>
 <td align="center"><h6><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="325" /><br><br>
 a winter's day<br>(of easy wind and downy flake...)</h6>
 </td>
 <td align="center"><h6><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="325" /><br><br>
 a winter's night<br>(the darkest evening of the year...)</h6>
 </td>
+</tr>
 
+<tr>
 <td colspan='2'>base colors</td>
+</tr>
 
 </tbody></table>
 
