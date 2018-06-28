@@ -21,7 +21,9 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <tr></tr>
 
 <tr>
-<td align='center' colspan='2'>base colors</td>
+<td align='center' colspan='2'>
+<img src="http://www.colorhexa.com/008beb.png" height="12" width="12"><h5>base colors</h5>
+for the general visual environment
 </tr>
 
 </tbody></table>
