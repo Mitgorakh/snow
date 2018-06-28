@@ -63,7 +63,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 </h4>
 <h6>for eight special kinds of text<br>selected through a combination of linear formulas (see <a href='https://github.com/nightsense/snow/blob/master/templates/template-generator.py'>template-generator.py</a>) for LC and eye for h (again, using 1/48 intervals)</h6>
 
-<h6><img src="http://www.colorhexa.com/ea5a44.png" height="18" width="18">&nbsp;&nbsp;red, the color of alarm, is for warnings and deletions<br>(like errors and diff removals)&nbsp;&nbsp;<img src="http://www.colorhexa.com/c87361.png" height="18" width="18"></h6>
+<h6><img src="http://www.colorhexa.com/ea5a44.png" height="18" width="18">&nbsp;&nbsp;red, the color of alarm, is for warnings and deletions&nbsp;&nbsp;<img src="http://www.colorhexa.com/c87361.png" height="18" width="18"><br>(like errors and diff removals)</h6>
 
 <h6>orange, the color of fire, is for preliminaries ("warmups") and changes<br>(like preprocessor code and diff changes)</h6>
 <h6>yellow, the color of highlighting, is for search results<br>(like manual search terms and automatic bracket pairing)</h6>
