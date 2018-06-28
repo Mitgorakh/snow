@@ -62,14 +62,16 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/b77c82.png" height="18" width="18">
 </h4>
 <h6>for eight special kinds of text<br>selected through a combination of linear formulas (see <a href='https://github.com/nightsense/snow/blob/master/templates/template-generator.py'>template-generator.py</a>) for LC and eye for h (again, using 1/48 intervals)</h6>
-<h6>red, the color of alarm, is for warnings<br>(errors, diff removals...)</h6>
-<h6>orange, the color of fire, is for preliminary "warmup" elements and changes<br>(preprocessor code, diff changes...)</h6>
-<h6>yellow, the color of highlighting, is for search results<br>(search terms, paired brackets)</h6>
-<h6>green, the color of "proceed", is for action elements<br>(statements, diff additions...)</h6>
-<h6>aqua, the color of , is for action elements<br>(statements, diff additions...)</h6>
-<h6>blue, the color of calm, is for constants<br>(integers, strings...)</h6>
-<h6>purple, the color of rare dye, is for special elements<br>(delimiters, special characters...)</h6>
-<h6>pink, the color of blossoms, is for names<br>(identifiers, functions)</h6>
+
+<img src="http://www.colorhexa.com/ea5a44.png" height="18" width="18">&nbsp;&nbsp;<h6>red, the color of alarm, is for warnings and deletions<br>(like errors and diff removals)</h6>&nbsp;&nbsp;<img src="http://www.colorhexa.com/c87361.png" height="18" width="18">
+
+<h6>orange, the color of fire, is for preliminaries ("warmups") and changes<br>(like preprocessor code and diff changes)</h6>
+<h6>yellow, the color of highlighting, is for search results<br>(like manual search terms and automatic bracket pairing)</h6>
+<h6>green, the color of "proceed", is for actions<br>(like statements and diff additions)</h6>
+<h6>aqua, the color of water (a fundamental type of substance), is for types<br>(like data types and storage classes)</h6>
+<h6>blue, the color of calm, is for constants<br>(like integers and strings)</h6>
+<h6>purple, the color of rare dye, is for special elements<br>(like delimiters and special characters)</h6>
+<h6>pink, the color of blossoms, is for names (which are "code blossoms", abstractions bursting to life)<br>(like variables and functions)</h6>
 </tr>
 
 </tbody></table>
