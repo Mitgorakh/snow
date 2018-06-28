@@ -43,23 +43,23 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <tr>
 <td align='center' colspan='2'>
 <h4>
-<img src="http://www.colorhexa.com/ea5a44.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/d07018.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/fcbf00.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/4d991b.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/00a084.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/008beb.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/aa67c8.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/e16177.png" height="12" width="12">
+<img src="http://www.colorhexa.com/ea5a44.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/d07018.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/fcbf00.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/4d991b.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/00a084.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/008beb.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/aa67c8.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/e16177.png" height="6" width="6">
 &nbsp;&nbsp;accent colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/c87361.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/b87c4e.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/cfaa54.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/6d9353.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/2b9685.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/5f87b7.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/9776a4.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/b77c82.png" height="12" width="12">
+<img src="http://www.colorhexa.com/c87361.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/b87c4e.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/cfaa54.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/6d9353.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/2b9685.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/5f87b7.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/9776a4.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/b77c82.png" height="6" width="6">
 </h4>
 <h6>for eight special kinds of text, selected using fine-tuned<br>linear formulas (L & C) and by eye (h, again using 1/48 intervals)<br>(for details see the <a href='https://github.com/nightsense/snow/blob/master/templates/template-generator.py'>template generator</a>)</h6>
 
