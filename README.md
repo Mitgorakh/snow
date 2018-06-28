@@ -34,7 +34,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/222a35.png" height="6" width="6">
 </h4>
 
-<h6>for the four basic "layers" of the visual environment,<br>selected by eye from LCh color space<br>(L selected from 1/24 intervals;<br>C & h static, at 1/12 and 35/48)</h6>
+<h6>for the four basic "layers" of the visual environment, selected<br>by eye from LCh color space (L at various 1/24 intervals, C and h static at 1/12 and 35/48)</h6>
 
 <h6><img src="http://www.colorhexa.com/ebf4ff.png" height="12" width="12">&nbsp;&nbsp;background&nbsp;&nbsp;<img src="http://www.colorhexa.com/222a35.png" height="12" width="12"><br>(the space in which everything happens)</h6>
 
