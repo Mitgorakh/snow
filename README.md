@@ -61,7 +61,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/9776a4.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/b77c82.png" height="12" width="12">
 </h4>
-<h6>for eight special kinds of text, selected using linear <a href='https://github.com/nightsense/snow/blob/master/templates/template-generator.py'>formulas</a> (L & C)<br>and by eye (h, again using 1/48 intervals)</h6>
+<h6>for eight special kinds of text, selected using<br>linear <a href='https://github.com/nightsense/snow/blob/master/templates/template-generator.py'>formulas</a> (L & C) and by eye (h, again using 1/48 intervals)</h6>
 
 <h6><img src="http://www.colorhexa.com/ea5a44.png" height="12" width="12">&nbsp;&nbsp;red, the color of alarm, is for warnings and deletions&nbsp;&nbsp;<img src="http://www.colorhexa.com/c87361.png" height="12" width="12"><br>(like errors and diff removals)</h6>
 
@@ -71,7 +71,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <h6><img src="http://www.colorhexa.com/00a084.png" height="12" width="12">&nbsp;&nbsp;aqua, the color of water (a fundamental type of substance), is for types&nbsp;&nbsp;<img src="http://www.colorhexa.com/2b9685.png" height="12" width="12"><br>(like data types and storage classes)</h6>
 <h6><img src="http://www.colorhexa.com/008beb.png" height="12" width="12">&nbsp;&nbsp;blue, the color of calm, is for constants&nbsp;&nbsp;<img src="http://www.colorhexa.com/5f87b7.png" height="12" width="12"><br>(like integers and strings)</h6>
 <h6><img src="http://www.colorhexa.com/aa67c8.png" height="12" width="12">&nbsp;&nbsp;purple, the color of rare dye, is for special elements&nbsp;&nbsp;<img src="http://www.colorhexa.com/9776a4.png" height="12" width="12"><br>(like delimiters and special characters)</h6>
-<h6><img src="http://www.colorhexa.com/e16177.png" height="12" width="12">&nbsp;&nbsp;pink, the color of blossoms, is for names ("code blossoms": abstractions bursting to life)&nbsp;&nbsp;<img src="http://www.colorhexa.com/b77c82.png" height="12" width="12"><br>(like variables and functions)</h6>
+<h6><img src="http://www.colorhexa.com/e16177.png" height="12" width="12">&nbsp;&nbsp;pink, the color of blossoms, is for names&nbsp;&nbsp;<img src="http://www.colorhexa.com/b77c82.png" height="12" width="12"><br>("code blossoms", like variables and functions, bursting to life)</h6>
 </tr>
 
 </tbody></table>
