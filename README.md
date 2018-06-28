@@ -61,7 +61,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/9776a4.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/b77c82.png" height="12" width="12">
 </h4>
-<h6>for eight special kinds of text, selected using<br>linear formulas (see <a href='https://github.com/nightsense/snow/blob/master/templates/template-generator.py'>template-generator.py</a>) (L & C) and <br>by eye (h, again using 1/48 intervals)</h6>
+<h6>for eight special kinds of text, selected using linear <a href='https://github.com/nightsense/snow/blob/master/templates/template-generator.py'>formulas</a> (L & C)<br>and by eye (h, again using 1/48 intervals)</h6>
 
 <h6><img src="http://www.colorhexa.com/ea5a44.png" height="12" width="12">&nbsp;&nbsp;red, the color of alarm, is for warnings and deletions&nbsp;&nbsp;<img src="http://www.colorhexa.com/c87361.png" height="12" width="12"><br>(like errors and diff removals)</h6>
 
