@@ -77,7 +77,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <h6><img src="http://www.colorhexa.com/00a084.png" height="12" width="12">&nbsp;&nbsp;aqua, the color of water (a fundamental type of substance), is for types&nbsp;&nbsp;<img src="http://www.colorhexa.com/2b9685.png" height="12" width="12"><br>(like data types and storage classes)</h6>
 <h6><img src="http://www.colorhexa.com/008beb.png" height="12" width="12">&nbsp;&nbsp;blue, the color of calm, is for constants&nbsp;&nbsp;<img src="http://www.colorhexa.com/5f87b7.png" height="12" width="12"><br>(like integers and strings)</h6>
 <h6><img src="http://www.colorhexa.com/aa67c8.png" height="12" width="12">&nbsp;&nbsp;purple, the color of rare dye, is for special elements&nbsp;&nbsp;<img src="http://www.colorhexa.com/9776a4.png" height="12" width="12"><br>(like delimiters and tags)</h6>
-<h6><img src="http://www.colorhexa.com/e16177.png" height="12" width="12">&nbsp;&nbsp;pink, the color of blossoms, is for names (which blossom abstractions into life)&nbsp;&nbsp;<img src="http://www.colorhexa.com/b77c82.png" height="12" width="12"><br>(like variable and function names)</h6>
+<h6><img src="http://www.colorhexa.com/e16177.png" height="12" width="12">&nbsp;&nbsp;pink, the color of blossoms, is for names (which burst abstractions into life)&nbsp;&nbsp;<img src="http://www.colorhexa.com/b77c82.png" height="12" width="12"><br>(like variable and function names)</h6>
 </tr>
 
 </tbody></table>
@@ -99,7 +99,7 @@ Plug 'nightsense/snow'
 call plug#end()
 ```
 
-...then reloading vimrc (with `:so %`; or you could just restart vim), followed by `:PlugUpdate`.
+...then reloading vimrc (by running `:so %` at the vim command line, or by restarting vim), followed by `:PlugUpdate`.
 
 ## activation
 
