@@ -103,7 +103,7 @@ call plug#end()
 
 ## activation
 
-For a snow day, add the following to your vimrc:
+For a snow day, add the following to vimrc:
 
 ```
 colorscheme snow
@@ -123,7 +123,7 @@ If you'd like the background to switch automatically at sunrise/set (or any othe
 
 ### colors
 
-This theme should work in 256-color and true-color terminals. You may need the following in vimrc:
+snow should work in 256-color and true-color terminals. You may need the following in vimrc:
 
 ```
 set termguicolors
