@@ -143,6 +143,16 @@ let &t_EI = "\<Esc>[2 q"
 
 ...which sets the cursor to a vertical line for insert mode, underline for replace mode, and block for normal mode.
 
+## status line themes
+
+To activate the snow lightline theme, add to vimrc:
+
+```
+let g:lightline = { 'colorscheme': 'snow' }
+```
+
+The airline theme should work out of the box.
+
 ---
 
 ###### repo license: [MIT](https://opensource.org/licenses/MIT)
