@@ -54,7 +54,7 @@ TabLineFill        gry3   gry3
 ToolbarLine        gry2   gry2
 
 # red warnings/removals
-DiffDelete         none   red_
+DiffDelete         gry0   red_
 DiffRemoved        red_   none
 Error              red_   none
 ErrorMsg           red_   none
@@ -65,7 +65,7 @@ WarningMsg         red_   none
 # orange preliminaries/changes
 Define             orng   none
 DiffChanged        orng   none
-DiffText           none   orng
+DiffText           gry0   orng
 Include            orng   none
 Macro              orng   none
 PreCondit          orng   none
@@ -75,7 +75,7 @@ SpellCap           none   none   undercurl s=orng
 
 # green actions/additions
 Conditional        gren   none
-DiffAdd            none   gren
+DiffAdd            gry0   gren
 DiffAdded          gren   none
 Exception          gren   none
 Keyword            gren   none
