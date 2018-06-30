@@ -36,9 +36,9 @@ let s:p.visual.right    = [[ s:gry0, s:blue ], [ s:gry0, s:blue ]]
 let s:p.replace.left    = [[ s:gry0, s:red_ ]]
 let s:p.replace.right   = [[ s:gry0, s:red_ ], [ s:gry0, s:red_ ]]
 
-let s:p.tabline.left    = copy(s:p.normal.middle)
-let s:p.tabline.tabsel  = [[ s:gry0, s:gry3 ]]
-let s:p.tabline.right   = copy(s:p.normal.middle)
+let s:p.tabline.left    = [[ s:gry0, s:gry3 ]]
+let s:p.tabline.tabsel  = copy(s:p.normal.middle)
+let s:p.tabline.right   = [[ s:gry0, s:gry3 ]]
 
 let s:p.normal.error    = [[ s:red_, s:gry0 ]]
 let s:p.normal.warning  = [[ s:orng, s:gry0 ]]

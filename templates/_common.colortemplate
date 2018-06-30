@@ -1,8 +1,10 @@
 # regular fg/bg
 Bold               none   none   bold
 Conceal            none   none
+DiffChange         none   none
 Directory          none   none   bold
 EndOfBuffer        gry3   none
+FoldColumn         gry3   none
 Ignore             gry3   none
 Italic             gry3   none   italic
 NonText            gry3   none
@@ -14,23 +16,21 @@ Underlined         none   none   underline
 # soft fg
 Comment            gry2   none
 CursorLineNr       gry2   none
-DiffChange         gry2   none
 LineNr             gry2   none
 
 # reverse regular
 Cursor             gry0   gry3
 PmenuSel           gry0   gry3
+TabLine            gry0   gry3
+ToolbarButton      gry0   gry3
 WildMenu           gry0   gry3
 
 # reverse soft
-FoldColumn         gry0   gry2
 IncSearch          gry0   gry2
 StatusLineNC       gry0   gry2
 StatusLineTermNC   gry0   gry2
-TabLine            gry0   gry2
 TermCursor         gry0   gry2
 TermCursorNC       gry0   gry2
-ToolbarButton      gry0   gry2
 VertSplit          gry0   gry2
 Visual             gry0   gry2
 VisualNOS          gry0   gry2
@@ -50,11 +50,11 @@ TabLineSel         gry3   gry1
 # solid
 PmenuSbar          gry1   gry1
 PmenuThumb         gry2   gry2
-TabLineFill        gry2   gry2
+TabLineFill        gry3   gry3
 ToolbarLine        gry2   gry2
 
 # red warnings/removals
-DiffDelete         red_   none
+DiffDelete         none   red_
 DiffRemoved        red_   none
 Error              red_   none
 ErrorMsg           red_   none
@@ -65,7 +65,7 @@ WarningMsg         red_   none
 # orange preliminaries/changes
 Define             orng   none
 DiffChanged        orng   none
-DiffText           orng   none
+DiffText           none   orng
 Include            orng   none
 Macro              orng   none
 PreCondit          orng   none
@@ -75,7 +75,7 @@ SpellCap           none   none   undercurl s=orng
 
 # green actions/additions
 Conditional        gren   none
-DiffAdd            gren   none
+DiffAdd            none   gren
 DiffAdded          gren   none
 Exception          gren   none
 Keyword            gren   none
