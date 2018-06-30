@@ -73,7 +73,7 @@ if &background ==# 'dark'
   hi PmenuThumb ctermfg=244 ctermbg=244 guifg=#7a8290 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
   hi TabLineFill ctermfg=247 ctermbg=247 guifg=#9aa3b1 guibg=#9aa3b1 guisp=NONE cterm=NONE gui=NONE
   hi ToolbarLine ctermfg=244 ctermbg=244 guifg=#7a8290 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
-  hi DiffDelete ctermfg=NONE ctermbg=167 guifg=NONE guibg=#c87361 guisp=NONE cterm=NONE gui=NONE
+  hi DiffDelete ctermfg=235 ctermbg=167 guifg=#222a35 guibg=#c87361 guisp=NONE cterm=NONE gui=NONE
   hi DiffRemoved ctermfg=167 ctermbg=NONE guifg=#c87361 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Error ctermfg=167 ctermbg=NONE guifg=#c87361 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi ErrorMsg ctermfg=167 ctermbg=NONE guifg=#c87361 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -82,7 +82,7 @@ if &background ==# 'dark'
   hi WarningMsg ctermfg=167 ctermbg=NONE guifg=#c87361 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Define ctermfg=137 ctermbg=NONE guifg=#b87c4e guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi DiffChanged ctermfg=137 ctermbg=NONE guifg=#b87c4e guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi DiffText ctermfg=NONE ctermbg=137 guifg=NONE guibg=#b87c4e guisp=NONE cterm=NONE gui=NONE
+  hi DiffText ctermfg=235 ctermbg=137 guifg=#222a35 guibg=#b87c4e guisp=NONE cterm=NONE gui=NONE
   hi Include ctermfg=137 ctermbg=NONE guifg=#b87c4e guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Macro ctermfg=137 ctermbg=NONE guifg=#b87c4e guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi PreCondit ctermfg=137 ctermbg=NONE guifg=#b87c4e guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -90,7 +90,7 @@ if &background ==# 'dark'
   hi Question ctermfg=137 ctermbg=NONE guifg=#b87c4e guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi SpellCap ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#b87c4e cterm=NONE,undercurl gui=NONE,undercurl
   hi Conditional ctermfg=65 ctermbg=NONE guifg=#6d9353 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi DiffAdd ctermfg=NONE ctermbg=65 guifg=NONE guibg=#6d9353 guisp=NONE cterm=NONE gui=NONE
+  hi DiffAdd ctermfg=235 ctermbg=65 guifg=#222a35 guibg=#6d9353 guisp=NONE cterm=NONE gui=NONE
   hi DiffAdded ctermfg=65 ctermbg=NONE guifg=#6d9353 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Exception ctermfg=65 ctermbg=NONE guifg=#6d9353 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Keyword ctermfg=65 ctermbg=NONE guifg=#6d9353 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -184,7 +184,7 @@ hi PmenuSbar ctermfg=253 ctermbg=253 guifg=#d3dceb guibg=#d3dceb guisp=NONE cter
 hi PmenuThumb ctermfg=244 ctermbg=244 guifg=#7a8290 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
 hi TabLineFill ctermfg=241 ctermbg=241 guifg=#5b6370 guibg=#5b6370 guisp=NONE cterm=NONE gui=NONE
 hi ToolbarLine ctermfg=244 ctermbg=244 guifg=#7a8290 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
-hi DiffDelete ctermfg=NONE ctermbg=203 guifg=NONE guibg=#ea5a44 guisp=NONE cterm=NONE gui=NONE
+hi DiffDelete ctermfg=255 ctermbg=203 guifg=#ebf4ff guibg=#ea5a44 guisp=NONE cterm=NONE gui=NONE
 hi DiffRemoved ctermfg=203 ctermbg=NONE guifg=#ea5a44 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Error ctermfg=203 ctermbg=NONE guifg=#ea5a44 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi ErrorMsg ctermfg=203 ctermbg=NONE guifg=#ea5a44 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -193,7 +193,7 @@ hi TooLong ctermfg=203 ctermbg=NONE guifg=#ea5a44 guibg=NONE guisp=NONE cterm=NO
 hi WarningMsg ctermfg=203 ctermbg=NONE guifg=#ea5a44 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Define ctermfg=166 ctermbg=NONE guifg=#d07018 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi DiffChanged ctermfg=166 ctermbg=NONE guifg=#d07018 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi DiffText ctermfg=NONE ctermbg=166 guifg=NONE guibg=#d07018 guisp=NONE cterm=NONE gui=NONE
+hi DiffText ctermfg=255 ctermbg=166 guifg=#ebf4ff guibg=#d07018 guisp=NONE cterm=NONE gui=NONE
 hi Include ctermfg=166 ctermbg=NONE guifg=#d07018 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Macro ctermfg=166 ctermbg=NONE guifg=#d07018 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi PreCondit ctermfg=166 ctermbg=NONE guifg=#d07018 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -201,7 +201,7 @@ hi PreProc ctermfg=166 ctermbg=NONE guifg=#d07018 guibg=NONE guisp=NONE cterm=NO
 hi Question ctermfg=166 ctermbg=NONE guifg=#d07018 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi SpellCap ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#d07018 cterm=NONE,undercurl gui=NONE,undercurl
 hi Conditional ctermfg=70 ctermbg=NONE guifg=#4d991b guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi DiffAdd ctermfg=NONE ctermbg=70 guifg=NONE guibg=#4d991b guisp=NONE cterm=NONE gui=NONE
+hi DiffAdd ctermfg=255 ctermbg=70 guifg=#ebf4ff guibg=#4d991b guisp=NONE cterm=NONE gui=NONE
 hi DiffAdded ctermfg=70 ctermbg=NONE guifg=#4d991b guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Exception ctermfg=70 ctermbg=NONE guifg=#4d991b guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Keyword ctermfg=70 ctermbg=NONE guifg=#4d991b guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -294,7 +294,7 @@ finish
 " PmenuThumb         gry2   gry2
 " TabLineFill        gry3   gry3
 " ToolbarLine        gry2   gry2
-" DiffDelete         none   red_
+" DiffDelete         gry0   red_
 " DiffRemoved        red_   none
 " Error              red_   none
 " ErrorMsg           red_   none
@@ -303,7 +303,7 @@ finish
 " WarningMsg         red_   none
 " Define             orng   none
 " DiffChanged        orng   none
-" DiffText           none   orng
+" DiffText           gry0   orng
 " Include            orng   none
 " Macro              orng   none
 " PreCondit          orng   none
@@ -311,7 +311,7 @@ finish
 " Question           orng   none
 " SpellCap           none   none   undercurl s=orng
 " Conditional        gren   none
-" DiffAdd            none   gren
+" DiffAdd            gry0   gren
 " DiffAdded          gren   none
 " Exception          gren   none
 " Keyword            gren   none
@@ -401,7 +401,7 @@ finish
 " PmenuThumb         gry2   gry2
 " TabLineFill        gry3   gry3
 " ToolbarLine        gry2   gry2
-" DiffDelete         none   red_
+" DiffDelete         gry0   red_
 " DiffRemoved        red_   none
 " Error              red_   none
 " ErrorMsg           red_   none
@@ -410,7 +410,7 @@ finish
 " WarningMsg         red_   none
 " Define             orng   none
 " DiffChanged        orng   none
-" DiffText           none   orng
+" DiffText           gry0   orng
 " Include            orng   none
 " Macro              orng   none
 " PreCondit          orng   none
@@ -418,7 +418,7 @@ finish
 " Question           orng   none
 " SpellCap           none   none   undercurl s=orng
 " Conditional        gren   none
-" DiffAdd            none   gren
+" DiffAdd            gry0   gren
 " DiffAdded          gren   none
 " Exception          gren   none
 " Keyword            gren   none
