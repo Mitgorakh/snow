@@ -20,20 +20,22 @@ LineNr             gry2   none
 
 # reverse regular
 Cursor             gry0   gry3
+IncSearch          gry0   gry3
 PmenuSel           gry0   gry3
+#StatusLine###################
+StatusLineNC       gry0   gry3
+#StatusLineTerm###############
+StatusLineTermNC   gry0   gry3
 TabLine            gry0   gry3
+#TabLineSel###################
 ToolbarButton      gry0   gry3
 WildMenu           gry0   gry3
 
 # reverse soft
-IncSearch          gry0   gry2
-StatusLineNC       gry0   gry2
-StatusLineTermNC   gry0   gry2
 TermCursor         gry0   gry2
 TermCursorNC       gry0   gry2
 VertSplit          gry0   gry2
 Visual             gry0   gry2
-VisualNOS          gry0   gry2
 
 # highlit bg
 ColorColumn        gry3   gry1
@@ -44,12 +46,18 @@ Pmenu              gry3   gry1
 QuickFixLine       gry3   gry1
 SignColumn         gry3   gry1
 StatusLine         gry3   gry1
+#StatusLineNC#################
 StatusLineTerm     gry3   gry1
+#StatusLineTermNC#############
+#TabLine######################
 TabLineSel         gry3   gry1
+VisualNOS          gry3   gry1
+#WildMenu#####################
 
 # solid
 PmenuSbar          gry1   gry1
 PmenuThumb         gry2   gry2
+#TabLineFill##################
 TabLineFill        gry3   gry3
 ToolbarLine        gry2   gry2
 

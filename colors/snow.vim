@@ -47,18 +47,17 @@ if &background ==# 'dark'
   hi CursorLineNr ctermfg=244 ctermbg=NONE guifg=#7a8290 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi LineNr ctermfg=244 ctermbg=NONE guifg=#7a8290 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Cursor ctermfg=235 ctermbg=247 guifg=#222a35 guibg=#9aa3b1 guisp=NONE cterm=NONE gui=NONE
+  hi IncSearch ctermfg=235 ctermbg=247 guifg=#222a35 guibg=#9aa3b1 guisp=NONE cterm=NONE gui=NONE
   hi PmenuSel ctermfg=235 ctermbg=247 guifg=#222a35 guibg=#9aa3b1 guisp=NONE cterm=NONE gui=NONE
+  hi StatusLineNC ctermfg=235 ctermbg=247 guifg=#222a35 guibg=#9aa3b1 guisp=NONE cterm=NONE gui=NONE
+  hi StatusLineTermNC ctermfg=235 ctermbg=247 guifg=#222a35 guibg=#9aa3b1 guisp=NONE cterm=NONE gui=NONE
   hi TabLine ctermfg=235 ctermbg=247 guifg=#222a35 guibg=#9aa3b1 guisp=NONE cterm=NONE gui=NONE
   hi ToolbarButton ctermfg=235 ctermbg=247 guifg=#222a35 guibg=#9aa3b1 guisp=NONE cterm=NONE gui=NONE
   hi WildMenu ctermfg=235 ctermbg=247 guifg=#222a35 guibg=#9aa3b1 guisp=NONE cterm=NONE gui=NONE
-  hi IncSearch ctermfg=235 ctermbg=244 guifg=#222a35 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
-  hi StatusLineNC ctermfg=235 ctermbg=244 guifg=#222a35 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
-  hi StatusLineTermNC ctermfg=235 ctermbg=244 guifg=#222a35 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
   hi TermCursor ctermfg=235 ctermbg=244 guifg=#222a35 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
   hi TermCursorNC ctermfg=235 ctermbg=244 guifg=#222a35 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
   hi VertSplit ctermfg=235 ctermbg=244 guifg=#222a35 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
   hi Visual ctermfg=235 ctermbg=244 guifg=#222a35 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
-  hi VisualNOS ctermfg=235 ctermbg=244 guifg=#222a35 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
   hi ColorColumn ctermfg=247 ctermbg=237 guifg=#9aa3b1 guibg=#343c48 guisp=NONE cterm=NONE gui=NONE
   hi CursorColumn ctermfg=247 ctermbg=237 guifg=#9aa3b1 guibg=#343c48 guisp=NONE cterm=NONE gui=NONE
   hi CursorLine ctermfg=247 ctermbg=237 guifg=#9aa3b1 guibg=#343c48 guisp=NONE cterm=NONE gui=NONE
@@ -69,6 +68,7 @@ if &background ==# 'dark'
   hi StatusLine ctermfg=247 ctermbg=237 guifg=#9aa3b1 guibg=#343c48 guisp=NONE cterm=NONE gui=NONE
   hi StatusLineTerm ctermfg=247 ctermbg=237 guifg=#9aa3b1 guibg=#343c48 guisp=NONE cterm=NONE gui=NONE
   hi TabLineSel ctermfg=247 ctermbg=237 guifg=#9aa3b1 guibg=#343c48 guisp=NONE cterm=NONE gui=NONE
+  hi VisualNOS ctermfg=247 ctermbg=237 guifg=#9aa3b1 guibg=#343c48 guisp=NONE cterm=NONE gui=NONE
   hi PmenuSbar ctermfg=237 ctermbg=237 guifg=#343c48 guibg=#343c48 guisp=NONE cterm=NONE gui=NONE
   hi PmenuThumb ctermfg=244 ctermbg=244 guifg=#7a8290 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
   hi TabLineFill ctermfg=247 ctermbg=247 guifg=#9aa3b1 guibg=#9aa3b1 guisp=NONE cterm=NONE gui=NONE
@@ -158,18 +158,17 @@ hi Comment ctermfg=244 ctermbg=NONE guifg=#7a8290 guibg=NONE guisp=NONE cterm=NO
 hi CursorLineNr ctermfg=244 ctermbg=NONE guifg=#7a8290 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi LineNr ctermfg=244 ctermbg=NONE guifg=#7a8290 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Cursor ctermfg=255 ctermbg=241 guifg=#ebf4ff guibg=#5b6370 guisp=NONE cterm=NONE gui=NONE
+hi IncSearch ctermfg=255 ctermbg=241 guifg=#ebf4ff guibg=#5b6370 guisp=NONE cterm=NONE gui=NONE
 hi PmenuSel ctermfg=255 ctermbg=241 guifg=#ebf4ff guibg=#5b6370 guisp=NONE cterm=NONE gui=NONE
+hi StatusLineNC ctermfg=255 ctermbg=241 guifg=#ebf4ff guibg=#5b6370 guisp=NONE cterm=NONE gui=NONE
+hi StatusLineTermNC ctermfg=255 ctermbg=241 guifg=#ebf4ff guibg=#5b6370 guisp=NONE cterm=NONE gui=NONE
 hi TabLine ctermfg=255 ctermbg=241 guifg=#ebf4ff guibg=#5b6370 guisp=NONE cterm=NONE gui=NONE
 hi ToolbarButton ctermfg=255 ctermbg=241 guifg=#ebf4ff guibg=#5b6370 guisp=NONE cterm=NONE gui=NONE
 hi WildMenu ctermfg=255 ctermbg=241 guifg=#ebf4ff guibg=#5b6370 guisp=NONE cterm=NONE gui=NONE
-hi IncSearch ctermfg=255 ctermbg=244 guifg=#ebf4ff guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
-hi StatusLineNC ctermfg=255 ctermbg=244 guifg=#ebf4ff guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
-hi StatusLineTermNC ctermfg=255 ctermbg=244 guifg=#ebf4ff guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
 hi TermCursor ctermfg=255 ctermbg=244 guifg=#ebf4ff guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
 hi TermCursorNC ctermfg=255 ctermbg=244 guifg=#ebf4ff guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
 hi VertSplit ctermfg=255 ctermbg=244 guifg=#ebf4ff guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
 hi Visual ctermfg=255 ctermbg=244 guifg=#ebf4ff guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
-hi VisualNOS ctermfg=255 ctermbg=244 guifg=#ebf4ff guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
 hi ColorColumn ctermfg=241 ctermbg=253 guifg=#5b6370 guibg=#d3dceb guisp=NONE cterm=NONE gui=NONE
 hi CursorColumn ctermfg=241 ctermbg=253 guifg=#5b6370 guibg=#d3dceb guisp=NONE cterm=NONE gui=NONE
 hi CursorLine ctermfg=241 ctermbg=253 guifg=#5b6370 guibg=#d3dceb guisp=NONE cterm=NONE gui=NONE
@@ -180,6 +179,7 @@ hi SignColumn ctermfg=241 ctermbg=253 guifg=#5b6370 guibg=#d3dceb guisp=NONE cte
 hi StatusLine ctermfg=241 ctermbg=253 guifg=#5b6370 guibg=#d3dceb guisp=NONE cterm=NONE gui=NONE
 hi StatusLineTerm ctermfg=241 ctermbg=253 guifg=#5b6370 guibg=#d3dceb guisp=NONE cterm=NONE gui=NONE
 hi TabLineSel ctermfg=241 ctermbg=253 guifg=#5b6370 guibg=#d3dceb guisp=NONE cterm=NONE gui=NONE
+hi VisualNOS ctermfg=241 ctermbg=253 guifg=#5b6370 guibg=#d3dceb guisp=NONE cterm=NONE gui=NONE
 hi PmenuSbar ctermfg=253 ctermbg=253 guifg=#d3dceb guibg=#d3dceb guisp=NONE cterm=NONE gui=NONE
 hi PmenuThumb ctermfg=244 ctermbg=244 guifg=#7a8290 guibg=#7a8290 guisp=NONE cterm=NONE gui=NONE
 hi TabLineFill ctermfg=241 ctermbg=241 guifg=#5b6370 guibg=#5b6370 guisp=NONE cterm=NONE gui=NONE
@@ -268,18 +268,17 @@ finish
 " CursorLineNr       gry2   none
 " LineNr             gry2   none
 " Cursor             gry0   gry3
+" IncSearch          gry0   gry3
 " PmenuSel           gry0   gry3
+" StatusLineNC       gry0   gry3
+" StatusLineTermNC   gry0   gry3
 " TabLine            gry0   gry3
 " ToolbarButton      gry0   gry3
 " WildMenu           gry0   gry3
-" IncSearch          gry0   gry2
-" StatusLineNC       gry0   gry2
-" StatusLineTermNC   gry0   gry2
 " TermCursor         gry0   gry2
 " TermCursorNC       gry0   gry2
 " VertSplit          gry0   gry2
 " Visual             gry0   gry2
-" VisualNOS          gry0   gry2
 " ColorColumn        gry3   gry1
 " CursorColumn       gry3   gry1
 " CursorLine         gry3   gry1
@@ -290,6 +289,7 @@ finish
 " StatusLine         gry3   gry1
 " StatusLineTerm     gry3   gry1
 " TabLineSel         gry3   gry1
+" VisualNOS          gry3   gry1
 " PmenuSbar          gry1   gry1
 " PmenuThumb         gry2   gry2
 " TabLineFill        gry3   gry3
@@ -375,18 +375,17 @@ finish
 " CursorLineNr       gry2   none
 " LineNr             gry2   none
 " Cursor             gry0   gry3
+" IncSearch          gry0   gry3
 " PmenuSel           gry0   gry3
+" StatusLineNC       gry0   gry3
+" StatusLineTermNC   gry0   gry3
 " TabLine            gry0   gry3
 " ToolbarButton      gry0   gry3
 " WildMenu           gry0   gry3
-" IncSearch          gry0   gry2
-" StatusLineNC       gry0   gry2
-" StatusLineTermNC   gry0   gry2
 " TermCursor         gry0   gry2
 " TermCursorNC       gry0   gry2
 " VertSplit          gry0   gry2
 " Visual             gry0   gry2
-" VisualNOS          gry0   gry2
 " ColorColumn        gry3   gry1
 " CursorColumn       gry3   gry1
 " CursorLine         gry3   gry1
@@ -397,6 +396,7 @@ finish
 " StatusLine         gry3   gry1
 " StatusLineTerm     gry3   gry1
 " TabLineSel         gry3   gry1
+" VisualNOS          gry3   gry1
 " PmenuSbar          gry1   gry1
 " PmenuThumb         gry2   gry2
 " TabLineFill        gry3   gry3
