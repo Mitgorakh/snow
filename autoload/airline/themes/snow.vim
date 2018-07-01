@@ -2,20 +2,20 @@ let g:airline#themes#snow#palette = {}
 
 if &background ==# 'light'
   let s:gry0 = [ '#e9f5ff', 255 ]
-  let s:gry1 = [ '#dde9f6', 253 ]
-  let s:gry2 = [ '#5b6f84', 241 ]
-  let s:red_ = [ '#e7313e', 203 ]
+  let s:gry1 = [ '#dde9f6', 254 ]
+  let s:gry2 = [ '#5b6f84', 67  ]
+  let s:red_ = [ '#e7313e', 167 ]
   let s:orng = [ '#cb6300', 166 ]
-  let s:gren = [ '#008e00', 70  ]
+  let s:gren = [ '#008e00', 28  ]
   let s:blue = [ '#007cd1', 32  ]
 else
   let s:gry0 = [ '#202a38', 235 ]
   let s:gry1 = [ '#2e3846', 237 ]
-  let s:gry2 = [ '#8693a7', 247 ]
-  let s:red_ = [ '#d07967', 167 ]
+  let s:gry2 = [ '#8693a7', 67  ]
+  let s:red_ = [ '#d07967', 174 ]
   let s:orng = [ '#bb8d6b', 137 ]
-  let s:gren = [ '#93a27c', 65  ]
-  let s:blue = [ '#87a5ce', 67  ]
+  let s:gren = [ '#93a27c', 108 ]
+  let s:blue = [ '#87a5ce', 110 ]
 endif
 
 let s:nrm1 = [ s:gry0[0] , s:gry2[0] , s:gry0[1] , s:gry2[1] ]
