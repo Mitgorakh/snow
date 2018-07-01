@@ -16,7 +16,7 @@ def formula3(x):
   return 0.0618**1*x + 4.55/12.0*100.0
 
 def formula4(x):
-  return 0.0618**2*x + 2.28/12.0*100.0
+  return 0.0618**2*x + 3.03/12.0*100.0
 
 def lum_lt(h):
   return formula1(h[0])

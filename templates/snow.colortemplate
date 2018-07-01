@@ -31,14 +31,14 @@ Color:      gry0 #222a35 ~
 Color:      gry1 #343c48 ~
 Color:      gry2 #757d8a ~
 Color:      gry3 #9aa3b1 ~
-Color:      red_ #ac8177 ~
-Color:      orng #a4846d ~
-Color:      yllw #c1ab81 ~
-Color:      gren #7d906e ~
-Color:      aqua #619489 ~
-Color:      blue #758baa ~
-Color:      prpl #9881a1 ~
-Color:      pink #ad8084 ~
+Color:      red_ #b57d70 ~
+Color:      orng #ab8264 ~
+Color:      yllw #c5ab72 ~
+Color:      gren #789265 ~
+Color:      aqua #509789 ~
+Color:      blue #6d8cb5 ~
+Color:      prpl #9d7ea8 ~
+Color:      pink #b67b81 ~
 Include:    _common.colortemplate
 MatchParen  gry0 yllw
 Search      gry0 yllw
