@@ -10,17 +10,17 @@ Terminal Colors: 256
 Background: light
 Color:      gry0 #ebf4ff ~
 Color:      gry1 #d3dceb ~
-Color:      gry2 #7a8290 ~
-Color:      gry3 #5b6370 ~
+Color:      gry2 #7f8895 ~
+Color:      gry3 #606875 ~
 Color:      gry4 #222a35 ~
-Color:      red_ #ea5a44 ~
-Color:      orng #d07018 ~
-Color:      yllw #fcbf00 ~
-Color:      gren #4d991b ~
-Color:      aqua #00a084 ~
-Color:      blue #008beb ~
-Color:      prpl #aa67c8 ~
-Color:      pink #e16177 ~
+Color:      red_ #da634d ~
+Color:      orng #c47430 ~
+Color:      yllw #f9c31f ~
+Color:      gren #5e9738 ~
+Color:      aqua #009e87 ~
+Color:      blue #448ed6 ~
+Color:      prpl #a876bd ~
+Color:      pink #c66e7a ~
 Include:    _common.colortemplate
 MatchParen  gry4 yllw
 Search      gry4 yllw
@@ -29,16 +29,16 @@ Search      gry4 yllw
 Background: dark
 Color:      gry0 #222a35 ~
 Color:      gry1 #343c48 ~
-Color:      gry2 #7a8290 ~
+Color:      gry2 #757d8a ~
 Color:      gry3 #9aa3b1 ~
-Color:      red_ #c87361 ~
-Color:      orng #b87c4e ~
-Color:      yllw #cfaa54 ~
-Color:      gren #6d9353 ~
-Color:      aqua #2b9685 ~
-Color:      blue #5f87b7 ~
-Color:      prpl #9776a4 ~
-Color:      pink #b77c82 ~
+Color:      red_ #ac8177 ~
+Color:      orng #a4846d ~
+Color:      yllw #c1ab81 ~
+Color:      gren #7d906e ~
+Color:      aqua #619489 ~
+Color:      blue #758baa ~
+Color:      prpl #9881a1 ~
+Color:      pink #ad8084 ~
 Include:    _common.colortemplate
 MatchParen  gry0 yllw
 Search      gry0 yllw

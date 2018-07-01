@@ -7,16 +7,16 @@ def tohex(l,c,h):
   return clamp.get_rgb_hex()
 
 def formula1(x):
-  return 2.0/12.0/12.0*x + 6.5/12.0*100.0
+  return 0.0618**3*x + 6.83/12.0*100.0
 
 def formula2(x):
-  return 2.0/12.0/12.0*x + 6.5/12.0*100.0
+  return 0.0618**2*x + 6.83/12.0*100.0
 
 def formula3(x):
-  return 7.0/12.0/12.0*x + 6.5/12.0*100.0
+  return 0.0618**1*x + 4.55/12.0*100.0
 
 def formula4(x):
-  return 7.0/12.0/12.0*x + 3.0/12.0*100.0
+  return 0.0618**2*x + 2.28/12.0*100.0
 
 def lum_lt(h):
   return formula1(h[0])
@@ -47,10 +47,10 @@ blue = [ 052.5, 112.5, 262.5 ]
 prpl = [ 000.0, 060.0, 315.0 ]
 pink = [ 300.0, 000.0, 015.0 ]
 
-hexgry0_lt = tohex(11.5/12.0*100.0,base_sat,262.5)
-hexgry1_lt = tohex(10.5/12.0*100.0,base_sat,262.5)
-hexgry2_lt = tohex(06.5/12.0*100.0,base_sat,262.5)
-hexgry3_lt = tohex(05.0/12.0*100.0,base_sat,262.5)
+hexgry0_lt = tohex(11.50/12.0*100.0,base_sat,262.5)
+hexgry1_lt = tohex(10.50/12.0*100.0,base_sat,262.5)
+hexgry2_lt = tohex(06.75/12.0*100.0,base_sat,262.5)
+hexgry3_lt = tohex(05.25/12.0*100.0,base_sat,262.5)
 hexred__lt = tohex(lum_lt(red_),cro_lt(red_),red_[2])
 hexorng_lt = tohex(lum_lt(orng),cro_lt(orng),orng[2])
 hexyllw_lt = tohex(yum_lt(yllw),yro_lt(yllw),yllw[2])
@@ -60,10 +60,10 @@ hexblue_lt = tohex(lum_lt(blue),cro_lt(blue),blue[2])
 hexprpl_lt = tohex(lum_lt(prpl),cro_lt(prpl),prpl[2])
 hexpink_lt = tohex(lum_lt(pink),cro_lt(pink),pink[2])
 
-hexgry0_dk = tohex(02.0/12.0*100.0,base_sat,262.5)
-hexgry1_dk = tohex(03.0/12.0*100.0,base_sat,262.5)
-hexgry2_dk = tohex(06.5/12.0*100.0,base_sat,262.5)
-hexgry3_dk = tohex(08.0/12.0*100.0,base_sat,262.5)
+hexgry0_dk = tohex(02.00/12.0*100.0,base_sat,262.5)
+hexgry1_dk = tohex(03.00/12.0*100.0,base_sat,262.5)
+hexgry2_dk = tohex(06.25/12.0*100.0,base_sat,262.5)
+hexgry3_dk = tohex(08.00/12.0*100.0,base_sat,262.5)
 hexred__dk = tohex(lum_dk(red_),cro_dk(red_),red_[2])
 hexorng_dk = tohex(lum_dk(orng),cro_dk(orng),orng[2])
 hexyllw_dk = tohex(yum_dk(yllw),yro_dk(yllw),yllw[2])
