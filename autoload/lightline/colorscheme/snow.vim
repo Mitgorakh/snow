@@ -1,27 +1,27 @@
 if lightline#colorscheme#background() ==# 'light'
-  let s:gry0 = '#ebf4ff'
-  let s:gry1 = '#d3dceb'
-  let s:gry3 = '#606875'
-  let s:red_ = '#da634d'
-  let s:orng = '#c47430'
-  let s:gren = '#5e9738'
-  let s:blue = '#448ed6'
+  let s:gry0 = '#e9f5ff'
+  let s:gry1 = '#dde9f6'
+  let s:gry2 = '#5b6f84'
+  let s:red_ = '#e7313e'
+  let s:orng = '#cb6300'
+  let s:gren = '#008e00'
+  let s:blue = '#007cd1'
 else
-  let s:gry0 = '#222a35'
-  let s:gry1 = '#343c48'
-  let s:gry3 = '#9aa3b1'
-  let s:red_ = '#b57d70'
-  let s:orng = '#ab8264'
-  let s:gren = '#789265'
-  let s:blue = '#6d8cb5'
+  let s:gry0 = '#202a38'
+  let s:gry1 = '#2e3846'
+  let s:gry2 = '#8693a7'
+  let s:red_ = '#d07967'
+  let s:orng = '#bb8d6b'
+  let s:gren = '#93a27c'
+  let s:blue = '#87a5ce'
 endif
 
 let s:p = { 'normal' : {} , 'inactive': {} , 'insert'  : {} ,
           \ 'replace': {} , 'visual'  : {} , 'tabline' : {} }
 
-let s:p.normal.left     = [[ s:gry0, s:gry3 ], [ s:gry3, s:gry1 ]]
-let s:p.normal.middle   = [[ s:gry3, s:gry1 ]]
-let s:p.normal.right    = [[ s:gry0, s:gry3 ], [ s:gry0, s:gry3 ]]
+let s:p.normal.left     = [[ s:gry0, s:gry2 ], [ s:gry2, s:gry1 ]]
+let s:p.normal.middle   = [[ s:gry2, s:gry1 ]]
+let s:p.normal.right    = [[ s:gry0, s:gry2 ], [ s:gry0, s:gry2 ]]
 
 let s:p.inactive.left   = copy(s:p.normal.middle)
 let s:p.inactive.middle = copy(s:p.normal.middle)
@@ -36,9 +36,9 @@ let s:p.visual.right    = [[ s:gry0, s:blue ], [ s:gry0, s:blue ]]
 let s:p.replace.left    = [[ s:gry0, s:red_ ]]
 let s:p.replace.right   = [[ s:gry0, s:red_ ], [ s:gry0, s:red_ ]]
 
-let s:p.tabline.left    = [[ s:gry0, s:gry3 ]]
+let s:p.tabline.left    = [[ s:gry0, s:gry2 ]]
 let s:p.tabline.tabsel  = copy(s:p.normal.middle)
-let s:p.tabline.right   = [[ s:gry0, s:gry3 ]]
+let s:p.tabline.right   = [[ s:gry0, s:gry2 ]]
 
 let s:p.normal.error    = [[ s:red_, s:gry0 ]]
 let s:p.normal.warning  = [[ s:orng, s:gry0 ]]
