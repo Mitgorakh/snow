@@ -34,7 +34,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/202a38.png" height="6" width="6">
 </h4>
 
-<h6>the four basic "layers" of the visual environment,<br>selected by eye from LCh color space<br>(L from 1/24 intervals, C & h static at 1/12 & 35/48)</h6>
+<h6>the four basic "layers" of the visual environment</h6>
 
 <h6><img src="http://www.colorhexa.com/e9f5ff.png" height="12" width="12">&nbsp;&nbsp;background&nbsp;&nbsp;<img src="http://www.colorhexa.com/202a38.png" height="12" width="12"><br>(the space in which everything happens)</h6>
 <h6><img src="http://www.colorhexa.com/dde9f6.png" height="12" width="12">&nbsp;&nbsp;background highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/2e3846.png" height="12" width="12"><br>(like the status bar and cursor guides)</h6>
@@ -66,7 +66,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/a497bd.png" height="6" width="6">&nbsp;
 <img src="http://www.colorhexa.com/c495a8.png" height="6" width="6">
 </h4>
-<h6>for eight special kinds of text, selected using fine-tuned<br>formulas (L & C) and by eye (h, from 1/48 intervals)<br>(for details see the <a href='https://github.com/nightsense/snow/blob/master/templates/template-generator.py'>template generator</a>)</h6>
+<h6>for eight special kinds of text</h6>
 <h6><img src="http://www.colorhexa.com/e7313e.png" height="12" width="12">&nbsp;&nbsp;red, the color of alarm, is for warnings and deletions&nbsp;&nbsp;<img src="http://www.colorhexa.com/d07967.png" height="12" width="12"><br>(like errors and diff removals)</h6>
 <h6><img src="http://www.colorhexa.com/cb6300.png" height="12" width="12">&nbsp;&nbsp;orange, the color of fire, is for preliminaries ("warmups") and changes&nbsp;&nbsp;<img src="http://www.colorhexa.com/bb8d6b.png" height="12" width="12"><br>(like preprocessor code and diff changes)</h6>
 <h6><img src="http://www.colorhexa.com/ffc500.png" height="12" width="12">&nbsp;&nbsp;yellow, the color of highlighting, is for search results&nbsp;&nbsp;<img src="http://www.colorhexa.com/d0b746.png" height="12" width="12"><br>(like search terms and paired brackets)</h6>
