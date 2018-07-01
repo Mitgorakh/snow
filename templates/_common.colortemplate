@@ -24,47 +24,35 @@ LineNr             gry2   none
 Cursor             gry0   gry3
 IncSearch          gry0   gry3
 PmenuSel           gry0   gry3
-#StatusLine         gry0   gry3
-#StatusLineTerm     gry0   gry3
-#TabLineSel         gry0   gry3
-
-VertSplit          gry0   gry2
-
-
 
 # reverse soft
-TermCursor         gry0   gry2
-TermCursorNC       gry0   gry2
-Visual             gry0   gry2
 StatusLineNC       gry0   gry2
 StatusLineTermNC   gry0   gry2
 TabLineSel         gry0   gry2
+TermCursor         gry0   gry2
+TermCursorNC       gry0   gry2
 ToolbarButton      gry0   gry2
+VertSplit          gry0   gry2
+Visual             gry0   gry2
 WildMenu           gry0   gry2
 
 # highlit bg
 ColorColumn        none   gry1
 CursorColumn       none   gry1
 CursorLine         none   gry1
+DiffChange         none   gry1
 Folded             gry3   gry1
 Pmenu              gry3   gry1
 QuickFixLine       gry3   gry1
 SignColumn         gry3   gry1
 StatusLine         gry3   gry1
-#StatusLineNC       gry3   gry1
 StatusLineTerm     gry3   gry1
-#StatusLineTermNC   gry3   gry1
-#TabLine            gry3   gry1
 TabLine            gry3   gry1
-
 VisualNOS          gry3   gry1
-#WildMenu           gry3   gry1
-DiffChange         none   gry1
 
 # solid
 PmenuSbar          gry1   gry1
 PmenuThumb         gry2   gry2
-#TabLineFill        gry1   gry1
 TabLineFill        gry1   gry1
 ToolbarLine        gry2   gry2
 
