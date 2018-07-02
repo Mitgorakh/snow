@@ -36,10 +36,10 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 
 <h6>the four basic "layers" of the visual environment</h6>
 
-<h6><img src="http://www.colorhexa.com/f7f9fd.png" height="12" width="12">&nbsp;&nbsp;background&nbsp;&nbsp;<img src="http://www.colorhexa.com/8a99ad.png" height="12" width="12"><br>(the space in which everything happens)</h6>
-<h6><img src="http://www.colorhexa.com/e3e8ef.png" height="12" width="12">&nbsp;&nbsp;background highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/6a798c.png" height="12" width="12"><br>(like the status bar and cursor guides)</h6>
-<h6><img src="http://www.colorhexa.com/818e9e.png" height="12" width="12">&nbsp;&nbsp;soft text/highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/2c3846.png" height="12" width="12"><br>(like comments and selected text)</h6>
-<h6><img src="http://www.colorhexa.com/5f6e81.png" height="12" width="12">&nbsp;&nbsp;regular text/highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/212a35.png" height="12" width="12"><br>(like normal text and the cursor)</h6>
+<h6><img src="http://www.colorhexa.com/f7f9fd.png" height="12" width="12">&nbsp;&nbsp;background&nbsp;&nbsp;<img src="http://www.colorhexa.com/212a35.png" height="12" width="12"><br>(the space in which everything happens)</h6>
+<h6><img src="http://www.colorhexa.com/e3e8ef.png" height="12" width="12">&nbsp;&nbsp;background highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/2c3846.png" height="12" width="12"><br>(like the status bar and cursor guides)</h6>
+<h6><img src="http://www.colorhexa.com/818e9e.png" height="12" width="12">&nbsp;&nbsp;soft text/highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/6a798c.png" height="12" width="12"><br>(like comments and selected text)</h6>
+<h6><img src="http://www.colorhexa.com/5f6e81.png" height="12" width="12">&nbsp;&nbsp;regular text/highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/8a99ad.png" height="12" width="12"><br>(like normal text and the cursor)</h6>
 
 </tr>
 
