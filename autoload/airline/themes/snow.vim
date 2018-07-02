@@ -12,10 +12,10 @@ else
   let s:gry0 = [ '#212a35', 235 ]
   let s:gry1 = [ '#2c3846', 237 ]
   let s:gry3 = [ '#8a99ad', 110 ]
-  let s:red_ = [ '#c38075', 174 ]
-  let s:orng = [ '#b28964', 137 ]
-  let s:gren = [ '#829969', 108 ]
-  let s:blue = [ '#7396bd', 67  ]
+  let s:red_ = [ '#b5766c', 131 ]
+  let s:orng = [ '#a57f5d', 137 ]
+  let s:gren = [ '#788d62', 65  ]
+  let s:blue = [ '#688bb1', 67  ]
 endif
 
 let s:nrm1 = [ s:gry0[0] , s:gry3[0] , s:gry0[1] , s:gry3[1] ]
