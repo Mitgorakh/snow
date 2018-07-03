@@ -43,7 +43,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <h6><img src="http://www.colorhexa.com/61758a.png" height="12" width="12">&nbsp;&nbsp;comment grey&nbsp;&nbsp;<img src="http://www.colorhexa.com/889db3.png" height="12" width="12"></h6>
 <h6><img src="http://www.colorhexa.com/465a6e.png" height="12" width="12">&nbsp;&nbsp;text grey&nbsp;&nbsp;<img src="http://www.colorhexa.com/abc0d6.png" height="12" width="12"></h6>
 <h6><img src="http://www.colorhexa.com/273441.png" height="12" width="12">&nbsp;&nbsp;cursor grey&nbsp;&nbsp;<img src="http://www.colorhexa.com/e0e8f3.png" height="12" width="12"></h6>
-
+</td>
 </tr>
 
 <tr></tr>
@@ -66,16 +66,17 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <h6><img src="http://www.colorhexa.com/efcd00.png" height="12" width="12">&nbsp;&nbsp;yellow, the color of "pay attention to this thing"&nbsp;&nbsp;<img src="http://www.colorhexa.com/e0c869.png" height="12" width="12"><br><br>yellow highlighting is for search results, matching parentheses, and diff changes</h6>
 <h6><img src="http://www.colorhexa.com/008600.png" height="12" width="12">&nbsp;&nbsp;green, the color of "proceed with action"&nbsp;&nbsp;<img src="http://www.colorhexa.com/68a87b.png" height="12" width="12"><br><br>plain green text is for statements, the "action words" of a program, such as conditionals (if, then...) and repeats (for, do...)<br>bold green text is for meta-actions, like macros and "include module" statements<br>green highlighting is for diff additions</h6>
 <h6><img src="http://www.colorhexa.com/0068ff.png" height="12" width="12">&nbsp;&nbsp;blue, the color of the sea: a thing of both enduring constancy and mysterious depths holding special things&nbsp;&nbsp;<img src="http://www.colorhexa.com/7b9bd4.png" height="12" width="12"><br><br>plain blue text is for constants, like booleans, integers, and strings<br>bold blue text is for special things, like delimiters and debug statements<br>blue highlighting is also for misspelt strings: misspelt ones, that is</h6>
+</td>
 </tr>
 
 <tr></tr>
 
 <tr>
-
+<td align='center' colspan='2'>
 <h6>snow exceeds the W3C AA <a href='https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html'>readability standard</a> of 4.5:1 text contrast ratio, with<br>
 exceptions made for transient highlighting (which nonetheless exceed the ISO 3:1 standard)<br>
 <a href='https://www.w3.org/'><img src='https://www.w3.org/Icons/WWW/w3c_home_nb-v.svg' height='20'></h6>
-
+</td>
 </tr>
 
 </tbody></table>
