@@ -23,23 +23,26 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <tr>
 <td align='center' colspan='2'>
 <h4>
-<img src="http://www.colorhexa.com/f7f9fd.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/e3e8ef.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/818e9e.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/5f6e81.png" height="6" width="6">
+<img src="http://www.colorhexa.com/f4faff.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/e0e8f3.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/61758a.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/465a6e.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/273441.png" height="6" width="6">
 &nbsp;&nbsp;base colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/212a35.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/2c3846.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/6a798c.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/8a99ad.png" height="6" width="6">
+<img src="http://www.colorhexa.com/273441.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/324252.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/889db3.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/abc0d6.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/e0e8f3.png" height="6" width="6">
 </h4>
 
-<h6>the four basic "layers" of the visual environment</h6>
+<h6>for the five "layers" of the visual interface</h6>
 
-<h6><img src="http://www.colorhexa.com/f7f9fd.png" height="12" width="12">&nbsp;&nbsp;background&nbsp;&nbsp;<img src="http://www.colorhexa.com/212a35.png" height="12" width="12"><br>(the space in which everything happens)</h6>
-<h6><img src="http://www.colorhexa.com/e3e8ef.png" height="12" width="12">&nbsp;&nbsp;background highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/2c3846.png" height="12" width="12"><br>(like the status bar and cursor guides)</h6>
-<h6><img src="http://www.colorhexa.com/818e9e.png" height="12" width="12">&nbsp;&nbsp;soft text/highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/6a798c.png" height="12" width="12"><br>(like comments and selected text)</h6>
-<h6><img src="http://www.colorhexa.com/5f6e81.png" height="12" width="12">&nbsp;&nbsp;regular text/highlights&nbsp;&nbsp;<img src="http://www.colorhexa.com/8a99ad.png" height="12" width="12"><br>(like normal text and the cursor)</h6>
+<h6><img src="http://www.colorhexa.com/f4faff.png" height="12" width="12">&nbsp;&nbsp;background grey&nbsp;&nbsp;<img src="http://www.colorhexa.com/273441.png" height="12" width="12"></h6>
+<h6><img src="http://www.colorhexa.com/e0e8f3.png" height="12" width="12">&nbsp;&nbsp;highlight grey&nbsp;&nbsp;<img src="http://www.colorhexa.com/324252.png" height="12" width="12"></h6>
+<h6><img src="http://www.colorhexa.com/61758a.png" height="12" width="12">&nbsp;&nbsp;comment grey&nbsp;&nbsp;<img src="http://www.colorhexa.com/889db3.png" height="12" width="12"></h6>
+<h6><img src="http://www.colorhexa.com/465a6e.png" height="12" width="12">&nbsp;&nbsp;text grey&nbsp;&nbsp;<img src="http://www.colorhexa.com/abc0d6.png" height="12" width="12"></h6>
+<h6><img src="http://www.colorhexa.com/273441.png" height="12" width="12">&nbsp;&nbsp;cursor grey&nbsp;&nbsp;<img src="http://www.colorhexa.com/e0e8f3.png" height="12" width="12"></h6>
 
 </tr>
 
@@ -48,33 +51,21 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <tr>
 <td align='center' colspan='2'>
 <h4>
-<img src="http://www.colorhexa.com/e3564a.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/ce7d2a.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/edbe00.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/649b2d.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/00a07b.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/328ed5.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/8677c9.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/db6e8f.png" height="6" width="6">
+<img src="http://www.colorhexa.com/e70021.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/efcd00.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/008600.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/0068ff.png" height="6" width="6">
 &nbsp;&nbsp;accent colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/b5766c.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/a57f5d.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/dfc064.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/788d62.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/60917f.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/688bb1.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/8b81ae.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/a77b86.png" height="6" width="6">
+<img src="http://www.colorhexa.com/d1877f.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/e0c869.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/68a87b.png" height="6" width="6">&nbsp;
+<img src="http://www.colorhexa.com/7b9bd4.png" height="6" width="6">
 </h4>
-<h6>for eight special kinds of text</h6>
-<h6><img src="http://www.colorhexa.com/e3564a.png" height="12" width="12">&nbsp;&nbsp;red, the color of alarm, is for warnings and deletions&nbsp;&nbsp;<img src="http://www.colorhexa.com/b5766c.png" height="12" width="12"><br>(like errors and diff removals)</h6>
-<h6><img src="http://www.colorhexa.com/ce7d2a.png" height="12" width="12">&nbsp;&nbsp;orange, the color of fire, is for preliminaries ("warmups") and changes&nbsp;&nbsp;<img src="http://www.colorhexa.com/a57f5d.png" height="12" width="12"><br>(like preprocessor code and diff changes)</h6>
-<h6><img src="http://www.colorhexa.com/edbe00.png" height="12" width="12">&nbsp;&nbsp;yellow, the color of highlighting, is for search results&nbsp;&nbsp;<img src="http://www.colorhexa.com/dfc064.png" height="12" width="12"><br>(like search terms and paired brackets)</h6>
-<h6><img src="http://www.colorhexa.com/649b2d.png" height="12" width="12">&nbsp;&nbsp;green, the color of "proceed", is for actions&nbsp;&nbsp;<img src="http://www.colorhexa.com/788d62.png" height="12" width="12"><br>(like statements and diff additions)</h6>
-<h6><img src="http://www.colorhexa.com/00a07b.png" height="12" width="12">&nbsp;&nbsp;aqua, the color of water (a fundamental type of substance), is for types&nbsp;&nbsp;<img src="http://www.colorhexa.com/60917f.png" height="12" width="12"><br>(like data types and storage classes)</h6>
-<h6><img src="http://www.colorhexa.com/328ed5.png" height="12" width="12">&nbsp;&nbsp;blue, the color of calm, is for constants&nbsp;&nbsp;<img src="http://www.colorhexa.com/688bb1.png" height="12" width="12"><br>(like integers and strings)</h6>
-<h6><img src="http://www.colorhexa.com/8677c9.png" height="12" width="12">&nbsp;&nbsp;purple, the color of rare dye, is for special elements&nbsp;&nbsp;<img src="http://www.colorhexa.com/8b81ae.png" height="12" width="12"><br>(like delimiters and tags)</h6>
-<h6><img src="http://www.colorhexa.com/db6e8f.png" height="12" width="12">&nbsp;&nbsp;pink, the color of blossoms, is for names (which burst abstractions into life)&nbsp;&nbsp;<img src="http://www.colorhexa.com/a77b86.png" height="12" width="12"><br>(like variable and function names)</h6>
+<h6>for special kinds of text</h6>
+<h6><img src="http://www.colorhexa.com/e70021.png" height="12" width="12">&nbsp;&nbsp;red, the color of vitality (life-giving blood) and alarm&nbsp;&nbsp;<img src="http://www.colorhexa.com/d1877f.png" height="12" width="12"><br>plain red text is for names, which bring abstractions (like variables and functions) to life<br>bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)<br>red highlighting is for warnings and diff deletions</h6>
+<h6><img src="http://www.colorhexa.com/efcd00.png" height="12" width="12">&nbsp;&nbsp;yellow, the color of "pay attention to this thing"&nbsp;&nbsp;<img src="http://www.colorhexa.com/e0c869.png" height="12" width="12"><br>yellow highlighting is for search results, matching parentheses, and diff changes</h6>
+<h6><img src="http://www.colorhexa.com/008600.png" height="12" width="12">&nbsp;&nbsp;green, the color of "proceed with action"&nbsp;&nbsp;<img src="http://www.colorhexa.com/68a87b.png" height="12" width="12"><br>plain green text is for statements, the "action words" of a program, such as conditionals (if, then, else...) and repeats (for, do, while...)<br>bold green text is for meta-actions, like macros and "include module" statements<br>green highlighting is for diff additions</h6>
+<h6><img src="http://www.colorhexa.com/0068ff.png" height="12" width="12">&nbsp;&nbsp;blue, the color of the sea: a thing of both enduring constancy and mysterious depths filled with strange, special things&nbsp;&nbsp;<img src="http://www.colorhexa.com/7b9bd4.png" height="12" width="12"><br>blue text is for constants, like booleans, integers, and strings<br>bold blue text is for special things, like delimiters and debug statements<br>blue highlighting is also for strings: misspelt ones, that is</h6>
 </tr>
 
 </tbody></table>

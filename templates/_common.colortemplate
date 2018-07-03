@@ -1,17 +1,18 @@
 # regular fg/bg
 Bold               none   none   bold
 Conceal            none   none
+DiffChange         none   none
 Directory          none   none   bold
-EndOfBuffer        gry3   none
-FoldColumn         gry3   none
-Ignore             gry3   none
-Italic             gry3   none   italic
-ModeMsg            gry3   none
-MoreMsg            gry3   none
-NonText            gry3   none
+EndOfBuffer        none   none
+FoldColumn         none   none
+Ignore             none   none
+Italic             none   none   italic
+ModeMsg            none   none
+MoreMsg            none   none
+NonText            none   none
 Normal             gry3   gry0
-Question           gry3   none
-Terminal           gry3   none
+Question           none   none
+Terminal           none   none
 Title              none   none   bold
 Underlined         none   none   underline
 
@@ -20,65 +21,61 @@ Comment            gry2   none
 CursorLineNr       gry2   none
 LineNr             gry2   none
 
-# reverse regular
-Cursor             gry0   gry3
-IncSearch          gry0   gry3
-PmenuSel           gry0   gry3
-StatusLineNC       gry0   gry3
-StatusLineTermNC   gry0   gry3
-TabLineSel         gry0   gry3
-TermCursor         gry0   gry3
-ToolbarButton      gry0   gry3
-WildMenu           gry0   gry3
+# reverse hard
+Cursor             gry4   gry0   reverse
+IncSearch          gry4   gry0   reverse
+TermCursor         gry4   gry0   reverse
 
 # reverse soft
-VertSplit          gry0   gry2
-Visual             gry0   gry2
+VertSplit          gry2   gry0   reverse
+Folded             gry2   gry0   reverse
+PmenuSel           gry2   gry0   reverse
+SignColumn         gry2   gry0   reverse
+StatusLineNC       gry2   gry0   reverse
+StatusLineTermNC   gry2   gry0   reverse
+TabLine            gry2   gry0   reverse
+TermCursorNC       gry2   gry0   reverse
+Visual             gry2   gry0   reverse
+WildMenu           gry2   gry0   reverse
 
-# highlit bg
+# highlit background
 ColorColumn        none   gry1
 CursorColumn       none   gry1
 CursorLine         none   gry1
-DiffChange         none   gry1
-Folded             gry3   gry1
 Pmenu              gry3   gry1
-QuickFixLine       gry3   gry1
-SignColumn         gry3   gry1
+QuickFixLine       none   gry1
 StatusLine         gry3   gry1
 StatusLineTerm     gry3   gry1
-TabLine            gry3   gry1
-TermCursorNC       gry3   gry1
-VisualNOS          gry3   gry1
+TabLineSel         gry3   gry1
+ToolbarButton      gry3   gry1   bold
+VisualNOS          none   gry1
 
 # solid
-PmenuSbar          gry1   gry1
-PmenuThumb         gry2   gry2
-TabLineFill        gry1   gry1
-ToolbarLine        gry2   gry2
+PmenuSbar          gry2   gry2
+PmenuThumb         gry3   gry3
+TabLineFill        gry2   gry2
+ToolbarLine        gry1   gry1
 
-# red warnings/removals
-DiffDelete         red_   none
-DiffRemoved        red_   none
-Error              red_   none
-ErrorMsg           red_   none
-SpellBad           none   none   undercurl s=red_
-TooLong            red_   none
-WarningMsg         red_   none
+# red names
+Function           red_   none
+Identifier         red_   none
 
-# orange preliminaries/changes
-Define             orng   none
-DiffChanged        orng   none
-DiffText           orng   none
-Include            orng   none
-Macro              orng   none
-PreCondit          orng   none
-PreProc            orng   none
-SpellCap           none   none   undercurl s=orng
+# bold red types
+StorageClass       red_   none   bold
+Structure          red_   none   bold
+Type               red_   none   bold
+Typedef            red_   none   bold
 
-# green actions/additions
+# reverse red warnings/deletions
+DiffDelete         red_   gry0   reverse
+DiffRemoved        red_   gry0   reverse
+Error              red_   gry0   reverse
+ErrorMsg           red_   gry0   reverse
+TooLong            red_   gry0   reverse
+WarningMsg         red_   gry0   reverse
+
+# green actions
 Conditional        gren   none
-DiffAdd            gren   none
-DiffAdded          gren   none
 Exception          gren   none
 Keyword            gren   none
 Label              gren   none
@@ -86,12 +83,16 @@ Operator           gren   none
 Repeat             gren   none
 Statement          gren   none
 
-# aqua types
-SpellLocal         none   none   undercurl s=aqua
-StorageClass       aqua   none
-Structure          aqua   none
-Type               aqua   none
-Typedef            aqua   none
+# bold green meta-actions
+Define             gren   none   bold
+Include            gren   none   bold
+Macro              gren   none   bold
+PreCondit          gren   none   bold
+PreProc            gren   none   bold
+
+# reverse green additions
+DiffAdd            gren   gry0   reverse
+DiffAdded          gren   gry0   reverse
 
 # blue constants
 Boolean            blue   none
@@ -101,17 +102,29 @@ Float              blue   none
 Number             blue   none
 String             blue   none
 
-# purple specials
-Debug              prpl   none
-Delimiter          prpl   none
-Special            prpl   none
-SpecialChar        prpl   none
-SpecialComment     prpl   none
-SpecialKey         prpl   none
-SpellRare          none   none   undercurl s=prpl
-Tag                prpl   none
-Todo               prpl   none
+# bold blue special elements
+Debug              blue   none   bold
+Delimiter          blue   none   bold
+Special            blue   none   bold
+SpecialChar        blue   none   bold
+SpecialComment     blue   none   bold
+SpecialKey         blue   none   bold
+Tag                blue   none   bold
+Todo               blue   none   bold
 
-# pink names
-Function           pink   none
-Identifier         pink   none
+# reverse blue spellcheck
+SpellBad           blue   gry0   reverse
+SpellLocal         blue   gry0   reverse
+SpellCap           blue   gry0   reverse
+SpellRare          blue   gry0   reverse
+
+
+# testing
+gry0testtesttest gry0 gry0
+gry1testtesttest gry0 gry1
+gry2testtesttest gry0 gry2
+gry3testtesttest gry0 gry3
+red_testtesttest gry0 red_
+yllwtesttesttest gry0 yllw
+grentesttesttest gry0 gren
+bluetesttesttest gry0 blue
