@@ -36,7 +36,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/e0e8f3.png" height="6" width="6">
 </h4>
 
-<h6>for the five "layers" of the visual interface</h6>
+<h6>soft, blue-tinted greys comprise a five-layered visual interface</h6>
 
 <h6><img src="http://www.colorhexa.com/f4faff.png" height="12" width="12">&nbsp;&nbsp;background grey&nbsp;&nbsp;<img src="http://www.colorhexa.com/273441.png" height="12" width="12"></h6>
 <h6><img src="http://www.colorhexa.com/e0e8f3.png" height="12" width="12">&nbsp;&nbsp;highlight grey&nbsp;&nbsp;<img src="http://www.colorhexa.com/324252.png" height="12" width="12"></h6>
