@@ -75,8 +75,8 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <td align='center' colspan='2'>
 <h6>snow exceeds the W3C AA <a href='https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html'>readability standard</a> of 4.5:1 text contrast ratio, with<br>
 exceptions made for transient highlighting (which nonetheless exceed the ISO 3:1 standard)
-<br><a href='https://www.w3.org/'><img src='https://www.w3.org/Icons/WWW/w3c_home_nb-v.svg' height='24'></a>
 </h6>
+<a href='https://www.w3.org/'><img src='https://www.w3.org/Icons/WWW/w3c_home_nb-v.svg' height='36'></a>
 </td>
 </tr>
 
