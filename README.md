@@ -68,6 +68,16 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <h6><img src="http://www.colorhexa.com/0068ff.png" height="12" width="12">&nbsp;&nbsp;blue, the color of the sea: a thing of both enduring constancy and mysterious depths holding special things&nbsp;&nbsp;<img src="http://www.colorhexa.com/7b9bd4.png" height="12" width="12"><br><br>plain blue text is for constants, like booleans, integers, and strings<br>bold blue text is for special things, like delimiters and debug statements<br>blue highlighting is also for misspelt strings: misspelt ones, that is</h6>
 </tr>
 
+<tr></tr>
+
+<tr>
+
+<h6>snow exceeds the W3C AA readability standard of 4.5:1 text contrast ratio, with<br>
+exceptions made for transient highlighting (which nonetheless exceed the ISO 3:1 standard)<br>
+<a href='https://www.w3.org/'><img src='https://www.w3.org/Icons/WWW/w3c_home_nb-v.svg' height='20'></h6>
+
+</tr>
+
 </tbody></table>
 
 ## installation
