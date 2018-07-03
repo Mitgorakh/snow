@@ -16,9 +16,9 @@ Title              none   none   bold
 Underlined         none   none   underline
 
 # soft fg
-Comment            gry2   none
-CursorLineNr       gry2   none
-LineNr             gry2   none
+Comment            gry2   gry0
+CursorLineNr       gry2   gry0
+LineNr             gry2   gry0
 
 # reverse regular
 Cursor             gry0   gry3
@@ -32,8 +32,8 @@ ToolbarButton      gry0   gry3
 WildMenu           gry0   gry3
 
 # reverse soft
-VertSplit          gry0   gry2
-Visual             gry0   gry2
+VertSplit          gry0   gry3
+Visual             gry0   gry3
 
 # highlit bg
 ColorColumn        none   gry1
@@ -49,31 +49,33 @@ StatusLineTerm     gry3   gry1
 TabLine            gry3   gry1
 TermCursorNC       gry3   gry1
 VisualNOS          gry3   gry1
+Define             gry3   gry1
+Include            gry3   gry1
+Macro              gry3   gry1
+PreCondit          gry3   gry1
+PreProc            gry3   gry1
 
 # solid
 PmenuSbar          gry1   gry1
-PmenuThumb         gry2   gry2
+PmenuThumb         gry3   gry3
 TabLineFill        gry1   gry1
-ToolbarLine        gry2   gry2
+ToolbarLine        gry3   gry3
 
-# red warnings/removals
-DiffDelete         red_   none
-DiffRemoved        red_   none
-Error              red_   none
-ErrorMsg           red_   none
-SpellBad           none   none   undercurl s=red_
-TooLong            red_   none
-WarningMsg         red_   none
+# red names
+Function           red_   none
+Identifier         red_   none
+
+# reverse red warnings/removals
+DiffDelete         gry0   red_
+DiffRemoved        gry0   red_
+Error              gry0   red_
+ErrorMsg           gry0   red_
+SpellBad           gry0   red_   undercurl s=red_
+TooLong            gry0   red_
+WarningMsg         gry0   red_
 
 # orange preliminaries/changes
-Define             orng   none
-DiffChanged        orng   none
-DiffText           orng   none
-Include            orng   none
-Macro              orng   none
-PreCondit          orng   none
-PreProc            orng   none
-SpellCap           none   none   undercurl s=orng
+SpellCap           none   none   undercurl s=red_
 
 # green actions/additions
 Conditional        gren   none
@@ -86,12 +88,12 @@ Operator           gren   none
 Repeat             gren   none
 Statement          gren   none
 
-# aqua types
-SpellLocal         none   none   undercurl s=aqua
-StorageClass       aqua   none
-Structure          aqua   none
-Type               aqua   none
-Typedef            aqua   none
+# green types
+SpellLocal         none   none   undercurl s=gren
+StorageClass       gren   none
+Structure          gren   none
+Type               gren   none
+Typedef            gren   none
 
 # blue constants
 Boolean            blue   none
@@ -108,10 +110,14 @@ Special            prpl   none
 SpecialChar        prpl   none
 SpecialComment     prpl   none
 SpecialKey         prpl   none
-SpellRare          none   none   undercurl s=prpl
+SpellRare          none   none   undercurl s=blue
 Tag                prpl   none
 Todo               prpl   none
 
-# pink names
-Function           pink   none
-Identifier         pink   none
+# testing
+gry2 gry0 gry2
+gry3 gry0 gry3
+red_ gry0 red_
+yllw gry0 yllw
+gren gry0 gren
+blue gry0 blue
