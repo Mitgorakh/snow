@@ -18,8 +18,6 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 </td>
 </tr>
 
-<tr></tr>
-
 <tr>
 <td align='center' colspan='2'>
 <h4>
