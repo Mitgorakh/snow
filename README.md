@@ -69,7 +69,7 @@ green highlighting is for diff additions</h6>
 
 <h5><img src="http://www.colorhexa.com/0074e8.png" height="12" width="12">&nbsp;&nbsp;blue, the color of the sea, evoking both enduring constancy and mysterious depths&nbsp;&nbsp;<img src="http://www.colorhexa.com/809bcd.png" height="12" width="12"></h5>
 <h6>plain blue text is for constants, like booleans, integers, and strings<br><br>
-bold blue text is for unusual, special things (as are found in ocean depths), like delimiters and debug statements<br><br>
+bold blue text is for special things (like those found in ocean depths), such as delimiters and debug statements<br><br>
 blue highlighting is also for misspelt strings: misspelt ones, that is</h6>
 
 </td>
