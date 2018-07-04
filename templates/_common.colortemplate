@@ -117,14 +117,3 @@ SpellBad           blue   gry0   reverse
 SpellLocal         blue   gry0   reverse
 SpellCap           blue   gry0   reverse
 SpellRare          blue   gry0   reverse
-
-
-# testing
-gry0testtesttest gry0 gry0
-gry1testtesttest gry0 gry1
-gry2testtesttest gry0 gry2
-gry3testtesttest gry0 gry3
-red_testtesttest gry0 red_
-yllwtesttesttest gry0 yllw
-grentesttesttest gry0 gren
-bluetesttesttest gry0 blue

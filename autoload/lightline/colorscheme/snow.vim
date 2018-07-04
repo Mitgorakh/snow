@@ -12,10 +12,10 @@ else
   let s:gry1 = '#324252'
   let s:gry2 = '#889db3'
   let s:gryy = '#273441'
-  let s:red_ = '#cb8a82'
+  let s:red_ = '#c07f78'
   let s:yllw = '#dac264'
-  let s:gren = '#7ea474'
-  let s:blue = '#809bcd'
+  let s:gren = '#749a6a'
+  let s:blue = '#7590c1'
 endif
 
 let s:p = { 'normal' : {} , 'inactive': {} , 'insert'  : {} ,
