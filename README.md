@@ -18,27 +18,20 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 </td>
 </tr>
 
-<tr>
-<td align='center' colspan='2'>
-<h4>
+<tr><td align='center' colspan='2'><h4>base colors</h4> 
+<h6>
 <img src="http://www.colorhexa.com/ffffff.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/ebedf1.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/67788a.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/495a6b.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/273441.png" height="12" width="12">
-&nbsp;&nbsp;base colors&nbsp;&nbsp;
+&nbsp;&nbsp;soft, blue-tinted greys for the general visual interface&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/273441.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/324252.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/889db3.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/adc3da.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/ebedf1.png" height="12" width="12">
-</h4>
-
-<h6>soft, blue-tinted greys for the general visual interface</h6>
-<ul>
-<li>point one</li>
-<li>point two</li>
-</ul>
+</h6>
 
 </td>
 </tr>
