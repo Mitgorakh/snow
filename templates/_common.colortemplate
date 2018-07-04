@@ -31,9 +31,9 @@ VertSplit          gry2   gry0   reverse
 Folded             gry2   gry0   reverse
 PmenuSel           gry2   gry0   reverse
 SignColumn         gry2   gry0   reverse
+TabLine            gry2   gry0   reverse
 StatusLineNC       gry2   gry0   reverse
 StatusLineTermNC   gry2   gry0   reverse
-TabLine            gry2   gry0   reverse
 TermCursorNC       gry2   gry0   reverse
 Visual             gry2   gry0   reverse
 WildMenu           gry2   gry0   reverse
