@@ -34,7 +34,11 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/ebedf1.png" height="12" width="12">
 </h4>
 
-<h6>soft, blue-tinted greys comprise a five-layered visual interface</h6>
+<h6>soft, blue-tinted greys for the general visual interface</h6>
+<ul>
+<li>point one</li>
+<li>point two</li>
+</ul>
 
 </td>
 </tr>
