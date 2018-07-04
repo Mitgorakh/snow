@@ -20,7 +20,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 
 <tr>
 <td align='center' colspan='2'>
-<h4>
+<h3>
 <img src="http://www.colorhexa.com/ffffff.png" height="6" width="6">&nbsp;
 <img src="http://www.colorhexa.com/ebedf1.png" height="6" width="6">&nbsp;
 <img src="http://www.colorhexa.com/67788a.png" height="6" width="6">&nbsp;
@@ -32,7 +32,7 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/889db3.png" height="6" width="6">&nbsp;
 <img src="http://www.colorhexa.com/adc3da.png" height="6" width="6">&nbsp;
 <img src="http://www.colorhexa.com/ebedf1.png" height="6" width="6">
-</h4>
+</h3>
 
 <h6>soft, blue-tinted greys comprise a five-layered visual interface</h6>
 
