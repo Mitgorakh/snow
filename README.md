@@ -18,20 +18,23 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 </td>
 </tr>
 
-<tr><td align='center' colspan='2'><h4>base colors</h4> 
-<h6>
+<tr>
+<td align='center' colspan='2'>
+<h4>
 <img src="http://www.colorhexa.com/ffffff.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/ebedf1.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/67788a.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/495a6b.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/273441.png" height="12" width="12">
-&nbsp;&nbsp;soft, blue-tinted greys for the general visual interface&nbsp;&nbsp;
+&nbsp;&nbsp;base colors&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/273441.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/324252.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/889db3.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/adc3da.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/ebedf1.png" height="12" width="12">
-</h6>
+</h4>
+
+<h6>soft, blue-tinted greys for the general visual interface</h6>
 
 </td>
 </tr>
@@ -39,15 +42,15 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <tr>
 <td align='center' colspan='2'>
 <h4>
-<img src="http://www.colorhexa.com/d83c41.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/fcd900.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/018a08.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/0074e8.png" height="6" width="6">
+<img src="http://www.colorhexa.com/d83c41.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/fcd900.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/018a08.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/0074e8.png" height="12" width="12">
 &nbsp;&nbsp;accent colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/cb8a82.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/dac264.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/7ea474.png" height="6" width="6">&nbsp;
-<img src="http://www.colorhexa.com/809bcd.png" height="6" width="6">
+<img src="http://www.colorhexa.com/cb8a82.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/dac264.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/7ea474.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/809bcd.png" height="12" width="12">
 </h4>
 <h6>bright primary colors denote special kinds of text</h6>
 <h6><img src="http://www.colorhexa.com/d83c41.png" height="12" width="12">&nbsp;&nbsp;red, the color of vitality (life-giving blood) and alarm&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb8a82.png" height="12" width="12"><br><br>plain red text is for names, which bring abstractions (like variables and functions) to life<br>bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)<br>red highlighting is for warnings and diff deletions</h6>
