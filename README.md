@@ -46,8 +46,6 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 </td>
 </tr>
 
-<tr></tr>
-
 <tr>
 <td align='center' colspan='2'>
 <h4>
@@ -68,8 +66,6 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <h6><img src="http://www.colorhexa.com/0074e8.png" height="12" width="12">&nbsp;&nbsp;blue, the color of the sea: a thing of both enduring constancy and mysterious depths holding special things&nbsp;&nbsp;<img src="http://www.colorhexa.com/809bcd.png" height="12" width="12"><br><br>plain blue text is for constants, like booleans, integers, and strings<br>bold blue text is for special things, like delimiters and debug statements<br>blue highlighting is also for misspelt strings: misspelt ones, that is</h6>
 </td>
 </tr>
-
-<tr></tr>
 
 <tr>
 <td align='center' colspan='2'>
