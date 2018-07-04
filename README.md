@@ -55,9 +55,9 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <h6>bright primary colors for syntax highlighting</h6>
 
 <h5><img src="http://www.colorhexa.com/d83c41.png" height="12" width="12">&nbsp;&nbsp;red, the color of vitality (as in red, life-giving blood) and alarm&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb8a82.png" height="12" width="12"></h5>
-<h6>plain red text is for names, which bring abstractions (like variables and functions) to life</h6>
+<h6>plain red text is for names, which bring abstractions (like variables and functions) to life<br><br>
 bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)<br><br>
-<h6>red highlighting is for warnings and diff deletions</h6>
+red highlighting is for warnings and diff deletions</h6>
 
 <h6><img src="http://www.colorhexa.com/fcd900.png" height="12" width="12">&nbsp;&nbsp;yellow, the color of "pay attention to this thing"&nbsp;&nbsp;<img src="http://www.colorhexa.com/dac264.png" height="12" width="12"><br><br>yellow highlighting is for search results, matching parentheses, and diff changes</h6>
 <h6><img src="http://www.colorhexa.com/018a08.png" height="12" width="12">&nbsp;&nbsp;green, the color of "proceed with action"&nbsp;&nbsp;<img src="http://www.colorhexa.com/7ea474.png" height="12" width="12"><br><br>plain green text is for statements, the "action words" of a program, such as conditionals (if, then...) and repeats (for, do...)<br>bold green text is for meta-actions, like macros and "include module" statements<br>green highlighting is for diff additions</h6>
