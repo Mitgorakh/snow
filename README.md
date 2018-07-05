@@ -56,7 +56,7 @@ set background=dark
 <img src="http://www.colorhexa.com/7c9a73.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/7296ba.png" height="12" width="12">
 </h4>
-<h6>bright primary colors for syntax highlighting</h6>
+<h6>a small set of colors for clear, simple syntax highlighting</h6>
 
 <h5><img src="http://www.colorhexa.com/d83c41.png" height="12" width="12">&nbsp;&nbsp;red, the color of vitality (as in red, life-giving blood) and alarm&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb8a82.png" height="12" width="12"></h5>
 <h6>plain red text is for names, which bring abstractions (like variables and functions) to life<br><br>
