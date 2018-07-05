@@ -75,8 +75,8 @@ set background=dark
 <h5><img src="http://www.colorhexa.com/0078d2.png" height="12" width="12">&nbsp;&nbsp;because blue is the calm, stable color of sea and sky, evoking enduring constancy...&nbsp;&nbsp;<img src="http://www.colorhexa.com/7296ba.png" height="12" width="12"></h5>
 <h6>
 ...plain blue text is for constants, like booleans, integers, and strings<br><br>
-...blue highlighting is for strings that may be misspelt</h6>
-<h5>because sea and sky also evoke the notion of specialization (e.g. of resident life forms, or human technology)...</h5>
+...blue highlighting is for misspelt strings</h6>
+<h5>because sea and sky also evoke the notion of specialization (life forms, technology)...</h5>
 <h6>...bold blue text is for special things, like delimiters and debug statements
 </h6>
 
