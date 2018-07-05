@@ -88,6 +88,73 @@ contrast ratio, with exceptions made for transient highlighting<br>(which noneth
 </td>
 </tr>
 
+<tr>
+<td align='center' colspan='2'>
+<h4>hue-shifted theme variants</h4>
+<h6>in which accent color hues are shifted together along the spectrum</h6>
+</td>
+</tr>
+
+<tr>
+<td align="center"><img alt="screenshot of the snow vim theme, light version, red-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-redshift-plus.png" height="325" />
+<pre>
+colorscheme snow_redshift_plus
+set background=light
+</pre>
+</td>
+<td align="center"><img alt="screenshot of the snow vim theme, dark version, red-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-redshift-plus.png" height="325" />
+<pre>
+colorscheme snow_redshift_plus
+set background=dark
+</pre>
+</td>
+</tr>
+
+<tr>
+<td align="center"><img alt="screenshot of the snow vim theme, light version, red-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-redshift.png" height="325" />
+<pre>
+colorscheme snow_redshift
+set background=light
+</pre>
+</td>
+<td align="center"><img alt="screenshot of the snow vim theme, dark version, red-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-redshift.png" height="325" />
+<pre>
+colorscheme snow_redshift
+set background=dark
+</pre>
+</td>
+</tr>
+
+<tr>
+<td align="center"><img alt="screenshot of the snow vim theme, light version, red-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-blueshift.png" height="325" />
+<pre>
+colorscheme snow_blueshift
+set background=light
+</pre>
+</td>
+<td align="center"><img alt="screenshot of the snow vim theme, dark version, red-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-blueshift.png" height="325" />
+<pre>
+colorscheme snow_blueshift
+set background=dark
+</pre>
+</td>
+</tr>
+
+<tr>
+<td align="center"><img alt="screenshot of the snow vim theme, light version, red-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-blueshift-plus.png" height="325" />
+<pre>
+colorscheme snow_blueshift_plus
+set background=light
+</pre>
+</td>
+<td align="center"><img alt="screenshot of the snow vim theme, dark version, red-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-blueshift-plus.png" height="325" />
+<pre>
+colorscheme snow_blueshift_plus
+set background=dark
+</pre>
+</td>
+</tr>
+
 </tbody></table>
 
 ## installation
