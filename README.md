@@ -60,9 +60,9 @@ set background=dark
 
 <h5><img src="http://www.colorhexa.com/d83c41.png" height="12" width="12">&nbsp;&nbsp;red is the color of vitality, as in the red of life-giving blood&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb8a82.png" height="12" width="12"></h5>
 <h6>plain red text is for names, which give life to abstractions (like variables and functions)<br><br>
-bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)
+bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)</h6>
 <h5>red is also the color of alarm</h5>
-red highlighting is for warnings and diff deletions</h6>
+<h6>red highlighting is for warnings and diff deletions</h6>
 
 <h5><img src="http://www.colorhexa.com/fcd900.png" height="12" width="12">&nbsp;&nbsp;yellow, the color of "hey, look at this"&nbsp;&nbsp;<img src="http://www.colorhexa.com/dac264.png" height="12" width="12"></h5>
 <h6>yellow highlighting is for search results, matching parentheses, and diff changes</h6>
