@@ -56,11 +56,12 @@ set background=dark
 <img src="http://www.colorhexa.com/7c9a73.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/7296ba.png" height="12" width="12">
 </h4>
-<h6>a small set of colors for clear, simple syntax highlighting</h6>
+<h6>a minimal set of colors for simple, logical syntax highlighting</h6>
 
-<h5><img src="http://www.colorhexa.com/d83c41.png" height="12" width="12">&nbsp;&nbsp;red, the color of vitality (as in the red of life-giving blood) and alarm&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb8a82.png" height="12" width="12"></h5>
+<h5><img src="http://www.colorhexa.com/d83c41.png" height="12" width="12">&nbsp;&nbsp;red is the color of vitality, as in the red of life-giving blood&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb8a82.png" height="12" width="12"></h5>
 <h6>plain red text is for names, which give life to abstractions (like variables and functions)<br><br>
-bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)<br><br>
+bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)
+<h5>red is also the color of alarm</h5>
 red highlighting is for warnings and diff deletions</h6>
 
 <h5><img src="http://www.colorhexa.com/fcd900.png" height="12" width="12">&nbsp;&nbsp;yellow, the color of "hey, look at this"&nbsp;&nbsp;<img src="http://www.colorhexa.com/dac264.png" height="12" width="12"></h5>
