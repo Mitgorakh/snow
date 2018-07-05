@@ -16,8 +16,11 @@ colorscheme snow
 set background=light
 </pre>
 </td>
-<td align="center"><h6><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="325" /><br><br>
-a winter's night<br>(the darkest evening of the year...)</h6>
+<td align="center"><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="325" />
+<pre>
+colorscheme snow
+set background=dark
+</pre>
 </td>
 </tr>
 
