@@ -10,7 +10,7 @@
 <table><tbody>
 
 <tr>
-<td align="center"><h6><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="325" /><br>
+<td align="center"><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="325" />
 <code>
 colorscheme snow
 set background=light
