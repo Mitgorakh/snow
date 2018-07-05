@@ -194,7 +194,7 @@ set background=dark
 
 In addition to `snow`, the following theme variants (with shifted accent color hues) are available: `snow_redshift_plus`, `snow_redshift`, `snow_blueshift`, and `snow_blueshift_plus`.
 
-> If you'd like the theme and/or background to switch automatically at sunrise/set (or any other time), consider trying [night-and-day](https://github.com/nightsense/night-and-day).
+If you'd like the theme and/or background to switch automatically (based on absolute time or sun-relative time), you might want to try out [night-and-day](https://github.com/nightsense/night-and-day).
 
 ## terminal vim
 
