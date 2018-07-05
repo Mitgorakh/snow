@@ -2,7 +2,8 @@ if lightline#colorscheme#background() ==# 'light'
   let s:gry0 = '#ffffff'
   let s:gry1 = '#ebedf1'
   let s:gry2 = '#67788a'
-  let s:gryy = '#273441'
+  let s:gry3 = '#495a6b'
+  let s:gryy = '#202a35'
   let s:red_ = '#c64f36'
   let s:yllw = '#fcd900'
   let s:gren = '#22831b'
@@ -11,6 +12,7 @@ else
   let s:gry0 = '#202a35'
   let s:gry1 = '#2b3846'
   let s:gry2 = '#8091a4'
+  let s:gry3 = '#a4b6c9'
   let s:gryy = '#202a35'
   let s:red_ = '#b78678'
   let s:yllw = '#dac264'
@@ -21,8 +23,8 @@ endif
 let s:p = { 'normal' : {} , 'inactive': {} , 'insert'  : {} ,
           \ 'replace': {} , 'visual'  : {} , 'tabline' : {} }
 
-let s:p.normal.left     = [[ s:gry0, s:gry2 ], [ s:gry2, s:gry1 ]]
-let s:p.normal.middle   = [[ s:gry2, s:gry1 ]]
+let s:p.normal.left     = [[ s:gry0, s:gry2 ], [ s:gry3, s:gry1 ]]
+let s:p.normal.middle   = [[ s:gry3, s:gry1 ]]
 let s:p.normal.right    = [[ s:gry0, s:gry2 ], [ s:gry0, s:gry2 ]]
 
 let s:p.inactive.left   = copy(s:p.normal.middle)
