@@ -58,7 +58,7 @@ set background=dark
 </h4>
 <h6>a minimal set of colors for simple, logical syntax highlighting</h6>
 
-<h5><img src="http://www.colorhexa.com/d83c41.png" height="12" width="12">&nbsp;&nbsp;because red is the color of vitality, as in the red of life-giving blood...&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb8a82.png" height="12" width="12"></h5>
+<h5><img src="http://www.colorhexa.com/c64f36.png" height="12" width="12">&nbsp;&nbsp;because red is the color of vitality, as in the red of life-giving blood...&nbsp;&nbsp;<img src="http://www.colorhexa.com/b78678.png" height="12" width="12"></h5>
 <h6>...plain red text is for names, which give life to abstractions (like variables and functions)<br><br>
 ...bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)</h6>
 <h5>because red is also the color of alarm...</h5>
@@ -67,12 +67,12 @@ set background=dark
 <h5><img src="http://www.colorhexa.com/fcd900.png" height="12" width="12">&nbsp;&nbsp;because yellow is the color of "hey, look at this"...&nbsp;&nbsp;<img src="http://www.colorhexa.com/dac264.png" height="12" width="12"></h5>
 <h6>...yellow highlighting is for search results, matching parentheses, and diff changes</h6>
 
-<h5><img src="http://www.colorhexa.com/018a08.png" height="12" width="12">&nbsp;&nbsp;because green is the color of "go ahead, proceed with action"...&nbsp;&nbsp;<img src="http://www.colorhexa.com/7ea474.png" height="12" width="12"></h5>
+<h5><img src="http://www.colorhexa.com/22831b.png" height="12" width="12">&nbsp;&nbsp;because green is the color of "go ahead, proceed with action"...&nbsp;&nbsp;<img src="http://www.colorhexa.com/7c9a73.png" height="12" width="12"></h5>
 <h6>...plain green text is for statements ("action words"), such as conditionals (if, then...) or loops (for, do...)<br><br>
 ...bold green text is for "meta-actions", like macros and "include module" statements<br><br>
 ...green highlighting is for diff additions</h6>
 
-<h5><img src="http://www.colorhexa.com/0074e8.png" height="12" width="12">&nbsp;&nbsp;because blue is the calm, stable color of sea and sky, evoking enduring constancy...&nbsp;&nbsp;<img src="http://www.colorhexa.com/809bcd.png" height="12" width="12"></h5>
+<h5><img src="http://www.colorhexa.com/0078d2.png" height="12" width="12">&nbsp;&nbsp;because blue is the calm, stable color of sea and sky, evoking enduring constancy...&nbsp;&nbsp;<img src="http://www.colorhexa.com/7296ba.png" height="12" width="12"></h5>
 <h6>
 ...plain blue text is for constants, like booleans, integers, and strings<br><br>
 ...blue highlighting is for strings that may be misspelt</h6>
