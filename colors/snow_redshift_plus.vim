@@ -18,12 +18,12 @@ let g:colors_name = 'snow_redshift_plus'
 
 if &background ==# 'dark'
   " Color similarity table (dark background)
+  " gry4: GUI=#ffffff/rgb(255,255,255)  Term=231 #ffffff/rgb(255,255,255)  [delta=0.000000]
   " red_: GUI=#ae85a7/rgb(174,133,167)  Term=139 #af87af/rgb(175,135,175)  [delta=1.999570]
   " gren: GUI=#929469/rgb(146,148,105)  Term=101 #87875f/rgb(135,135, 95)  [delta=4.461476]
   " yllw: GUI=#dac264/rgb(218,194,100)  Term=179 #d7af5f/rgb(215,175, 95)  [delta=7.046126]
   " gry0: GUI=#202a35/rgb( 32, 42, 53)  Term=235 #262626/rgb( 38, 38, 38)  [delta=7.283880]
   " gry3: GUI=#a4b6c9/rgb(164,182,201)  Term=110 #87afd7/rgb(135,175,215)  [delta=7.516382]
-  " gry4: GUI=#a4b6c9/rgb(164,182,201)  Term=110 #87afd7/rgb(135,175,215)  [delta=7.516382]
   " blue: GUI=#5a9ca8/rgb( 90,156,168)  Term= 73 #5fafaf/rgb( 95,175,175)  [delta=8.027546]
   " gry2: GUI=#8091a4/rgb(128,145,164)  Term= 67 #5f87af/rgb( 95,135,175)  [delta=8.376785]
   " gry1: GUI=#2b3846/rgb( 43, 56, 70)  Term=237 #3a3a3a/rgb( 58, 58, 58)  [delta=8.584645]
@@ -46,9 +46,9 @@ if &background ==# 'dark'
   hi Comment ctermfg=67 ctermbg=NONE guifg=#8091a4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi CursorLineNr ctermfg=67 ctermbg=NONE guifg=#8091a4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi LineNr ctermfg=67 ctermbg=NONE guifg=#8091a4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Cursor ctermfg=110 ctermbg=235 guifg=#a4b6c9 guibg=#202a35 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi IncSearch ctermfg=110 ctermbg=235 guifg=#a4b6c9 guibg=#202a35 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi TermCursor ctermfg=110 ctermbg=235 guifg=#a4b6c9 guibg=#202a35 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Cursor ctermfg=231 ctermbg=235 guifg=#ffffff guibg=#202a35 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi IncSearch ctermfg=231 ctermbg=235 guifg=#ffffff guibg=#202a35 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi TermCursor ctermfg=231 ctermbg=235 guifg=#ffffff guibg=#202a35 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi VertSplit ctermfg=67 ctermbg=235 guifg=#8091a4 guibg=#202a35 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Folded ctermfg=67 ctermbg=235 guifg=#8091a4 guibg=#202a35 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi PmenuSel ctermfg=67 ctermbg=235 guifg=#8091a4 guibg=#202a35 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
@@ -131,9 +131,9 @@ endif
 " blue: GUI=#007d9e/rgb(  0,125,158)  Term= 31 #0087af/rgb(  0,135,175)  [delta=4.532524]
 " red_: GUI=#b346a7/rgb(179, 70,167)  Term=133 #af5faf/rgb(175, 95,175)  [delta=5.666635]
 " gren: GUI=#6a7800/rgb(106,120,  0)  Term= 64 #5f8700/rgb( 95,135,  0)  [delta=6.944204]
+" gry4: GUI=#202a35/rgb( 32, 42, 53)  Term=235 #262626/rgb( 38, 38, 38)  [delta=7.283880]
 " gry2: GUI=#67788a/rgb(103,120,138)  Term= 67 #5f87af/rgb( 95,135,175)  [delta=9.009954]
 " gry3: GUI=#495a6b/rgb( 73, 90,107)  Term=240 #585858/rgb( 88, 88, 88)  [delta=9.597384]
-" gry4: GUI=#495a6b/rgb( 73, 90,107)  Term=240 #585858/rgb( 88, 88, 88)  [delta=9.597384]
 hi Bold ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi Conceal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi DiffChange ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -153,9 +153,9 @@ hi Underlined ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=N
 hi Comment ctermfg=67 ctermbg=NONE guifg=#67788a guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi CursorLineNr ctermfg=67 ctermbg=NONE guifg=#67788a guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi LineNr ctermfg=67 ctermbg=NONE guifg=#67788a guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Cursor ctermfg=240 ctermbg=231 guifg=#495a6b guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi IncSearch ctermfg=240 ctermbg=231 guifg=#495a6b guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi TermCursor ctermfg=240 ctermbg=231 guifg=#495a6b guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi Cursor ctermfg=235 ctermbg=231 guifg=#202a35 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi IncSearch ctermfg=235 ctermbg=231 guifg=#202a35 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi TermCursor ctermfg=235 ctermbg=231 guifg=#202a35 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi VertSplit ctermfg=67 ctermbg=231 guifg=#67788a guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi Folded ctermfg=67 ctermbg=231 guifg=#67788a guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi PmenuSel ctermfg=67 ctermbg=231 guifg=#67788a guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
@@ -224,10 +224,10 @@ hi SpellBad ctermfg=31 ctermbg=231 guifg=#007d9e guibg=#ffffff guisp=NONE cterm=
 hi SpellLocal ctermfg=31 ctermbg=231 guifg=#007d9e guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi SpellCap ctermfg=31 ctermbg=231 guifg=#007d9e guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi SpellRare ctermfg=31 ctermbg=231 guifg=#007d9e guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi DiffChanged ctermfg=220 ctermbg=240 guifg=#fcd900 guibg=#495a6b guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi DiffText ctermfg=220 ctermbg=240 guifg=#fcd900 guibg=#495a6b guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi MatchParen ctermfg=220 ctermbg=240 guifg=#fcd900 guibg=#495a6b guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi Search ctermfg=220 ctermbg=240 guifg=#fcd900 guibg=#495a6b guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi DiffChanged ctermfg=220 ctermbg=235 guifg=#fcd900 guibg=#202a35 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi DiffText ctermfg=220 ctermbg=235 guifg=#fcd900 guibg=#202a35 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi MatchParen ctermfg=220 ctermbg=235 guifg=#fcd900 guibg=#202a35 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi Search ctermfg=220 ctermbg=235 guifg=#fcd900 guibg=#202a35 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 finish
 
 " Background: light
@@ -235,7 +235,7 @@ finish
 " Color:      gry1 #ebedf1 ~
 " Color:      gry2 #67788a ~
 " Color:      gry3 #495a6b ~
-" Color:      gry4 #495a6b ~
+" Color:      gry4 #202a35 ~
 " Color:      yllw #fcd900 ~
 " Color:      red_ #b346a7 ~
 " Color:      gren #6a7800 ~
@@ -339,7 +339,7 @@ finish
 " Color:      gry1 #2b3846 ~
 " Color:      gry2 #8091a4 ~
 " Color:      gry3 #a4b6c9 ~
-" Color:      gry4 #a4b6c9 ~
+" Color:      gry4 #ffffff ~
 " Color:      yllw #dac264 ~
 " Color:      red_ #ae85a7 ~
 " Color:      gren #929469 ~

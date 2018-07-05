@@ -101,7 +101,7 @@ print 'Color:      gry0 %s ~' % hexgry0_lt_0
 print 'Color:      gry1 %s ~' % hexgry1_lt_0
 print 'Color:      gry2 %s ~' % hexgry2_lt_0
 print 'Color:      gry3 %s ~' % hexgry3_lt_0
-print 'Color:      gry4 %s ~' % hexgry3_lt_0
+print 'Color:      gry4 %s ~' % hexgry0_dk_0
 print 'Color:      yllw %s ~' % hexyllw_lt_0
 
 if sys.argv[1] == 'default':
@@ -137,7 +137,7 @@ print 'Color:      gry0 %s ~' % hexgry0_dk_0
 print 'Color:      gry1 %s ~' % hexgry1_dk_0
 print 'Color:      gry2 %s ~' % hexgry2_dk_0
 print 'Color:      gry3 %s ~' % hexgry3_dk_0
-print 'Color:      gry4 %s ~' % hexgry3_dk_0
+print 'Color:      gry4 %s ~' % hexgry0_lt_0
 print 'Color:      yllw %s ~' % hexyllw_dk_0
 
 if sys.argv[1] == 'default':
