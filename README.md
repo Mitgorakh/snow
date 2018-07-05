@@ -58,23 +58,27 @@ set background=dark
 </h4>
 <h6>a small set of colors for clear, simple syntax highlighting</h6>
 
-<h5><img src="http://www.colorhexa.com/d83c41.png" height="12" width="12">&nbsp;&nbsp;red, the color of vitality (as in red, life-giving blood) and alarm&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb8a82.png" height="12" width="12"></h5>
-<h6>plain red text is for names, which bring abstractions (like variables and functions) to life<br><br>
+<h5><img src="http://www.colorhexa.com/d83c41.png" height="12" width="12">&nbsp;&nbsp;red, the color of vitality (as in the red of life-giving blood) and alarm&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb8a82.png" height="12" width="12"></h5>
+<h6>plain red text is for names, which give life to abstractions (like variables and functions)<br><br>
 bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)<br><br>
 red highlighting is for warnings and diff deletions</h6>
 
-<h5><img src="http://www.colorhexa.com/fcd900.png" height="12" width="12">&nbsp;&nbsp;yellow, the color of calling attention to something&nbsp;&nbsp;<img src="http://www.colorhexa.com/dac264.png" height="12" width="12"></h5>
+<h5><img src="http://www.colorhexa.com/fcd900.png" height="12" width="12">&nbsp;&nbsp;yellow, the color of "hey, look at this"&nbsp;&nbsp;<img src="http://www.colorhexa.com/dac264.png" height="12" width="12"></h5>
 <h6>yellow highlighting is for search results, matching parentheses, and diff changes</h6>
 
-<h5><img src="http://www.colorhexa.com/018a08.png" height="12" width="12">&nbsp;&nbsp;green, the color of proceeding with an action&nbsp;&nbsp;<img src="http://www.colorhexa.com/7ea474.png" height="12" width="12"></h5>
+<h5><img src="http://www.colorhexa.com/018a08.png" height="12" width="12">&nbsp;&nbsp;green, the color of "go ahead, proceed with action"&nbsp;&nbsp;<img src="http://www.colorhexa.com/7ea474.png" height="12" width="12"></h5>
 <h6>plain green text is for statements ("action words"), like conditionals (if, then...) and repeats (for, do...)<br><br>
 bold green text is for "meta-actions", like macros and "include module" statements<br><br>
 green highlighting is for diff additions</h6>
 
-<h5><img src="http://www.colorhexa.com/0074e8.png" height="12" width="12">&nbsp;&nbsp;blue, the color of the sea, evoking both enduring constancy and mysterious depths&nbsp;&nbsp;<img src="http://www.colorhexa.com/809bcd.png" height="12" width="12"></h5>
-<h6>plain blue text is for constants, like booleans, integers, and strings<br><br>
-bold blue text is for special things (like those found in ocean depths), such as delimiters and debug statements<br><br>
-blue highlighting is for strings that seem to be misspelt</h6>
+<h5><img src="http://www.colorhexa.com/0074e8.png" height="12" width="12">&nbsp;&nbsp;blue, the color of sea and sky&nbsp;&nbsp;<img src="http://www.colorhexa.com/809bcd.png" height="12" width="12"></h5>
+<h6>
+because the sea and sky evoke enduring constancy...<br><br>
+plain blue text is for constants, like booleans, integers, and strings<br><br>
+blue highlighting is for strings that may be misspelt<br><br>
+because the sea and sky evoke the notion of specialization (of resident life forms and human technology, for instance)...<br><br>
+bold blue text is for special things, like delimiters and debug statements
+</h6>
 
 </td>
 </tr>
