@@ -1,9 +1,9 @@
 <table><tbody><tr><td align="center"><h1>
-<img height="24" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;
-<img height="24" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;
+<img height="18" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;
+<img height="18" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;
 snow&nbsp;
-<img height="24" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;
-<img height="24" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
+<img height="18" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;
+<img height="18" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
 <br>
 <a href='https://github.com/lifepillar/vim-colortemplate'><img src='https://img.shields.io/badge/made%20with-Colortemplate-00a0ff.svg' alt='a Vim theme made with Colortemplate' /></a>
 </h1>
