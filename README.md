@@ -1,7 +1,7 @@
 <table><tbody><tr><td align="center"><h1>
 <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;
 <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;
-snow
+snow&nbsp;
 <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;
 <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
 <br>
