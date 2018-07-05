@@ -198,7 +198,7 @@ set background=dark
 
 In addition to `snow`, the following theme variants (featuring shifted accent color hues) are available: `snow_redshift_plus`, `snow_redshift`, `snow_blueshift`, and `snow_blueshift_plus`.
 
-## activation
+## rotation
 
 If you'd like themes and/or backgrounds to switch automatically (based on absolute time or sun-relative time), you might want to try out [night-and-day](https://github.com/nightsense/night-and-day).
 
