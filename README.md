@@ -3,11 +3,11 @@
 </h1>
 <img src="https://github.com/nightsense/snow/raw/master/images/header.jpg" />
 <h4>
-<img height="60" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />
-<img height="60" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />
-a blue-tinted winter vimscape
-<img height="60" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />
-<img height="60" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
+<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;
+<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;
+a blue-tinted winter vimscape&nbsp;
+<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;
+<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
 </h4>
 </td></tr></tbody></table>
 
