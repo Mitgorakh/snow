@@ -230,7 +230,7 @@ To activate the lightline theme, add to vimrc:
 let g:lightline = { 'colorscheme': 'snow' }
 ```
 
-If desired, `snow` can be replaced with the name of a theme variant.
+`snow` can be replaced with the name of any theme variant.
 
 ---
 
