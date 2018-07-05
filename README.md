@@ -1,13 +1,15 @@
-<table><tbody><tr><td align="center"><h1>snow<br>
+<table><tbody><tr><td align="center"><h1>
+<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;
+<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;
+snow
+<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;
+<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
+<br>
 <a href='https://github.com/lifepillar/vim-colortemplate'><img src='https://img.shields.io/badge/made%20with-Colortemplate-00a0ff.svg' alt='a Vim theme made with Colortemplate' /></a>
 </h1>
 <img src="https://github.com/nightsense/snow/raw/master/images/header.jpg" />
 <h4>
-<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;
-<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;
-a blue-tinted winter vimscape&nbsp;
-<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;
-<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
+a blue-tinted winter vimscape
 </h4>
 </td></tr></tbody></table>
 
