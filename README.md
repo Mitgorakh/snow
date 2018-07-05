@@ -68,15 +68,15 @@ set background=dark
 <h6>...yellow highlighting is for search results, matching parentheses, and diff changes</h6>
 
 <h5><img src="http://www.colorhexa.com/018a08.png" height="12" width="12">&nbsp;&nbsp;because green is the color of "go ahead, proceed with action"...&nbsp;&nbsp;<img src="http://www.colorhexa.com/7ea474.png" height="12" width="12"></h5>
-<h6>...plain green text is for statements ("action words"), like conditionals (if, then...) and repeats (for, do...)<br><br>
+<h6>...plain green text is for statements ("action words"), such as conditionals (if, then...) or loops (for, do...)<br><br>
 ...bold green text is for "meta-actions", like macros and "include module" statements<br><br>
 ...green highlighting is for diff additions</h6>
 
-<h5><img src="http://www.colorhexa.com/0074e8.png" height="12" width="12">&nbsp;&nbsp;because blue is the color of sea and sky, evoking enduring constancy...&nbsp;&nbsp;<img src="http://www.colorhexa.com/809bcd.png" height="12" width="12"></h5>
+<h5><img src="http://www.colorhexa.com/0074e8.png" height="12" width="12">&nbsp;&nbsp;because blue is the calm, stable color of sea and sky, evoking enduring constancy...&nbsp;&nbsp;<img src="http://www.colorhexa.com/809bcd.png" height="12" width="12"></h5>
 <h6>
 ...plain blue text is for constants, like booleans, integers, and strings<br><br>
 ...blue highlighting is for strings that may be misspelt</h6>
-<h5>because sea and sky also evoke the notion of specialization (of resident life forms, for instance, or human technology)...</h5>
+<h5>because sea and sky also evoke the notion of specialization (e.g. of resident life forms, or human technology)...</h5>
 <h6>...bold blue text is for special things, like delimiters and debug statements
 </h6>
 
