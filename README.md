@@ -95,7 +95,7 @@ contrast ratio, with exceptions made for transient highlighting<br>(which noneth
 <tr>
 <td align='center' colspan='2'>
 <h4>hue-shifted theme variants</h4>
-<h6>in which accent color hues are shifted together along the spectrum</h6>
+<h6>in which the red, green, and blue accent hues are shifted together along the spectrum</h6>
 </td>
 </tr>
 
