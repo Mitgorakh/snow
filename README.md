@@ -196,9 +196,28 @@ colorscheme snow
 set background=dark
 ```
 
-In addition to `snow`, the following theme variants (with shifted accent color hues) are available: `snow_redshift_plus`, `snow_redshift`, `snow_blueshift`, and `snow_blueshift_plus`.
+In addition to `snow`, the following theme variants (featuring shifted accent color hues) are available: `snow_redshift_plus`, `snow_redshift`, `snow_blueshift`, and `snow_blueshift_plus`.
 
-If you'd like the theme and/or background to switch automatically (based on absolute time or sun-relative time), you might want to try out [night-and-day](https://github.com/nightsense/night-and-day).
+## activation
+
+If you'd like themes and/or backgrounds to switch automatically (based on absolute time or sun-relative time), you might want to try out [night-and-day](https://github.com/nightsense/night-and-day).
+
+For instance, to rotate through all theme variants throughout the day, you could use:
+
+```
+let g:nd_themes = [
+  \ [ 'sunrise+0'   , 'snow_redshift_plus'  , 'light' ],
+  \ [ 'sunrise+1/5' , 'snow_redshift'       , 'light' ],
+  \ [ 'sunrise+2/5' , 'snow'                , 'light' ],
+  \ [ 'sunrise+3/5' , 'snow_blueshift'      , 'light' ],
+  \ [ 'sunrise+4/5' , 'snow_blueshift_plus' , 'light' ],
+  \ [ 'sunset+0'    , 'snow_redshift_plus'  , 'dark'  ],
+  \ [ 'sunset+1/5'  , 'snow_redshift'       , 'dark'  ],
+  \ [ 'sunset+2/5'  , 'snow'                , 'dark'  ],
+  \ [ 'sunset+3/5'  , 'snow_blueshift'      , 'dark'  ],
+  \ [ 'sunset+4/5'  , 'snow_blueshift_plus' , 'dark'  ],
+  \ ]
+```
 
 ## terminal vim
 
