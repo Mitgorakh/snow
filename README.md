@@ -10,8 +10,11 @@
 <table><tbody>
 
 <tr>
-<td align="center"><h6><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="325" /><br><br>
-a winter's day<br>(of easy wind and downy flake...)</h6>
+<td align="center"><h6><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="325" />
+<code>
+colorscheme snow
+set background=light
+</code>
 </td>
 <td align="center"><h6><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="325" /><br><br>
 a winter's night<br>(the darkest evening of the year...)</h6>
@@ -24,14 +27,12 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <img src="http://www.colorhexa.com/ffffff.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/ebedf1.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/67788a.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/495a6b.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/273441.png" height="12" width="12">
+<img src="http://www.colorhexa.com/495a6b.png" height="12" width="12">
 &nbsp;&nbsp;base colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/273441.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/324252.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/889db3.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/adc3da.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/ebedf1.png" height="12" width="12">
+<img src="http://www.colorhexa.com/202a35.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/2b3846.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/8091a4.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/a4b6c9.png" height="12" width="12">
 </h4>
 
 <h6>soft, blue-tinted greys for the general visual interface</h6>
@@ -42,15 +43,15 @@ a winter's night<br>(the darkest evening of the year...)</h6>
 <tr>
 <td align='center' colspan='2'>
 <h4>
-<img src="http://www.colorhexa.com/d83c41.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/c64f36.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/fcd900.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/018a08.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/0074e8.png" height="12" width="12">
+<img src="http://www.colorhexa.com/22831b.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/0078d2.png" height="12" width="12">
 &nbsp;&nbsp;accent colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/cb8a82.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/b78678.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/dac264.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/7ea474.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/809bcd.png" height="12" width="12">
+<img src="http://www.colorhexa.com/7c9a73.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/7296ba.png" height="12" width="12">
 </h4>
 <h6>bright primary colors for syntax highlighting</h6>
 

@@ -2,8 +2,8 @@
 Author:          nightsense
 Maintainer:      nightsense
 License:         MIT
-Full name:       snow
-Short name:      snow
+Full name:       snow_blueshift_plus
+Short name:      snow_blueshift_plus
 Terminal Colors: 256
 
 # light
@@ -14,9 +14,9 @@ Color:      gry2 #67788a ~
 Color:      gry3 #495a6b ~
 Color:      gry4 #495a6b ~
 Color:      yllw #fcd900 ~
-Color:      red_ #c64f36 ~
-Color:      gren #22831b ~
-Color:      blue #0078d2 ~
+Color:      red_ #a26a00 ~
+Color:      gren #00835e ~
+Color:      blue #446ed9 ~
 Include:    _common.colortemplate
 DiffChanged yllw gry4 reverse
 DiffText    yllw gry4 reverse
@@ -31,9 +31,9 @@ Color:      gry2 #8091a4 ~
 Color:      gry3 #a4b6c9 ~
 Color:      gry4 #a4b6c9 ~
 Color:      yllw #dac264 ~
-Color:      red_ #b78678 ~
-Color:      gren #7c9a73 ~
-Color:      blue #7296ba ~
+Color:      red_ #a88d6a ~
+Color:      gren #629d8c ~
+Color:      blue #8a90ba ~
 Include:    _common.colortemplate
 DiffChanged yllw gry0 reverse
 DiffText    yllw gry0 reverse

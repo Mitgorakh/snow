@@ -4,16 +4,16 @@ if &background ==# 'light'
   let s:gry0 = [ '#ffffff', 231 ]
   let s:gry1 = [ '#ebedf1', 255 ]
   let s:gry2 = [ '#67788a', 67  ]
-  let s:red_ = [ '#c64f36', 160 ]
-  let s:gren = [ '#22831b', 28  ]
-  let s:blue = [ '#0078d2', 32  ]
+  let s:red_ = [ '#a26a00', 94  ]
+  let s:gren = [ '#00835e', 29  ]
+  let s:blue = [ '#446ed9', 26  ]
 else
   let s:gry0 = [ '#202a35', 235 ]
   let s:gry1 = [ '#2b3846', 237 ]
   let s:gry2 = [ '#8091a4', 110 ]
-  let s:red_ = [ '#b78678', 138 ]
-  let s:gren = [ '#7c9a73', 108 ]
-  let s:blue = [ '#7296ba', 67  ]
+  let s:red_ = [ '#a88d6a', 137 ]
+  let s:gren = [ '#629d8c', 72  ]
+  let s:blue = [ '#8a90ba', 103 ]
 endif
 
 let s:nrm1 = [ s:gry0[0] , s:gry2[0] , s:gry0[1] , s:gry2[1] ]
