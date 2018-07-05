@@ -2,7 +2,13 @@
 <a href='https://github.com/lifepillar/vim-colortemplate'><img src='https://img.shields.io/badge/made%20with-Colortemplate-00a0ff.svg' alt='a Vim theme made with Colortemplate' /></a>
 </h1>
 <img src="https://github.com/nightsense/snow/raw/master/images/header.jpg" />
-<h4>a blue-tinted winter vimscape</h4>
+<h4>
+<img src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />
+<img src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />
+a blue-tinted winter vimscape
+<img src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />
+<img src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
+</h4>
 </td></tr></tbody></table>
 
 ## palette
