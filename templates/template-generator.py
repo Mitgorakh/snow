@@ -3,69 +3,155 @@ from colormath.color_objects import LCHabColor,sRGBColor
 import sys
 
 if len(sys.argv) < 2:
-  print 'specify rgbshift'
+  print 'specify theme name'
   sys.exit()
+else:
+  theme_name = sys.argv[1]
 
 def tohex(l,c,h):
   rgb = convert_color(LCHabColor(l,c,h),sRGBColor)
   clamp = sRGBColor(rgb.clamped_rgb_r, rgb.clamped_rgb_g, rgb.clamped_rgb_b)
   return clamp.get_rgb_hex()
 
+def print_airline(name,bg):
+  print 'auxfile autoload/airline/themes/%s_%s.vim' % (name, bg)
+  print 'let g:airline#themes#%s_%s#palette = {}' % (name, bg)
+  print ''
+  print 'let s:gry0 = [ "@guigry0", @termgry0 ]'
+  print 'let s:gry1 = [ "@guigry1", @termgry1 ]'
+  print 'let s:gry2 = [ "@guigry2", @termgry2 ]'
+  print 'let s:gry3 = [ "@guigry3", @termgry3 ]'
+  print 'let s:red_ = [ "@guired_", @termred_ ]'
+  print 'let s:gren = [ "@guigren", @termgren ]'
+  print 'let s:blue = [ "@guiblue", @termblue ]'
+  print ''
+  print 'let s:nrm1 = [ s:gry0[0] , s:gry2[0] , s:gry0[1] , s:gry2[1] ]'
+  print 'let s:nrm2 = [ s:gry3[0] , s:gry1[0] , s:gry3[1] , s:gry1[1] ]'
+  print 'let s:insr = [ s:gry0[0] , s:gren[0] , s:gry0[1] , s:gren[1] ]'
+  print 'let s:visl = [ s:gry0[0] , s:blue[0] , s:gry0[1] , s:blue[1] ]'
+  print 'let s:rplc = [ s:gry0[0] , s:red_[0] , s:gry0[1] , s:red_[1] ]'
+  print 'let s:inac = [ s:gry2[0] , s:gry1[0] , s:gry2[1] , s:gry1[1] ]'
+  print ''
+  print 'let g:airline#themes#%s_%s#palette.normal =' % (name, bg)
+  print '  \ airline#themes#generate_color_map( s:nrm1 , s:nrm2 , s:nrm2 )'
+  print ''
+  print 'let g:airline#themes#%s_%s#palette.insert =' % (name, bg)
+  print '  \ airline#themes#generate_color_map( s:insr , s:nrm2 , s:nrm2 )'
+  print ''
+  print 'let g:airline#themes#%s_%s#palette.visual =' % (name, bg)
+  print '  \ airline#themes#generate_color_map( s:visl , s:nrm2 , s:nrm2 )'
+  print ''
+  print 'let g:airline#themes#%s_%s#palette.replace =' % (name, bg)
+  print '  \ airline#themes#generate_color_map( s:rplc , s:nrm2 , s:nrm2 )'
+  print ''
+  print 'let g:airline#themes#%s_%s#palette.inactive =' % (name, bg)
+  print '  \ airline#themes#generate_color_map( s:inac , s:inac , s:inac )'
+  print ''
+  print 'let g:airline#themes#%s_%s#palette.ctrlp =' % (name, bg)
+  print '  \ airline#extensions#ctrlp#generate_color_map( s:nrm2 , s:nrm1 , s:nrm2 )'
+  print 'endauxfile'
+
+def print_lightline(name,bg):
+  print 'auxfile autoload/lightline/colorscheme/%s_%s.vim' % (name, bg)
+  print 'let s:gry0 = "@guigry0"'
+  print 'let s:gry1 = "@guigry1"'
+  print 'let s:gry2 = "@guigry2"'
+  print 'let s:gry3 = "@guigry3"'
+  print 'let s:gry4 = "@guigry4"'
+  print 'let s:red_ = "@guired_"'
+  print 'let s:yllw = "@guiyllw"'
+  print 'let s:gren = "@guigren"'
+  print 'let s:blue = "@guiblue"'
+  print ''
+  print 'let s:p = { "normal" : {} , "inactive": {} , "insert"  : {} ,'
+  print '          \ "replace": {} , "visual"  : {} , "tabline" : {} }'
+  print ''
+  print 'let s:p.normal.left     = [[ s:gry0, s:gry2 ], [ s:gry3, s:gry1 ]]'
+  print 'let s:p.normal.middle   = [[ s:gry3, s:gry1 ]]'
+  print 'let s:p.normal.right    = [[ s:gry0, s:gry2 ], [ s:gry0, s:gry2 ]]'
+  print ''
+  print 'let s:p.inactive.left   = copy(s:p.normal.middle)'
+  print 'let s:p.inactive.middle = copy(s:p.normal.middle)'
+  print 'let s:p.inactive.right  = copy(s:p.normal.middle)'
+  print ''
+  print 'let s:p.insert.left     = [[ s:gry0, s:gren ]]'
+  print 'let s:p.insert.right    = [[ s:gry0, s:gren ], [ s:gry0, s:gren ]]'
+  print ''
+  print 'let s:p.visual.left     = [[ s:gry0, s:blue ]]'
+  print 'let s:p.visual.right    = [[ s:gry0, s:blue ], [ s:gry0, s:blue ]]'
+  print ''
+  print 'let s:p.replace.left    = [[ s:gry0, s:red_ ]]'
+  print 'let s:p.replace.right   = [[ s:gry0, s:red_ ], [ s:gry0, s:red_ ]]'
+  print ''
+  print 'let s:p.tabline.left    = [[ s:gry0, s:gry2 ]]'
+  print 'let s:p.tabline.tabsel  = copy(s:p.normal.middle)'
+  print 'let s:p.tabline.right   = [[ s:gry0, s:gry2 ]]'
+  print ''
+  print 'let s:p.normal.error    = [[ s:red_, s:gry0 ]]'
+  print 'let s:p.normal.warning  = [[ s:yllw, s:gry4 ]]'
+  print ''
+  print 'let g:lightline#colorscheme#%s_%s#palette =' % (name, bg)
+  print '  \ lightline#colorscheme#fill(s:p)'
+  print 'endauxfile'
+
 ###
 
-hexgry0_lt_0 = tohex( 12.00/12.0*100.0 , 00.00/12.0*100.0 , 255.0 )
-hexgry1_lt_0 = tohex( 11.25/12.0*100.0 , 00.25/12.0*100.0 , 255.0 )
-hexgry2_lt_0 = tohex( 05.94/12.0*100.0 , 01.50/12.0*100.0 , 255.0 )
-hexgry3_lt_0 = tohex( 04.48/12.0*100.0 , 01.50/12.0*100.0 , 255.0 )
-hexyllw_lt_0 = tohex( 10.50/12.0*100.0 , 12.00/12.0*100.0 , 090.0 )
+hue_base = 255.0
+hue_yllw = 090.0
 
-hexred__ltm2 = tohex( 05.75/12.0*100.0 , 07.42/12.0*100.0 , 330.3 )
-hexgren_ltm2 = tohex( 05.75/12.0*100.0 , 07.42/12.0*100.0 , 105.0 )
-hexblue_ltm2 = tohex( 05.25/12.0*100.0 , 07.42/12.0*100.0 , 213.0 )
-                                                                 
-hexred__ltm1 = tohex( 06.00/12.0*100.0 , 07.42/12.0*100.0 , 005.2 )
-hexgren_ltm1 = tohex( 06.00/12.0*100.0 , 07.42/12.0*100.0 , 120.0 )
-hexblue_ltm1 = tohex( 05.25/12.0*100.0 , 07.42/12.0*100.0 , 234.0 )
-                                                                 
-hexred__lt_0 = tohex( 06.00/12.0*100.0 , 07.42/12.0*100.0 , 040.0 )
-hexgren_lt_0 = tohex( 05.75/12.0*100.0 , 07.42/12.0*100.0 , 135.0 )
-hexblue_lt_0 = tohex( 05.50/12.0*100.0 , 07.42/12.0*100.0 , 255.0 )
-                                                                 
-hexred__ltp1 = tohex( 06.00/12.0*100.0 , 07.42/12.0*100.0 , 056.7 )
-hexgren_ltp1 = tohex( 05.75/12.0*100.0 , 07.42/12.0*100.0 , 154.0 )
-hexblue_ltp1 = tohex( 05.75/12.0*100.0 , 07.42/12.0*100.0 , 268.5 )
-                                                                 
-hexred__ltp2 = tohex( 06.00/12.0*100.0 , 07.42/12.0*100.0 , 073.3 )
-hexgren_ltp2 = tohex( 05.50/12.0*100.0 , 07.42/12.0*100.0 , 173.0 )
-hexblue_ltp2 = tohex( 05.75/12.0*100.0 , 07.42/12.0*100.0 , 282.0 )
+hexgry0_lt = tohex( 12.00/12.0*100.0 , 00.00/12.0*100.0 , hue_base )
+hexgry1_lt = tohex( 11.25/12.0*100.0 , 00.25/12.0*100.0 , hue_base )
+hexgry2_lt = tohex( 05.94/12.0*100.0 , 01.50/12.0*100.0 , hue_base )
+hexgry3_lt = tohex( 04.48/12.0*100.0 , 01.50/12.0*100.0 , hue_base )
+hexyllw_lt = tohex( 10.50/12.0*100.0 , 12.00/12.0*100.0 , hue_yllw )
 
-###
+hexgry0_dk = tohex( 02.00/12.0*100.0 , 01.00/12.0*100.0 , hue_base )
+hexgry1_dk = tohex( 02.75/12.0*100.0 , 01.25/12.0*100.0 , hue_base )
+hexgry2_dk = tohex( 07.11/12.0*100.0 , 01.50/12.0*100.0 , hue_base )
+hexgry3_dk = tohex( 08.76/12.0*100.0 , 01.50/12.0*100.0 , hue_base )
+hexyllw_dk = tohex( 09.50/12.0*100.0 , 06.00/12.0*100.0 , hue_yllw )
 
-hexgry0_dk_0 = tohex( 02.00/12.0*100.0 , 01.00/12.0*100.0 , 255.0 )
-hexgry1_dk_0 = tohex( 02.75/12.0*100.0 , 01.25/12.0*100.0 , 255.0 )
-hexgry2_dk_0 = tohex( 07.11/12.0*100.0 , 01.50/12.0*100.0 , 255.0 )
-hexgry3_dk_0 = tohex( 08.76/12.0*100.0 , 01.50/12.0*100.0 , 255.0 )
-hexyllw_dk_0 = tohex( 09.50/12.0*100.0 , 06.00/12.0*100.0 , 090.0 )
+cro_lt = 61.803
+cro_dk = 23.607
 
-hexred__dkm2 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 330.3 )
-hexgren_dkm2 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 105.0 )
-hexblue_dkm2 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 213.0 )
-
-hexred__dkm1 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 005.2 )
-hexgren_dkm1 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 120.0 )
-hexblue_dkm1 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 234.0 )
-
-hexred__dk_0 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 040.0 )
-hexgren_dk_0 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 135.0 )
-hexblue_dk_0 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 255.0 )
-
-hexred__dkp1 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 056.7 )
-hexgren_dkp1 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 154.0 )
-hexblue_dkp1 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 268.5 )
-
-hexred__dkp2 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 073.3 )
-hexgren_dkp2 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 173.0 )
-hexblue_dkp2 = tohex( 07.25/12.0*100.0 , 02.83/12.0*100.0 , 282.0 )
+if theme_name == 'snow_redshift_plus':
+  hexred__lt = tohex( 05.75/12.0*100.0 , cro_lt , 330.3 )
+  hexgren_lt = tohex( 05.75/12.0*100.0 , cro_lt , 105.0 )
+  hexblue_lt = tohex( 05.25/12.0*100.0 , cro_lt , 213.0 )
+  hexred__dk = tohex( 07.25/12.0*100.0 , cro_dk , 330.3 )
+  hexgren_dk = tohex( 07.25/12.0*100.0 , cro_dk , 105.0 )
+  hexblue_dk = tohex( 07.25/12.0*100.0 , cro_dk , 213.0 )
+elif theme_name == 'snow_redshift':
+  hexred__lt = tohex( 06.00/12.0*100.0 , cro_lt , 005.2 )
+  hexgren_lt = tohex( 06.00/12.0*100.0 , cro_lt , 120.0 )
+  hexblue_lt = tohex( 05.25/12.0*100.0 , cro_lt , 234.0 )
+  hexred__dk = tohex( 07.25/12.0*100.0 , cro_dk , 005.2 )
+  hexgren_dk = tohex( 07.25/12.0*100.0 , cro_dk , 120.0 )
+  hexblue_dk = tohex( 07.25/12.0*100.0 , cro_dk , 234.0 )
+elif theme_name == 'snow':
+  hexred__lt = tohex( 06.00/12.0*100.0 , cro_lt , 040.0 )
+  hexgren_lt = tohex( 05.75/12.0*100.0 , cro_lt , 135.0 )
+  hexblue_lt = tohex( 05.50/12.0*100.0 , cro_lt , 255.0 )
+  hexred__dk = tohex( 07.25/12.0*100.0 , cro_dk , 040.0 )
+  hexgren_dk = tohex( 07.25/12.0*100.0 , cro_dk , 135.0 )
+  hexblue_dk = tohex( 07.25/12.0*100.0 , cro_dk , 255.0 )
+elif theme_name == 'snow_blueshift':
+  hexred__lt = tohex( 06.00/12.0*100.0 , cro_lt , 056.7 )
+  hexgren_lt = tohex( 05.75/12.0*100.0 , cro_lt , 154.0 )
+  hexblue_lt = tohex( 05.75/12.0*100.0 , cro_lt , 268.5 )
+  hexred__dk = tohex( 07.25/12.0*100.0 , cro_dk , 056.7 )
+  hexgren_dk = tohex( 07.25/12.0*100.0 , cro_dk , 154.0 )
+  hexblue_dk = tohex( 07.25/12.0*100.0 , cro_dk , 268.5 )
+elif theme_name == 'snow_blueshift_plus':
+  hexred__lt = tohex( 06.00/12.0*100.0 , cro_lt , 073.3 )
+  hexgren_lt = tohex( 05.50/12.0*100.0 , cro_lt , 173.0 )
+  hexblue_lt = tohex( 05.75/12.0*100.0 , cro_lt , 282.0 )
+  hexred__dk = tohex( 07.25/12.0*100.0 , cro_dk , 073.3 )
+  hexgren_dk = tohex( 07.25/12.0*100.0 , cro_dk , 173.0 )
+  hexblue_dk = tohex( 07.25/12.0*100.0 , cro_dk , 282.0 )
+else:
+  print 'invalid theme name'
+  sys.exit()
 
 ###
 
@@ -74,95 +160,50 @@ print 'Author:          nightsense'
 print 'Maintainer:      nightsense'
 print 'License:         MIT'
 
-if sys.argv[1] == 'default':
-  print 'Full name:       snow'
-  print 'Short name:      snow'
-elif sys.argv[1] == 'redshift_plus':
-  print 'Full name:       snow_redshift_plus'
-  print 'Short name:      snow_redshift_plus'
-elif sys.argv[1] == 'redshift':
-  print 'Full name:       snow_redshift'
-  print 'Short name:      snow_redshift'
-elif sys.argv[1] == 'blueshift':
-  print 'Full name:       snow_blueshift'
-  print 'Short name:      snow_blueshift'
-elif sys.argv[1] == 'blueshift_plus':
-  print 'Full name:       snow_blueshift_plus'
-  print 'Short name:      snow_blueshift_plus'
-else:
-  print 'invalid rgbshift'
-  sys.exit()
+print 'Full name:       %s' % theme_name
+print 'Short name:      %s' % theme_name
 
 print 'Terminal Colors: 256'
 print ''
 print '# light'
 print 'Background: light'
-print 'Color:      gry0 %s ~' % hexgry0_lt_0
-print 'Color:      gry1 %s ~' % hexgry1_lt_0
-print 'Color:      gry2 %s ~' % hexgry2_lt_0
-print 'Color:      gry3 %s ~' % hexgry3_lt_0
-print 'Color:      gry4 %s ~' % hexgry0_dk_0
-print 'Color:      yllw %s ~' % hexyllw_lt_0
-
-if sys.argv[1] == 'default':
-  print 'Color:      red_ %s ~' % hexred__lt_0
-  print 'Color:      gren %s ~' % hexgren_lt_0
-  print 'Color:      blue %s ~' % hexblue_lt_0
-elif sys.argv[1] == 'redshift_plus':
-  print 'Color:      red_ %s ~' % hexred__ltm2
-  print 'Color:      gren %s ~' % hexgren_ltm2
-  print 'Color:      blue %s ~' % hexblue_ltm2
-elif sys.argv[1] == 'redshift':
-  print 'Color:      red_ %s ~' % hexred__ltm1
-  print 'Color:      gren %s ~' % hexgren_ltm1
-  print 'Color:      blue %s ~' % hexblue_ltm1
-elif sys.argv[1] == 'blueshift':
-  print 'Color:      red_ %s ~' % hexred__ltp1
-  print 'Color:      gren %s ~' % hexgren_ltp1
-  print 'Color:      blue %s ~' % hexblue_ltp1
-elif sys.argv[1] == 'blueshift_plus':
-  print 'Color:      red_ %s ~' % hexred__ltp2
-  print 'Color:      gren %s ~' % hexgren_ltp2
-  print 'Color:      blue %s ~' % hexblue_ltp2
-
+print 'Color:      gry0 %s ~' % hexgry0_lt
+print 'Color:      gry1 %s ~' % hexgry1_lt
+print 'Color:      gry2 %s ~' % hexgry2_lt
+print 'Color:      gry3 %s ~' % hexgry3_lt
+print 'Color:      gry4 %s ~' % hexgry0_dk
+print 'Color:      yllw %s ~' % hexyllw_lt
+print 'Color:      red_ %s ~' % hexred__lt
+print 'Color:      gren %s ~' % hexgren_lt
+print 'Color:      blue %s ~' % hexblue_lt
 print 'Include:    _common.colortemplate'
 print 'DiffChanged yllw gry4 reverse'
 print 'DiffText    yllw gry4 reverse'
 print 'MatchParen  yllw gry4 reverse'
 print 'Search      yllw gry4 reverse'
 print ''
+print_airline(theme_name,'light')
+print_lightline(theme_name,'light')
+
+###
+
+print ''
 print '# dark'
 print 'Background: dark'
-print 'Color:      gry0 %s ~' % hexgry0_dk_0
-print 'Color:      gry1 %s ~' % hexgry1_dk_0
-print 'Color:      gry2 %s ~' % hexgry2_dk_0
-print 'Color:      gry3 %s ~' % hexgry3_dk_0
-print 'Color:      gry4 %s ~' % hexgry0_lt_0
-print 'Color:      yllw %s ~' % hexyllw_dk_0
-
-if sys.argv[1] == 'default':
-  print 'Color:      red_ %s ~' % hexred__dk_0
-  print 'Color:      gren %s ~' % hexgren_dk_0
-  print 'Color:      blue %s ~' % hexblue_dk_0
-elif sys.argv[1] == 'redshift_plus':
-  print 'Color:      red_ %s ~' % hexred__dkm2
-  print 'Color:      gren %s ~' % hexgren_dkm2
-  print 'Color:      blue %s ~' % hexblue_dkm2
-elif sys.argv[1] == 'redshift':
-  print 'Color:      red_ %s ~' % hexred__dkm1
-  print 'Color:      gren %s ~' % hexgren_dkm1
-  print 'Color:      blue %s ~' % hexblue_dkm1
-elif sys.argv[1] == 'blueshift':
-  print 'Color:      red_ %s ~' % hexred__dkp1
-  print 'Color:      gren %s ~' % hexgren_dkp1
-  print 'Color:      blue %s ~' % hexblue_dkp1
-elif sys.argv[1] == 'blueshift_plus':
-  print 'Color:      red_ %s ~' % hexred__dkp2
-  print 'Color:      gren %s ~' % hexgren_dkp2
-  print 'Color:      blue %s ~' % hexblue_dkp2
-
+print 'Color:      gry0 %s ~' % hexgry0_dk
+print 'Color:      gry1 %s ~' % hexgry1_dk
+print 'Color:      gry2 %s ~' % hexgry2_dk
+print 'Color:      gry3 %s ~' % hexgry3_dk
+print 'Color:      gry4 %s ~' % hexgry0_lt
+print 'Color:      yllw %s ~' % hexyllw_dk
+print 'Color:      red_ %s ~' % hexred__dk
+print 'Color:      gren %s ~' % hexgren_dk
+print 'Color:      blue %s ~' % hexblue_dk
 print 'Include:    _common.colortemplate'
 print 'DiffChanged yllw gry0 reverse'
 print 'DiffText    yllw gry0 reverse'
 print 'MatchParen  yllw gry0 reverse'
 print 'Search      yllw gry0 reverse'
+print ''
+print_airline(theme_name,'dark')
+print_lightline(theme_name,'dark')

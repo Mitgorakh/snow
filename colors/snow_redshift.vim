@@ -129,7 +129,7 @@ endif
 " yllw: GUI=#fcd900/rgb(252,217,  0)  Term=220 #ffd700/rgb(255,215,  0)  [delta=1.257616]
 " gry1: GUI=#ebedf1/rgb(235,237,241)  Term=255 #eeeeee/rgb(238,238,238)  [delta=2.077465]
 " gren: GUI=#528400/rgb( 82,132,  0)  Term= 64 #5f8700/rgb( 95,135,  0)  [delta=2.624397]
-" red_: GUI=#d13b71/rgb(209, 59,113)  Term=161 #d7005f/rgb(215,  0, 95)  [delta=5.023169]
+" red_: GUI=#d13c71/rgb(209, 60,113)  Term=161 #d7005f/rgb(215,  0, 95)  [delta=5.114922]
 " blue: GUI=#0079bb/rgb(  0,121,187)  Term= 32 #0087d7/rgb(  0,135,215)  [delta=6.383354]
 " gry4: GUI=#202a35/rgb( 32, 42, 53)  Term=235 #262626/rgb( 38, 38, 38)  [delta=7.283880]
 " gry2: GUI=#67788a/rgb(103,120,138)  Term= 67 #5f87af/rgb( 95,135,175)  [delta=9.009954]
@@ -180,18 +180,18 @@ hi PmenuSbar ctermfg=67 ctermbg=67 guifg=#67788a guibg=#67788a guisp=NONE cterm=
 hi PmenuThumb ctermfg=240 ctermbg=240 guifg=#495a6b guibg=#495a6b guisp=NONE cterm=NONE gui=NONE
 hi TabLineFill ctermfg=67 ctermbg=67 guifg=#67788a guibg=#67788a guisp=NONE cterm=NONE gui=NONE
 hi ToolbarLine ctermfg=255 ctermbg=255 guifg=#ebedf1 guibg=#ebedf1 guisp=NONE cterm=NONE gui=NONE
-hi Function ctermfg=161 ctermbg=NONE guifg=#d13b71 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Identifier ctermfg=161 ctermbg=NONE guifg=#d13b71 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi StorageClass ctermfg=161 ctermbg=NONE guifg=#d13b71 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi Structure ctermfg=161 ctermbg=NONE guifg=#d13b71 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi Type ctermfg=161 ctermbg=NONE guifg=#d13b71 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi Typedef ctermfg=161 ctermbg=NONE guifg=#d13b71 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi DiffDelete ctermfg=161 ctermbg=231 guifg=#d13b71 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi DiffRemoved ctermfg=161 ctermbg=231 guifg=#d13b71 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi Error ctermfg=161 ctermbg=231 guifg=#d13b71 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi ErrorMsg ctermfg=161 ctermbg=231 guifg=#d13b71 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi TooLong ctermfg=161 ctermbg=231 guifg=#d13b71 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi WarningMsg ctermfg=161 ctermbg=231 guifg=#d13b71 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi Function ctermfg=161 ctermbg=NONE guifg=#d13c71 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Identifier ctermfg=161 ctermbg=NONE guifg=#d13c71 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi StorageClass ctermfg=161 ctermbg=NONE guifg=#d13c71 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi Structure ctermfg=161 ctermbg=NONE guifg=#d13c71 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi Type ctermfg=161 ctermbg=NONE guifg=#d13c71 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi Typedef ctermfg=161 ctermbg=NONE guifg=#d13c71 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi DiffDelete ctermfg=161 ctermbg=231 guifg=#d13c71 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi DiffRemoved ctermfg=161 ctermbg=231 guifg=#d13c71 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi Error ctermfg=161 ctermbg=231 guifg=#d13c71 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi ErrorMsg ctermfg=161 ctermbg=231 guifg=#d13c71 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi TooLong ctermfg=161 ctermbg=231 guifg=#d13c71 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi WarningMsg ctermfg=161 ctermbg=231 guifg=#d13c71 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi Conditional ctermfg=64 ctermbg=NONE guifg=#528400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Exception ctermfg=64 ctermbg=NONE guifg=#528400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Keyword ctermfg=64 ctermbg=NONE guifg=#528400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -237,7 +237,7 @@ finish
 " Color:      gry3 #495a6b ~
 " Color:      gry4 #202a35 ~
 " Color:      yllw #fcd900 ~
-" Color:      red_ #d13b71 ~
+" Color:      red_ #d13c71 ~
 " Color:      gren #528400 ~
 " Color:      blue #0079bb ~
 " Bold               none   none   bold
