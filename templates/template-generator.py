@@ -171,7 +171,7 @@ print 'Color:      gry0 %s ~' % hexgry0_lt
 print 'Color:      gry1 %s ~' % hexgry1_lt
 print 'Color:      gry2 %s ~' % hexgry2_lt
 print 'Color:      gry3 %s ~' % hexgry3_lt
-print 'Color:      gry4 %s ~' % hexgry0_dk
+print 'Color:      gry4 %s ~' % hexgry1_dk
 print 'Color:      yllw %s ~' % hexyllw_lt
 print 'Color:      red_ %s ~' % hexred__lt
 print 'Color:      gren %s ~' % hexgren_lt
@@ -194,7 +194,7 @@ print 'Color:      gry0 %s ~' % hexgry0_dk
 print 'Color:      gry1 %s ~' % hexgry1_dk
 print 'Color:      gry2 %s ~' % hexgry2_dk
 print 'Color:      gry3 %s ~' % hexgry3_dk
-print 'Color:      gry4 %s ~' % hexgry0_lt
+print 'Color:      gry4 %s ~' % hexgry1_lt
 print 'Color:      yllw %s ~' % hexyllw_dk
 print 'Color:      red_ %s ~' % hexred__dk
 print 'Color:      gren %s ~' % hexgren_dk
