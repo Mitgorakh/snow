@@ -208,7 +208,7 @@ In addition to `snow`, the following theme variants (featuring shifted accent co
 
 ## status line themes
 
-snow comes with themes for airline and lightline. A separate theme is provided for each variant/background combination.
+snow comes with themes for airline and lightline. A separate theme is provided for each variant+background.
 
 For instance, to activate the airline theme for `snow_redshift` with dark background:
 
@@ -232,17 +232,37 @@ For instance, to rotate through all theme variants throughout the day, you could
 
 ```
 let g:nd_themes = [
-  \ [ 'sunrise+0'   , 'snow_redshift_plus'  , 'light' ],
-  \ [ 'sunrise+1/5' , 'snow_redshift'       , 'light' ],
-  \ [ 'sunrise+2/5' , 'snow'                , 'light' ],
-  \ [ 'sunrise+3/5' , 'snow_blueshift'      , 'light' ],
-  \ [ 'sunrise+4/5' , 'snow_blueshift_plus' , 'light' ],
-  \ [ 'sunset+0'    , 'snow_redshift_plus'  , 'dark'  ],
-  \ [ 'sunset+1/5'  , 'snow_redshift'       , 'dark'  ],
-  \ [ 'sunset+2/5'  , 'snow'                , 'dark'  ],
-  \ [ 'sunset+3/5'  , 'snow_blueshift'      , 'dark'  ],
-  \ [ 'sunset+4/5'  , 'snow_blueshift_plus' , 'dark'  ],
+  \ [ '06:00' , 'snow_redshift_plus'  , 'light' ],
+  \ [ '08:24' , 'snow_redshift'       , 'light' ],
+  \ [ '10:48' , 'snow'                , 'light' ],
+  \ [ '13:12' , 'snow_blueshift'      , 'light' ],
+  \ [ '15:36' , 'snow_blueshift_plus' , 'light' ],
+  \ [ '18:00' , 'snow_redshift_plus'  , 'dark'  ],
+  \ [ '20:24' , 'snow_redshift'       , 'dark'  ],
+  \ [ '22:48' , 'snow'                , 'dark'  ],
+  \ [ '01:12' , 'snow_blueshift'      , 'dark'  ],
+  \ [ '03:36' , 'snow_blueshift_plus' , 'dark'  ],
   \ ]
+```
+
+Or, using sun-relative times and adding lightline themes:
+
+```
+let g:nd_themes = [
+\ ['sunrise+0'  , 'snow_redshift_plus' , 'light', 'snow_redshift_plus_light' ],
+\ ['sunrise+1/5', 'snow_redshift'      , 'light', 'snow_redshift_light'      ],
+\ ['sunrise+2/5', 'snow'               , 'light', 'snow_light'               ],
+\ ['sunrise+3/5', 'snow_blueshift'     , 'light', 'snow_blueshift_light'     ],
+\ ['sunrise+4/5', 'snow_blueshift_plus', 'light', 'snow_blueshift_plus_light'],
+\ ['sunset+0'   , 'snow_redshift_plus' , 'dark' , 'snow_redshift_plus_dark'  ],
+\ ['sunset+1/5' , 'snow_redshift'      , 'dark' , 'snow_redshift_dark'       ],
+\ ['sunset+2/5' , 'snow'               , 'dark' , 'snow_dark'                ],
+\ ['sunset+3/5' , 'snow_blueshift'     , 'dark' , 'snow_blueshift_dark'      ],
+\ ['sunset+4/5' , 'snow_blueshift_plus', 'dark' , 'snow_blueshift_plus_dark' ],
+\ ]
+let g:nd_latitude = '50'
+let g:nd_timeshift = '74'
+let g:nd_lightline = 1
 ```
 
 ## terminal vim
