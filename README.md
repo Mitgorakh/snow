@@ -206,6 +206,24 @@ set background=dark
 
 In addition to `snow`, the following theme variants (featuring shifted accent color hues) are available: `snow_redshift_plus`, `snow_redshift`, `snow_blueshift`, and `snow_blueshift_plus`.
 
+## status line themes
+
+snow comes with themes for airline and lightline. A separate theme is provided for each variant/background combination.
+
+For instance, to activate the airline theme for `snow_redshift` with dark background:
+
+```
+let g:airline_theme='snow_redshift_dark'
+```
+
+For lightline:
+
+```
+let g:lightline = { 'colorscheme': 'snow_redshift_dark' }
+```
+
+`dark` can be replaced with `light`, and `snow_redshift` can be replaced with `snow_redshift_plus`, `snow`, `snow_blueshift`, or `snow_blueshift_plus`.
+
 ## rotation
 
 If you'd like themes and/or backgrounds to switch automatically (based on absolute time or sun-relative time), you might want to try out [night-and-day](https://github.com/nightsense/night-and-day).
@@ -250,18 +268,6 @@ let &t_EI = "\<Esc>[2 q"
 ```
 
 ...which sets the cursor to a vertical line for insert mode, underline for replace mode, and block for normal mode.
-
-## status line themes
-
-snow comes with themes for airline and lightline.
-
-To activate the lightline theme, add to vimrc:
-
-```
-let g:lightline = { 'colorscheme': 'snow' }
-```
-
-`snow` can be replaced with the name of any theme variant.
 
 ---
 
