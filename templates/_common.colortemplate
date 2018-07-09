@@ -21,9 +21,9 @@ CursorLineNr       gry2   none
 LineNr             gry2   none
 
 # reverse hard
-Cursor             gry3   gry0   reverse
-IncSearch          gry3   gry0   reverse
-TermCursor         gry3   gry0   reverse
+Cursor             gryc   gry0   reverse
+IncSearch          gryc   gry0   reverse
+TermCursor         gryc   gry0   reverse
 
 # reverse soft
 VertSplit          gry2   gry0   reverse

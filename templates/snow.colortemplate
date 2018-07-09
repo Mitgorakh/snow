@@ -9,19 +9,20 @@ Terminal Colors: 256
 # light
 Background: light
 Color:      gry0 #ffffff ~
-Color:      gry1 #eaeff5 ~
-Color:      gry2 #697582 ~
-Color:      gry3 #505b68 ~
-Color:      gry4 #2f3a45 ~
+Color:      gry1 #eaeff4 ~
+Color:      gry2 #657687 ~
+Color:      gry3 #475767 ~
+Color:      gryc #2e3d4d ~
+Color:      gryy #2e3d4d ~
 Color:      yllw #ffdc00 ~
 Color:      red_ #c24b33 ~
 Color:      gren #24851d ~
 Color:      blue #0078d1 ~
 Include:    _common.colortemplate
-DiffChanged yllw gry4 reverse
-DiffText    yllw gry4 reverse
-MatchParen  yllw gry4 reverse
-Search      yllw gry4 reverse
+DiffChanged yllw gryc reverse
+DiffText    yllw gryc reverse
+MatchParen  yllw gryc reverse
+Search      yllw gryc reverse
 
 auxfile autoload/airline/themes/snow_light.vim
 let g:airline#themes#snow_light#palette = {}
@@ -64,7 +65,7 @@ let s:gry0 = "@guigry0"
 let s:gry1 = "@guigry1"
 let s:gry2 = "@guigry2"
 let s:gry3 = "@guigry3"
-let s:gry4 = "@guigry4"
+let s:gryy = "@guigryy"
 let s:red_ = "@guired_"
 let s:yllw = "@guiyllw"
 let s:gren = "@guigren"
@@ -95,7 +96,7 @@ let s:p.tabline.tabsel  = copy(s:p.normal.middle)
 let s:p.tabline.right   = [[ s:gry0, s:gry2 ]]
 
 let s:p.normal.error    = [[ s:red_, s:gry0 ]]
-let s:p.normal.warning  = [[ s:yllw, s:gry4 ]]
+let s:p.normal.warning  = [[ s:yllw, s:gryy ]]
 
 let g:lightline#colorscheme#snow_light#palette =
   \ lightline#colorscheme#fill(s:p)
@@ -103,20 +104,21 @@ endauxfile
 
 # dark
 Background: dark
-Color:      gry0 #1f262c ~
-Color:      gry1 #2f3a45 ~
-Color:      gry2 #818e9b ~
-Color:      gry3 #a0acba ~
-Color:      gry4 #eaeff5 ~
+Color:      gry0 #1d2630 ~
+Color:      gry1 #25313d ~
+Color:      gry2 #7b8ea3 ~
+Color:      gry3 #99adc2 ~
+Color:      gryc #bfd3e9 ~
+Color:      gryy #1d2630 ~
 Color:      yllw #d8c165 ~
 Color:      red_ #bb897b ~
 Color:      gren #7f9d77 ~
 Color:      blue #759abd ~
 Include:    _common.colortemplate
-DiffChanged yllw gry0 reverse
-DiffText    yllw gry0 reverse
-MatchParen  yllw gry0 reverse
-Search      yllw gry0 reverse
+DiffChanged yllw gryy reverse
+DiffText    yllw gryy reverse
+MatchParen  yllw gryy reverse
+Search      yllw gryy reverse
 
 auxfile autoload/airline/themes/snow_dark.vim
 let g:airline#themes#snow_dark#palette = {}
@@ -159,7 +161,7 @@ let s:gry0 = "@guigry0"
 let s:gry1 = "@guigry1"
 let s:gry2 = "@guigry2"
 let s:gry3 = "@guigry3"
-let s:gry4 = "@guigry4"
+let s:gryy = "@guigryy"
 let s:red_ = "@guired_"
 let s:yllw = "@guiyllw"
 let s:gren = "@guigren"
@@ -190,7 +192,7 @@ let s:p.tabline.tabsel  = copy(s:p.normal.middle)
 let s:p.tabline.right   = [[ s:gry0, s:gry2 ]]
 
 let s:p.normal.error    = [[ s:red_, s:gry0 ]]
-let s:p.normal.warning  = [[ s:yllw, s:gry4 ]]
+let s:p.normal.warning  = [[ s:yllw, s:gryy ]]
 
 let g:lightline#colorscheme#snow_dark#palette =
   \ lightline#colorscheme#fill(s:p)
