@@ -152,19 +152,6 @@ elif theme_name == 'snow_blueshift_plus':
   hexred__dk = tohex( gold(1.000) , cro_dk , 073.3 )
   hexgren_dk = tohex( gold(1.000) , cro_dk , 173.0 )
   hexblue_dk = tohex( gold(1.000) , cro_dk , 282.0 )
-elif theme_name == 'snow_seven':
-  hexred__lt = tohex( gold(1.500) , cro_lt , 040.0 )
-  hexred__lt = tohex( gold(1.500) , cro_lt , 330.3 )
-  hexgren_lt = tohex( gold(1.500) , cro_lt , 135.0 )
-  hexseag_lt = tohex( gold(1.625) , cro_lt , 173.0 )
-  hexblue_lt = tohex( gold(1.625) , cro_lt , 255.0 )
-  hexprpl_lt = tohex( gold(1.500) , cro_lt , 282.0 )
-  hexred__dk = tohex( gold(1.000) , cro_dk , 040.0 )
-  hexred__dk = tohex( gold(1.000) , cro_dk , 330.3 )
-  hexgren_dk = tohex( gold(1.000) , cro_dk , 135.0 )
-  hexseag_dk = tohex( gold(1.000) , cro_dk , 173.0 )
-  hexblue_dk = tohex( gold(1.000) , cro_dk , 255.0 )
-  hexprpl_dk = tohex( gold(1.000) , cro_dk , 282.0 )
 
 else:
   print 'invalid theme name'
