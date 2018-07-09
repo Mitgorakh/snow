@@ -102,16 +102,16 @@ hue_yllw = 090.0
 
 hexgry0_lt = tohex( gold(0.000) , gold(10000) , hue_base )
 hexgry1_lt = tohex( gold(0.125) , gold(7.125) , hue_base )
-hexgry2_lt = tohex( gold(1.500) , gold(4.375) , hue_base )
-hexgry3_lt = tohex( gold(2.125) , gold(4.375) , hue_base )
-hexgryc_lt = tohex( gold(2.875) , gold(4.375) , hue_base )
+hexgry2_lt = tohex( gold(1.500) , gold(4.250) , hue_base )
+hexgry3_lt = tohex( gold(2.125) , gold(4.250) , hue_base )
+hexgryc_lt = tohex( gold(2.875) , gold(4.250) , hue_base )
 hexyllw_lt = tohex( gold(0.250) , gold(0.000) , hue_yllw )
 
 hexgry0_dk = tohex( gold(4.000) , gold(5.250) , hue_base )
 hexgry1_dk = tohex( gold(3.375) , gold(4.875) , hue_base )
-hexgry2_dk = tohex( gold(1.125) , gold(4.125) , hue_base )
-hexgry3_dk = tohex( gold(0.750) , gold(4.125) , hue_base )
-hexgryc_dk = tohex( gold(0.375) , gold(4.125) , hue_base )
+hexgry2_dk = tohex( gold(1.125) , gold(4.250) , hue_base )
+hexgry3_dk = tohex( gold(0.750) , gold(4.250) , hue_base )
+hexgryc_dk = tohex( gold(0.375) , gold(4.250) , hue_base )
 hexyllw_dk = tohex( gold(0.500) , gold(1.500) , hue_yllw )
 
 cro_lt = gold(1.0)
