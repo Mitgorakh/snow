@@ -105,7 +105,7 @@ endauxfile
 # dark
 Background: dark
 Color:      gry0 #1d2630 ~
-Color:      gry1 #25313d ~
+Color:      gry1 #232f3a ~
 Color:      gry2 #7b8ea3 ~
 Color:      gry3 #99adc2 ~
 Color:      gryc #bfd3e9 ~
