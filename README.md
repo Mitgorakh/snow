@@ -36,16 +36,16 @@ set background=dark
 <td align='center' colspan='2'>
 <h4>
 <img src="http://www.colorhexa.com/ffffff.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/ebedf1.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/6b7887.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/4d5a69.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/2e3843.png" height="12" width="12">
+<img src="http://www.colorhexa.com/eaeff4.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/657687.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/475767.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/2e3d4d.png" height="12" width="12">
 &nbsp;&nbsp;base colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/202a35.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/2e3843.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/8291a0.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/a7b6c6.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/ebedf1.png" height="12" width="12">
+<img src="http://www.colorhexa.com/1d2630.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/25313d.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/7b8ea3.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/99adc2.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/bfd3e9.png" height="12" width="12">
 </h4>
 
 <h6>soft, blue-tinted greys for the general visual interface</h6>
@@ -56,25 +56,25 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <h4>
-<img src="http://www.colorhexa.com/c85037.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/fcd900.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/298821.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/0079d2.png" height="12" width="12">
+<img src="http://www.colorhexa.com/c24b33.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/ffdc00.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/24851d.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/0078d1.png" height="12" width="12">
 &nbsp;&nbsp;accent colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/b78678.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/dac264.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/799871.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/6f93b6.png" height="12" width="12">
+<img src="http://www.colorhexa.com/bb897b.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/d8c165.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/7f9d77.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/759abd.png" height="12" width="12">
 </h4>
 <h6>a minimal set of colors for simple, logical syntax highlighting</h6>
 
-<h5><img src="http://www.colorhexa.com/c64f36.png" height="12" width="12">&nbsp;&nbsp;because red is the color of vitality, as in the red of life-giving blood...&nbsp;&nbsp;<img src="http://www.colorhexa.com/b78678.png" height="12" width="12"></h5>
+<h5><img src="http://www.colorhexa.com/c64f36.png" height="12" width="12">&nbsp;&nbsp;because red is the color of vitality, as in the red of life-giving blood...&nbsp;&nbsp;<img src="http://www.colorhexa.com/bb897b.png" height="12" width="12"></h5>
 <h6>...plain red text is for names, which give life to abstractions (like variables and functions)<br><br>
 ...bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)</h6>
 <h5>because red is also the color of alarm...</h5>
 <h6>...red highlighting is for warnings and diff deletions</h6>
 
-<h5><img src="http://www.colorhexa.com/fcd900.png" height="12" width="12">&nbsp;&nbsp;because yellow is the color of "hey, look at this"...&nbsp;&nbsp;<img src="http://www.colorhexa.com/dac264.png" height="12" width="12"></h5>
+<h5><img src="http://www.colorhexa.com/ffdc00.png" height="12" width="12">&nbsp;&nbsp;because yellow is the color of "hey, look at this"...&nbsp;&nbsp;<img src="http://www.colorhexa.com/d8c165.png" height="12" width="12"></h5>
 <h6>...yellow highlighting is for search results, matching parentheses, and diff changes</h6>
 
 <h5><img src="http://www.colorhexa.com/22831b.png" height="12" width="12">&nbsp;&nbsp;because green is the color of "go ahead, proceed with action"...&nbsp;&nbsp;<img src="http://www.colorhexa.com/7c9a73.png" height="12" width="12"></h5>
