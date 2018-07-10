@@ -77,7 +77,7 @@ set background=dark
 
 <h6>a minimal set of colors for simple, logical syntax highlighting</h6>
 
-<h6><img src="http://www.colorhexa.com/c84533.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;red (vermilion)&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/d69c8e.png" height="36" width="36"></h6>
+<h6><img src="http://www.colorhexa.com/c84533.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;(vermilion) red&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/d69c8e.png" height="36" width="36"></h6>
 
 <h6><img src="http://www.colorhexa.com/ffd300.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;(safety) yellow&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/e2bd67.png" height="36" width="36"></h6>
 
@@ -90,6 +90,8 @@ set background=dark
 
 <tr>
 <td align='center' colspan='2'>
+
+<h4>syntax highlighting logic</h4>
 
 <h5><img src="http://www.colorhexa.com/c84533.png" height="18" width="18">&nbsp;&nbsp;because red is the color of vitality, as in the red of life-giving blood...&nbsp;&nbsp;<img src="http://www.colorhexa.com/d69c8e.png" height="18" width="18"></h5>
 <h6>...plain red text is for names, which give life to abstractions (like variables and functions)<br><br>
