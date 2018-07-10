@@ -110,8 +110,12 @@ contrast ratio, with exceptions made for transient highlighting<br>(which noneth
 </tr>
 
 <tr>
+<td align='center' colspan='2'>
+<h5>magenta / moss green / green-blue</h5>
+</td>
+</tr>
+<tr>
 <td align="center"><img alt="screenshot of the snow vim theme, light version, red-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-redshift-plus.png" height="325" />
-<h6>magenta / moss green / green-blue</h6>
 <pre>
 colorscheme snow_redshift_plus
 set background=light
