@@ -97,61 +97,61 @@ def print_lightline(name,bg):
   print '  \ lightline#colorscheme#fill(s:p)'
   print 'endauxfile'
 
-hue_base = 255.0
-hue_yllw = 090.0
+hue_base = 262.50
+hue_yllw = 082.50
 
-hexgry0_lt = tohex( gold(0.000) , gold(10000) , hue_base )
-hexgry1_lt = tohex( gold(0.125) , gold(7.125) , hue_base )
-hexgry2_lt = tohex( gold(1.500) , gold(4.250) , hue_base )
-hexgry3_lt = tohex( gold(2.125) , gold(4.250) , hue_base )
-hexgryc_lt = tohex( gold(2.875) , gold(4.250) , hue_base )
-hexyllw_lt = tohex( gold(0.250) , gold(0.000) , hue_yllw )
+hexgry0_lt = tohex( gold(0.000) , gold(1000) , hue_base )
+hexgry1_lt = tohex( gold(0.125) , gold(7.00) , hue_base )
+hexgry2_lt = tohex( gold(1.500) , gold(4.50) , hue_base )
+hexgry3_lt = tohex( gold(2.000) , gold(4.50) , hue_base )
+hexgryc_lt = tohex( gold(3.000) , gold(4.50) , hue_base )
+hexyllw_lt = tohex( gold(0.250) , gold(0.00) , hue_yllw )
 
-hexgry0_dk = tohex( gold(4.000) , gold(5.250) , hue_base )
-hexgry1_dk = tohex( gold(3.375) , gold(4.875) , hue_base )
-hexgry2_dk = tohex( gold(1.125) , gold(4.250) , hue_base )
-hexgry3_dk = tohex( gold(0.750) , gold(4.250) , hue_base )
-hexgryc_dk = tohex( gold(0.375) , gold(4.250) , hue_base )
-hexyllw_dk = tohex( gold(0.500) , gold(1.500) , hue_yllw )
+hexgry0_dk = tohex( gold(4.000) , gold(5.25) , hue_base )
+hexgry1_dk = tohex( gold(3.375) , gold(5.00) , hue_base )
+hexgry2_dk = tohex( gold(1.125) , gold(4.50) , hue_base )
+hexgry3_dk = tohex( gold(0.750) , gold(4.50) , hue_base )
+hexgryc_dk = tohex( gold(0.250) , gold(4.50) , hue_base )
+hexyllw_dk = tohex( gold(0.500) , gold(1.50) , hue_yllw )
 
 cro_lt = gold(1.0)
 cro_dk = gold(3.0)
 
 if theme_name == 'snow_redshift_plus':
-  hexred__lt = tohex( gold(1.500) , cro_lt , 330.3 )
+  hexred__lt = tohex( gold(1.500) , cro_lt , 330.0 )
   hexgren_lt = tohex( gold(1.500) , cro_lt , 105.0 )
-  hexblue_lt = tohex( gold(1.750) , cro_lt , 213.0 )
-  hexred__dk = tohex( gold(1.000) , cro_dk , 330.3 )
+  hexblue_lt = tohex( gold(1.750) , cro_lt , 210.0 )
+  hexred__dk = tohex( gold(1.000) , cro_dk , 330.0 )
   hexgren_dk = tohex( gold(1.000) , cro_dk , 105.0 )
-  hexblue_dk = tohex( gold(1.000) , cro_dk , 213.0 )
+  hexblue_dk = tohex( gold(1.000) , cro_dk , 210.0 )
 elif theme_name == 'snow_redshift':
-  hexred__lt = tohex( gold(1.500) , cro_lt , 005.2 )
+  hexred__lt = tohex( gold(1.500) , cro_lt , 000.0 )
   hexgren_lt = tohex( gold(1.500) , cro_lt , 120.0 )
-  hexblue_lt = tohex( gold(1.750) , cro_lt , 234.0 )
-  hexred__dk = tohex( gold(1.000) , cro_dk , 005.2 )
+  hexblue_lt = tohex( gold(1.750) , cro_lt , 240.0 )
+  hexred__dk = tohex( gold(1.000) , cro_dk , 000.0 )
   hexgren_dk = tohex( gold(1.000) , cro_dk , 120.0 )
-  hexblue_dk = tohex( gold(1.000) , cro_dk , 234.0 )
+  hexblue_dk = tohex( gold(1.000) , cro_dk , 240.0 )
 elif theme_name == 'snow':
-  hexred__lt = tohex( gold(1.500) , cro_lt , 040.0 )
+  hexred__lt = tohex( gold(1.500) , cro_lt , 037.5 )
   hexgren_lt = tohex( gold(1.500) , cro_lt , 135.0 )
-  hexblue_lt = tohex( gold(1.625) , cro_lt , 255.0 )
-  hexred__dk = tohex( gold(1.000) , cro_dk , 040.0 )
+  hexblue_lt = tohex( gold(1.625) , cro_lt , 262.5 )
+  hexred__dk = tohex( gold(1.000) , cro_dk , 037.5 )
   hexgren_dk = tohex( gold(1.000) , cro_dk , 135.0 )
-  hexblue_dk = tohex( gold(1.000) , cro_dk , 255.0 )
+  hexblue_dk = tohex( gold(1.000) , cro_dk , 262.5 )
 elif theme_name == 'snow_blueshift':
-  hexred__lt = tohex( gold(1.500) , cro_lt , 056.7 )
-  hexgren_lt = tohex( gold(1.500) , cro_lt , 154.0 )
-  hexblue_lt = tohex( gold(1.625) , cro_lt , 268.5 )
-  hexred__dk = tohex( gold(1.000) , cro_dk , 056.7 )
-  hexgren_dk = tohex( gold(1.000) , cro_dk , 154.0 )
-  hexblue_dk = tohex( gold(1.000) , cro_dk , 268.5 )
+  hexred__lt = tohex( gold(1.500) , cro_lt , 045.0 )
+  hexgren_lt = tohex( gold(1.500) , cro_lt , 150.0 )
+  hexblue_lt = tohex( gold(1.625) , cro_lt , 270.0 )
+  hexred__dk = tohex( gold(1.000) , cro_dk , 045.0 )
+  hexgren_dk = tohex( gold(1.000) , cro_dk , 150.0 )
+  hexblue_dk = tohex( gold(1.000) , cro_dk , 270.0 )
 elif theme_name == 'snow_blueshift_plus':
-  hexred__lt = tohex( gold(1.500) , cro_lt , 073.3 )
-  hexgren_lt = tohex( gold(1.625) , cro_lt , 173.0 )
-  hexblue_lt = tohex( gold(1.500) , cro_lt , 282.0 )
-  hexred__dk = tohex( gold(1.000) , cro_dk , 073.3 )
-  hexgren_dk = tohex( gold(1.000) , cro_dk , 173.0 )
-  hexblue_dk = tohex( gold(1.000) , cro_dk , 282.0 )
+  hexred__lt = tohex( gold(1.500) , cro_lt , 060.0 )
+  hexgren_lt = tohex( gold(1.625) , cro_lt , 180.0 )
+  hexblue_lt = tohex( gold(1.500) , cro_lt , 300.0 )
+  hexred__dk = tohex( gold(1.000) , cro_dk , 060.0 )
+  hexgren_dk = tohex( gold(1.000) , cro_dk , 180.0 )
+  hexblue_dk = tohex( gold(1.000) , cro_dk , 300.0 )
 
 else:
   print 'invalid theme name'

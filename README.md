@@ -37,15 +37,15 @@ set background=dark
 <h4>
 <img src="http://www.colorhexa.com/ffffff.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/eaeff4.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/657687.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/475767.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/2e3d4d.png" height="12" width="12">
+<img src="http://www.colorhexa.com/647688.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/465768.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/2c3e4e.png" height="12" width="12">
 &nbsp;&nbsp;base colors&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/1d2630.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/25313d.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/7b8ea3.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/99adc2.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/bfd3e9.png" height="12" width="12">
+<img src="http://www.colorhexa.com/7c8ea2.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/9badc1.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/c0d3e7.png" height="12" width="12">
 </h4>
 
 <h6>soft, blue-tinted greys for the general visual interface</h6>
