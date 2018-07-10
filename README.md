@@ -106,12 +106,12 @@ contrast ratio, with exceptions made for transient highlighting<br>(which noneth
 <td align='center' colspan='2'>
 <h4>hue-shifted theme variants</h4>
 <h6>in which the red, green, and blue accent hues are shifted together along the spectrum</h6>
+<br>
 </td>
 </tr>
 
 <tr>
 <td align='center' colspan='2'>
-<br>
 <h5>magenta / moss green / green-blue</h5>
 </td>
 </tr>
@@ -127,12 +127,12 @@ set background=light
 colorscheme snow_redshift_plus
 set background=dark
 </pre>
+<br>
 </td>
 </tr>
 
 <tr>
 <td align='center' colspan='2'>
-<br>
 <h5>pink / lawn green / celestial blue</h5>
 </td>
 </tr>
