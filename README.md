@@ -35,17 +35,17 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <h4>
-<img src="http://www.colorhexa.com/ffffff.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/eaeff5.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/647688.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/415263.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/2d3a47.png" height="12" width="12">
+<img src="http://www.colorhexa.com/ffffff.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/eaeff5.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/647688.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/415263.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/2d3a47.png" height="8" width="8">
 &nbsp;&nbsp;base colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/242f3a.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/2d3a47.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/8698ab.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/b6c5d5.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/eaeff5.png" height="12" width="12">
+<img src="http://www.colorhexa.com/242f3a.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/2d3a47.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/8698ab.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/b6c5d5.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/eaeff5.png" height="8" width="8">
 </h4>
 
 <h6>soft, blue-tinted greys for the general visual interface</h6>
