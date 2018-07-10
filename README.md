@@ -39,13 +39,13 @@ set background=dark
 <img src="http://www.colorhexa.com/ebeff5.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/697586.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/4f5b6c.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/2e3949.png" height="12" width="12">
+<img src="http://www.colorhexa.com/2f3947.png" height="12" width="12">
 &nbsp;&nbsp;base colors&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/1e2630.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/28313d.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/27313e.png" height="12" width="12">&nbsp;
 <img src="http://www.colorhexa.com/818da0.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/9facbf.png" height="12" width="12">&nbsp;
-<img src="http://www.colorhexa.com/d3e0f4.png" height="12" width="12">
+<img src="http://www.colorhexa.com/a1abbc.png" height="12" width="12">&nbsp;
+<img src="http://www.colorhexa.com/d9dfe9.png" height="12" width="12">
 </h4>
 
 <h6>soft, blue-tinted greys for the general visual interface</h6>
