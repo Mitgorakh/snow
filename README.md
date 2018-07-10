@@ -112,7 +112,8 @@ contrast ratio, with exceptions made for transient highlighting<br>(which noneth
 
 <tr>
 <td align='center' colspan='2'>
-<h5>magenta / moss green / teal-blue</h5>
+<h5>
+<img src="http://www.colorhexa.com/b843ad.png" height="18" width="18">&nbsp;&nbsp;magenta&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb9cc3.png" height="18" width="18"> / <img src="http://www.colorhexa.com/6b7a00.png" height="18" width="18">&nbsp;&nbsp;moss green&nbsp;&nbsp;<img src="http://www.colorhexa.com/abad7b.png" height="18" width="18"> / <img src="http://www.colorhexa.com/007c9b.png" height="18" width="18">&nbsp;&nbsp;teal-blue&nbsp;&nbsp;<img src="http://www.colorhexa.com/69b7c2.png" height="18" width="18"></h5>
 </td>
 </tr>
 <tr>
