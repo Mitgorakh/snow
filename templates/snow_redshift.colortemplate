@@ -10,19 +10,19 @@ Terminal Colors: 256
 Background: light
 Color:      gry0 #ffffff ~
 Color:      gry1 #eaeff5 ~
-Color:      gry2 #667586 ~
-Color:      gry3 #435261 ~
-Color:      gryc #2b3a49 ~
-Color:      gryy #2b3a49 ~
+Color:      gry2 #647688 ~
+Color:      gry3 #415263 ~
+Color:      gryc #2d3a47 ~
+Color:      gryy #242f3a ~
 Color:      yllw #ffd300 ~
-Color:      red_ #cc3776 ~
-Color:      gren #4f8000 ~
-Color:      blue #0076bf ~
+Color:      red_ #d12f77 ~
+Color:      gren #4b8100 ~
+Color:      blue #0077c4 ~
 Include:    _common.colortemplate
-DiffChanged yllw gryc reverse
-DiffText    yllw gryc reverse
-MatchParen  yllw gryc reverse
-Search      yllw gryc reverse
+DiffChanged yllw gryy reverse
+DiffText    yllw gryy reverse
+MatchParen  yllw gryy reverse
+Search      yllw gryy reverse
 
 auxfile autoload/airline/themes/snow_redshift_light.vim
 let g:airline#themes#snow_redshift_light#palette = {}
@@ -104,16 +104,16 @@ endauxfile
 
 # dark
 Background: dark
-Color:      gry0 #1d2630 ~
-Color:      gry1 #25313e ~
-Color:      gry2 #7e8e9f ~
+Color:      gry0 #242f3a ~
+Color:      gry1 #2d3a47 ~
+Color:      gry2 #8698ab ~
 Color:      gry3 #b6c5d5 ~
-Color:      gryc #d8e0e9 ~
-Color:      gryy #1d2630 ~
+Color:      gryc #eaeff5 ~
+Color:      gryy #242f3a ~
 Color:      yllw #e2bd67 ~
-Color:      red_ #bd8696 ~
-Color:      gren #8b9b70 ~
-Color:      blue #6a9db9 ~
+Color:      red_ #d898ab ~
+Color:      gren #9eb17f ~
+Color:      blue #78b3d4 ~
 Include:    _common.colortemplate
 DiffChanged yllw gryy reverse
 DiffText    yllw gryy reverse
