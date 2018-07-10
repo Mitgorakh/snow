@@ -121,6 +121,7 @@ contrast ratio, with exceptions made for transient highlighting<br>(which noneth
 colorscheme snow_redshift_plus
 set background=light
 </pre>
+<br>
 </td>
 <td align="center"><img alt="screenshot of the snow vim theme, dark version, red-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-redshift-plus.png" height="325" />
 <pre>
