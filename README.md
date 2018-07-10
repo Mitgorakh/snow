@@ -112,7 +112,7 @@ contrast ratio, with exceptions made for transient highlighting<br>(which noneth
 
 <tr>
 <td align='center' colspan='2'>
-<h5>magenta / moss green / green-blue</h5>
+<h5>magenta / moss green / teal-blue</h5>
 </td>
 </tr>
 <tr>
