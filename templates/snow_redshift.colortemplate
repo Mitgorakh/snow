@@ -9,11 +9,11 @@ Terminal Colors: 256
 # light
 Background: light
 Color:      gry0 #ffffff ~
-Color:      gry1 #ebeff5 ~
-Color:      gry2 #697586 ~
-Color:      gry3 #4f5b6c ~
-Color:      gryc #2f3947 ~
-Color:      gryy #2f3947 ~
+Color:      gry1 #eaeff5 ~
+Color:      gry2 #667586 ~
+Color:      gry3 #4d5c6c ~
+Color:      gryc #2d3a47 ~
+Color:      gryy #2d3a47 ~
 Color:      yllw #ffd300 ~
 Color:      red_ #cc3776 ~
 Color:      gren #4f8000 ~
@@ -104,12 +104,12 @@ endauxfile
 
 # dark
 Background: dark
-Color:      gry0 #1e2630 ~
-Color:      gry1 #27313e ~
-Color:      gry2 #818da0 ~
-Color:      gry3 #a1abbc ~
-Color:      gryc #d9dfe9 ~
-Color:      gryy #1e2630 ~
+Color:      gry0 #1d2630 ~
+Color:      gry1 #25313e ~
+Color:      gry2 #7e8e9f ~
+Color:      gry3 #9eacbc ~
+Color:      gryc #d8e0e9 ~
+Color:      gryy #1d2630 ~
 Color:      yllw #e2bd67 ~
 Color:      red_ #bd8696 ~
 Color:      gren #8b9b70 ~

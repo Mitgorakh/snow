@@ -97,7 +97,7 @@ def print_lightline(name,bg):
   print '  \ lightline#colorscheme#fill(s:p)'
   print 'endauxfile'
 
-hue_base = 262.50
+hue_base = 255.00
 hue_yllw = 082.50
 
 hexgry0_lt = tohex( gold(0.000) , gold(1000) , hue_base )
@@ -134,10 +134,10 @@ elif theme_name == 'snow_redshift':
 elif theme_name == 'snow':
   hexred__lt = tohex( gold(1.500) , cro_lt , 037.5 )
   hexgren_lt = tohex( gold(1.500) , cro_lt , 135.0 )
-  hexblue_lt = tohex( gold(1.625) , cro_lt , 262.5 )
+  hexblue_lt = tohex( gold(1.625) , cro_lt , 255.0 )
   hexred__dk = tohex( gold(1.000) , cro_dk , 037.5 )
   hexgren_dk = tohex( gold(1.000) , cro_dk , 135.0 )
-  hexblue_dk = tohex( gold(1.000) , cro_dk , 262.5 )
+  hexblue_dk = tohex( gold(1.000) , cro_dk , 255.0 )
 elif theme_name == 'snow_blueshift':
   hexred__lt = tohex( gold(1.500) , cro_lt , 045.0 )
   hexgren_lt = tohex( gold(1.500) , cro_lt , 150.0 )
