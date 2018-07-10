@@ -64,17 +64,30 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <h4>
-<img src="http://www.colorhexa.com/c84533.png" height="18" width="18">&nbsp;
-<img src="http://www.colorhexa.com/ffd300.png" height="18" width="18">&nbsp;
-<img src="http://www.colorhexa.com/178614.png" height="18" width="18">&nbsp;
-<img src="http://www.colorhexa.com/0072d0.png" height="18" width="18">
+<img src="http://www.colorhexa.com/c84533.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/ffd300.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/178614.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/0072d0.png" height="8" width="8">
 &nbsp;&nbsp;accent colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/d69c8e.png" height="18" width="18">&nbsp;
-<img src="http://www.colorhexa.com/e2bd67.png" height="18" width="18">&nbsp;
-<img src="http://www.colorhexa.com/91b487.png" height="18" width="18">&nbsp;
-<img src="http://www.colorhexa.com/85afd9.png" height="18" width="18">
+<img src="http://www.colorhexa.com/d69c8e.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/e2bd67.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/91b487.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/85afd9.png" height="8" width="8">
 </h4>
-<h6>a minimal set of colors for simple, logical syntax highlighting</h6>
+
+<h6><img src="http://www.colorhexa.com/c84533.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;red (vermilion)&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/d69c8e.png" height="36" width="36"></h6>
+
+<h6><img src="http://www.colorhexa.com/ffd300.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;(safety) yellow&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/e2bd67.png" height="36" width="36"></h6>
+
+<h6><img src="http://www.colorhexa.com/178614.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;(forest) green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/91b487.png" height="36" width="36"></h6>
+
+<h6><img src="http://www.colorhexa.com/0072d0.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;(sky) blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/85afd9.png" height="36" width="36"></h6>
+
+</td>
+</tr>
+
+<tr>
+<td align='center' colspan='2'>
 
 <h5><img src="http://www.colorhexa.com/c84533.png" height="18" width="18">&nbsp;&nbsp;because red is the color of vitality, as in the red of life-giving blood...&nbsp;&nbsp;<img src="http://www.colorhexa.com/d69c8e.png" height="18" width="18"></h5>
 <h6>...plain red text is for names, which give life to abstractions (like variables and functions)<br><br>
