@@ -131,8 +131,13 @@ set background=dark
 </tr>
 
 <tr>
+<td align='center' colspan='2'>
+<br>
+<h5>pink / lawn green / celestial blue</h5>
+</td>
+</tr>
+<tr>
 <td align="center"><img alt="screenshot of the snow vim theme, light version, red-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-redshift.png" height="325" />
-<h6>pink / lawn green / celestial blue</h6>
 <pre>
 colorscheme snow_redshift
 set background=light
