@@ -19,11 +19,11 @@ let g:colors_name = 'snow_redshift_plus'
 if &background ==# 'dark'
   " Color similarity table (dark background)
   " red_: GUI=#b289ab/rgb(178,137,171)  Term=139 #af87af/rgb(175,135,175)  [delta=1.957990]
-  " gryc: GUI=#ebeff3/rgb(235,239,243)  Term=255 #eeeeee/rgb(238,238,238)  [delta=2.419959]
   " yllw: GUI=#e2bd67/rgb(226,189,103)  Term=179 #d7af5f/rgb(215,175, 95)  [delta=3.812495]
   " gren: GUI=#96986c/rgb(150,152,108)  Term=101 #87875f/rgb(135,135, 95)  [delta=5.767343]
   " blue: GUI=#5da0a9/rgb( 93,160,169)  Term= 73 #5fafaf/rgb( 95,175,175)  [delta=6.139028]
   " gry2: GUI=#748599/rgb(116,133,153)  Term= 67 #5f87af/rgb( 95,135,175)  [delta=6.855337]
+  " gryc: GUI=#a6b8cd/rgb(166,184,205)  Term=110 #87afd7/rgb(135,175,215)  [delta=7.224010]
   " gryy: GUI=#242f3a/rgb( 36, 47, 58)  Term=236 #303030/rgb( 48, 48, 48)  [delta=7.346951]
   " gry0: GUI=#242f3a/rgb( 36, 47, 58)  Term=236 #303030/rgb( 48, 48, 48)  [delta=7.346951]
   " gry3: GUI=#90a2b6/rgb(144,162,182)  Term=110 #87afd7/rgb(135,175,215)  [delta=7.403401]
@@ -46,9 +46,9 @@ if &background ==# 'dark'
   hi Comment ctermfg=67 ctermbg=NONE guifg=#748599 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi CursorLineNr ctermfg=67 ctermbg=NONE guifg=#748599 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi LineNr ctermfg=67 ctermbg=NONE guifg=#748599 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Cursor ctermfg=255 ctermbg=236 guifg=#ebeff3 guibg=#242f3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi IncSearch ctermfg=255 ctermbg=236 guifg=#ebeff3 guibg=#242f3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi TermCursor ctermfg=255 ctermbg=236 guifg=#ebeff3 guibg=#242f3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Cursor ctermfg=110 ctermbg=236 guifg=#a6b8cd guibg=#242f3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi IncSearch ctermfg=110 ctermbg=236 guifg=#a6b8cd guibg=#242f3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi TermCursor ctermfg=110 ctermbg=236 guifg=#a6b8cd guibg=#242f3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi VertSplit ctermfg=67 ctermbg=236 guifg=#748599 guibg=#242f3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Folded ctermfg=67 ctermbg=236 guifg=#748599 guibg=#242f3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi PmenuSel ctermfg=67 ctermbg=236 guifg=#748599 guibg=#242f3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
@@ -134,8 +134,8 @@ endif
 " gren: GUI=#6f7d00/rgb(111,125,  0)  Term= 64 #5f8700/rgb( 95,135,  0)  [delta=6.086293]
 " gry2: GUI=#748599/rgb(116,133,153)  Term= 67 #5f87af/rgb( 95,135,175)  [delta=6.855337]
 " gryy: GUI=#242f3a/rgb( 36, 47, 58)  Term=236 #303030/rgb( 48, 48, 48)  [delta=7.346951]
-" gryc: GUI=#2d3a47/rgb( 45, 58, 71)  Term=237 #3a3a3a/rgb( 58, 58, 58)  [delta=8.181189]
-" gry3: GUI=#516274/rgb( 81, 98,116)  Term= 59 #5f5f5f/rgb( 95, 95, 95)  [delta=9.799811]
+" gryc: GUI=#44515f/rgb( 68, 81, 95)  Term=239 #4e4e4e/rgb( 78, 78, 78)  [delta=8.240438]
+" gry3: GUI=#526272/rgb( 82, 98,114)  Term= 59 #5f5f5f/rgb( 95, 95, 95)  [delta=9.110999]
 hi Bold ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi Conceal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Directory ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
@@ -146,7 +146,7 @@ hi Italic ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,
 hi ModeMsg ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi MoreMsg ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi NonText ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Normal ctermfg=59 ctermbg=231 guifg=#516274 guibg=#ffffff guisp=NONE cterm=NONE gui=NONE
+hi Normal ctermfg=59 ctermbg=231 guifg=#526272 guibg=#ffffff guisp=NONE cterm=NONE gui=NONE
 hi Question ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Terminal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Title ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
@@ -154,9 +154,9 @@ hi Underlined ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=N
 hi Comment ctermfg=67 ctermbg=NONE guifg=#748599 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi CursorLineNr ctermfg=67 ctermbg=NONE guifg=#748599 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi LineNr ctermfg=67 ctermbg=NONE guifg=#748599 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Cursor ctermfg=237 ctermbg=231 guifg=#2d3a47 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi IncSearch ctermfg=237 ctermbg=231 guifg=#2d3a47 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi TermCursor ctermfg=237 ctermbg=231 guifg=#2d3a47 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi Cursor ctermfg=239 ctermbg=231 guifg=#44515f guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi IncSearch ctermfg=239 ctermbg=231 guifg=#44515f guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi TermCursor ctermfg=239 ctermbg=231 guifg=#44515f guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi VertSplit ctermfg=67 ctermbg=231 guifg=#748599 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi Folded ctermfg=67 ctermbg=231 guifg=#748599 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi PmenuSel ctermfg=67 ctermbg=231 guifg=#748599 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
@@ -171,15 +171,15 @@ hi ColorColumn ctermfg=NONE ctermbg=255 guifg=NONE guibg=#ebeff3 guisp=NONE cter
 hi CursorColumn ctermfg=NONE ctermbg=255 guifg=NONE guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=255 guifg=NONE guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
 hi DiffChange ctermfg=NONE ctermbg=255 guifg=NONE guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
-hi Pmenu ctermfg=59 ctermbg=255 guifg=#516274 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
+hi Pmenu ctermfg=59 ctermbg=255 guifg=#526272 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
 hi QuickFixLine ctermfg=NONE ctermbg=255 guifg=NONE guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
-hi StatusLine ctermfg=59 ctermbg=255 guifg=#516274 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
-hi StatusLineTerm ctermfg=59 ctermbg=255 guifg=#516274 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
-hi TabLineSel ctermfg=59 ctermbg=255 guifg=#516274 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
-hi ToolbarButton ctermfg=59 ctermbg=255 guifg=#516274 guibg=#ebeff3 guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi StatusLine ctermfg=59 ctermbg=255 guifg=#526272 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
+hi StatusLineTerm ctermfg=59 ctermbg=255 guifg=#526272 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
+hi TabLineSel ctermfg=59 ctermbg=255 guifg=#526272 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
+hi ToolbarButton ctermfg=59 ctermbg=255 guifg=#526272 guibg=#ebeff3 guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi VisualNOS ctermfg=NONE ctermbg=255 guifg=NONE guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
 hi PmenuSbar ctermfg=67 ctermbg=67 guifg=#748599 guibg=#748599 guisp=NONE cterm=NONE gui=NONE
-hi PmenuThumb ctermfg=59 ctermbg=59 guifg=#516274 guibg=#516274 guisp=NONE cterm=NONE gui=NONE
+hi PmenuThumb ctermfg=59 ctermbg=59 guifg=#526272 guibg=#526272 guisp=NONE cterm=NONE gui=NONE
 hi TabLineFill ctermfg=67 ctermbg=67 guifg=#748599 guibg=#748599 guisp=NONE cterm=NONE gui=NONE
 hi ToolbarLine ctermfg=255 ctermbg=255 guifg=#ebeff3 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
 hi Function ctermfg=133 ctermbg=NONE guifg=#b84bac guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -236,8 +236,8 @@ finish
 " Color:      gry0 #ffffff ~
 " Color:      gry1 #ebeff3 ~
 " Color:      gry2 #748599 ~
-" Color:      gry3 #516274 ~
-" Color:      gryc #2d3a47 ~
+" Color:      gry3 #526272 ~
+" Color:      gryc #44515f ~
 " Color:      gryy #242f3a ~
 " Color:      yllw #ffd300 ~
 " Color:      red_ #b84bac ~
@@ -342,7 +342,7 @@ finish
 " Color:      gry1 #2d3a47 ~
 " Color:      gry2 #748599 ~
 " Color:      gry3 #90a2b6 ~
-" Color:      gryc #ebeff3 ~
+" Color:      gryc #a6b8cd ~
 " Color:      gryy #242f3a ~
 " Color:      yllw #e2bd67 ~
 " Color:      red_ #b289ab ~
