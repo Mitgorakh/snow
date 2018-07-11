@@ -135,7 +135,7 @@ endif
 " gryy: GUI=#242f3a/rgb( 36, 47, 58)  Term=236 #303030/rgb( 48, 48, 48)  [delta=7.346951]
 " gryc: GUI=#44515f/rgb( 68, 81, 95)  Term=239 #4e4e4e/rgb( 78, 78, 78)  [delta=8.240438]
 " red_: GUI=#c94e3b/rgb(201, 78, 59)  Term=167 #d75f5f/rgb(215, 95, 95)  [delta=8.801383]
-" gry3: GUI=#526272/rgb( 82, 98,114)  Term= 59 #5f5f5f/rgb( 95, 95, 95)  [delta=9.110999]
+" gry3: GUI=#596878/rgb( 89,104,120)  Term=241 #626262/rgb( 98, 98, 98)  [delta=9.038928]
 hi Bold ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi Conceal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Directory ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
@@ -146,7 +146,7 @@ hi Italic ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,
 hi ModeMsg ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi MoreMsg ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi NonText ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Normal ctermfg=59 ctermbg=231 guifg=#526272 guibg=#ffffff guisp=NONE cterm=NONE gui=NONE
+hi Normal ctermfg=241 ctermbg=231 guifg=#596878 guibg=#ffffff guisp=NONE cterm=NONE gui=NONE
 hi Question ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Terminal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Title ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
@@ -171,15 +171,15 @@ hi ColorColumn ctermfg=NONE ctermbg=255 guifg=NONE guibg=#ebeff3 guisp=NONE cter
 hi CursorColumn ctermfg=NONE ctermbg=255 guifg=NONE guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=255 guifg=NONE guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
 hi DiffChange ctermfg=NONE ctermbg=255 guifg=NONE guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
-hi Pmenu ctermfg=59 ctermbg=255 guifg=#526272 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
+hi Pmenu ctermfg=241 ctermbg=255 guifg=#596878 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
 hi QuickFixLine ctermfg=NONE ctermbg=255 guifg=NONE guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
-hi StatusLine ctermfg=59 ctermbg=255 guifg=#526272 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
-hi StatusLineTerm ctermfg=59 ctermbg=255 guifg=#526272 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
-hi TabLineSel ctermfg=59 ctermbg=255 guifg=#526272 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
-hi ToolbarButton ctermfg=59 ctermbg=255 guifg=#526272 guibg=#ebeff3 guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi StatusLine ctermfg=241 ctermbg=255 guifg=#596878 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
+hi StatusLineTerm ctermfg=241 ctermbg=255 guifg=#596878 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
+hi TabLineSel ctermfg=241 ctermbg=255 guifg=#596878 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
+hi ToolbarButton ctermfg=241 ctermbg=255 guifg=#596878 guibg=#ebeff3 guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi VisualNOS ctermfg=NONE ctermbg=255 guifg=NONE guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
 hi PmenuSbar ctermfg=67 ctermbg=67 guifg=#748599 guibg=#748599 guisp=NONE cterm=NONE gui=NONE
-hi PmenuThumb ctermfg=59 ctermbg=59 guifg=#526272 guibg=#526272 guisp=NONE cterm=NONE gui=NONE
+hi PmenuThumb ctermfg=241 ctermbg=241 guifg=#596878 guibg=#596878 guisp=NONE cterm=NONE gui=NONE
 hi TabLineFill ctermfg=67 ctermbg=67 guifg=#748599 guibg=#748599 guisp=NONE cterm=NONE gui=NONE
 hi ToolbarLine ctermfg=255 ctermbg=255 guifg=#ebeff3 guibg=#ebeff3 guisp=NONE cterm=NONE gui=NONE
 hi Function ctermfg=167 ctermbg=NONE guifg=#c94e3b guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -236,7 +236,7 @@ finish
 " Color:      gry0 #ffffff ~
 " Color:      gry1 #ebeff3 ~
 " Color:      gry2 #748599 ~
-" Color:      gry3 #526272 ~
+" Color:      gry3 #596878 ~
 " Color:      gryc #44515f ~
 " Color:      gryy #242f3a ~
 " Color:      yllw #ffd300 ~

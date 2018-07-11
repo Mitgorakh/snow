@@ -103,7 +103,7 @@ hue_yllw = 082.50
 hexgry0_lt = tohex( gold(0.000) , gold(1000) , hue_base )
 hexgry1_lt = tohex( gold(0.125) , gold(7.50) , hue_base )
 hexgry2_lt = tohex( gold(1.250) , gold(4.25) , hue_base )
-hexgry3_lt = tohex( gold(1.875) , gold(4.50) , hue_base )
+hexgry3_lt = tohex( gold(1.750) , gold(4.50) , hue_base )
 hexgryc_lt = tohex( gold(2.250) , gold(4.75) , hue_base )
 hexyllw_lt = tohex( gold(0.250) , gold(0.00) , hue_yllw )
 
