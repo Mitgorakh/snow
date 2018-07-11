@@ -191,7 +191,7 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <br>
-<h6><img src="http://www.colorhexa.com/b46115.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;orange&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/00866d.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/8064d1.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;sea green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/b38d72.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/62a194.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;purple&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/9d8fba.png" height="36" width="36"></h6>
+<h6><img src="http://www.colorhexa.com/b46115.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;orange&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/b38d72.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/00866d.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;sea green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/62a194.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/8064d1.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;purple&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/9d8fba.png" height="36" width="36"></h6>
 </td>
 </tr>
 <tr>
