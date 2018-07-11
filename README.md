@@ -137,7 +137,7 @@ contrast ratio, with exceptions made for transient highlighting<br>(which noneth
 
 <tr>
 <td align='center' colspan='2'>
-<h5><img src="http://www.colorhexa.com/b843ad.png" height="36" width="36">&nbsp;&nbsp;magenta&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb9cc3.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/6b7a00.png" height="36" width="36">&nbsp;&nbsp;moss green&nbsp;&nbsp;<img src="http://www.colorhexa.com/abad7b.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/007c9b.png" height="36" width="36">&nbsp;&nbsp;green-blue&nbsp;&nbsp;<img src="http://www.colorhexa.com/69b7c2.png" height="36" width="36"></h5>
+<h6><img src="http://www.colorhexa.com/b843ad.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;magenta&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb9cc3.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/6b7a00.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;moss green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/abad7b.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/007c9b.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;green-blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/69b7c2.png" height="36" width="36"></h6>
 </td>
 </tr>
 <tr>
@@ -159,7 +159,7 @@ set background=dark
 
 <tr>
 <td align='center' colspan='2'>
-<h5><img src="http://www.colorhexa.com/d12f77.png" height="36" width="36">&nbsp;&nbsp;pink&nbsp;&nbsp;<img src="http://www.colorhexa.com/d898ab.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/4b8100.png" height="36" width="36">&nbsp;&nbsp;lawn green&nbsp;&nbsp;<img src="http://www.colorhexa.com/9eb17f.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/0077c4.png" height="36" width="36">&nbsp;&nbsp;light sky blue&nbsp;&nbsp;<img src="http://www.colorhexa.com/78b3d4.png" height="36" width="36"></h5>
+<h6><img src="http://www.colorhexa.com/d12f77.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;pink&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/d898ab.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/4b8100.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;lawn green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/9eb17f.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/0077c4.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;light sky blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/78b3d4.png" height="36" width="36"></h6>
 </td>
 </tr>
 <tr>
@@ -181,7 +181,7 @@ set background=dark
 
 <tr>
 <td align='center' colspan='2'>
-<h5><img src="http://www.colorhexa.com/c14c26.png" height="36" width="36">&nbsp;&nbsp;orange-red&nbsp;&nbsp;<img src="http://www.colorhexa.com/d39d89.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/008936.png" height="36" width="36">&nbsp;&nbsp;blue-green&nbsp;&nbsp;<img src="http://www.colorhexa.com/84b691.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/0071dc.png" height="36" width="36">&nbsp;&nbsp;dark sky blue&nbsp;&nbsp;<img src="http://www.colorhexa.com/94acda.png" height="36" width="36"></h5>
+<h6><img src="http://www.colorhexa.com/c14c26.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;orange-red&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/d39d89.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/008936.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;blue-green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/84b691.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/0071dc.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;dark sky blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/94acda.png" height="36" width="36"></h6>
 </td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ set background=dark
 
 <tr>
 <td align='center' colspan='2'>
-<h5><img src="http://www.colorhexa.com/b15b02.png" height="36" width="36">&nbsp;&nbsp;orange&nbsp;&nbsp;<img src="http://www.colorhexa.com/cca181.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/00846a.png" height="36" width="36">&nbsp;&nbsp;sea green&nbsp;&nbsp;<img src="http://www.colorhexa.com/6fb8a9.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/7e61d5.png" height="36" width="36">&nbsp;&nbsp;purple&nbsp;&nbsp;<img src="http://www.colorhexa.com/b3a3d4.png" height="36" width="36"></h5>
+<h6><img src="http://www.colorhexa.com/b15b02.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;orange&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/cca181.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/00846a.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;sea green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/6fb8a9.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/7e61d5.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;purple&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/b3a3d4.png" height="36" width="36"></h6>
 </td>
 </tr>
 <tr>
