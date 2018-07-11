@@ -137,7 +137,7 @@ contrast ratio, with exceptions made for transient highlighting<br>(which noneth
 
 <tr>
 <td align='center' colspan='2'>
-<h6><img src="http://www.colorhexa.com/b843ad.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;magenta&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb9cc3.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/6b7a00.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;moss green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/abad7b.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/007c9b.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;green-blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/69b7c2.png" height="36" width="36"></h6>
+<h6><br><img src="http://www.colorhexa.com/b843ad.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;magenta&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb9cc3.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/6b7a00.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;moss green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/abad7b.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/007c9b.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;green-blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/69b7c2.png" height="36" width="36"></h6>
 </td>
 </tr>
 <tr>
@@ -146,14 +146,12 @@ contrast ratio, with exceptions made for transient highlighting<br>(which noneth
 colorscheme snow_redshift_plus
 set background=light
 </pre>
-<br>
 </td>
 <td align="center"><img alt="screenshot of the snow vim theme, dark version, red-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-redshift-plus.png" height="325" />
 <pre>
 colorscheme snow_redshift_plus
 set background=dark
 </pre>
-<br>
 </td>
 </tr>
 
@@ -168,14 +166,12 @@ set background=dark
 colorscheme snow_redshift
 set background=light
 </pre>
-<br>
 </td>
 <td align="center"><img alt="screenshot of the snow vim theme, dark version, red-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-redshift.png" height="325" />
 <pre>
 colorscheme snow_redshift
 set background=dark
 </pre>
-<br>
 </td>
 </tr>
 
@@ -190,14 +186,12 @@ set background=dark
 colorscheme snow_blueshift
 set background=light
 </pre>
-<br>
 </td>
 <td align="center"><img alt="screenshot of the snow vim theme, dark version, blue-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-blueshift.png" height="325" />
 <pre>
 colorscheme snow_blueshift
 set background=dark
 </pre>
-<br>
 </td>
 </tr>
 
@@ -212,14 +206,12 @@ set background=dark
 colorscheme snow_blueshift_plus
 set background=light
 </pre>
-<br>
 </td>
 <td align="center"><img alt="screenshot of the snow vim theme, dark version, blue-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-blueshift-plus.png" height="325" />
 <pre>
 colorscheme snow_blueshift_plus
 set background=dark
 </pre>
-<br>
 </td>
 </tr>
 
