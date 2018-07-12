@@ -11,9 +11,9 @@ Background: light
 Color:      gry0 #ffffff ~
 Color:      gry1 #eef1f4 ~
 Color:      gry2 #8397ad ~
-Color:      gry3 #64788d ~
+Color:      gry3 #61758a ~
 Color:      gryc #4b5f73 ~
-Color:      gryy #1b2530 ~
+Color:      gryy #212b36 ~
 Color:      yllw #ffd300 ~
 Color:      red_ #bc5937 ~
 Color:      gren #008943 ~
@@ -104,16 +104,16 @@ endauxfile
 
 # dark
 Background: dark
-Color:      gry0 #1b2530 ~
-Color:      gry1 #222f3b ~
-Color:      gry2 #5c7085 ~
-Color:      gry3 #788da2 ~
-Color:      gryc #98aabe ~
-Color:      gryy #1b2530 ~
+Color:      gry0 #212b36 ~
+Color:      gry1 #273440 ~
+Color:      gry2 #61758a ~
+Color:      gry3 #8397ad ~
+Color:      gryc #9fb1c5 ~
+Color:      gryy #212b36 ~
 Color:      yllw #e2bd67 ~
-Color:      red_ #af806f ~
-Color:      gren #6a9576 ~
-Color:      blue #798db5 ~
+Color:      red_ #b58675 ~
+Color:      gren #709b7c ~
+Color:      blue #7f93bb ~
 Include:    _common.colortemplate
 DiffChanged yllw gryy reverse
 DiffText    yllw gryy reverse

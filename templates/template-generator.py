@@ -103,20 +103,20 @@ hue_yllw = 082.50
 hexgry0_lt = tohex( gold(0.00) , gold(1000) , hue_base )
 hexgry1_lt = tohex( gold(0.11) , gold(8.00) , hue_base )
 hexgry2_lt = tohex( gold(1.01) , gold(4.00) , hue_base )
-hexgry3_lt = tohex( gold(1.46) , gold(4.00) , hue_base )
+hexgry3_lt = tohex( gold(1.51) , gold(4.00) , hue_base )
 hexgryc_lt = tohex( gold(1.94) , gold(4.00) , hue_base )
 hexyllw_lt = tohex( gold(0.25) , gold(0.00) , hue_yllw )
 
-hexgry0_dk = tohex( gold(4.05) , gold(5.00) , hue_base )
-hexgry1_dk = tohex( gold(3.51) , gold(4.75) , hue_base )
-hexgry2_dk = tohex( gold(1.61) , gold(4.00) , hue_base )
-hexgry3_dk = tohex( gold(1.15) , gold(4.00) , hue_base )
-hexgryc_dk = tohex( gold(0.78) , gold(4.25) , hue_base )
+hexgry0_dk = tohex( gold(3.67) , gold(5.00) , hue_base )
+hexgry1_dk = tohex( gold(3.26) , gold(4.75) , hue_base )
+hexgry2_dk = tohex( gold(1.51) , gold(4.00) , hue_base )
+hexgry3_dk = tohex( gold(1.01) , gold(4.00) , hue_base )
+hexgryc_dk = tohex( gold(0.70) , gold(4.25) , hue_base )
 hexyllw_dk = tohex( gold(0.50) , gold(1.50) , hue_yllw )
 
 cro_lt = gold(1.25)
 cro_dk = gold(3.00)
-lum_dk = gold(1.13)
+lum_dk = gold(1.05)
 
 if theme_name == 'snow_redshift_plus':
   hexred__lt = tohex( gold(1.45) , cro_lt , 330.0 )
