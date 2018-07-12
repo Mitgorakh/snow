@@ -123,7 +123,6 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <h6>snow meets the ISO 3:1 <a href='https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html'>readability standard</a>,<br>
-with most text also meeting the W3C AA 4.5:1 standard</h6>
 <a href='https://www.w3.org/'><img src='https://www.w3.org/Icons/WWW/w3c_home_nb-v.svg' height='36'></a>
 </td>
 </tr>
