@@ -37,15 +37,15 @@ set background=dark
 <h4>
 <img src="http://www.colorhexa.com/ffffff.png" height="8" width="8">&nbsp;
 <img src="http://www.colorhexa.com/eef1f4.png" height="8" width="8">&nbsp;
-<img src="http://www.colorhexa.com/788da2.png" height="8" width="8">&nbsp;
-<img src="http://www.colorhexa.com/5d7186.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/8397ad.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/61758a.png" height="8" width="8">&nbsp;
 <img src="http://www.colorhexa.com/4b5f73.png" height="8" width="8">
 &nbsp;&nbsp;base colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/27323d.png" height="8" width="8">&nbsp;
-<img src="http://www.colorhexa.com/2c3b49.png" height="8" width="8">&nbsp;
-<img src="http://www.colorhexa.com/71859b.png" height="8" width="8">&nbsp;
-<img src="http://www.colorhexa.com/8ea3b9.png" height="8" width="8">&nbsp;
-<img src="http://www.colorhexa.com/a9b9cb.png" height="8" width="8">
+<img src="http://www.colorhexa.com/212b36.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/273440.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/61758a.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/8397ad.png" height="8" width="8">&nbsp;
+<img src="http://www.colorhexa.com/9fb1c5.png" height="8" width="8">
 </h4>
 
 <h6>soft, blue-tinted greys for the general visual interface</h6>
@@ -55,17 +55,17 @@ set background=dark
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/eef1f4.png" height="36" width="36">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/788da2.png" height="36" width="36">
+<img src="http://www.colorhexa.com/9fb1c5.png" height="36" width="36">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/5d7186.png" height="36" width="36">
+<img src="http://www.colorhexa.com/8397ad.png" height="36" width="36">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/61758a.png" height="36" width="36">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/4b5f73.png" height="36" width="36">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/27323d.png" height="36" width="36">
+<img src="http://www.colorhexa.com/273440.png" height="36" width="36">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/2c3b49.png" height="36" width="36">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/a9b9cb.png" height="36" width="36">
+<img src="http://www.colorhexa.com/212b36.png" height="36" width="36">
 
 </td>
 </tr>
