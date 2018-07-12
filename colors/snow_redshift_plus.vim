@@ -25,9 +25,9 @@ if &background ==# 'dark'
   " gryy: GUI=#242f3a/rgb( 36, 47, 58)  Term=236 #303030/rgb( 48, 48, 48)  [delta=7.346951]
   " gry0: GUI=#242f3a/rgb( 36, 47, 58)  Term=236 #303030/rgb( 48, 48, 48)  [delta=7.346951]
   " gryc: GUI=#acb8c6/rgb(172,184,198)  Term=249 #b2b2b2/rgb(178,178,178)  [delta=7.390112]
-  " gry1: GUI=#2c3945/rgb( 44, 57, 69)  Term=237 #3a3a3a/rgb( 58, 58, 58)  [delta=7.913227]
   " gry2: GUI=#738393/rgb(115,131,147)  Term= 67 #5f87af/rgb( 95,135,175)  [delta=8.324466]
   " gry3: GUI=#8f9fb0/rgb(143,159,176)  Term=110 #87afd7/rgb(135,175,215)  [delta=8.777546]
+  " gry1: GUI=#2a3947/rgb( 42, 57, 71)  Term=237 #3a3a3a/rgb( 58, 58, 58)  [delta=8.842866]
   hi Bold ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
   hi Conceal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Directory ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
@@ -60,20 +60,20 @@ if &background ==# 'dark'
   hi Visual ctermfg=67 ctermbg=236 guifg=#738393 guibg=#242f3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi VisualNOS ctermfg=67 ctermbg=236 guifg=#738393 guibg=#242f3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi WildMenu ctermfg=67 ctermbg=236 guifg=#738393 guibg=#242f3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi ColorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2c3945 guisp=NONE cterm=NONE gui=NONE
-  hi CursorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2c3945 guisp=NONE cterm=NONE gui=NONE
-  hi CursorLine ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2c3945 guisp=NONE cterm=NONE gui=NONE
-  hi DiffChange ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2c3945 guisp=NONE cterm=NONE gui=NONE
-  hi Pmenu ctermfg=110 ctermbg=237 guifg=#8f9fb0 guibg=#2c3945 guisp=NONE cterm=NONE gui=NONE
-  hi QuickFixLine ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2c3945 guisp=NONE cterm=NONE gui=NONE
-  hi StatusLine ctermfg=110 ctermbg=237 guifg=#8f9fb0 guibg=#2c3945 guisp=NONE cterm=NONE gui=NONE
-  hi StatusLineTerm ctermfg=110 ctermbg=237 guifg=#8f9fb0 guibg=#2c3945 guisp=NONE cterm=NONE gui=NONE
-  hi TabLineSel ctermfg=110 ctermbg=237 guifg=#8f9fb0 guibg=#2c3945 guisp=NONE cterm=NONE gui=NONE
-  hi ToolbarButton ctermfg=110 ctermbg=237 guifg=#8f9fb0 guibg=#2c3945 guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi ColorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2a3947 guisp=NONE cterm=NONE gui=NONE
+  hi CursorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2a3947 guisp=NONE cterm=NONE gui=NONE
+  hi CursorLine ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2a3947 guisp=NONE cterm=NONE gui=NONE
+  hi DiffChange ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2a3947 guisp=NONE cterm=NONE gui=NONE
+  hi Pmenu ctermfg=110 ctermbg=237 guifg=#8f9fb0 guibg=#2a3947 guisp=NONE cterm=NONE gui=NONE
+  hi QuickFixLine ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2a3947 guisp=NONE cterm=NONE gui=NONE
+  hi StatusLine ctermfg=110 ctermbg=237 guifg=#8f9fb0 guibg=#2a3947 guisp=NONE cterm=NONE gui=NONE
+  hi StatusLineTerm ctermfg=110 ctermbg=237 guifg=#8f9fb0 guibg=#2a3947 guisp=NONE cterm=NONE gui=NONE
+  hi TabLineSel ctermfg=110 ctermbg=237 guifg=#8f9fb0 guibg=#2a3947 guisp=NONE cterm=NONE gui=NONE
+  hi ToolbarButton ctermfg=110 ctermbg=237 guifg=#8f9fb0 guibg=#2a3947 guisp=NONE cterm=NONE,bold gui=NONE,bold
   hi PmenuSbar ctermfg=67 ctermbg=67 guifg=#738393 guibg=#738393 guisp=NONE cterm=NONE gui=NONE
   hi PmenuThumb ctermfg=110 ctermbg=110 guifg=#8f9fb0 guibg=#8f9fb0 guisp=NONE cterm=NONE gui=NONE
   hi TabLineFill ctermfg=67 ctermbg=67 guifg=#738393 guibg=#738393 guisp=NONE cterm=NONE gui=NONE
-  hi ToolbarLine ctermfg=237 ctermbg=237 guifg=#2c3945 guibg=#2c3945 guisp=NONE cterm=NONE gui=NONE
+  hi ToolbarLine ctermfg=237 ctermbg=237 guifg=#2a3947 guibg=#2a3947 guisp=NONE cterm=NONE gui=NONE
   hi Function ctermfg=139 ctermbg=NONE guifg=#b289ab guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Identifier ctermfg=139 ctermbg=NONE guifg=#b289ab guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi StorageClass ctermfg=139 ctermbg=NONE guifg=#b289ab guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
@@ -339,7 +339,7 @@ finish
 " Search      yllw gryy reverse
 " Background: dark
 " Color:      gry0 #242f3a ~
-" Color:      gry1 #2c3945 ~
+" Color:      gry1 #2a3947 ~
 " Color:      gry2 #738393 ~
 " Color:      gry3 #8f9fb0 ~
 " Color:      gryc #acb8c6 ~
