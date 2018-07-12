@@ -4,8 +4,6 @@
 snow&nbsp;
 <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;
 <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
-<br>
-<a href='https://github.com/lifepillar/vim-colortemplate'><img src='https://img.shields.io/badge/made%20with-Colortemplate-00a0ff.svg' alt='a Vim theme made with Colortemplate' /></a>
 </h1>
 <img src="https://github.com/nightsense/snow/raw/master/images/header.jpg" />
 <h4>
@@ -333,8 +331,8 @@ let &t_EI = "\<Esc>[2 q"
 
 ---
 
-
-###### snow meets the ISO 3:1 readability standard, with most text also meeting the W3C AA 4.5:1 standard [[link]](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html)
+###### theme files generated with [Colortemplate](https://github.com/lifepillar/vim-colortemplate)
+###### snow observes the W3C AA 4.5:1 [readability standard](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) for most text, excepting comments and line numbers (which, to keep them unobtrusive, are reduced to the 3:1 ISO standard)
 ###### repo license: [MIT](https://opensource.org/licenses/MIT)
 ###### snowflake icon credit: [Amada44 (Public Domain)](https://commons.wikimedia.org/wiki/File:Snowflake_01.svg)
 ###### snowflake photo credit: [Olga & Alexey (CC BY-NC 2.0)](https://www.flickr.com/photos/chaoticmind75/39326731084/)
