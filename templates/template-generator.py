@@ -100,19 +100,19 @@ def print_lightline(name,bg):
 hue_base = 255.00
 hue_yllw = 082.50
 
-hexgry0_lt = tohex( gold(0.000) , gold(1000) , hue_base )
-hexgry1_lt = tohex( gold(0.125) , gold(7.50) , hue_base )
-hexgry2_lt = tohex( gold(1.250) , gold(4.25) , hue_base )
-hexgry3_lt = tohex( gold(1.750) , gold(4.25) , hue_base )
-hexgryc_lt = tohex( gold(2.250) , gold(4.50) , hue_base )
-hexyllw_lt = tohex( gold(0.250) , gold(0.00) , hue_yllw )
+hexgry0_lt = tohex( gold(0.00) , gold(1000) , hue_base )
+hexgry1_lt = tohex( gold(0.13) , gold(7.00) , hue_base )
+hexgry2_lt = tohex( gold(1.18) , gold(4.50) , hue_base )
+hexgry3_lt = tohex( gold(1.65) , gold(4.50) , hue_base )
+hexgryc_lt = tohex( gold(1.98) , gold(4.75) , hue_base )
+hexyllw_lt = tohex( gold(0.25) , gold(0.00) , hue_yllw )
 
-hexgry0_dk = tohex( gold(3.500) , gold(5.00) , hue_base )
-hexgry1_dk = tohex( gold(3.000) , gold(4.75) , hue_base )
-hexgry2_dk = tohex( gold(1.250) , gold(4.25) , hue_base )
-hexgry3_dk = tohex( gold(0.875) , gold(4.25) , hue_base )
-hexgryc_dk = tohex( gold(0.625) , gold(4.00) , hue_base )
-hexyllw_dk = tohex( gold(0.500) , gold(1.50) , hue_yllw )
+hexgry0_dk = tohex( gold(3.50) , gold(5.00) , hue_base )
+hexgry1_dk = tohex( gold(3.05) , gold(4.75) , hue_base )
+hexgry2_dk = tohex( gold(1.29) , gold(4.50) , hue_base )
+hexgry3_dk = tohex( gold(0.96) , gold(4.50) , hue_base )
+hexgryc_dk = tohex( gold(0.62) , gold(5.00) , hue_base )
+hexyllw_dk = tohex( gold(0.50) , gold(1.50) , hue_yllw )
 
 cro_lt = gold(1.0)
 cro_dk = gold(3.0)

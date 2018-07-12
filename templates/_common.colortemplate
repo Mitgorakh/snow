@@ -35,6 +35,7 @@ StatusLineNC       gry2   gry0   reverse
 StatusLineTermNC   gry2   gry0   reverse
 TermCursorNC       gry2   gry0   reverse
 Visual             gry2   gry0   reverse
+VisualNOS          gry2   gry0   reverse
 WildMenu           gry2   gry0   reverse
 
 # highlit background
@@ -48,7 +49,6 @@ StatusLine         gry3   gry1
 StatusLineTerm     gry3   gry1
 TabLineSel         gry3   gry1
 ToolbarButton      gry3   gry1   bold
-VisualNOS          none   gry1
 
 # solid
 PmenuSbar          gry2   gry2
