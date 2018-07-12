@@ -115,7 +115,7 @@ hexgryc_dk = tohex( gold(0.70) , gold(4.00) , hue_base )
 hexyllw_dk = tohex( gold(0.50) , gold(1.50) , hue_yllw )
 
 cro_lt = gold(1.25)
-cro_dk = gold(3.00)
+cro_dk = gold(3.25)
 
 if theme_name == 'snow_redshift_plus':
   hexred__lt = tohex( gold(1.45) , cro_lt , 330.0 )

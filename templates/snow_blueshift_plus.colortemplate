@@ -108,12 +108,12 @@ Color:      gry0 #212b36 ~
 Color:      gry1 #273440 ~
 Color:      gry2 #61758a ~
 Color:      gry3 #8397ad ~
-Color:      gryc #9fb1c5 ~
+Color:      gryc #9db2c8 ~
 Color:      gryy #212b36 ~
 Color:      yllw #e2bd67 ~
-Color:      red_ #ae896d ~
-Color:      gren #5d9c8f ~
-Color:      blue #978ab4 ~
+Color:      red_ #ab8a71 ~
+Color:      gren #649b8f ~
+Color:      blue #978ab0 ~
 Include:    _common.colortemplate
 DiffChanged yllw gryy reverse
 DiffText    yllw gryy reverse
