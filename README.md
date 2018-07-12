@@ -122,13 +122,6 @@ set background=dark
 
 <tr>
 <td align='center' colspan='2'>
-<h6>snow meets the ISO 3:1 <a href='https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html'>readability standard</a>,<br>
-with most text also meeting the W3C AA 4.5:1 standard</h6>
-</td>
-</tr>
-
-<tr>
-<td align='center' colspan='2'>
 <h4>hue-shifted theme variants</h4>
 <h6>in which the red, green, and blue accent hues are shifted together along the spectrum</h6>
 </td>
@@ -342,6 +335,8 @@ let &t_EI = "\<Esc>[2 q"
 
 ---
 
+
+###### snow meets the ISO 3:1 readability standard, with most text also meeting the W3C AA 4.5:1 standard [link](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html)
 ###### repo license: [MIT](https://opensource.org/licenses/MIT)
 ###### snowflake icon credit: [Amada44 (Public Domain)](https://commons.wikimedia.org/wiki/File:Snowflake_01.svg)
 ###### snowflake photo credit: [Olga & Alexey (CC BY-NC 2.0)](https://www.flickr.com/photos/chaoticmind75/39326731084/)
