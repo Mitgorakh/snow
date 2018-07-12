@@ -333,6 +333,5 @@ let &t_EI = "\<Esc>[2 q"
 
 ###### the snow theme files are generated with [Colortemplate](https://github.com/lifepillar/vim-colortemplate)
 ###### snow observes the W3C AA 4.5:1 [readability standard](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) for most text, excepting comments and line numbers (which, to keep them unobtrusive, are limited to the 3:1 ISO standard)
-###### snowflake icon credit: [Amada44 (Public Domain)](https://commons.wikimedia.org/wiki/File:Snowflake_01.svg)
-###### snowflake photo credit: [Olga & Alexey (CC BY-NC 2.0)](https://www.flickr.com/photos/chaoticmind75/39326731084/)
+###### image credits: snowflake icon by [Amada44 (Public Domain)](https://commons.wikimedia.org/wiki/File:Snowflake_01.svg), snowflake macrophoto by [Olga & Alexey (CC BY-NC 2.0)](https://www.flickr.com/photos/chaoticmind75/39326731084/)
 ###### repo license: [MIT](https://opensource.org/licenses/MIT)
