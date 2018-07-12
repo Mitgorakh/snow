@@ -336,7 +336,7 @@ let &t_EI = "\<Esc>[2 q"
 ---
 
 
-###### snow meets the ISO 3:1 readability standard, with most text also meeting the W3C AA 4.5:1 standard [link](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html)
+###### snow meets the ISO 3:1 readability standard, with most text also meeting the W3C AA 4.5:1 standard [[link]](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html)
 ###### repo license: [MIT](https://opensource.org/licenses/MIT)
 ###### snowflake icon credit: [Amada44 (Public Domain)](https://commons.wikimedia.org/wiki/File:Snowflake_01.svg)
 ###### snowflake photo credit: [Olga & Alexey (CC BY-NC 2.0)](https://www.flickr.com/photos/chaoticmind75/39326731084/)
