@@ -50,6 +50,16 @@ set background=dark
 
 <h6>soft, blue-tinted greys for the general visual interface</h6>
 
+<h6><img src="http://www.colorhexa.com/4f5d6b.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;winter first-morn / afternoon &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/acb8c6.png" height="36" width="36"></h6>
+
+<h6><img src="http://www.colorhexa.com/5e6d7d.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;winter early-morn / evening&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/8b9bac.png" height="36" width="36"></h6>
+
+<h6><img src="http://www.colorhexa.com/7a8a9b.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;winter daybreak / nightfall&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/738393.png" height="36" width="36"></h6>
+
+<h6><img src="http://www.colorhexa.com/e9eef4.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;winter day / night&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/2c3945.png" height="36" width="36"></h6>
+
+<h6><img src="http://www.colorhexa.com/ffffff.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;winter noon / midnight&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/242f3a.png" height="36" width="36"></h6>
+
 </td>
 </tr>
 
