@@ -58,7 +58,7 @@ set background=dark
 
 <h6><img src="http://www.colorhexa.com/e9eef4.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;winter day / night&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/2c3945.png" height="36" width="36"></h6>
 
-<h6><img src="http://www.colorhexa.com/ffffff.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;winter noon / midnight&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/242f3a.png" height="36" width="36"></h6>
+<h6><img src="http://www.colorhexa.com/ffffff.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;winter midday / midnight&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/242f3a.png" height="36" width="36"></h6>
 
 </td>
 </tr>
