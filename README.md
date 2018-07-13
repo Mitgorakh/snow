@@ -63,7 +63,7 @@ set background=dark
 
 <h4>syntax highlighting logic</h4>
 
-<h5><img height="24" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;&nbsp;because red is the color of vitality, as in the red of life-giving blood...&nbsp;&nbsp;<img src="http://www.colorhexa.com/bb897d.png" height="12" width="12"></h5>
+<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;&nbsp;because red is the color of vitality, as in the red of life-giving blood...&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' /></h5>
 <h6>...plain red text is for names, which give life to abstractions (like variables and functions)<br><br>
 ...bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)</h6>
 <h5>because red is also the color of alarm...</h5>
