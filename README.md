@@ -1,10 +1,4 @@
-<table><tbody><tr><td align="center"><h1>
-<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;
-<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;
-snow&nbsp;
-<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;
-<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
-</h1>
+<table><tbody><tr><td align="center"><h1>snow</h1>
 <img src="https://github.com/nightsense/snow/raw/master/images/header.jpg" />
 <h4>
 a blue-tinted winter vimscape
@@ -62,15 +56,11 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <h4>
-<img src="http://www.colorhexa.com/c94e3b.png" height="8" width="8">&nbsp;
-<img src="http://www.colorhexa.com/ffd300.png" height="8" width="8">&nbsp;
-<img src="http://www.colorhexa.com/288821.png" height="8" width="8">&nbsp;
-<img src="http://www.colorhexa.com/0078d2.png" height="8" width="8">
+<img height="12" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;
+<img height="12" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;
 &nbsp;&nbsp;accent colors&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/bb897d.png" height="8" width="8">&nbsp;
-<img src="http://www.colorhexa.com/e2bd67.png" height="8" width="8">&nbsp;
-<img src="http://www.colorhexa.com/7e9d76.png" height="8" width="8">&nbsp;
-<img src="http://www.colorhexa.com/7498bc.png" height="8" width="8">
+<img height="12" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;
+<img height="12" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
 </h4>
 
 <h6>a minimal set of colors for simple, logical syntax highlighting</h6>
@@ -189,7 +179,7 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <br>
-<h6><img src="http://www.colorhexa.com/ae6424.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;orange&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/ae896d.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/00866f.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;sea green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/5d9c8f.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/8066c7.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;purple&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/978ab4.png" height="36" width="36"></h6>
+<h6><img src="http://www.colorhexa.com/b46115.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;orange&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/b38d72.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/00866d.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;sea green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/61a093.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/8064d1.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;purple&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/9b8eb8.png" height="36" width="36"></h6>
 </td>
 </tr>
 <tr>
