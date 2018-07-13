@@ -1,12 +1,12 @@
 let g:airline#themes#snow_blueshift_light#palette = {}
 
 let s:gry0 = [ "#ffffff", 231 ]
-let s:gry1 = [ "#eef1f4", 255 ]
+let s:gry1 = [ "#edf2f8", 255 ]
 let s:gry2 = [ "#8397ad", 67 ]
-let s:gry3 = [ "#61758a", 67 ]
-let s:red_ = [ "#bc5937", 166 ]
-let s:gren = [ "#008943", 29 ]
-let s:blue = [ "#1c77d2", 32 ]
+let s:gry3 = [ "#5d7186", 67 ]
+let s:red_ = [ "#c3552f", 166 ]
+let s:gren = [ "#00893b", 28 ]
+let s:blue = [ "#0076dc", 33 ]
 
 let s:nrm1 = [ s:gry0[0] , s:gry2[0] , s:gry0[1] , s:gry2[1] ]
 let s:nrm2 = [ s:gry3[0] , s:gry1[0] , s:gry3[1] , s:gry1[1] ]

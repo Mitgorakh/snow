@@ -9,15 +9,15 @@ Terminal Colors: 256
 # light
 Background: light
 Color:      gry0 #ffffff ~
-Color:      gry1 #eef1f4 ~
+Color:      gry1 #edf2f8 ~
 Color:      gry2 #8397ad ~
-Color:      gry3 #61758a ~
-Color:      gryc #4b5f73 ~
-Color:      gryy #212b36 ~
+Color:      gry3 #5d7186 ~
+Color:      gryc #51657a ~
+Color:      gryy #1b2733 ~
 Color:      yllw #ffd300 ~
-Color:      red_ #b152a6 ~
-Color:      gren #727d05 ~
-Color:      blue #00829b ~
+Color:      red_ #b84bac ~
+Color:      gren #6f7d00 ~
+Color:      blue #00819d ~
 Include:    _common.colortemplate
 DiffChanged yllw gryy reverse
 DiffText    yllw gryy reverse
@@ -104,16 +104,16 @@ endauxfile
 
 # dark
 Background: dark
-Color:      gry0 #212b36 ~
-Color:      gry1 #273440 ~
-Color:      gry2 #61758a ~
+Color:      gry0 #1b2733 ~
+Color:      gry1 #22303f ~
+Color:      gry2 #5d7186 ~
 Color:      gry3 #8397ad ~
-Color:      gryc #9db2c8 ~
-Color:      gryy #212b36 ~
+Color:      gryc #91a6bc ~
+Color:      gryy #1b2733 ~
 Color:      yllw #e2bd67 ~
-Color:      red_ #aa86a4 ~
-Color:      gren #91936d ~
-Color:      blue #609aa2 ~
+Color:      red_ #b188aa ~
+Color:      gren #96986c ~
+Color:      blue #5c9fa8 ~
 Include:    _common.colortemplate
 DiffChanged yllw gryy reverse
 DiffText    yllw gryy reverse
