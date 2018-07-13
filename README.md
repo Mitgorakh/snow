@@ -56,11 +56,11 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <h4>
-<img height="18" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;
-<img height="18" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;
+<img height="16" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;
+<img height="16" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;
 &nbsp;&nbsp;accent colors&nbsp;&nbsp;
-<img height="18" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;
-<img height="18" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
+<img height="16" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;
+<img height="16" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
 </h4>
 
 <h6>a minimal set of colors for simple, logical syntax highlighting</h6>
