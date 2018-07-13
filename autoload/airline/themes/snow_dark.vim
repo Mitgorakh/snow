@@ -8,7 +8,7 @@ let s:red_ = [ "#bb897d", 138 ]
 let s:gren = [ "#7e9d76", 108 ]
 let s:blue = [ "#7498bc", 67 ]
 
-let s:nrm1 = [ s:gry0[0] , s:gry2[0] , s:gry0[1] , s:gry2[1] ]
+let s:nrm1 = [ s:gry0[0] , s:gry3[0] , s:gry0[1] , s:gry3[1] ]
 let s:nrm2 = [ s:gry3[0] , s:gry1[0] , s:gry3[1] , s:gry1[1] ]
 let s:insr = [ s:gry0[0] , s:gren[0] , s:gry0[1] , s:gren[1] ]
 let s:visl = [ s:gry0[0] , s:blue[0] , s:gry0[1] , s:blue[1] ]
