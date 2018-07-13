@@ -49,9 +49,10 @@ set background=dark
 
 <table>
 <tr>
-<td>
-<h6>red<br><img src="http://www.colorhexa.com/c94e3b.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;(vermilion)&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/bb897d.png" height="36" width="36"></h6>
+<td><img src="http://www.colorhexa.com/c94e3b.png" height="36" width="36"></td>
+<h6>red<br>(vermilion)</h6>
 </td>
+<td><img src="http://www.colorhexa.com/bb897d.png" height="36" width="36"></td>
 </tr>
 </table>
 
