@@ -48,14 +48,19 @@ set background=dark
 <h6>a minimal set for simple, logical syntax highlighting</h6>
 
 <table>
+
 <tr>
 <td align='right' width='300'><img src="http://www.colorhexa.com/c94e3b.png" height='60' width='60'></td>
 <td align='center' width='260'><h6>red<br>(vermilion)</h6></td>
 <td align='left' width='300'><img src="http://www.colorhexa.com/bb897d.png" height='60' width='60'></td>
 </tr>
-</table>
 
-<h6><img src="http://www.colorhexa.com/ffd300.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;(safety) yellow&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/e2bd67.png" height="36" width="36"></h6>
+<td align='right' width='300'><img src="http://www.colorhexa.com/ffd300.png" height='60' width='60'></td>
+<td align='center' width='260'><h6>yellow<br>(construction yellow)</h6></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/e2bd67.png" height='60' width='60'></td>
+</tr>
+
+</table>
 
 <h6><img src="http://www.colorhexa.com/288821.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;(forest) green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/7e9d76.png" height="36" width="36"></h6>
 
