@@ -315,7 +315,6 @@ let &t_EI = "\<Esc>[2 q"
 
 ---
 
-###### theme files generated with [Colortemplate](https://github.com/lifepillar/vim-colortemplate)
+###### the snow colorscheme is generated with [Colortemplate](https://github.com/lifepillar/vim-colortemplate) and provided under the [MIT license](https://opensource.org/licenses/MIT)
 ###### W3C AA 4.5:1 [readability contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) is observed, except where the minimal ISO 3:1 standard is appropriate (comments, line numbers)
 ###### snowflake macrophoto by [Olga & Alexey (CC BY-NC 2.0)](https://www.flickr.com/photos/chaoticmind75/39326731084/)
-###### repo license: [MIT](https://opensource.org/licenses/MIT)
