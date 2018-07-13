@@ -3,7 +3,6 @@ Bold               none   none   bold
 Conceal            none   none
 Directory          none   none   bold
 EndOfBuffer        none   none
-FoldColumn         none   none
 Ignore             none   none
 Italic             none   none   italic
 ModeMsg            none   none
@@ -18,25 +17,28 @@ Underlined         none   none   underline
 # soft fg
 Comment            gry2   none
 CursorLineNr       gry2   none
+FoldColumn         gry2   none
 LineNr             gry2   none
+SignColumn         gry2   none
 
 # reverse hard
 Cursor             gryc   gry0   reverse
 IncSearch          gryc   gry0   reverse
 TermCursor         gryc   gry0   reverse
 
+# reverse normal
+PmenuSel           gry3   gry0   reverse
+TabLineSel         gry3   gry0   reverse
+WildMenu           gry3   gry0   reverse
+
 # reverse soft
 VertSplit          gry2   gry0   reverse
 Folded             gry2   gry0   reverse
-PmenuSel           gry2   gry0   reverse
-SignColumn         gry2   gry0   reverse
-TabLine            gry2   gry0   reverse
 StatusLineNC       gry2   gry0   reverse
 StatusLineTermNC   gry2   gry0   reverse
 TermCursorNC       gry2   gry0   reverse
 Visual             gry2   gry0   reverse
 VisualNOS          gry2   gry0   reverse
-WildMenu           gry2   gry0   reverse
 
 # highlit background
 ColorColumn        none   gry1
@@ -47,13 +49,13 @@ Pmenu              gry3   gry1
 QuickFixLine       none   gry1
 StatusLine         gry3   gry1
 StatusLineTerm     gry3   gry1
-TabLineSel         gry3   gry1
+TabLine            gry3   gry1
 ToolbarButton      gry3   gry1   bold
 
 # solid
 PmenuSbar          gry2   gry2
 PmenuThumb         gry3   gry3
-TabLineFill        gry2   gry2
+TabLineFill        gry1   gry1
 ToolbarLine        gry1   gry1
 
 # red names
