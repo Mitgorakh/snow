@@ -69,7 +69,7 @@ set background=dark
 <h5>because red is also the color of alarm...</h5>
 <h6>...red highlighting is for warnings and diff deletions</h6>
 
-<h5><img height="60" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;&nbsp;&nbsp;because yellow is the color of "hey, look at this"...&nbsp;&nbsp;&nbsp;<img height="60" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' /></h5>
+<h5><img height="45" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;&nbsp;&nbsp;because yellow is the color of "hey, look at this"...&nbsp;&nbsp;&nbsp;<img height="45" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' /></h5>
 <h6>...yellow highlighting is for search results, matching parentheses, and diff changes</h6>
 
 <h5><img src="http://www.colorhexa.com/288821.png" height="12" width="12">&nbsp;&nbsp;because green is the color of "go ahead, proceed with action"...&nbsp;&nbsp;<img src="http://www.colorhexa.com/7e9d76.png" height="12" width="12"></h5>
