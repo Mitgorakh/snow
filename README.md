@@ -55,13 +55,7 @@ set background=dark
 
 <tr>
 <td align='center' colspan='2'>
-<h4>
-<img height="16" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;
-<img height="16" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;
-&nbsp;&nbsp;accent colors&nbsp;&nbsp;
-<img height="16" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;
-<img height="16" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />
-</h4>
+<h4>accent colors</h4>
 
 <h6>a minimal set of colors for simple, logical syntax highlighting</h6>
 
@@ -323,5 +317,5 @@ let &t_EI = "\<Esc>[2 q"
 
 ###### theme files generated with [Colortemplate](https://github.com/lifepillar/vim-colortemplate)
 ###### W3C AA 4.5:1 [readability contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) is observed, except where the minimal ISO 3:1 standard is appropriate (comments, line numbers)
-###### image credits: snowflake icon by [Amada44 (Public Domain)](https://commons.wikimedia.org/wiki/File:Snowflake_01.svg), snowflake macrophoto by [Olga & Alexey (CC BY-NC 2.0)](https://www.flickr.com/photos/chaoticmind75/39326731084/)
+###### snowflake macrophoto by [Olga & Alexey (CC BY-NC 2.0)](https://www.flickr.com/photos/chaoticmind75/39326731084/)
 ###### repo license: [MIT](https://opensource.org/licenses/MIT)
