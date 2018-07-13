@@ -28,15 +28,35 @@ set background=dark
 <td align='center' colspan='2'>
 <h4>base colors</h4>
 
-<h6>light/dark pairs of soft, blue-tinted greys for the general visual interface</h6>
+<h6>dark/light pairs of soft, blue-tinted greys for the general visual interface</h6>
 
-<h6><img src="http://www.colorhexa.com/ffffff.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;snowy day&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/edf2f8.png" height="36" width="36"></h6>
+<table>
 
-<h6><img src="http://www.colorhexa.com/91a6bc.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;snowy morning&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/8397ad.png" height="36" width="36"></h6>
+<tr>
+<td align='right' width='300'><img src="http://www.colorhexa.com/1b2733.png" height='60' width='60'></td>
+<td align='center' width='260'><h6>snowy night</h6></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/22303f.png" height='60' width='60'></td>
+</tr>
 
-<h6><img src="http://www.colorhexa.com/5d7186.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;snowy evening&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/51657a.png" height="36" width="36"></h6>
+<tr>
+<td align='right' width='300'><img src="http://www.colorhexa.com/51657a.png" height='60' width='60'></td>
+<td align='center' width='260'><h6>snowy evening</h6></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/5d7186.png" height='60' width='60'></td>
+</tr>
 
-<h6><img src="http://www.colorhexa.com/22303f.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;snowy night&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/1b2733.png" height="36" width="36"></h6>
+<tr>
+<td align='right' width='300'><img src="http://www.colorhexa.com/8397ad.png" height='60' width='60'></td>
+<td align='center' width='260'><h6>snowy morning</h6></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/91a6bc.png" height='60' width='60'></td>
+</tr>
+
+<tr>
+<td align='right' width='300'><img src="http://www.colorhexa.com/edf2f8.png" height='60' width='60'></td>
+<td align='center' width='260'><h6>snowy day</h6></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/ffffff.png" height='60' width='60'></td>
+</tr>
+
+</table>
 
 </td>
 </tr>
