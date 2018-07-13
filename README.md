@@ -70,7 +70,6 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <h4>accent colors</h4>
-
 <h6>a minimal set for simple, logical syntax highlighting</h6>
 <br>
 
