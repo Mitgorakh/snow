@@ -63,6 +63,8 @@ set background=dark
 </td>
 </tr>
 
+<tr></tr>
+
 <tr>
 <td align='center' colspan='2'>
 <h4>accent colors</h4>
