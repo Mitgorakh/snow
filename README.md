@@ -32,9 +32,9 @@ set background=dark
 
 <h6><img src="http://www.colorhexa.com/ffffff.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;snowy day&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/edf2f8.png" height="36" width="36"></h6>
 
-<h6><img src="http://www.colorhexa.com/91a6bc.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;snowy evening&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/8397ad.png" height="36" width="36"></h6>
+<h6><img src="http://www.colorhexa.com/91a6bc.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;snowy morning&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/8397ad.png" height="36" width="36"></h6>
 
-<h6><img src="http://www.colorhexa.com/5d7186.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;snowy twilight&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/51657a.png" height="36" width="36"></h6>
+<h6><img src="http://www.colorhexa.com/5d7186.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;snowy evening&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/51657a.png" height="36" width="36"></h6>
 
 <h6><img src="http://www.colorhexa.com/22303f.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;snowy night&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/1b2733.png" height="36" width="36"></h6>
 
