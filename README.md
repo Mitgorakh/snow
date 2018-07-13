@@ -60,11 +60,17 @@ set background=dark
 <td align='left' width='300'><img src="http://www.colorhexa.com/e2bd67.png" height='60' width='60'></td>
 </tr>
 
+<td align='right' width='300'><img src="http://www.colorhexa.com/288821.png" height='60' width='60'></td>
+<td align='center' width='260'><h6>green<br>(forest green)</h6></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/7e9d76.png" height='60' width='60'></td>
+</tr>
+
+<td align='right' width='300'><img src="http://www.colorhexa.com/0078d2.png" height='60' width='60'></td>
+<td align='center' width='260'><h6>blue<br>(sky blue)</h6></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/7498bc.png" height='60' width='60'></td>
+</tr>
+
 </table>
-
-<h6><img src="http://www.colorhexa.com/288821.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;(forest) green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/7e9d76.png" height="36" width="36"></h6>
-
-<h6><img src="http://www.colorhexa.com/0078d2.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;(sky) blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/7498bc.png" height="36" width="36"></h6>
 
 </td>
 </tr>
