@@ -47,7 +47,7 @@ set background=dark
 
 <h6>a minimal set for simple, logical syntax highlighting</h6>
 
-<h6><img src="http://www.colorhexa.com/c94e3b.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;(vermilion) red&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/bb897d.png" height="36" width="36"></h6>
+<h6><img src="http://www.colorhexa.com/c94e3b.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;red<br>(vermilion)&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/bb897d.png" height="36" width="36"></h6>
 
 <h6><img src="http://www.colorhexa.com/ffd300.png" height="36" width="36">&nbsp;&nbsp;&nbsp;&nbsp;(safety) yellow&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/e2bd67.png" height="36" width="36"></h6>
 
