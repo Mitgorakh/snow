@@ -30,7 +30,8 @@ set background=dark
 <td align='center' colspan='2'>
 <h4>base colors</h4>
 
-<h6>dark / light pairs of soft, blue-tinted greys for the general visual interface</h6><br>
+<h6>dark / light pairs of soft, blue-tinted greys for the general visual interface</h6>
+<br>
 
 <table>
 
@@ -59,6 +60,7 @@ set background=dark
 </tr>
 
 </table>
+<br>
 
 </td>
 </tr>
@@ -70,6 +72,7 @@ set background=dark
 <h4>accent colors</h4>
 
 <h6>a minimal set for simple, logical syntax highlighting</h6>
+<br>
 
 <table>
 
@@ -95,6 +98,7 @@ set background=dark
 </tr>
 
 </table>
+<br>
 
 </td>
 </tr>
