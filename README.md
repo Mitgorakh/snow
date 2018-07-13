@@ -69,15 +69,15 @@ set background=dark
 <h5>because red is also the color of alarm...</h5>
 <h6>...red highlighting is for warnings and diff deletions</h6>
 
-<h5><img height="45" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;&nbsp;&nbsp;because yellow is the color of "hey, look at this"...&nbsp;&nbsp;&nbsp;<img height="45" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' /></h5>
+<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;&nbsp;&nbsp;because yellow is the color of "hey, look at this"...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' /></h5>
 <h6>...yellow highlighting is for search results, matching parentheses, and diff changes</h6>
 
-<h5><img src="http://www.colorhexa.com/288821.png" height="12" width="12">&nbsp;&nbsp;because green is the color of "go ahead, proceed with action"...&nbsp;&nbsp;<img src="http://www.colorhexa.com/7e9d76.png" height="12" width="12"></h5>
+<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;&nbsp;&nbsp;because green is the color of "go ahead, proceed with action"...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' /></h5>
 <h6>...plain green text is for statements ("action words"), such as conditionals (if, then...) or loops (for, do...)<br><br>
 ...bold green text is for "meta-actions", like macros and "include module" statements<br><br>
 ...green highlighting is for diff additions</h6>
 
-<h5><img src="http://www.colorhexa.com/0078d2.png" height="12" width="12">&nbsp;&nbsp;because blue is the calm, stable color of sea and sky, evoking enduring constancy...&nbsp;&nbsp;<img src="http://www.colorhexa.com/7498bc.png" height="12" width="12"></h5>
+<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />&nbsp;&nbsp;&nbsp;because blue is the calm, stable color of sea and sky, evoking enduring constancy...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' /></h5>
 <h6>
 ...plain blue text is for constants, like booleans, integers, and strings<br><br>
 ...blue highlighting is for misspelt strings</h6>
