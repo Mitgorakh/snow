@@ -130,7 +130,7 @@ elif theme_name == 'snow_redshift':
   hexblue_lt = tohex( gold(1.61) , cro_lt , 240.0 )
   hexred__dk = tohex( gold(1.06) , cro_dk , 000.0 )
   hexgren_dk = tohex( gold(1.06) , cro_dk , 120.0 )
-  hexblue_dk = tohex( gold(1.07) , cro_dk , 240.0 )
+  hexblue_dk = tohex( gold(1.08) , cro_dk , 240.0 )
 elif theme_name == 'snow':
   hexred__lt = tohex( gold(1.43) , cro_lt , 037.5 )
   hexgren_lt = tohex( gold(1.45) , cro_lt , 135.0 )
@@ -149,7 +149,7 @@ elif theme_name == 'snow_blueshift_plus':
   hexred__lt = tohex( gold(1.43) , cro_lt , 060.0 )
   hexgren_lt = tohex( gold(1.55) , cro_lt , 180.0 )
   hexblue_lt = tohex( gold(1.47) , cro_lt , 300.0 )
-  hexred__dk = tohex( gold(1.05) , cro_dk , 060.0 )
+  hexred__dk = tohex( gold(1.06) , cro_dk , 060.0 )
   hexgren_dk = tohex( gold(1.07) , cro_dk , 180.0 )
   hexblue_dk = tohex( gold(1.06) , cro_dk , 300.0 )
 

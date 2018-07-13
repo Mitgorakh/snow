@@ -6,7 +6,7 @@ let s:gryy = "#212b36"
 let s:red_ = "#b48392"
 let s:yllw = "#e2bd67"
 let s:gren = "#879670"
-let s:blue = "#6b96af"
+let s:blue = "#6a96af"
 
 let s:p = { "normal" : {} , "inactive": {} , "insert"  : {} ,
           \ "replace": {} , "visual"  : {} , "tabline" : {} }

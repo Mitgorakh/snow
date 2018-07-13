@@ -20,7 +20,7 @@ if &background ==# 'dark'
   " Color similarity table (dark background)
   " yllw: GUI=#e2bd67/rgb(226,189,103)  Term=179 #d7af5f/rgb(215,175, 95)  [delta=3.812495]
   " blue: GUI=#988bb1/rgb(152,139,177)  Term=103 #8787af/rgb(135,135,175)  [delta=4.419930]
-  " red_: GUI=#ac8a72/rgb(172,138,114)  Term=137 #af875f/rgb(175,135, 95)  [delta=5.168692]
+  " red_: GUI=#ab8a71/rgb(171,138,113)  Term=137 #af875f/rgb(175,135, 95)  [delta=4.777450]
   " gryc: GUI=#9db2c8/rgb(157,178,200)  Term=110 #87afd7/rgb(135,175,215)  [delta=6.050705]
   " gryy: GUI=#212b36/rgb( 33, 43, 54)  Term=235 #262626/rgb( 38, 38, 38)  [delta=7.317157]
   " gry0: GUI=#212b36/rgb( 33, 43, 54)  Term=235 #262626/rgb( 38, 38, 38)  [delta=7.317157]
@@ -74,18 +74,18 @@ if &background ==# 'dark'
   hi PmenuThumb ctermfg=67 ctermbg=67 guifg=#8397ad guibg=#8397ad guisp=NONE cterm=NONE gui=NONE
   hi TabLineFill ctermfg=67 ctermbg=67 guifg=#61758a guibg=#61758a guisp=NONE cterm=NONE gui=NONE
   hi ToolbarLine ctermfg=236 ctermbg=236 guifg=#273440 guibg=#273440 guisp=NONE cterm=NONE gui=NONE
-  hi Function ctermfg=137 ctermbg=NONE guifg=#ac8a72 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Identifier ctermfg=137 ctermbg=NONE guifg=#ac8a72 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi StorageClass ctermfg=137 ctermbg=NONE guifg=#ac8a72 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-  hi Structure ctermfg=137 ctermbg=NONE guifg=#ac8a72 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-  hi Type ctermfg=137 ctermbg=NONE guifg=#ac8a72 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-  hi Typedef ctermfg=137 ctermbg=NONE guifg=#ac8a72 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-  hi DiffDelete ctermfg=137 ctermbg=235 guifg=#ac8a72 guibg=#212b36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffRemoved ctermfg=137 ctermbg=235 guifg=#ac8a72 guibg=#212b36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Error ctermfg=137 ctermbg=235 guifg=#ac8a72 guibg=#212b36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi ErrorMsg ctermfg=137 ctermbg=235 guifg=#ac8a72 guibg=#212b36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi TooLong ctermfg=137 ctermbg=235 guifg=#ac8a72 guibg=#212b36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi WarningMsg ctermfg=137 ctermbg=235 guifg=#ac8a72 guibg=#212b36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Function ctermfg=137 ctermbg=NONE guifg=#ab8a71 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Identifier ctermfg=137 ctermbg=NONE guifg=#ab8a71 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi StorageClass ctermfg=137 ctermbg=NONE guifg=#ab8a71 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi Structure ctermfg=137 ctermbg=NONE guifg=#ab8a71 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi Type ctermfg=137 ctermbg=NONE guifg=#ab8a71 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi Typedef ctermfg=137 ctermbg=NONE guifg=#ab8a71 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi DiffDelete ctermfg=137 ctermbg=235 guifg=#ab8a71 guibg=#212b36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffRemoved ctermfg=137 ctermbg=235 guifg=#ab8a71 guibg=#212b36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Error ctermfg=137 ctermbg=235 guifg=#ab8a71 guibg=#212b36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi ErrorMsg ctermfg=137 ctermbg=235 guifg=#ab8a71 guibg=#212b36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi TooLong ctermfg=137 ctermbg=235 guifg=#ab8a71 guibg=#212b36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi WarningMsg ctermfg=137 ctermbg=235 guifg=#ab8a71 guibg=#212b36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Conditional ctermfg=73 ctermbg=NONE guifg=#649b8f guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Exception ctermfg=73 ctermbg=NONE guifg=#649b8f guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Keyword ctermfg=73 ctermbg=NONE guifg=#649b8f guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -345,7 +345,7 @@ finish
 " Color:      gryc #9db2c8 ~
 " Color:      gryy #212b36 ~
 " Color:      yllw #e2bd67 ~
-" Color:      red_ #ac8a72 ~
+" Color:      red_ #ab8a71 ~
 " Color:      gren #649b8f ~
 " Color:      blue #988bb1 ~
 " Bold               none   none   bold
