@@ -29,6 +29,7 @@ set background=dark
 
 <tr>
 <td align='center' colspan='3'><h4>base</h4></td>
+<td></td>
 <td align='center' colspan='3'><h4>accent</h4></td>
 </tr>
 
