@@ -23,17 +23,15 @@ set background=dark
 </pre>
 </td>
 </tr>
+</tbody></table>
 
-<tr></tr>
-
+<table><tbody>
 <tr>
-<td align='center' colspan='2'>
+
+<td align='center' colspan='3'>
 <h4>base colors</h4>
-
 <h6>dark / light pairs of soft, blue-tinted greys for the general visual interface</h6>
-<br>
-
-<table>
+</td>
 
 <tr>
 <td align='right' width='300'><img src="http://www.colorhexa.com/232e39.png" height='48' width='48'></td>
@@ -59,21 +57,13 @@ set background=dark
 <td align='left' width='300'><img src="http://www.colorhexa.com/ffffff.png" height='48' width='48'></td>
 </tr>
 
-</table>
-<br>
+</tbody></table>
 
-</td>
-</tr>
-
-<tr></tr>
-
+<table><tbody>
 <tr>
-<td align='center' colspan='2'>
+<td align='center' colspan='3'>
 <h4>accent colors</h4>
 <h6>a minimal set for simple, logical syntax highlighting</h6>
-<br>
-
-<table>
 
 <tr>
 <td align='right' width='300'><img src="http://www.colorhexa.com/ce4947.png" height='48' width='48'></td>
@@ -96,15 +86,11 @@ set background=dark
 <td align='left' width='300'><img src="http://www.colorhexa.com/5299d3.png" height='48' width='48'></td>
 </tr>
 
-</table>
-<br>
+</tbody></table>
 
-</td>
-</tr>
-
+<table><tbody>
 <tr>
-<td align='center' colspan='2'>
-
+<td align='center' colspan='3'>
 <h4>syntax highlighting logic</h4>
 
 <h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;&nbsp;&nbsp;because red is the color of life...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' /></h5>
@@ -131,7 +117,9 @@ set background=dark
 
 </td>
 </tr>
+</tbody></table>
 
+<tbody><table>
 <tr>
 <td align='center' colspan='2'>
 <h4>hue-shifted theme variants</h4>
