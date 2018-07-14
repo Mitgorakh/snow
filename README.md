@@ -88,11 +88,11 @@ set background=dark
 *because green is the color of proceeding with <img height="16" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> action...*
 - plain green text is for **statements** (magic "action words"), such as conditionals (if, then...) or loops (for, do...)
 - bold green text is for **meta-statements** ("meta-actions"), like macros and "include module" statements
-- green highlighting is for **diff additions**</h6>
+- green highlighting is for **diff additions**
 
 *because blue is the calm, stable color of <img height="16" src='https://github.com/nightsense/snow/raw/master/images/sea.png' /> sea and <img height="14" src='https://github.com/nightsense/snow/raw/master/images/sky.png' /> sky, evoking enduring constancy...*
-- plain blue text is for **constants**, like booleans, integers, and strings<br><br>
-- blue highlighting is for **spellchecked strings**</h6>
+- plain blue text is for **constants**, like booleans, integers, and strings
+- blue highlighting is for **misspelt strings**
 
 *because sea and sky also evoke the notion of specialization (life forms, technology)...*
 - bold blue text is for **special elements**, like delimiters and debug statements
