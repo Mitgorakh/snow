@@ -26,9 +26,11 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td align='center' colspan='3'><h4>base colors</h4></td>
+<td align='center' colspan='3'><h4>base colors</h4>
+<h5>gently tinted for an unobtrusive visual interface</h5></td>
 <td></td>
-<td align='center' colspan='3'><h4>accent colors</h4></td>
+<td align='center' colspan='3'><h4>accent colors</h4>
+<h5>just four, to keep things simple and logical</h5></td>
 </tr>
 
 <tr>
