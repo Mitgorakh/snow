@@ -27,10 +27,10 @@ set background=dark
 
 <tr>
 <td align='center' colspan='3'><h4>base colors</h4>
-<h5>gently tinted for an unobtrusive visual interface</h5></td>
+<h6>gently tinted for an unobtrusive visual interface</h6></td>
 <td></td>
 <td align='center' colspan='3'><h4>accent colors</h4>
-<h5>just four, to keep things simple and logical</h5></td>
+<h6>just four, to keep things simple and logical</h6></td>
 </tr>
 
 <tr>
