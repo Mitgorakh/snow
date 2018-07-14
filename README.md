@@ -25,14 +25,9 @@ set background=dark
 </tr>
 </tbody></table>
 
+### base colors
+
 <table><tbody>
-<tr>
-
-<td align='center' colspan='3'>
-<h4>base colors</h4>
-<h6>light / dark pairs of grey for the general visual interface, </h6>
-</td>
-
 
 <tr>
 <td align='center'><img src="http://www.colorhexa.com/ffffff.png" height='48' width='48'></td>
@@ -53,9 +48,9 @@ set background=dark
 </tr>
 
 <tr>
-<td align='center' width='330'><img src="http://www.colorhexa.com/283745.png" height='48' width='48'></td>
-<td align='center' width='227'><h6>snowy night</h6></td>
-<td align='center' width='330'><img src="http://www.colorhexa.com/232e39.png" height='48' width='48'></td>
+<td align='center'><img src="http://www.colorhexa.com/283745.png" height='48' width='48'></td>
+<td align='center'><h6>snowy night</h6></td>
+<td align='center'><img src="http://www.colorhexa.com/232e39.png" height='48' width='48'></td>
 </tr>
 
 </tbody></table>
