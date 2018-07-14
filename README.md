@@ -5,8 +5,6 @@ a blue-tinted winter vimscape
 </h4>
 </td></tr></tbody></table>
 
-## palette
-
 <table><tbody>
 
 <tr>
@@ -74,8 +72,6 @@ set background=dark
 </tr>
 
 </tbody></table>
-
-## syntax
 
 because **red** is the color of <img height="14" src='https://github.com/nightsense/snow/raw/master/images/heart.png' /> life...
 - plain red text is for **names**, which give life to abstractions (like variables and functions)
