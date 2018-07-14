@@ -36,27 +36,27 @@ set background=dark
 <table>
 
 <tr>
-<td align='right' width='300'><img src="http://www.colorhexa.com/232e39.png" height='36' width='36'></td>
+<td align='right' width='300'><img src="http://www.colorhexa.com/232e39.png" height='48' width='48'></td>
 <td align='center' width='260'><h6>snowy night</h6></td>
-<td align='left' width='300'><img src="http://www.colorhexa.com/232e39.png" height='36' width='36'></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/232e39.png" height='48' width='48'></td>
 </tr>
 
 <tr>
-<td align='right' width='300'><img src="http://www.colorhexa.com/4a657f.png" height='36' width='36'></td>
+<td align='right' width='300'><img src="http://www.colorhexa.com/4a657f.png" height='48' width='48'></td>
 <td align='center' width='260'><h6>snowy evening</h6></td>
-<td align='left' width='300'><img src="http://www.colorhexa.com/5e7994.png" height='36' width='36'></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/5e7994.png" height='48' width='48'></td>
 </tr>
 
 <tr>
-<td align='right' width='300'><img src="http://www.colorhexa.com/7c97b3.png" height='36' width='36'></td>
+<td align='right' width='300'><img src="http://www.colorhexa.com/7c97b3.png" height='48' width='48'></td>
 <td align='center' width='260'><h6>snowy morning</h6></td>
-<td align='left' width='300'><img src="http://www.colorhexa.com/92aeca.png" height='36' width='36'></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/92aeca.png" height='48' width='48'></td>
 </tr>
 
 <tr>
-<td align='right' width='300'><img src="http://www.colorhexa.com/edf1f5.png" height='36' width='36'></td>
+<td align='right' width='300'><img src="http://www.colorhexa.com/edf1f5.png" height='48' width='48'></td>
 <td align='center' width='260'><h6>snowy day</h6></td>
-<td align='left' width='300'><img src="http://www.colorhexa.com/ffffff.png" height='36' width='36'></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/ffffff.png" height='48' width='48'></td>
 </tr>
 
 </table>
@@ -76,24 +76,24 @@ set background=dark
 <table>
 
 <tr>
-<td align='right' width='300'><img src="http://www.colorhexa.com/ce4947.png" height='36' width='36'></td>
+<td align='right' width='300'><img src="http://www.colorhexa.com/ce4947.png" height='48' width='48'></td>
 <td align='center' width='260'><h6>red</h6></td>
-<td align='left' width='300'><img src="http://www.colorhexa.com/d17c75.png" height='36' width='36'></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/d17c75.png" height='48' width='48'></td>
 </tr>
 
-<td align='right' width='300'><img src="http://www.colorhexa.com/ffd300.png" height='36' width='36'></td>
+<td align='right' width='300'><img src="http://www.colorhexa.com/ffd300.png" height='48' width='48'></td>
 <td align='center' width='260'><h6>yellow</h6></td>
-<td align='left' width='300'><img src="http://www.colorhexa.com/e2bd67.png" height='36' width='36'></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/e2bd67.png" height='48' width='48'></td>
 </tr>
 
-<td align='right' width='300'><img src="http://www.colorhexa.com/288821.png" height='36' width='36'></td>
+<td align='right' width='300'><img src="http://www.colorhexa.com/288821.png" height='48' width='48'></td>
 <td align='center' width='260'><h6>green</h6></td>
-<td align='left' width='300'><img src="http://www.colorhexa.com/6da061.png" height='36' width='36'></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/6da061.png" height='48' width='48'></td>
 </tr>
 
-<td align='right' width='300'><img src="http://www.colorhexa.com/0078d2.png" height='36' width='36'></td>
+<td align='right' width='300'><img src="http://www.colorhexa.com/0078d2.png" height='48' width='48'></td>
 <td align='center' width='260'><h6>blue</h6></td>
-<td align='left' width='300'><img src="http://www.colorhexa.com/5299d3.png" height='36' width='36'></td>
+<td align='left' width='300'><img src="http://www.colorhexa.com/5299d3.png" height='48' width='48'></td>
 </tr>
 
 </table>
@@ -109,16 +109,16 @@ set background=dark
 
 <h4>syntax highlighting logic</h4>
 
-<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;&nbsp;&nbsp;because red is the color of vitality, as in the red of life-giving blood...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' /></h5>
+<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;&nbsp;&nbsp;because red is the color of life...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' /></h5>
 <h6>...plain red text is for names, which give life to abstractions (like variables and functions)<br><br>
 ...bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)</h6>
-<h5>because red is also the color of alarm...</h5>
+<h5>because red is also the color of highlighting potential dangers (such as fire)...</h5>
 <h6>...red highlighting is for warnings and diff deletions</h6>
 
-<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;&nbsp;&nbsp;because yellow is the color of "hey, look at this"...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' /></h5>
+<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;&nbsp;&nbsp;because yellow is the color of highlighting key information...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' /></h5>
 <h6>...yellow highlighting is for search results, matching parentheses, and diff changes</h6>
 
-<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;&nbsp;&nbsp;because green is the color of "go ahead, proceed with action"...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' /></h5>
+<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;&nbsp;&nbsp;because green is the color of proceeding with actions (such as magic)...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' /></h5>
 <h6>...plain green text is for statements ("action words"), such as conditionals (if, then...) or loops (for, do...)<br><br>
 ...bold green text is for "meta-actions", like macros and "include module" statements<br><br>
 ...green highlighting is for diff additions</h6>
