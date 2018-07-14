@@ -28,9 +28,9 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td align='center' colspan='3'><h4>base</h4></td>
+<td align='center' colspan='3'><h4>base colors</h4></td>
 <td></td>
-<td align='center' colspan='3'><h4>accent</h4></td>
+<td align='center' colspan='3'><h4>accent colors</h4></td>
 </tr>
 
 <tr>
