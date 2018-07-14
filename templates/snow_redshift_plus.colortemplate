@@ -6,14 +6,13 @@ Full name:       snow_redshift_plus
 Short name:      snow_redshift_plus
 Terminal Colors: 256
 
-# light
 Background: light
 Color:      gry0 #ffffff ~
-Color:      gry1 #edf2f8 ~
-Color:      gry2 #8397ad ~
-Color:      gry3 #5d7186 ~
-Color:      gryc #51657a ~
-Color:      gryy #1b2733 ~
+Color:      gry1 #edf1f5 ~
+Color:      gry2 #7c97b3 ~
+Color:      gry3 #5e7994 ~
+Color:      gryc #4a657f ~
+Color:      gryy #232e39 ~
 Color:      yllw #ffd300 ~
 Color:      red_ #b84bac ~
 Color:      gren #6f7d00 ~
@@ -102,18 +101,17 @@ let g:lightline#colorscheme#snow_redshift_plus_light#palette =
   \ lightline#colorscheme#fill(s:p)
 endauxfile
 
-# dark
 Background: dark
-Color:      gry0 #1b2733 ~
-Color:      gry1 #22303f ~
-Color:      gry2 #5d7186 ~
-Color:      gry3 #8397ad ~
-Color:      gryc #91a6bc ~
-Color:      gryy #1b2733 ~
+Color:      gry0 #232e39 ~
+Color:      gry1 #283745 ~
+Color:      gry2 #5e7994 ~
+Color:      gry3 #7c97b3 ~
+Color:      gryc #92aeca ~
+Color:      gryy #232e39 ~
 Color:      yllw #e2bd67 ~
-Color:      red_ #b188aa ~
-Color:      gren #96986c ~
-Color:      blue #5c9fa8 ~
+Color:      red_ #c07eb7 ~
+Color:      gren #939850 ~
+Color:      blue #00a3b3 ~
 Include:    _common.colortemplate
 DiffChanged yllw gryy reverse
 DiffText    yllw gryy reverse

@@ -101,59 +101,57 @@ hue_base = 255.00
 hue_yllw = 082.50
 
 hexgry0_lt = tohex( gold(0.00) , gold(1000) , hue_base )
-hexgry1_lt = tohex( gold(0.10) , gold(7.00) , hue_base )
-hexgry2_lt = tohex( gold(1.01) , gold(4.00) , hue_base )
-hexgry3_lt = tohex( gold(1.58) , gold(4.00) , hue_base )
-hexgryc_lt = tohex( gold(1.81) , gold(4.00) , hue_base )
+hexgry1_lt = tohex( gold(0.11) , gold(7.50) , hue_base )
+hexgry2_lt = tohex( gold(1.02) , gold(3.50) , hue_base )
+hexgry3_lt = tohex( gold(1.46) , gold(3.50) , hue_base )
+hexgryc_lt = tohex( gold(1.83) , gold(3.50) , hue_base )
 hexyllw_lt = tohex( gold(0.25) , gold(0.00) , hue_yllw )
 
-hexgry0_dk = tohex( gold(3.94) , gold(4.75) , hue_base )
-hexgry1_dk = tohex( gold(3.43) , gold(4.50) , hue_base )
-hexgry2_dk = tohex( gold(1.58) , gold(4.00) , hue_base )
-hexgry3_dk = tohex( gold(1.01) , gold(4.00) , hue_base )
-hexgryc_dk = tohex( gold(0.83) , gold(4.00) , hue_base )
+hexgry0_dk = tohex( gold(3.51) , gold(5.00) , hue_base )
+hexgry1_dk = tohex( gold(3.14) , gold(4.50) , hue_base )
+hexgry2_dk = tohex( gold(1.46) , gold(3.50) , hue_base )
+hexgry3_dk = tohex( gold(1.02) , gold(3.50) , hue_base )
+hexgryc_dk = tohex( gold(0.75) , gold(3.50) , hue_base )
 hexyllw_dk = tohex( gold(0.50) , gold(1.50) , hue_yllw )
 
 cro_lt = gold(1.0)
-cro_dk = gold(3.0)
-lum_dk = gold(1.0)
+cro_dk = gold(2.0)
 
 if theme_name == 'snow_redshift_plus':
   hexred__lt = tohex( gold(1.45) , cro_lt , 330.0 )
   hexgren_lt = tohex( gold(1.45) , cro_lt , 105.0 )
   hexblue_lt = tohex( gold(1.65) , cro_lt , 210.0 )
-  hexred__dk = tohex( gold(1.01) , cro_dk , 330.0 )
-  hexgren_dk = tohex( gold(1.00) , cro_dk , 105.0 )
-  hexblue_dk = tohex( gold(1.02) , cro_dk , 210.0 )
+  hexred__dk = tohex( gold(1.02) , cro_dk , 330.0 )
+  hexgren_dk = tohex( gold(1.02) , cro_dk , 105.0 )
+  hexblue_dk = tohex( gold(1.04) , cro_dk , 210.0 )
 elif theme_name == 'snow_redshift':
   hexred__lt = tohex( gold(1.43) , cro_lt , 000.0 )
   hexgren_lt = tohex( gold(1.44) , cro_lt , 120.0 )
   hexblue_lt = tohex( gold(1.66) , cro_lt , 240.0 )
   hexred__dk = tohex( gold(1.01) , cro_dk , 000.0 )
-  hexgren_dk = tohex( gold(1.01) , cro_dk , 120.0 )
-  hexblue_dk = tohex( gold(1.02) , cro_dk , 240.0 )
+  hexgren_dk = tohex( gold(1.02) , cro_dk , 120.0 )
+  hexblue_dk = tohex( gold(1.04) , cro_dk , 240.0 )
 elif theme_name == 'snow':
-  hexred__lt = tohex( gold(1.42) , cro_lt , 037.5 )
+  hexred__lt = tohex( gold(1.42) , cro_lt , 030.0 )
   hexgren_lt = tohex( gold(1.45) , cro_lt , 135.0 )
   hexblue_lt = tohex( gold(1.61) , cro_lt , 255.0 )
-  hexred__dk = tohex( gold(1.00) , cro_dk , 037.5 )
-  hexgren_dk = tohex( gold(1.01) , cro_dk , 135.0 )
-  hexblue_dk = tohex( gold(1.02) , cro_dk , 255.0 )
+  hexred__dk = tohex( gold(1.01) , cro_dk , 030.0 )
+  hexgren_dk = tohex( gold(1.03) , cro_dk , 135.0 )
+  hexblue_dk = tohex( gold(1.04) , cro_dk , 255.0 )
 elif theme_name == 'snow_blueshift':
   hexred__lt = tohex( gold(1.42) , cro_lt , 045.0 )
   hexgren_lt = tohex( gold(1.48) , cro_lt , 150.0 )
   hexblue_lt = tohex( gold(1.52) , cro_lt , 270.0 )
-  hexred__dk = tohex( gold(1.00) , cro_dk , 045.0 )
-  hexgren_dk = tohex( gold(1.01) , cro_dk , 150.0 )
-  hexblue_dk = tohex( gold(1.02) , cro_dk , 270.0 )
+  hexred__dk = tohex( gold(1.01) , cro_dk , 045.0 )
+  hexgren_dk = tohex( gold(1.02) , cro_dk , 150.0 )
+  hexblue_dk = tohex( gold(1.05) , cro_dk , 270.0 )
 elif theme_name == 'snow_blueshift_plus':
   hexred__lt = tohex( gold(1.42) , cro_lt , 060.0 )
   hexgren_lt = tohex( gold(1.58) , cro_lt , 180.0 )
   hexblue_lt = tohex( gold(1.47) , cro_lt , 300.0 )
-  hexred__dk = tohex( gold(1.00) , cro_dk , 060.0 )
-  hexgren_dk = tohex( gold(1.02) , cro_dk , 180.0 )
-  hexblue_dk = tohex( gold(1.02) , cro_dk , 300.0 )
-
+  hexred__dk = tohex( gold(1.01) , cro_dk , 060.0 )
+  hexgren_dk = tohex( gold(1.03) , cro_dk , 180.0 )
+  hexblue_dk = tohex( gold(1.03) , cro_dk , 300.0 )
 else:
   print 'invalid theme name'
   sys.exit()
@@ -162,13 +160,10 @@ print '# general'
 print 'Author:          nightsense'
 print 'Maintainer:      nightsense'
 print 'License:         MIT'
-
 print 'Full name:       %s' % theme_name
 print 'Short name:      %s' % theme_name
-
 print 'Terminal Colors: 256'
 print ''
-print '# light'
 print 'Background: light'
 print 'Color:      gry0 %s ~' % hexgry0_lt
 print 'Color:      gry1 %s ~' % hexgry1_lt
@@ -188,9 +183,7 @@ print 'Search      yllw gryy reverse'
 print ''
 print_airline(theme_name,'light')
 print_lightline(theme_name,'light')
-
 print ''
-print '# dark'
 print 'Background: dark'
 print 'Color:      gry0 %s ~' % hexgry0_dk
 print 'Color:      gry1 %s ~' % hexgry1_dk
