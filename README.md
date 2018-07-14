@@ -29,18 +29,17 @@ set background=dark
 
 <tr>
 <td align='center' colspan='3'><h4>base</h4></td>
-<td></td>
 <td align='center' colspan='3'><h4>accent</h4></td>
 </tr>
 
 <tr>
-<td align='center'><img src="http://www.colorhexa.com/ffffff.png" height='48' width='48'></td>
-<td align='center'><h6>snowy day</h6></td>
-<td align='left'><img src="http://www.colorhexa.com/edf1f5.png" height='48' width='48'></td>
-<td width='100'></td>
-<td align='right'><img src="http://www.colorhexa.com/ce4947.png" height='48' width='48'></td>
-<td align='center'><h6>red</h6></td>
-<td align='center'><img src="http://www.colorhexa.com/d17c75.png" height='48' width='48'></td>
+<td width='80' align='center'><img src="http://www.colorhexa.com/ffffff.png" height='48' width='48'></td>
+<td width='200' align='center'><h6>snowy day</h6></td>
+<td width='80' align='left'><img src="http://www.colorhexa.com/edf1f5.png" height='48' width='48'></td>
+<td width='300'></td>
+<td width='80' align='right'><img src="http://www.colorhexa.com/ce4947.png" height='48' width='48'></td>
+<td width='200' align='center'><h6>red</h6></td>
+<td width='80' align='center'><img src="http://www.colorhexa.com/d17c75.png" height='48' width='48'></td>
 </tr>
 
 <tr>
