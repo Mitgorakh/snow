@@ -30,6 +30,10 @@ set background=dark
 <table><tbody>
 
 <tr>
+<td colspan='3'><h5>base colors</h5></td>
+</tr>
+
+<tr>
 <td align='center'><img src="http://www.colorhexa.com/ffffff.png" height='48' width='48'></td>
 <td align='center'><h6>snowy day</h6></td>
 <td align='center'><img src="http://www.colorhexa.com/edf1f5.png" height='48' width='48'></td>
