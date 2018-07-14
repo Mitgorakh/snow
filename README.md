@@ -75,7 +75,9 @@ set background=dark
 
 </tbody></table>
 
-#### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' /> because red is the color of life...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' /></h5>
+<br>
+
+####&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' /> because red is the color of life...
 ##### ...plain red text is for names, which give life to abstractions (like variables and functions)
 ##### ...bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)
 #### because red is also the color of highlighting potential dangers (such as fire)...
