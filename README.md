@@ -75,7 +75,7 @@ set background=dark
 
 </tbody></table>
 
-<br>
+## syntax
 
 #### &nbsp;&nbsp;because red is the color of <img height="14" src='https://github.com/nightsense/snow/raw/master/images/heart.png' /> life...
 - plain red text is for **names**, which give life to abstractions (like variables and functions)
