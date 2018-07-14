@@ -73,6 +73,8 @@ set background=dark
 
 </tbody></table>
 
+<br>
+
 because **red** is the color of <img height="14" src='https://github.com/nightsense/snow/raw/master/images/heart.png' /> life...
 - plain red text is for **names**, which give life to abstractions (like variables and functions)
 - bold red text is for **types** ("meta-names"), like variable type (int, char...) or storage class (static, register...)
