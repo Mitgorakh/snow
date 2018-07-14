@@ -35,8 +35,9 @@ set background=dark
 <tr>
 <td align='center'><img src="http://www.colorhexa.com/ffffff.png" height='48' width='48'></td>
 <td align='center'><h6>snowy day</h6></td>
-<td align='center'><img src="http://www.colorhexa.com/edf1f5.png" height='48' width='48'></td>
-<td align='center'><img src="http://www.colorhexa.com/ce4947.png" height='48' width='48'></td>
+<td align='left'><img src="http://www.colorhexa.com/edf1f5.png" height='48' width='48'></td>
+<td width='100'></td>
+<td align='right'><img src="http://www.colorhexa.com/ce4947.png" height='48' width='48'></td>
 <td align='center'><h6>red</h6></td>
 <td align='center'><img src="http://www.colorhexa.com/d17c75.png" height='48' width='48'></td>
 </tr>
@@ -45,6 +46,7 @@ set background=dark
 <td align='center'><img src="http://www.colorhexa.com/92aeca.png" height='48' width='48'></td>
 <td align='center'><h6>snowy morning</h6></td>
 <td align='center'><img src="http://www.colorhexa.com/7c97b3.png" height='48' width='48'></td>
+<td></td>
 <td align='center'><img src="http://www.colorhexa.com/ffd300.png" height='48' width='48'></td>
 <td align='center'><h6>yellow</h6></td>
 <td align='center'><img src="http://www.colorhexa.com/e2bd67.png" height='48' width='48'></td>
@@ -54,6 +56,7 @@ set background=dark
 <td align='center'><img src="http://www.colorhexa.com/5e7994.png" height='48' width='48'></td>
 <td align='center'><h6>snowy evening</h6></td>
 <td align='center'><img src="http://www.colorhexa.com/4a657f.png" height='48' width='48'></td>
+<td></td>
 <td align='center'><img src="http://www.colorhexa.com/288821.png" height='48' width='48'></td>
 <td align='center'><h6>green</h6></td>
 <td align='center'><img src="http://www.colorhexa.com/6da061.png" height='48' width='48'></td>
@@ -63,6 +66,7 @@ set background=dark
 <td align='center'><img src="http://www.colorhexa.com/283745.png" height='48' width='48'></td>
 <td align='center'><h6>snowy night</h6></td>
 <td align='center'><img src="http://www.colorhexa.com/232e39.png" height='48' width='48'></td>
+<td></td>
 <td align='center'><img src="http://www.colorhexa.com/0078d2.png" height='48' width='48'></td>
 <td align='center'><h6>blue</h6></td>
 <td align='center'><img src="http://www.colorhexa.com/5299d3.png" height='48' width='48'></td>
