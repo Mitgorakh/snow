@@ -85,8 +85,8 @@ because red is also the color of highlighting <img height="16" src='https://gith
 because **yellow** is the color of highlighting <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' /> key information...
 - yellow highlighting is for **search results**, **matching parentheses**, and **diff changes**
 
-because **green** is the color of proceeding with action (like, say, using <img height="16" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> magic)...
-- plain green text is for **statements** (the magic "action words" of code), such as conditionals (if, then...) or loops (for, do...)
+because **green** is the color of proceeding with <img height="16" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> action...
+- plain green text is for **statements** (magic "action words"), such as conditionals (if, then...) or loops (for, do...)
 - bold green text is for **meta-statements** ("meta-actions"), like macros and "include module" statements
 - green highlighting is for **diff additions**</h6>
 
@@ -97,6 +97,7 @@ because **blue** is the calm, stable color of <img height="16" src='https://gith
 because sea and sky also evoke the notion of specialization (life forms, technology)...
 - bold blue text is for **special elements**, like delimiters and debug statements
 
+<br>
 
 <table><tbody>
 <tr>
