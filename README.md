@@ -77,17 +77,17 @@ set background=dark
 
 <br>
 
-#### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;&nbsp;because red is the color of <img height="16" src='https://github.com/nightsense/snow/raw/master/images/heart.png' /> life...
-
+#### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;&nbsp;because red is the color of <img height="14" src='https://github.com/nightsense/snow/raw/master/images/heart.png' /> life...
 - plain red text is for **names**, which give life to abstractions (like variables and functions)
 - bold red text is for **types** ("meta-names"), like variable type (int, char...) or storage class (static, register...)
-#### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red-invert.png' /> because red is also the color of highlighting potential dangers...
-##### ...red highlighting is for warnings and diff deletions
 
-#### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;&nbsp;&nbsp;because yellow is the color of highlighting <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' /> key information...
+#### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red-invert.png' />&nbsp;&nbsp;because red is also the color of highlighting <img height="16" src='https://github.com/nightsense/snow/raw/master/images/lantern.png' /> potential dangers...
+- ...red highlighting is for warnings and diff deletions
+
+#### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;&nbsp;because yellow is the color of highlighting <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' /> key information...
 - yellow highlighting is for search results, matching parentheses, and diff changes
 
-<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;&nbsp;&nbsp;because green is the color of proceeding with actions (such as magic)...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' /></h5>
+<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;&nbsp;&nbsp;because green is the color of proceeding with actions (like, say, using <img height="15" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> magic)...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' /></h5>
 <h6>...plain green text is for statements ("action words"), such as conditionals (if, then...) or loops (for, do...)<br><br>
 ...bold green text is for "meta-actions", like macros and "include module" statements<br><br>
 ...green highlighting is for diff additions</h6>
