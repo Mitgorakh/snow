@@ -77,9 +77,7 @@ set background=dark
 
 <br>
 
-<img height="64" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />
-
-#### &nbsp;&nbsp;because red is the color of <img height="14" src='https://github.com/nightsense/snow/raw/master/images/heart.png' /> life...
+#### <img height="64" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;&nbsp;because red is the color of <img height="14" src='https://github.com/nightsense/snow/raw/master/images/heart.png' /> life...
 - plain red text is for **names**, which give life to abstractions (like variables and functions)
 - bold red text is for **types** ("meta-names"), like variable type (int, char...) or storage class (static, register...)
 
