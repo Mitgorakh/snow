@@ -35,11 +35,11 @@ set background=dark
 
 <tr>
 <td width='90' align='center'><img src="http://www.colorhexa.com/ffffff.png" height='48' width='48'></td>
-<td width='210' align='center'><h6>snowy day</h6></td>
+<td width='220' align='center'><h6>snowy day</h6></td>
 <td width='90' align='center'><img src="http://www.colorhexa.com/edf1f5.png" height='48' width='48'></td>
-<td width='108'></td>
+<td width='88'></td>
 <td width='90' align='center'><img src="http://www.colorhexa.com/ce4947.png" height='48' width='48'></td>
-<td width='210' align='center'><h6>red</h6></td>
+<td width='220' align='center'><h6>red</h6></td>
 <td width='90' align='center'><img src="http://www.colorhexa.com/d17c75.png" height='48' width='48'></td>
 </tr>
 
@@ -75,12 +75,10 @@ set background=dark
 
 </tbody></table>
 
-<table><tbody>
-<tr>
-<td align='center' colspan='3'>
-<h4>syntax highlighting logic</h4>
+## syntax highlighting logic
 
-<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;&nbsp;&nbsp;because red is the color of life...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' /></h5>
+<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />
+because red is the color of life...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' /></h5>
 <h6>...plain red text is for names, which give life to abstractions (like variables and functions)<br><br>
 ...bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)</h6>
 <h5>because red is also the color of highlighting potential dangers (such as fire)...</h5>
