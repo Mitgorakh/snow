@@ -92,7 +92,7 @@ set background=dark
 - bold green text is for **meta-statements** ("meta-actions"), like macros and "include module" statements
 - green highlighting is for **diff additions**</h6>
 
-#### &nbsp;&nbsp;because blue is the calm, stable color of <img height="16" src='https://github.com/nightsense/snow/raw/master/images/sea.png' /> sea and <img height="14" src='https://github.com/nightsense/snow/raw/master/images/sea.png' /> sky, evoking enduring constancy...
+#### &nbsp;&nbsp;because blue is the calm, stable color of <img height="16" src='https://github.com/nightsense/snow/raw/master/images/sea.png' /> sea and <img height="14" src='https://github.com/nightsense/snow/raw/master/images/sky.png' /> sky, evoking enduring constancy...
 - plain blue text is for **constants**, like booleans, integers, and strings<br><br>
 - blue highlighting is for **spellchecked strings**</h6>
 
