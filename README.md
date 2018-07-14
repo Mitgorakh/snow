@@ -77,14 +77,14 @@ set background=dark
 
 <br>
 
-<img height="60" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />
+<img height="64" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />
 
 #### &nbsp;&nbsp;because red is the color of <img height="14" src='https://github.com/nightsense/snow/raw/master/images/heart.png' /> life...
 - plain red text is for **names**, which give life to abstractions (like variables and functions)
 - bold red text is for **types** ("meta-names"), like variable type (int, char...) or storage class (static, register...)
 
 #### &nbsp;&nbsp;because red is also the color of highlighting <img height="16" src='https://github.com/nightsense/snow/raw/master/images/lantern.png' /> potential dangers...
-- ...red highlighting is for warnings and diff deletions
+- red highlighting is for warnings and diff deletions
 
 #### because yellow is the color of highlighting <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' /> key information...
 - yellow highlighting is for search results, matching parentheses, and diff changes
