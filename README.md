@@ -75,13 +75,11 @@ set background=dark
 
 </tbody></table>
 
-## syntax highlighting logic
-
-### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' /> because red is the color of life...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' /></h5>
-<h6>...plain red text is for names, which give life to abstractions (like variables and functions)<br><br>
-...bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)</h6>
-<h5>because red is also the color of highlighting potential dangers (such as fire)...</h5>
-<h6>...red highlighting is for warnings and diff deletions</h6>
+#### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' /> because red is the color of life...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' /></h5>
+##### ...plain red text is for names, which give life to abstractions (like variables and functions)
+##### ...bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)
+#### because red is also the color of highlighting potential dangers (such as fire)...
+##### ...red highlighting is for warnings and diff deletions
 
 <h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;&nbsp;&nbsp;because yellow is the color of highlighting key information...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' /></h5>
 <h6>...yellow highlighting is for search results, matching parentheses, and diff changes</h6>
