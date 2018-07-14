@@ -102,8 +102,6 @@ set background=dark
 </td>
 </tr>
 
-<tr></tr>
-
 <tr>
 <td align='center' colspan='2'>
 
