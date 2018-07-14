@@ -25,12 +25,10 @@ set background=dark
 </tr>
 </tbody></table>
 
-### base colors
-
 <table><tbody>
 
 <tr>
-<td colspan='3'><h5>base colors</h5></td>
+<td colspan='3'><h4>base colors</h4></td>
 </tr>
 
 <tr>
