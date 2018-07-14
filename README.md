@@ -86,7 +86,7 @@ set background=dark
 - yellow highlighting is for **search results**, **matching parentheses**, and **diff changes**
 
 *because green is the color of proceeding with <img height="16" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> action...*
-- plain green text is for **statements** (magic "action words"), such as conditionals (if, then...) or loops (for, do...)
+- plain green text is for **statements** (magical "action words"), such as conditionals (if, then...) or loops (for, do...)
 - bold green text is for **meta-statements** ("meta-actions"), like macros and "include module" statements
 - green highlighting is for **diff additions**
 
@@ -317,4 +317,4 @@ let &t_EI = "\<Esc>[2 q"
 
 ###### ▸&nbsp;&nbsp;the snow colorscheme is generated with [Colortemplate](https://github.com/lifepillar/vim-colortemplate) and provided under the [MIT license](https://opensource.org/licenses/MIT)
 ###### ▸&nbsp;&nbsp;text contrast meets the 4.5:1 [W3C standard](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html), except for peripheral text (e.g. comments) which meets the 3:1 ISO standard
-###### ▸&nbsp;&nbsp;image credits: snowflake macrophoto by [Olga & Alexey (CC BY-NC 2.0)](https://www.flickr.com/photos/chaoticmind75/39326731084/), snowflake icon by [Amada44 (Public Domain)](https://commons.wikimedia.org/wiki/File:Snowflake_01.svg)
+###### ▸&nbsp;&nbsp;snowflake macrophoto by [Olga & Alexey (CC BY-NC 2.0)](https://www.flickr.com/photos/chaoticmind75/39326731084/), snowflake icon by [Amada44 (Public Domain)](https://commons.wikimedia.org/wiki/File:Snowflake_01.svg)
