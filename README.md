@@ -35,11 +35,11 @@ set background=dark
 
 <tr>
 <td width='80' align='center'><img src="http://www.colorhexa.com/ffffff.png" height='48' width='48'></td>
-<td width='200' align='center'><h6>snowy day</h6></td>
+<td width='150' align='center'><h6>snowy day</h6></td>
 <td width='80' align='left'><img src="http://www.colorhexa.com/edf1f5.png" height='48' width='48'></td>
 <td width='200'></td>
 <td width='80' align='right'><img src="http://www.colorhexa.com/ce4947.png" height='48' width='48'></td>
-<td width='200' align='center'><h6>red</h6></td>
+<td width='150' align='center'><h6>red</h6></td>
 <td width='80' align='center'><img src="http://www.colorhexa.com/d17c75.png" height='48' width='48'></td>
 </tr>
 
