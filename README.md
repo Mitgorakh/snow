@@ -79,13 +79,13 @@ set background=dark
 
 #### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red.png' />&nbsp;&nbsp;because red is the color of <img height="16" src='https://github.com/nightsense/snow/raw/master/images/heart.png' /> life...
 
-- plain red text is for names, which give life to abstractions (like variables and functions)
-- bold red text is for types ("meta-names"), like variable type (int, char...) or storage class (static, register...)
-#### because red is also the color of highlighting potential dangers (such as fire)...
+- plain red text is for **names**, which give life to abstractions (like variables and functions)
+- bold red text is for **types** ("meta-names"), like variable type (int, char...) or storage class (static, register...)
+#### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-red-invert.png' /> because red is also the color of highlighting potential dangers...
 ##### ...red highlighting is for warnings and diff deletions
 
-<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;&nbsp;&nbsp;because yellow is the color of highlighting key information...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' /></h5>
-<h6>...yellow highlighting is for search results, matching parentheses, and diff changes</h6>
+#### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;&nbsp;&nbsp;because yellow is the color of highlighting <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' /> key information...
+- yellow highlighting is for search results, matching parentheses, and diff changes
 
 <h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;&nbsp;&nbsp;because green is the color of proceeding with actions (such as magic)...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' /></h5>
 <h6>...plain green text is for statements ("action words"), such as conditionals (if, then...) or loops (for, do...)<br><br>
