@@ -87,24 +87,20 @@ set background=dark
 #### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-yellow.png' />&nbsp;&nbsp;because yellow is the color of highlighting <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' /> key information...
 - yellow highlighting is for search results, matching parentheses, and diff changes
 
-<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;&nbsp;&nbsp;because green is the color of proceeding with actions (like, say, using <img height="15" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> magic)...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' /></h5>
-<h6>...plain green text is for statements ("action words"), such as conditionals (if, then...) or loops (for, do...)<br><br>
-...bold green text is for "meta-actions", like macros and "include module" statements<br><br>
-...green highlighting is for diff additions</h6>
+#### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-green.png' />&nbsp;&nbsp;because green is the color of proceeding with actions (like, say, using <img height="16" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> magic)...
+- plain green text is for **statements** ("action words"), such as conditionals (if, then...) or loops (for, do...)<br><br>
+- bold green text is for "meta-actions", like macros and "include module" statements
+- green highlighting is for diff additions</h6>
 
-<h5><img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />&nbsp;&nbsp;&nbsp;because blue is the calm, stable color of sea and sky, evoking enduring constancy...&nbsp;&nbsp;&nbsp;<img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' /></h5>
-<h6>
-...plain blue text is for constants, like booleans, integers, and strings<br><br>
-...blue highlighting is for misspelt strings</h6>
-<h5>because sea and sky also evoke the notion of specialization (life forms, technology)...</h5>
-<h6>...bold blue text is for special things, like delimiters and debug statements
-</h6>
+#### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue.png' />&nbsp;&nbsp;because blue is the calm, stable color of <img height="16" src='https://github.com/nightsense/snow/raw/master/images/sea.png' /> sea and <img height="14" src='https://github.com/nightsense/snow/raw/master/images/sea.png' /> sky, evoking enduring constancy...
+- plain blue text is for constants, like booleans, integers, and strings<br><br>
+- blue highlighting is for misspelt strings</h6>
 
-</td>
-</tr>
-</tbody></table>
+#### <img height="30" src='https://github.com/nightsense/snow/raw/master/images/snowflake-blue-invert.png' />&nbsp;&nbsp;because sea and sky also evoke the notion of specialization (life forms, technology)...
+- bold blue text is for special things, like delimiters and debug statements
 
-<tbody><table>
+
+<table><tbody>
 <tr>
 <td align='center' colspan='2'>
 <h4>hue-shifted theme variants</h4>
