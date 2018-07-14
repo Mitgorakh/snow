@@ -82,22 +82,22 @@ set background=dark
 - bold red text is for **types** ("meta-names"), like variable type (int, char...) or storage class (static, register...)
 
 #### &nbsp;&nbsp;because red is also the color of highlighting <img height="16" src='https://github.com/nightsense/snow/raw/master/images/lantern.png' /> potential dangers...
-- red highlighting is for warnings and diff deletions
+- red highlighting is for **errors**, **warnings**, and **diff deletions**
 
 #### because yellow is the color of highlighting <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' /> key information...
-- yellow highlighting is for search results, matching parentheses, and diff changes
+- yellow highlighting is for **search results**, **matching parentheses**, and **diff changes**
 
 #### &nbsp;&nbsp;because green is the color of proceeding with actions (like, say, using <img height="16" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> magic)...
 - plain green text is for **statements** ("action words"), such as conditionals (if, then...) or loops (for, do...)<br><br>
-- bold green text is for "meta-actions", like macros and "include module" statements
-- green highlighting is for diff additions</h6>
+- bold green text is for **meta-statements** ("meta-actions"), like macros and "include module" statements
+- green highlighting is for **diff additions**</h6>
 
 #### &nbsp;&nbsp;because blue is the calm, stable color of <img height="16" src='https://github.com/nightsense/snow/raw/master/images/sea.png' /> sea and <img height="14" src='https://github.com/nightsense/snow/raw/master/images/sea.png' /> sky, evoking enduring constancy...
-- plain blue text is for constants, like booleans, integers, and strings<br><br>
-- blue highlighting is for misspelt strings</h6>
+- plain blue text is for **constants**, like booleans, integers, and strings<br><br>
+- blue highlighting is for **spellchecked strings**</h6>
 
 #### &nbsp;&nbsp;because sea and sky also evoke the notion of specialization (life forms, technology)...
-- bold blue text is for special things, like delimiters and debug statements
+- bold blue text is for **special elements**, like delimiters and debug statements
 
 
 <table><tbody>
