@@ -77,7 +77,7 @@ set background=dark
 
 <br>
 
-*because red is the color of <img height="14" src='https://github.com/nightsense/snow/raw/master/images/heart.png' /> life...*
+*because red is the color of <img height="7" src='https://github.com/nightsense/snow/raw/master/images/heart.png' /> life...*
 - plain red text is for **names**, which give life to abstractions (like variables and functions)
 - bold red text is for **types** ("meta-names"), like variable type (int, char...) or storage class (static, register...)
 
@@ -87,7 +87,7 @@ set background=dark
 *because yellow is the color of highlighting <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' /> key information...*
 - yellow highlighting is for **search results**, **matching parentheses**, and **diff changes**
 
-*because green is the color of proceeding with <img height="16" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> action...*
+*because green is the color of proceeding with <img height="8" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> action...*
 - plain green text is for **statements** (magical "action words"), such as conditionals (if, then...) or loops (for, do...)
 - bold green text is for **meta-statements** ("meta-actions"), like macros and "include module" statements
 - green highlighting is for **diff additions**
