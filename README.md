@@ -27,50 +27,50 @@ set background=dark
 
 <tr>
 <td align='center' colspan='3'><h4>base colors</h4>
-<h6>gently tinted for an unobtrusive visual interface</h6></td>
+gently tinted for an unobtrusive visual interface</td>
 <td></td>
 <td align='center' colspan='3'><h4>accent colors</h4>
-<h6>just four, to keep things simple and logical</h6></td>
+just four, to keep things simple and logical</td>
 </tr>
 
 <tr>
-<td width='90' align='center'><img src="http://www.colorhexa.com/ffffff.png" height='24' width='24'></td>
-<td width='220' align='center'><h6>snowy day</h6></td>
-<td width='90' align='center'><img src="http://www.colorhexa.com/edf1f5.png" height='24' width='24'></td>
+<td width='90' align='center'><img src="http://www.colorhexa.com/ffffff.png" height='18' width='18'></td>
+<td width='220' align='center'>snowy day</td>
+<td width='90' align='center'><img src="http://www.colorhexa.com/edf1f5.png" height='18' width='18'></td>
 <td width='88'></td>
-<td width='90' align='center'><img src="http://www.colorhexa.com/e12c3b.png" height='24' width='24'></td>
-<td width='220' align='center'><h6>red</h6></td>
-<td width='90' align='center'><img src="http://www.colorhexa.com/d17c75.png" height='24' width='24'></td>
+<td width='90' align='center'><img src="http://www.colorhexa.com/e12c3b.png" height='18' width='18'></td>
+<td width='220' align='center'>red</td>
+<td width='90' align='center'><img src="http://www.colorhexa.com/d17c75.png" height='18' width='18'></td>
 </tr>
 
 <tr>
-<td align='center'><img src="http://www.colorhexa.com/92aeca.png" height='24' width='24'></td>
-<td align='center'><h6>snowy morning</h6></td>
-<td align='center'><img src="http://www.colorhexa.com/7c97b3.png" height='24' width='24'></td>
+<td align='center'><img src="http://www.colorhexa.com/92aeca.png" height='18' width='18'></td>
+<td align='center'>snowy morning</td>
+<td align='center'><img src="http://www.colorhexa.com/7c97b3.png" height='18' width='18'></td>
 <td></td>
-<td align='center'><img src="http://www.colorhexa.com/ffd300.png" height='24' width='24'></td>
-<td align='center'><h6>yellow</h6></td>
-<td align='center'><img src="http://www.colorhexa.com/e2bd67.png" height='24' width='24'></td>
+<td align='center'><img src="http://www.colorhexa.com/ffd300.png" height='18' width='18'></td>
+<td align='center'>yellow</td>
+<td align='center'><img src="http://www.colorhexa.com/e2bd67.png" height='18' width='18'></td>
 </tr>
 
 <tr>
-<td align='center'><img src="http://www.colorhexa.com/5e7994.png" height='24' width='24'></td>
-<td align='center'><h6>snowy evening</h6></td>
-<td align='center'><img src="http://www.colorhexa.com/4a657f.png" height='24' width='24'></td>
+<td align='center'><img src="http://www.colorhexa.com/5e7994.png" height='18' width='18'></td>
+<td align='center'>snowy evening</td>
+<td align='center'><img src="http://www.colorhexa.com/4a657f.png" height='18' width='18'></td>
 <td></td>
-<td align='center'><img src="http://www.colorhexa.com/008a00.png" height='24' width='24'></td>
-<td align='center'><h6>green</h6></td>
-<td align='center'><img src="http://www.colorhexa.com/6da061.png" height='24' width='24'></td>
+<td align='center'><img src="http://www.colorhexa.com/008a00.png" height='18' width='18'></td>
+<td align='center'>green</td>
+<td align='center'><img src="http://www.colorhexa.com/6da061.png" height='18' width='18'></td>
 </tr>
 
 <tr>
-<td align='center'><img src="http://www.colorhexa.com/283745.png" height='24' width='24'></td>
-<td align='center'><h6>snowy night</h6></td>
-<td align='center'><img src="http://www.colorhexa.com/232e39.png" height='24' width='24'></td>
+<td align='center'><img src="http://www.colorhexa.com/283745.png" height='18' width='18'></td>
+<td align='center'>snowy night</td>
+<td align='center'><img src="http://www.colorhexa.com/232e39.png" height='18' width='18'></td>
 <td></td>
-<td align='center'><img src="http://www.colorhexa.com/0074e6.png" height='24' width='24'></td>
-<td align='center'><h6>blue</h6></td>
-<td align='center'><img src="http://www.colorhexa.com/5299d3.png" height='24' width='24'></td>
+<td align='center'><img src="http://www.colorhexa.com/0074e6.png" height='18' width='18'></td>
+<td align='center'>blue</td>
+<td align='center'><img src="http://www.colorhexa.com/5299d3.png" height='18' width='18'></td>
 </tr>
 
 </tbody></table>
