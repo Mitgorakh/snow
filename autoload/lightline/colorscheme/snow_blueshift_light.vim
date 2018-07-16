@@ -4,7 +4,7 @@ let s:gry2 = "#8397ad"
 let s:gry3 = "#64788d"
 let s:gryy = "#242e3a"
 let s:red_ = "#d44518"
-let s:yllw = "#ffd300"
+let s:yllw = "#ffd528"
 let s:gren = "#008a25"
 let s:blue = "#0071f2"
 

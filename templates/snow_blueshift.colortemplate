@@ -13,7 +13,7 @@ Color:      gry2 #8397ad ~
 Color:      gry3 #64788d ~
 Color:      gryc #51657a ~
 Color:      gryy #242e3a ~
-Color:      yllw #ffd300 ~
+Color:      yllw #ffd528 ~
 Color:      red_ #d44518 ~
 Color:      gren #008a25 ~
 Color:      blue #0071f2 ~
@@ -103,7 +103,7 @@ endauxfile
 
 Background: dark
 Color:      gry0 #242e3a ~
-Color:      gry1 #2a3743 ~
+Color:      gry1 #283745 ~
 Color:      gry2 #64788d ~
 Color:      gry3 #8397ad ~
 Color:      gryc #99aec5 ~
