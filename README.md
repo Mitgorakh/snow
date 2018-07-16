@@ -80,7 +80,7 @@ set background=dark
 - bold red text is for **types** ("meta-names") <img height="13" src='https://github.com/nightsense/snow/raw/master/images/type.png' />, like variable type (int, char...) or storage class (static, register...)
 
 *because red is also the color of highlighting potential dangers <img height="16" src='https://github.com/nightsense/snow/raw/master/images/lantern.png' />...*
-- red highlighting is for **warnings/errors** (i.e. problems to be removed) and **diff deletions** (i.e. content about to be removed) <img height="16" src='https://github.com/nightsense/snow/raw/master/images/delete.png' />
+- red highlighting is for **warnings** (which allow problems to be removed) and **diff deletions** (content about to be removed) <img height="16" src='https://github.com/nightsense/snow/raw/master/images/delete.png' />
 
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/yellow.png' /> yellow is the color of highlighting key information <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' />...*
 - yellow highlighting is for **search results**, **matching parentheses**, and **diff changes**
