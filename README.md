@@ -42,7 +42,7 @@ set background=dark
 </tr>
 
 <tr>
-<td align='center'><img src="http://www.colorhexa.com/92aeca.png" height='18' width='18'></td>
+<td align='center'><img style='border-radius:1rem' src="http://www.colorhexa.com/92aeca.png" height='18' width='18'></td>
 <td align='center'>snowy morning</td>
 <td align='center'><img src="http://www.colorhexa.com/7c97b3.png" height='18' width='18'></td>
 <td></td>
