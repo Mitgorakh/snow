@@ -95,7 +95,7 @@ set background=dark
 - blue highlighting is for **misspelt strings** (an important <img height="16" src='https://github.com/nightsense/snow/raw/master/images/misspelt.png' /> protective measure)
 
 *because sea and sky also evoke the notion of specialization (life forms <img height="14" src='https://github.com/nightsense/snow/raw/master/images/sky.png' />, technology <img height="16" src='https://github.com/nightsense/snow/raw/master/images/sea.png' />)...*
-- bold blue text is for **special elements**, like delimiters and debug statements
+- bold blue text is for <img height="15" src='https://github.com/nightsense/snow/raw/master/images/misspelt.png' /> **special elements**, like delimiters and debug statements
 
 <br>
 
