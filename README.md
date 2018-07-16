@@ -151,6 +151,8 @@ set background=dark
 </tr>
 </tbody></table>
 
+<br>
+
 <table><tbody>
 <tr>
 <td align='center' colspan='2'>
