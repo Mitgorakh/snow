@@ -111,13 +111,13 @@ set background=dark
 </tr>
 
 <tr>
-<td align='center' colspan='2' width='33%'>
+<td align='center' colspan='2'>
 <img src="http://www.colorhexa.com/c833bb.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;magenta&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c07eb7.png" height='18' width='18'>
 </td>
-<td align='center' colspan='2' width='33%'>
+<td align='center' colspan='2'>
 <img src="http://www.colorhexa.com/6a7f00.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;moss green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/949951.png" height='18' width='18'>
 </td>
-<td align='center' colspan='2' width='33%'>
+<td align='center' colspan='2'>
 <img src="http://www.colorhexa.com/0080a7.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;green-blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/00a3b3.png" height='18' width='18'>
 </td>
 </tr>
@@ -138,17 +138,23 @@ set background=dark
 
 <tr>
 <td align='center' colspan='2'>
-<img src="http://www.colorhexa.com/e6007c.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;pink&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/d27996.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/418600.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;lawn green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/819d57.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/0079d7.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sky blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/349ecc.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/e6007c.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;pink&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/d27996.png" height='18' width='18'>
+</td>
+<td align='center' colspan='2'>
+<img src="http://www.colorhexa.com/418600.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;lawn green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/819d57.png" height='18' width='18'>
+</td>
+<td align='center' colspan='2'>
+<img src="http://www.colorhexa.com/0079d7.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sky blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/349ecc.png" height='18' width='18'>
 </td>
 </tr>
 <tr>
-<td align="center"><img alt="screenshot of the snow vim theme, light version, red-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-redshift.png" height="325" />
+<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, light version, red-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-redshift.png" height="325" />
 <pre>
 colorscheme snow_redshift
 set background=light
 </pre>
 </td>
-<td align="center"><img alt="screenshot of the snow vim theme, dark version, red-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-redshift.png" height="325" />
+<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, dark version, red-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-redshift.png" height="325" />
 <pre>
 colorscheme snow_redshift
 set background=dark
