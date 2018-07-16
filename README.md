@@ -169,7 +169,7 @@ set background=dark
 
 <table><tbody>
 <tr>
-<td align='center' colspan='2'>
+<td align='center' colspan='6'>
 <h4><img height="16" src='https://github.com/nightsense/snow/raw/master/images/blueshift-red.png' />&nbsp;&nbsp;
 <img height="15" src='https://github.com/nightsense/snow/raw/master/images/blueshift-green.png' />&nbsp;&nbsp;
 <img height="16" src='https://github.com/nightsense/snow/raw/master/images/blueshift-blue.png' /><br> blue-shifted theme variants</h4>
@@ -179,38 +179,52 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <br>
-<img src="http://www.colorhexa.com/d44518.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;orange-red&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb8166.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/008a25.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;emerald&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/59a370.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/0071f2.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sapphire&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/6e95d6.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/d44518.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;orange-red&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb8166.png" height='18' width='18'>
+</td>
+<td align='center' colspan='2'>
+<img src="http://www.colorhexa.com/008a25.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;emerald&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/59a370.png" height='18' width='18'>
+</td>
+<td align='center' colspan='2'>
+<img src="http://www.colorhexa.com/0071f2.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sapphire&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/6e95d6.png" height='18' width='18'>
 </td>
 </tr>
 <tr>
-<td align="center"><img alt="screenshot of the snow vim theme, light version, blue-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-blueshift.png" height="325" />
+<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, light version, blue-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-blueshift.png" height="325" />
 <pre>
 colorscheme snow_blueshift
 set background=light
 </pre>
+<br>
 </td>
-<td align="center"><img alt="screenshot of the snow vim theme, dark version, blue-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-blueshift.png" height="325" />
+<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, dark version, blue-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-blueshift.png" height="325" />
 <pre>
 colorscheme snow_blueshift
 set background=dark
 </pre>
+<br>
 </td>
 </tr>
 
 <tr>
-<td align='center' colspan='2'>
+<td align='center' colspan='6'>
 <br>
-<img src="http://www.colorhexa.com/bf5800.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;orange&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c1875b.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/008669.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sea green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/28a591.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/7d5dea.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;purple&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/9e89ce.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/bf5800.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;orange&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c1875b.png" height='18' width='18'>
+</td>
+<td align='center' colspan='2'>
+<img src="http://www.colorhexa.com/008669.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sea green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/28a591.png" height='18' width='18'>
+</td>
+<td align='center' colspan='2'>
+<img src="http://www.colorhexa.com/7d5dea.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;purple&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/9e89ce.png" height='18' width='18'>
 </td>
 </tr>
 <tr>
-<td align="center"><img alt="screenshot of the snow vim theme, light version, blue-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-blueshift-plus.png" height="325" />
+<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, light version, blue-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-blueshift-plus.png" height="325" />
 <pre>
 colorscheme snow_blueshift_plus
 set background=light
 </pre>
 </td>
-<td align="center"><img alt="screenshot of the snow vim theme, dark version, blue-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-blueshift-plus.png" height="325" />
+<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, dark version, blue-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-blueshift-plus.png" height="325" />
 <pre>
 colorscheme snow_blueshift_plus
 set background=dark
