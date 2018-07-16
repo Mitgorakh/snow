@@ -178,7 +178,6 @@ set background=dark
 
 <tr>
 <td align='center' colspan='2'>
-<br>
 <img src="http://www.colorhexa.com/d44518.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;orange-red&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb8166.png" height='18' width='18'>
 </td>
 <td align='center' colspan='2'>
@@ -206,7 +205,7 @@ set background=dark
 </tr>
 
 <tr>
-<td align='center' colspan='6'>
+<td align='center' colspan='2'>
 <br>
 <img src="http://www.colorhexa.com/bf5800.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;orange&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c1875b.png" height='18' width='18'>
 </td>
