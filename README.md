@@ -206,8 +206,9 @@ set background=dark
 
 <tr>
 <td align='center' colspan='2'>
-<br>
+<h5>
 <img src="http://www.colorhexa.com/bf5800.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;orange&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c1875b.png" height='18' width='18'>
+</h5>
 </td>
 <td align='center' colspan='2'>
 <img src="http://www.colorhexa.com/008669.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sea green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/28a591.png" height='18' width='18'>
