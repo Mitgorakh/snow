@@ -76,17 +76,17 @@ set background=dark
 <br>
 
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life...*
-- plain red text is for **names**, which give life <img height="7" src='https://github.com/nightsense/snow/raw/master/images/heart.png' /> to abstractions (like variables and functions)
+- plain red text is for **names**, which give life <img height="7" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
 - bold red text is for **types** ("meta-names") <img height="13" src='https://github.com/nightsense/snow/raw/master/images/type.png' />, like variable type (int, char...) or storage class (static, register...)
 
 *because red is also the color of removal...*
-- red highlighting is for **warnings** (which <img height="16" src='https://github.com/nightsense/snow/raw/master/images/lantern.png' /> illuminate problems to be removed) and <img height="11" src='https://github.com/nightsense/snow/raw/master/images/delete.png' /> **diff deletions**
+- red highlighting is for **warnings** (which <img height="16" src='https://github.com/nightsense/snow/raw/master/images/warning.png' /> illuminate problems to be removed) and <img height="11" src='https://github.com/nightsense/snow/raw/master/images/delete.png' /> **diff deletions**
 
-*because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' /> yellow is the color of highlighting key information...*
+*because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/yellow.png' /> yellow is the color of highlighting key information...*
 - yellow highlighting is for <img height="16" src='https://github.com/nightsense/snow/raw/master/images/search.png' /> **search results**  and <img height="16" src='https://github.com/nightsense/snow/raw/master/images/change.png' /> **diff changes**
 
 *because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action...*
-- plain green text is for **statements** (the magic "action words" <img height="8" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> of code), like conditions (if, then...) or loops (for, do...)
+- plain green text is for **statements** (the magic "action words" <img height="8" src='https://github.com/nightsense/snow/raw/master/images/statement.png' /> of code), like conditions (if, then...) or loops (for, do...)
 - bold green text is for **meta-statements** ("meta-actions" <img height="15" src='https://github.com/nightsense/snow/raw/master/images/metastatement.png' />), like macros and "include module" statements
 
 *because green is also the color of addition...*
@@ -97,7 +97,7 @@ set background=dark
 - blue highlighting is for **misspelt strings** (an important <img height="16" src='https://github.com/nightsense/snow/raw/master/images/misspelt.png' /> protective measure for good writing)
 
 *because sea and sky also evoke the notion of specialization (as in life forms or technology)...*
-- bold blue text is for <img height="15" src='https://github.com/nightsense/snow/raw/master/images/sea.png' /> **special elements**, like delimiters and debug statements
+- bold blue text is for <img height="15" src='https://github.com/nightsense/snow/raw/master/images/special.png' /> **special elements**, like delimiters and debug statements
 
 <br>
 
