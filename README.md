@@ -80,7 +80,7 @@ set background=dark
 - bold red text is for **types** ("meta-names") <img height="13" src='https://github.com/nightsense/snow/raw/master/images/type.png' />, like variable type (int, char...) or storage class (static, register...)
 
 *because red is also the color of highlighting potential dangers <img height="16" src='https://github.com/nightsense/snow/raw/master/images/lantern.png' />...*
-- red highlighting is for **errors**, **warnings**, and **diff deletions**
+- red highlighting is for **warnings** <img height="11" src='https://github.com/nightsense/snow/raw/master/images/warn.png' /> and **diff deletions** <img height="11" src='https://github.com/nightsense/snow/raw/master/images/delete.png' />
 
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/yellow.png' /> yellow is the color of highlighting key information <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' />...*
 - yellow highlighting is for **search results**, **matching parentheses**, and **diff changes**
@@ -88,7 +88,7 @@ set background=dark
 *because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action...*
 - plain green text is for **statements** (the magic "action words" <img height="8" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> of code), like conditions (if, then...) or loops (for, do...)
 - bold green text is for **meta-statements** ("meta-actions" <img height="15" src='https://github.com/nightsense/snow/raw/master/images/metastatement.png' />), like macros and "include module" statements
-- green highlighting is for **diff additions**
+- green highlighting is for **diff additions** <img height="16" src='https://github.com/nightsense/snow/raw/master/images/add.png' />
 
 *because <img height="14" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm, stable color of sea and sky, evoking enduring constancy...*
 - plain blue text is for **constants** <img height="22" src='https://github.com/nightsense/snow/raw/master/images/constant.png' />, like booleans, integers, and strings
