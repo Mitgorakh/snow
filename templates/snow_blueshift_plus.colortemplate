@@ -8,11 +8,11 @@ Terminal Colors: 256
 
 Background: light
 Color:      gry0 #ffffff ~
-Color:      gry1 #eef2f6 ~
-Color:      gry2 #7f97b0 ~
-Color:      gry3 #617990 ~
-Color:      gryc #4e657c ~
-Color:      gryy #222f3b ~
+Color:      gry1 #edf1f5 ~
+Color:      gry2 #8397ad ~
+Color:      gry3 #64788d ~
+Color:      gryc #51657a ~
+Color:      gryy #242e3a ~
 Color:      yllw #ffd300 ~
 Color:      red_ #bf5800 ~
 Color:      gren #008669 ~
@@ -102,12 +102,12 @@ let g:lightline#colorscheme#snow_blueshift_plus_light#palette =
 endauxfile
 
 Background: dark
-Color:      gry0 #222f3b ~
-Color:      gry1 #283745 ~
-Color:      gry2 #617990 ~
-Color:      gry3 #7f97b0 ~
-Color:      gryc #97afc9 ~
-Color:      gryy #222f3b ~
+Color:      gry0 #242e3a ~
+Color:      gry1 #2a3743 ~
+Color:      gry2 #64788d ~
+Color:      gry3 #8397ad ~
+Color:      gryc #99aec5 ~
+Color:      gryy #242e3a ~
 Color:      yllw #e2bd67 ~
 Color:      red_ #c1875b ~
 Color:      gren #28a591 ~

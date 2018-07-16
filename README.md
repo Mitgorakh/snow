@@ -54,7 +54,7 @@ set background=dark
 <tr>
 <td align='center'><img src="http://www.colorhexa.com/5e7994.png" height='18' width='18'></td>
 <td align='center'>snowy evening</td>
-<td align='center'><img src="http://www.colorhexa.com/4a657f.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/4e657c.png" height='18' width='18'></td>
 <td></td>
 <td align='center'><img src="http://www.colorhexa.com/008a00.png" height='18' width='18'></td>
 <td align='center'>green</td>
@@ -64,7 +64,7 @@ set background=dark
 <tr>
 <td align='center'><img src="http://www.colorhexa.com/283745.png" height='18' width='18'></td>
 <td align='center'>snowy night</td>
-<td align='center'><img src="http://www.colorhexa.com/232e39.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/222f3b.png" height='18' width='18'></td>
 <td></td>
 <td align='center'><img src="http://www.colorhexa.com/0074e6.png" height='18' width='18'></td>
 <td align='center'>blue</td>
