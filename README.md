@@ -88,6 +88,8 @@ set background=dark
 *because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action...*
 - plain green text is for **statements** (the magic "action words" <img height="8" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> of code), like conditions (if, then...) or loops (for, do...)
 - bold green text is for **meta-statements** ("meta-actions" <img height="15" src='https://github.com/nightsense/snow/raw/master/images/metastatement.png' />), like macros and "include module" statements
+
+*because green is also the color of addition...*
 - green highlighting is for <img height="12" src='https://github.com/nightsense/snow/raw/master/images/add.png' /> **diff additions**
 
 *because <img height="14" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm, stable color of sea and sky, evoking enduring constancy...*
