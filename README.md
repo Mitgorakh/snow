@@ -85,8 +85,8 @@ set background=dark
 *because yellow is the color of highlighting key information <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' />...*
 - yellow highlighting is for **search results**, **matching parentheses**, and **diff changes**
 
-*because green is the color of proceeding with action...*
-- plain green text is for **statements** (magical <img height="12" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> "action words"), such as conditionals (if, then...) or loops (for, do...)
+*because green is the color of proceeding with action (like, say, using magic <img height="12" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> to cause effects)...*
+- plain green text is for **statements** (the magical "action words" of coding), such as conditionals (if, then...) or loops (for, do...)
 - bold green text is for **meta-statements** ("meta-actions"), like macros and "include module" statements
 - green highlighting is for **diff additions**
 
