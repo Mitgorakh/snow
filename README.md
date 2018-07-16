@@ -82,7 +82,7 @@ set background=dark
 *because red is also the color of highlighting potential dangers <img height="16" src='https://github.com/nightsense/snow/raw/master/images/lantern.png' />...*
 - red highlighting is for **errors**, **warnings**, and **diff deletions**
 
-*because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/yellow.png' /> yellow is the color of highlighting key information <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' />...*
+*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/yellow.png' /> yellow is the color of highlighting key information <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' />...*
 - yellow highlighting is for **search results**, **matching parentheses**, and **diff changes**
 
 *because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action...*
@@ -102,7 +102,11 @@ set background=dark
 <table><tbody>
 <tr>
 <td align='center' colspan='2'>
-<h4>hue-shifted theme variants</h4>
+<h4>
+<img height="16" src='https://github.com/nightsense/snow/raw/master/images/redshift-red.png' />&nbsp;
+<img height="15" src='https://github.com/nightsense/snow/raw/master/images/redshift-green.png' />&nbsp;
+<img height="16" src='https://github.com/nightsense/snow/raw/master/images/redshift-blue.png' />
+<br>red-shifted theme variants</h4>
 </td>
 </tr>
 
@@ -145,6 +149,14 @@ set background=light
 colorscheme snow_redshift
 set background=dark
 </pre>
+</td>
+</tr>
+</tbody></table>
+
+<table><tbody>
+<tr>
+<td align='center' colspan='2'>
+<h4>blue-shifted theme variants</h4>
 </td>
 </tr>
 
