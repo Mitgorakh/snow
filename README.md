@@ -75,9 +75,9 @@ set background=dark
 
 <br>
 
-*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life <img height="10.5" src='https://github.com/nightsense/snow/raw/master/images/heart.png' />...*
-- plain red text is for **names**, which give life to abstractions (like variables and functions)
-- bold red text is for **types** ("meta-names"), like variable type (int, char...) or storage class (static, register...)
+*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life...*
+- plain red text is for **names**, which give life <img height="10.5" src='https://github.com/nightsense/snow/raw/master/images/heart.png' /> to abstractions (like variables and functions)
+- bold red text is for **types** ("meta-names") <img height="13" src='https://github.com/nightsense/snow/raw/master/images/type.png' />, like variable type (int, char...) or storage class (static, register...)
 
 *because red is also the color of highlighting potential dangers <img height="16" src='https://github.com/nightsense/snow/raw/master/images/lantern.png' />...*
 - red highlighting is for **errors**, **warnings**, and **diff deletions**
@@ -86,8 +86,8 @@ set background=dark
 - yellow highlighting is for **search results**, **matching parentheses**, and **diff changes**
 
 *because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action...*
-- plain green text is for **statements** (the magic <img height="12" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> "action words" of code), like conditions (if, then...) or loops (for, do...)
-- bold green text is for **meta-statements** ("meta-actions"), like macros and "include module" statements
+- plain green text is for **statements** (the magic "action words" <img height="12" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> of code), like conditions (if, then...) or loops (for, do...)
+- bold green text is for **meta-statements** ("meta-actions" <img height="15" src='https://github.com/nightsense/snow/raw/master/images/metastatement.png' />), like macros and "include module" statements
 - green highlighting is for **diff additions**
 
 *because <img height="14" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm, stable color of sea and sky, evoking enduring constancy...*
