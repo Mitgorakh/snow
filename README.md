@@ -26,7 +26,7 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td align='center' colspan='3'><h4><img height="11" src='https://github.com/nightsense/snow/raw/master/images/base.png' /> base colors</h4></td>
+<td align='center' colspan='3'><img height="16.5" src='https://github.com/nightsense/snow/raw/master/images/base.png' /><h4>base colors</h4></td>
 <td></td>
 <td align='center' colspan='3'><h4><img height="11" src='https://github.com/nightsense/snow/raw/master/images/accent.png' /> accent colors</h4></td>
 </tr>
