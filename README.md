@@ -82,7 +82,7 @@ set background=dark
 *because red is also the color of removal...*
 - red highlighting is for **warnings** (which illuminate <img height="16" src='https://github.com/nightsense/snow/raw/master/images/lantern.png' /> problems to be removed) and **diff deletions** <img height="11" src='https://github.com/nightsense/snow/raw/master/images/delete.png' />
 
-*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/yellow.png' /> yellow is the color of highlighting key information <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' />...*
+*because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' /> yellow is the color of highlighting key information...*
 - yellow highlighting is for **search results** <img height="16" src='https://github.com/nightsense/snow/raw/master/images/search.png' /> and **diff changes** <img height="16" src='https://github.com/nightsense/snow/raw/master/images/change.png' />
 
 *because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action...*
