@@ -132,7 +132,6 @@ set background=dark
 
 <tr>
 <td align='center' colspan='2'>
-<br>
 <h6><img src="http://www.colorhexa.com/e6007c.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;pink&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/d27996.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/418600.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;lawn green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/819d57.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/0079d7.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sky blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/349ecc.png" height='18' width='18'></h6>
 </td>
 </tr>
