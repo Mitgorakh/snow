@@ -91,10 +91,10 @@ set background=dark
 - green highlighting is for <img height="12" src='https://github.com/nightsense/snow/raw/master/images/add.png' /> **diff additions**
 
 *because <img height="14" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm, stable color of sea and sky, evoking enduring constancy...*
-- plain blue text is for **constants** (values that are fixed in place <img height="22" src='https://github.com/nightsense/snow/raw/master/images/constant.png' />), like booleans, integers, and strings
+- plain blue text is for **constants** (values that are <img height="22" src='https://github.com/nightsense/snow/raw/master/images/constant.png' /> fixed in place), like booleans, integers, and strings
 - blue highlighting is for **misspelt strings** (an important <img height="16" src='https://github.com/nightsense/snow/raw/master/images/misspelt.png' /> protective measure for good writing)
 
-*because sea and sky also evoke the notion of specialization (such as in life forms or technology)...*
+*because sea and sky also evoke the notion of specialization (as in life forms or technology)...*
 - bold blue text is for <img height="15" src='https://github.com/nightsense/snow/raw/master/images/sea.png' /> **special elements**, like delimiters and debug statements
 
 <br>
