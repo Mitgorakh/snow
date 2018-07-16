@@ -92,7 +92,7 @@ set background=dark
 
 *because <img height="14" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm, stable color of sea and sky, evoking enduring constancy...*
 - plain blue text is for **constants** <img height="22" src='https://github.com/nightsense/snow/raw/master/images/constant.png' />, like booleans, integers, and strings
-- blue highlighting is for **misspelt strings** (an important <img height="16" src='https://github.com/nightsense/snow/raw/master/images/misspelt.png' /> protective measure)
+- blue highlighting is for **misspelt strings** (an important <img height="16" src='https://github.com/nightsense/snow/raw/master/images/misspelt.png' /> protective measure for good writing)
 
 *because sea and sky also evoke the notion of specialization (life forms <img height="14" src='https://github.com/nightsense/snow/raw/master/images/sky.png' />, technology <img height="16" src='https://github.com/nightsense/snow/raw/master/images/sea.png' />)...*
 - bold blue text is for <img height="15" src='https://github.com/nightsense/snow/raw/master/images/special.png' /> **special elements**, like delimiters and debug statements
@@ -146,7 +146,7 @@ set background=dark
 <img src="http://www.colorhexa.com/418600.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;lawn green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/819d57.png" height='18' width='18'>
 </td>
 <td align='center' colspan='2'>
-<img src="http://www.colorhexa.com/0079d7.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sky blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/349ecc.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/0079d7.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;celestial blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/349ecc.png" height='18' width='18'>
 </td>
 </tr>
 <tr>
