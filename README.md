@@ -91,7 +91,7 @@ set background=dark
 - green highlighting is for **diff additions**
 
 *because <img height="14" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm, stable color of sea and sky, evoking enduring constancy...*
-- plain blue text is for **constants**, like booleans, integers, and strings
+- plain blue text is for **constants** <img height="22" src='https://github.com/nightsense/snow/raw/master/images/constant.png' />, like booleans, integers, and strings
 - blue highlighting is for **misspelt strings**
 
 *because sea and sky also evoke the notion of specialization (life forms <img height="14" src='https://github.com/nightsense/snow/raw/master/images/sky.png' />, technology <img height="16" src='https://github.com/nightsense/snow/raw/master/images/sea.png' />)...*
