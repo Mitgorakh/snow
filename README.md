@@ -38,37 +38,37 @@ set background=dark
 <td width='88'></td>
 <td width='90' align='center'><img src="http://www.colorhexa.com/e12c3b.png" height='18' width='18'></td>
 <td width='220' align='center'>red</td>
-<td width='90' align='center'><img src="http://www.colorhexa.com/d17c75.png" height='18' width='18'></td>
+<td width='90' align='center'><img src="http://www.colorhexa.com/d27d75.png" height='18' width='18'></td>
 </tr>
 
 <tr>
-<td align='center'><img style='border-radius:1rem' src="http://www.colorhexa.com/92aeca.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/99aec5.png" height='18' width='18'></td>
 <td align='center'>snowy morning</td>
-<td align='center'><img src="http://www.colorhexa.com/7c97b3.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/8397ad.png" height='18' width='18'></td>
 <td></td>
-<td align='center'><img src="http://www.colorhexa.com/ffd300.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/ffd528.png" height='18' width='18'></td>
 <td align='center'>yellow</td>
 <td align='center'><img src="http://www.colorhexa.com/e2bd67.png" height='18' width='18'></td>
 </tr>
 
 <tr>
-<td align='center'><img src="http://www.colorhexa.com/5e7994.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/64788d.png" height='18' width='18'></td>
 <td align='center'>snowy evening</td>
-<td align='center'><img src="http://www.colorhexa.com/4e657c.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/51657a.png" height='18' width='18'></td>
 <td></td>
 <td align='center'><img src="http://www.colorhexa.com/008a00.png" height='18' width='18'></td>
 <td align='center'>green</td>
-<td align='center'><img src="http://www.colorhexa.com/6da061.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/6ea162.png" height='18' width='18'></td>
 </tr>
 
 <tr>
 <td align='center'><img src="http://www.colorhexa.com/283745.png" height='18' width='18'></td>
 <td align='center'>snowy night</td>
-<td align='center'><img src="http://www.colorhexa.com/222f3b.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/242e3a.png" height='18' width='18'></td>
 <td></td>
 <td align='center'><img src="http://www.colorhexa.com/0074e6.png" height='18' width='18'></td>
 <td align='center'>blue</td>
-<td align='center'><img src="http://www.colorhexa.com/5299d3.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/539ad4.png" height='18' width='18'></td>
 </tr>
 
 </tbody></table>
