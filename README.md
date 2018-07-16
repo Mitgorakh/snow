@@ -82,15 +82,15 @@ set background=dark
 *because red is also the color of highlighting potential dangers <img height="16" src='https://github.com/nightsense/snow/raw/master/images/lantern.png' />...*
 - red highlighting is for **errors**, **warnings**, and **diff deletions**
 
-*because yellow is the color of highlighting key information <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' />...*
+*because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/yellow.png' /> yellow is the color of highlighting key information <img height="15" src='https://github.com/nightsense/snow/raw/master/images/key.png' />...*
 - yellow highlighting is for **search results**, **matching parentheses**, and **diff changes**
 
-*because green is the color of proceeding with action (like, say, using magic <img height="12" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> to cause effects)...*
+*because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action (like, say, using magic <img height="12" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> to cause effects)...*
 - plain green text is for **statements** (magic "action words"), such as conditionals (if, then...) or loops (for, do...)
 - bold green text is for **meta-statements** ("meta-actions"), like macros and "include module" statements
 - green highlighting is for **diff additions**
 
-*because blue is the calm, stable color of sea <img height="16" src='https://github.com/nightsense/snow/raw/master/images/sea.png' /> and sky <img height="14" src='https://github.com/nightsense/snow/raw/master/images/sky.png' />, evoking enduring constancy...*
+*because <img height="14" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm, stable color of sea <img height="16" src='https://github.com/nightsense/snow/raw/master/images/sea.png' /> and sky <img height="14" src='https://github.com/nightsense/snow/raw/master/images/sky.png' />, evoking enduring constancy...*
 - plain blue text is for **constants**, like booleans, integers, and strings
 - blue highlighting is for **misspelt strings**
 
