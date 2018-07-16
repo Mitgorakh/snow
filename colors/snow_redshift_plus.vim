@@ -21,8 +21,8 @@ if &background ==# 'dark'
   " yllw: GUI=#e2bd67/rgb(226,189,103)  Term=179 #d7af5f/rgb(215,175, 95)  [delta=3.812495]
   " red_: GUI=#c07eb7/rgb(192,126,183)  Term=139 #af87af/rgb(175,135,175)  [delta=5.416756]
   " gryc: GUI=#99aec5/rgb(153,174,197)  Term=110 #87afd7/rgb(135,175,215)  [delta=5.592797]
+  " gren: GUI=#949951/rgb(148,153, 81)  Term=143 #afaf5f/rgb(175,175, 95)  [delta=7.205252]
   " blue: GUI=#00a3b3/rgb(  0,163,179)  Term= 37 #00afaf/rgb(  0,175,175)  [delta=7.393812]
-  " gren: GUI=#939850/rgb(147,152, 80)  Term=143 #afaf5f/rgb(175,175, 95)  [delta=7.517450]
   " gryy: GUI=#242e3a/rgb( 36, 46, 58)  Term=236 #303030/rgb( 48, 48, 48)  [delta=7.598427]
   " gry0: GUI=#242e3a/rgb( 36, 46, 58)  Term=236 #303030/rgb( 48, 48, 48)  [delta=7.598427]
   " gry1: GUI=#2a3743/rgb( 42, 55, 67)  Term=237 #3a3a3a/rgb( 58, 58, 58)  [delta=8.025909]
@@ -86,20 +86,20 @@ if &background ==# 'dark'
   hi ErrorMsg ctermfg=139 ctermbg=236 guifg=#c07eb7 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi TooLong ctermfg=139 ctermbg=236 guifg=#c07eb7 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi WarningMsg ctermfg=139 ctermbg=236 guifg=#c07eb7 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Conditional ctermfg=143 ctermbg=NONE guifg=#939850 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Exception ctermfg=143 ctermbg=NONE guifg=#939850 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Keyword ctermfg=143 ctermbg=NONE guifg=#939850 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Label ctermfg=143 ctermbg=NONE guifg=#939850 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Operator ctermfg=143 ctermbg=NONE guifg=#939850 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Repeat ctermfg=143 ctermbg=NONE guifg=#939850 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Statement ctermfg=143 ctermbg=NONE guifg=#939850 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Define ctermfg=143 ctermbg=NONE guifg=#939850 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-  hi Include ctermfg=143 ctermbg=NONE guifg=#939850 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-  hi Macro ctermfg=143 ctermbg=NONE guifg=#939850 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-  hi PreCondit ctermfg=143 ctermbg=NONE guifg=#939850 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-  hi PreProc ctermfg=143 ctermbg=NONE guifg=#939850 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-  hi DiffAdd ctermfg=143 ctermbg=236 guifg=#939850 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffAdded ctermfg=143 ctermbg=236 guifg=#939850 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Conditional ctermfg=143 ctermbg=NONE guifg=#949951 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Exception ctermfg=143 ctermbg=NONE guifg=#949951 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Keyword ctermfg=143 ctermbg=NONE guifg=#949951 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Label ctermfg=143 ctermbg=NONE guifg=#949951 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Operator ctermfg=143 ctermbg=NONE guifg=#949951 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Repeat ctermfg=143 ctermbg=NONE guifg=#949951 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Statement ctermfg=143 ctermbg=NONE guifg=#949951 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Define ctermfg=143 ctermbg=NONE guifg=#949951 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi Include ctermfg=143 ctermbg=NONE guifg=#949951 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi Macro ctermfg=143 ctermbg=NONE guifg=#949951 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi PreCondit ctermfg=143 ctermbg=NONE guifg=#949951 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi PreProc ctermfg=143 ctermbg=NONE guifg=#949951 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi DiffAdd ctermfg=143 ctermbg=236 guifg=#949951 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffAdded ctermfg=143 ctermbg=236 guifg=#949951 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Boolean ctermfg=37 ctermbg=NONE guifg=#00a3b3 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Character ctermfg=37 ctermbg=NONE guifg=#00a3b3 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Constant ctermfg=37 ctermbg=NONE guifg=#00a3b3 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -346,7 +346,7 @@ finish
 " Color:      gryy #242e3a ~
 " Color:      yllw #e2bd67 ~
 " Color:      red_ #c07eb7 ~
-" Color:      gren #939850 ~
+" Color:      gren #949951 ~
 " Color:      blue #00a3b3 ~
 " Bold               none   none   bold
 " Conceal            none   none

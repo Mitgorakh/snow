@@ -131,7 +131,7 @@ endif
 " gry1: GUI=#edf1f5/rgb(237,241,245)  Term=255 #eeeeee/rgb(238,238,238)  [delta=2.468734]
 " gren: GUI=#418600/rgb( 65,134,  0)  Term= 28 #008700/rgb(  0,135,  0)  [delta=4.554908]
 " red_: GUI=#e6007c/rgb(230,  0,124)  Term=198 #ff0087/rgb(255,  0,135)  [delta=5.360276]
-" blue: GUI=#0078d6/rgb(  0,120,214)  Term= 32 #0087d7/rgb(  0,135,215)  [delta=7.353185]
+" blue: GUI=#0079d7/rgb(  0,121,215)  Term= 32 #0087d7/rgb(  0,135,215)  [delta=7.039468]
 " gryy: GUI=#242e3a/rgb( 36, 46, 58)  Term=236 #303030/rgb( 48, 48, 48)  [delta=7.598427]
 " gry3: GUI=#64788d/rgb(100,120,141)  Term= 67 #5f87af/rgb( 95,135,175)  [delta=8.119700]
 " gry2: GUI=#8397ad/rgb(131,151,173)  Term= 67 #5f87af/rgb( 95,135,175)  [delta=8.634159]
@@ -208,24 +208,24 @@ hi PreCondit ctermfg=28 ctermbg=NONE guifg=#418600 guibg=NONE guisp=NONE cterm=N
 hi PreProc ctermfg=28 ctermbg=NONE guifg=#418600 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi DiffAdd ctermfg=28 ctermbg=231 guifg=#418600 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi DiffAdded ctermfg=28 ctermbg=231 guifg=#418600 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi Boolean ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Character ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Constant ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Float ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Number ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi String ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Debug ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi Delimiter ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi Special ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi SpecialChar ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi SpecialComment ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi SpecialKey ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi Tag ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi Todo ctermfg=32 ctermbg=NONE guifg=#0078d6 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi SpellBad ctermfg=32 ctermbg=231 guifg=#0078d6 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi SpellLocal ctermfg=32 ctermbg=231 guifg=#0078d6 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi SpellCap ctermfg=32 ctermbg=231 guifg=#0078d6 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi SpellRare ctermfg=32 ctermbg=231 guifg=#0078d6 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi Boolean ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Character ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Constant ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Float ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Number ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi String ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Debug ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi Delimiter ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi Special ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi SpecialChar ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi SpecialComment ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi SpecialKey ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi Tag ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi Todo ctermfg=32 ctermbg=NONE guifg=#0079d7 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi SpellBad ctermfg=32 ctermbg=231 guifg=#0079d7 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi SpellLocal ctermfg=32 ctermbg=231 guifg=#0079d7 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi SpellCap ctermfg=32 ctermbg=231 guifg=#0079d7 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi SpellRare ctermfg=32 ctermbg=231 guifg=#0079d7 guibg=#ffffff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi DiffChanged ctermfg=220 ctermbg=236 guifg=#ffd300 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi DiffText ctermfg=220 ctermbg=236 guifg=#ffd300 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi MatchParen ctermfg=220 ctermbg=236 guifg=#ffd300 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
@@ -242,7 +242,7 @@ finish
 " Color:      yllw #ffd300 ~
 " Color:      red_ #e6007c ~
 " Color:      gren #418600 ~
-" Color:      blue #0078d6 ~
+" Color:      blue #0079d7 ~
 " Bold               none   none   bold
 " Conceal            none   none
 " Directory          none   none   bold
