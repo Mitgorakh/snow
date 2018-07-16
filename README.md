@@ -26,9 +26,9 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td align='center' colspan='3'><h4><img height="16.5" src='https://github.com/nightsense/snow/raw/master/images/base.png' /><br>base colors</h4></td>
+<td align='center' colspan='3'><h4><img height="11" src='https://github.com/nightsense/snow/raw/master/images/base.png' /><br>base colors</h4></td>
 <td></td>
-<td align='center' colspan='3'><h4><img height="16.5" src='https://github.com/nightsense/snow/raw/master/images/accent.png' /><br>accent colors</h4></td>
+<td align='center' colspan='3'><h4><img height="11" src='https://github.com/nightsense/snow/raw/master/images/accent.png' /><br>accent colors</h4></td>
 </tr>
 
 <tr>
@@ -103,9 +103,9 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <h4>
-<img height="16" src='https://github.com/nightsense/snow/raw/master/images/redshift-red.png' />&nbsp;
-<img height="15" src='https://github.com/nightsense/snow/raw/master/images/redshift-green.png' />&nbsp;
-<img height="16" src='https://github.com/nightsense/snow/raw/master/images/redshift-blue.png' />
+<img height="16" src='https://github.com/nightsense/snow/raw/master/images/redshift-red.png' />&nbsp;&nbsp;
+<img height="15" src='https://github.com/nightsense/snow/raw/master/images/redshift-green.png' />&nbsp;&nbsp;
+<img height="14" src='https://github.com/nightsense/snow/raw/master/images/redshift-blue.png' />
 <br>red-shifted theme variants</h4>
 </td>
 </tr>
@@ -156,7 +156,9 @@ set background=dark
 <table><tbody>
 <tr>
 <td align='center' colspan='2'>
-<h4>blue-shifted theme variants</h4>
+<h4><img height="16" src='https://github.com/nightsense/snow/raw/master/images/blueshift-red.png' />&nbsp;&nbsp;
+<img height="15" src='https://github.com/nightsense/snow/raw/master/images/blueshift-green.png' />&nbsp;&nbsp;
+<img height="16" src='https://github.com/nightsense/snow/raw/master/images/blueshift-blue.png' /><br> blue-shifted theme variants</h4>
 </td>
 </tr>
 
