@@ -94,8 +94,8 @@ set background=dark
 - plain blue text is for **constants** <img height="22" src='https://github.com/nightsense/snow/raw/master/images/constant.png' />, like booleans, integers, and strings
 - blue highlighting is for **misspelt strings** (an important <img height="16" src='https://github.com/nightsense/snow/raw/master/images/misspelt.png' /> protective measure for good writing)
 
-*because sea and sky also evoke the notion of specialization (life forms <img height="14" src='https://github.com/nightsense/snow/raw/master/images/sky.png' />, technology <img height="16" src='https://github.com/nightsense/snow/raw/master/images/sea.png' />)...*
-- bold blue text is for <img height="15" src='https://github.com/nightsense/snow/raw/master/images/special.png' /> **special elements**, like delimiters and debug statements
+*because sea and sky also evoke the notion of specialization (such as in life forms or technology)...*
+- bold blue text is for <img height="15" src='https://github.com/nightsense/snow/raw/master/images/sea.png' /> **special elements**, like delimiters and debug statements
 
 <br>
 
