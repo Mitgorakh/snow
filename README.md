@@ -153,12 +153,14 @@ set background=dark
 colorscheme snow_redshift
 set background=light
 </pre>
+<br>
 </td>
 <td align="center" colspan='3'><img alt="screenshot of the snow vim theme, dark version, red-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-redshift.png" height="325" />
 <pre>
 colorscheme snow_redshift
 set background=dark
 </pre>
+<br>
 </td>
 </tr>
 </tbody></table>
