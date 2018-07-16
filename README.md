@@ -32,7 +32,7 @@ set background=dark
 </tr>
 
 <tr>
-<td width='90' align='center'><img src='https://github.com/nightsense/snow/raw/master/images/snowy-day-light.png' height='12' width='12'></td>
+<td width='90' align='center'><img src='https://github.com/nightsense/snow/raw/master/images/snowy-day-light.png' height='18' width='18'></td>
 <td width='220' align='center'>snowy day</td>
 <td width='90' align='center'><img src="http://www.colorhexa.com/edf1f5.png" height='18' width='18'></td>
 <td width='88'></td>
