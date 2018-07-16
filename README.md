@@ -28,7 +28,7 @@ set background=dark
 <tr>
 <td align='center' colspan='3'><h4><img height="16.5" src='https://github.com/nightsense/snow/raw/master/images/base.png' /><br>base colors</h4></td>
 <td></td>
-<td align='center' colspan='3'><h4><img height="11" src='https://github.com/nightsense/snow/raw/master/images/accent.png' /> accent colors</h4></td>
+<td align='center' colspan='3'><h4><img height="16.5" src='https://github.com/nightsense/snow/raw/master/images/accent.png' /><br>accent colors</h4></td>
 </tr>
 
 <tr>
