@@ -86,7 +86,7 @@ set background=dark
 - yellow highlighting is for **search results**, **matching parentheses**, and **diff changes**
 
 *because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action...*
-- plain green text is for **statements** (the magic <img height="12" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> "action words" of programming), like conditions (if, then...) or loops (for, do...)
+- plain green text is for **statements** (the magic <img height="12" src='https://github.com/nightsense/snow/raw/master/images/magic.png' /> "action words" of code), like conditions (if, then...) or loops (for, do...)
 - bold green text is for **meta-statements** ("meta-actions"), like macros and "include module" statements
 - green highlighting is for **diff additions**
 
