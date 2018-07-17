@@ -83,7 +83,7 @@ set background=dark
 - red highlighting is for **warnings** (which <img height="16" src='https://github.com/nightsense/snow/raw/master/images/warning.png' /> illuminate problems to be removed) and <img height="11" src='https://github.com/nightsense/snow/raw/master/images/delete.png' /> **diff deletions**
 
 *because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/yellow.png' /> yellow is the color of highlighting key information...*
-- yellow highlighting is for <img height="16" src='https://github.com/nightsense/snow/raw/master/images/search.png' /> **search results** and <img height="16" src='https://github.com/nightsense/snow/raw/master/images/match.png' /> **matching parentheses** (the mirror of the parenthesis under the cursor)
+- yellow highlighting is for <img height="16" src='https://github.com/nightsense/snow/raw/master/images/search.png' /> **search results** and <img height="16" src='https://github.com/nightsense/snow/raw/master/images/match.png' /> **matching** ("mirror image") **parentheses**
 
 *because yellow is also the color of transition (between the "stop/remove" of red and the "go/add" of green)...*
 - yellow highlighting is for <img height="16" src='https://github.com/nightsense/snow/raw/master/images/change.png' /> **diff changes**
