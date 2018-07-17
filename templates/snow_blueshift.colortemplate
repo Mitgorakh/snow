@@ -13,10 +13,10 @@ Color:      gry2 #8397ad ~
 Color:      gry3 #64788d ~
 Color:      gryc #51657a ~
 Color:      gryy #242e3a ~
-Color:      yllw #ffd528 ~
-Color:      red_ #d44518 ~
-Color:      gren #008a25 ~
-Color:      blue #0071f2 ~
+Color:      yllw #ffd63a ~
+Color:      red_ #c3552f ~
+Color:      gren #00893b ~
+Color:      blue #0076dc ~
 Include:    _common.colortemplate
 DiffChanged yllw gryy reverse
 DiffText    yllw gryy reverse
@@ -108,10 +108,10 @@ Color:      gry2 #64788d ~
 Color:      gry3 #8397ad ~
 Color:      gryc #99aec5 ~
 Color:      gryy #242e3a ~
-Color:      yllw #e2bd67 ~
-Color:      red_ #cb8166 ~
-Color:      gren #59a370 ~
-Color:      blue #6e95d6 ~
+Color:      yllw #e5bc5a ~
+Color:      red_ #c18670 ~
+Color:      gren #68a078 ~
+Color:      blue #7995c8 ~
 Include:    _common.colortemplate
 DiffChanged yllw gryy reverse
 DiffText    yllw gryy reverse
