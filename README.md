@@ -47,7 +47,7 @@ set background=dark
 <td align='center'><img src="http://www.colorhexa.com/8397ad.png" height='18' width='18'></td>
 <td></td>
 <td align='center'><img src="http://www.colorhexa.com/ffd528.png" height='18' width='18'></td>
-<td align='center'><h5>(construction) yellow</h5></td>
+<td align='center'><h5>(flower) yellow</h5></td>
 <td align='center'><img src="http://www.colorhexa.com/e2bd67.png" height='18' width='18'></td>
 </tr>
 
