@@ -112,7 +112,7 @@ hexgry1_dk = tohex( gold(3.14)  , gold(4.50) , hue_base )
 hexgry2_dk = tohex( gold(1.46)  , gold(4.00) , hue_base )
 hexgry3_dk = tohex( gold(1.01)  , gold(4.00) , hue_base )
 hexgryc_dk = tohex( gold(0.74)  , gold(4.00) , hue_base )
-hexyllw_dk = tohex( gold(0.50)  , gold(1.25) , hue_yllw )
+hexyllw_dk = tohex( gold(0.50)  , gold(1.50) , hue_yllw )
 
 cro_lt = gold(1.0)
 cro_dk = gold(2.5)

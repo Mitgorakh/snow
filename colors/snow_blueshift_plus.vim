@@ -107,10 +107,10 @@ if &background ==# 'dark'
   hi SpellLocal ctermfg=103 ctermbg=236 guifg=#9c8bc1 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi SpellCap ctermfg=103 ctermbg=236 guifg=#9c8bc1 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi SpellRare ctermfg=103 ctermbg=236 guifg=#9c8bc1 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffChanged ctermfg=179 ctermbg=236 guifg=#e5bc5a guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffText ctermfg=179 ctermbg=236 guifg=#e5bc5a guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi MatchParen ctermfg=179 ctermbg=236 guifg=#e5bc5a guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Search ctermfg=179 ctermbg=236 guifg=#e5bc5a guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffChanged ctermfg=179 ctermbg=236 guifg=#e2bd67 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffText ctermfg=179 ctermbg=236 guifg=#e2bd67 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi MatchParen ctermfg=179 ctermbg=236 guifg=#e2bd67 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Search ctermfg=179 ctermbg=236 guifg=#e2bd67 guibg=#242e3a guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   finish
 endif
 
@@ -322,7 +322,7 @@ finish
 " Color:      gry3 #8397ad ~
 " Color:      gryc #99aec5 ~
 " Color:      gryy #242e3a ~
-" Color:      yllw #e5bc5a ~
+" Color:      yllw #e2bd67 ~
 " Color:      red_ #b98a67 ~
 " Color:      gren #4ca292 ~
 " Color:      blue #9c8bc1 ~

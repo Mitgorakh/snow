@@ -36,9 +36,9 @@ set background=dark
 <td width='220' align='center'><h5>snowy day</h5></td>
 <td width='90' align='center'><img src="http://www.colorhexa.com/edf1f5.png" height='18' width='18'></td>
 <td width='88'></td>
-<td width='90' align='center'><img src="http://www.colorhexa.com/e12c3b.png" height='18' width='18'></td>
+<td width='90' align='center'><img src="http://www.colorhexa.com/cd4847.png" height='18' width='18'></td>
 <td width='220' align='center'><h5>(berry) red</h5></td>
-<td width='90' align='center'><img src="http://www.colorhexa.com/d27d75.png" height='18' width='18'></td>
+<td width='90' align='center'><img src="http://www.colorhexa.com/c6827b.png" height='18' width='18'></td>
 </tr>
 
 <tr>
@@ -46,7 +46,7 @@ set background=dark
 <td align='center'><h5>snowy morning</h5></td>
 <td align='center'><img src="http://www.colorhexa.com/8397ad.png" height='18' width='18'></td>
 <td></td>
-<td align='center'><img src="http://www.colorhexa.com/ffd528.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/ffd63a.png" height='18' width='18'></td>
 <td align='center'><h5>(flower) yellow</h5></td>
 <td align='center'><img src="http://www.colorhexa.com/e2bd67.png" height='18' width='18'></td>
 </tr>
@@ -56,9 +56,9 @@ set background=dark
 <td align='center'><h5>snowy evening</h5></td>
 <td align='center'><img src="http://www.colorhexa.com/51657a.png" height='18' width='18'></td>
 <td></td>
-<td align='center'><img src="http://www.colorhexa.com/008a00.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/288821.png" height='18' width='18'></td>
 <td align='center'><h5>(forest) green</h5></td>
-<td align='center'><img src="http://www.colorhexa.com/6ea162.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/779e6d.png" height='18' width='18'></td>
 </tr>
 
 <tr>
@@ -66,9 +66,9 @@ set background=dark
 <td align='center'><h5>snowy night</h5></td>
 <td align='center'><img src="http://www.colorhexa.com/242e3a.png" height='18' width='18'></td>
 <td></td>
-<td align='center'><img src="http://www.colorhexa.com/0074e6.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/0078d2.png" height='18' width='18'></td>
 <td align='center'><h5>(sky) blue</h5></td>
-<td align='center'><img src="http://www.colorhexa.com/539ad4.png" height='18' width='18'></td>
+<td align='center'><img src="http://www.colorhexa.com/6799c6.png" height='18' width='18'></td>
 </tr>
 
 </tbody></table>
@@ -118,17 +118,17 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <h5>
-<img src="http://www.colorhexa.com/c833bb.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;magenta&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c07eb7.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/b84bac.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;magenta&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/b783af.png" height='18' width='18'>
 </h5>
 </td>
 <td align='center' colspan='2'>
 <h5>
-<img src="http://www.colorhexa.com/6a7f00.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;moss green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/949951.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/6f7d00.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;moss green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/959860.png" height='18' width='18'>
 </h5>
 </td>
 <td align='center' colspan='2'>
 <h5>
-<img src="http://www.colorhexa.com/0080a7.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;green-blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/00a3b3.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/00819d.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;green-blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/42a1ad.png" height='18' width='18'>
 </h5>
 </td>
 </tr>
@@ -152,17 +152,17 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <h5>
-<img src="http://www.colorhexa.com/e6007c.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;pink&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/d27996.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/d13c7b.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;pink&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c68096.png" height='18' width='18'>
 </h5>
 </td>
 <td align='center' colspan='2'>
 <h5>
-<img src="http://www.colorhexa.com/418600.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;lawn green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/819d57.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/528400.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;lawn green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/869b64.png" height='18' width='18'>
 </h5>
 </td>
 <td align='center' colspan='2'>
 <h5>
-<img src="http://www.colorhexa.com/0079d7.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;celestial blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/349ecc.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/007bc4.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;celestial blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/569cc0.png" height='18' width='18'>
 </h5>
 </td>
 </tr>
@@ -196,17 +196,17 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <h5>
-<img src="http://www.colorhexa.com/d44518.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;orange-red&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/cb8166.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/c3552f.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;orange-red&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c18670.png" height='18' width='18'>
 </h5>
 </td>
 <td align='center' colspan='2'>
 <h5>
-<img src="http://www.colorhexa.com/008a25.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;emerald&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/59a370.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/00893b.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;emerald&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/68a078.png" height='18' width='18'>
 </h5>
 </td>
 <td align='center' colspan='2'>
 <h5>
-<img src="http://www.colorhexa.com/0071f2.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sapphire&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/6e95d6.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/0076dc.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sapphire&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/7995c8.png" height='18' width='18'>
 </h5>
 </td>
 </tr>
@@ -230,17 +230,17 @@ set background=dark
 <tr>
 <td align='center' colspan='2'>
 <h5>
-<img src="http://www.colorhexa.com/bf5800.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;orange&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c1875b.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/b46115.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;orange&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/b98a67.png" height='18' width='18'>
 </h5>
 </td>
 <td align='center' colspan='2'>
 <h5>
-<img src="http://www.colorhexa.com/008669.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sea green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/28a591.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/00866d.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sea green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/4ca292.png" height='18' width='18'>
 </h5>
 </td>
 <td align='center' colspan='2'>
 <h5>
-<img src="http://www.colorhexa.com/7d5dea.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;purple&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/9e89ce.png" height='18' width='18'>
+<img src="http://www.colorhexa.com/8064d1.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;purple&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/9c8bc1.png" height='18' width='18'>
 </h5>
 </td>
 </tr>
