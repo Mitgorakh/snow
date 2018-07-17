@@ -83,7 +83,7 @@ set background=dark
 - red highlighting is for **warnings** (which <img height="16" src='https://github.com/nightsense/snow/raw/master/images/warning.png' /> illuminate problems to be removed) and <img height="11" src='https://github.com/nightsense/snow/raw/master/images/delete.png' /> **diff deletions**
 
 *because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/yellow.png' /> yellow is the color of highlighting key information...*
-- yellow highlighting is for <img height="16" src='https://github.com/nightsense/snow/raw/master/images/search.png' /> **search results**  and <img height="16" src='https://github.com/nightsense/snow/raw/master/images/change.png' /> **diff changes**
+- yellow highlighting is for <img height="16" src='https://github.com/nightsense/snow/raw/master/images/search.png' /> **search results**, <img height="16" src='https://github.com/nightsense/snow/raw/master/images/match.png' /> **matching parentheses**, and <img height="16" src='https://github.com/nightsense/snow/raw/master/images/change.png' /> **diff changes**
 
 *because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action...*
 - plain green text is for **statements** (the magic "action words" <img height="8" src='https://github.com/nightsense/snow/raw/master/images/statement.png' /> of code), like conditions (if, then...) or loops (for, do...)
