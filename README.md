@@ -88,14 +88,14 @@ set background=dark
 *because yellow is also the color of transition (between the "stop/remove" of red and the "go/add" of green)...*
 - yellow highlighting is also for <img height="16" src='https://github.com/nightsense/snow/raw/master/images/change.png' /> **diff changes**
 
-*because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action...*
+*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action...*
 - plain green text is for **statements** (the magic "action words" <img height="8" src='https://github.com/nightsense/snow/raw/master/images/statement.png' /> of code), like conditions (if, then...) or loops (for, do...)
 - bold green text is for **meta-statements** ("meta-actions" <img height="15" src='https://github.com/nightsense/snow/raw/master/images/metastatement.png' />), like macros and "include module" statements
 
 *because green is also the color of addition...*
 - green highlighting is for <img height="12" src='https://github.com/nightsense/snow/raw/master/images/add.png' /> **diff additions**
 
-*because <img height="14" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm, stable color of sea and sky, evoking enduring constancy...*
+*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm, stable color of sea and sky, evoking enduring constancy...*
 - plain blue text is for **constants** (values that are <img height="22" src='https://github.com/nightsense/snow/raw/master/images/constant.png' /> fixed in place), like booleans, integers, and strings
 - blue highlighting is for **misspelt strings** (an important <img height="16" src='https://github.com/nightsense/snow/raw/master/images/misspelt.png' /> protective measure for good writing)
 
