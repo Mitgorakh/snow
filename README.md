@@ -86,7 +86,7 @@ set background=dark
 - yellow highlighting is for <img height="16" src='https://github.com/nightsense/snow/raw/master/images/search.png' /> **search results** and <img height="16" src='https://github.com/nightsense/snow/raw/master/images/match.png' /> **matching** ("mirror image") **parentheses**
 
 *because yellow is also the color of transition (between the "stop/remove" of red and the "go/add" of green)...*
-- yellow highlighting is for <img height="16" src='https://github.com/nightsense/snow/raw/master/images/change.png' /> **diff changes**
+- yellow highlighting is also for <img height="16" src='https://github.com/nightsense/snow/raw/master/images/change.png' /> **diff changes**
 
 *because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action...*
 - plain green text is for **statements** (the magic "action words" <img height="8" src='https://github.com/nightsense/snow/raw/master/images/statement.png' /> of code), like conditions (if, then...) or loops (for, do...)
