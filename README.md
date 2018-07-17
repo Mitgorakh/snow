@@ -37,7 +37,7 @@ set background=dark
 <td width='90' align='center'><img src="http://www.colorhexa.com/edf1f5.png" height='18' width='18'></td>
 <td width='88'></td>
 <td width='90' align='center'><img src="http://www.colorhexa.com/e12c3b.png" height='18' width='18'></td>
-<td width='220' align='center'><h5>red</h5></td>
+<td width='220' align='center'><h5>(berry) red</h5></td>
 <td width='90' align='center'><img src="http://www.colorhexa.com/d27d75.png" height='18' width='18'></td>
 </tr>
 
@@ -47,7 +47,7 @@ set background=dark
 <td align='center'><img src="http://www.colorhexa.com/8397ad.png" height='18' width='18'></td>
 <td></td>
 <td align='center'><img src="http://www.colorhexa.com/ffd528.png" height='18' width='18'></td>
-<td align='center'><h5>yellow</h5></td>
+<td align='center'><h5>(construction) yellow</h5></td>
 <td align='center'><img src="http://www.colorhexa.com/e2bd67.png" height='18' width='18'></td>
 </tr>
 
@@ -57,7 +57,7 @@ set background=dark
 <td align='center'><img src="http://www.colorhexa.com/51657a.png" height='18' width='18'></td>
 <td></td>
 <td align='center'><img src="http://www.colorhexa.com/008a00.png" height='18' width='18'></td>
-<td align='center'><h5>green</h5></td>
+<td align='center'><h5>(forest) green</h5></td>
 <td align='center'><img src="http://www.colorhexa.com/6ea162.png" height='18' width='18'></td>
 </tr>
 
@@ -67,7 +67,7 @@ set background=dark
 <td align='center'><img src="http://www.colorhexa.com/242e3a.png" height='18' width='18'></td>
 <td></td>
 <td align='center'><img src="http://www.colorhexa.com/0074e6.png" height='18' width='18'></td>
-<td align='center'><h5>blue</h5></td>
+<td align='center'><h5>(sky) blue</h5></td>
 <td align='center'><img src="http://www.colorhexa.com/539ad4.png" height='18' width='18'></td>
 </tr>
 
