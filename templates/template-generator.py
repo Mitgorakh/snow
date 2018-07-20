@@ -102,11 +102,6 @@ hexgry1_dk = tohex( gold(3.10)  , gold(05.0) , hue_base )
 hexgry2_dk = tohex( gold(1.285) , gold(04.0) , hue_base )
 hexgry3_dk = tohex( gold(0.76)  , gold(04.0) , hue_base )
 
-lt_hi = 1.50
-lt_lo = 1.25
-dk_al = 1.50
-dk_ac = 2.00
-
 lum_lt_hi = gold(1.50)
 cro_lt_hi = gold(1.25)
 lum_lt_lo = gold(1.25)
