@@ -8,7 +8,7 @@ a blue-tinted winter vimscape
 <table><tbody>
 
 <tr>
-<td align="center"><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" /><br>
+<td align="center"><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" /><br><br>
 <img src="http://www.colorhexa.com/eff2f5.png" height='12' width='12'>&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/dfe4ec.png" height='12' width='12'>&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/768294.png" height='12' width='12'>&nbsp;&nbsp;
@@ -25,7 +25,18 @@ colorscheme snow
 set background=light
 </pre>
 </td>
-<td align="center"><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="175" />
+<td align="center"><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="175" /><br><br>
+<img src="http://www.colorhexa.com/2a2e34.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/31363e.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/768294.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/9daabd.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/dfe4ec.png" height='12' width='12'><br>
+<img src="http://www.colorhexa.com/c6837c.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/b8a06d.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/7f9d77.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/5da19f.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/7c98bf.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/b289ab.png" height='12' width='12'>
 <pre>
 colorscheme snow
 set background=dark
