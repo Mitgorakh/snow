@@ -9,34 +9,34 @@ a blue-tinted winter vimscape
 
 <tr>
 <td align="center"><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" />
-<img src="http://www.colorhexa.com/eff2f5.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/dfe5ef.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/73829a.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/505f75.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/2e3743.png" height='24' width='24'><br>
-<img src="http://www.colorhexa.com/c04c48.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/a07d19.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/3f8234.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/008787.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/0779c5.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/a8559e.png" height='24' width='24'><br><br>
+<img src="http://www.colorhexa.com/eff2f5.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/dfe5ef.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/73829a.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/505f75.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/2e3743.png" height='18' width='18'><br>
+<img src="http://www.colorhexa.com/c04c48.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/a07d19.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/3f8234.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/008787.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/0779c5.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/a8559e.png" height='18' width='18'><br><br>
 <pre>
 colorscheme snow
 set background=light
 </pre>
 </td>
 <td align="center"><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="175" />
-<img src="http://www.colorhexa.com/292e36.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/2e3743.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/73829a.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/9babc3.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/dfe5ef.png" height='24' width='24'><br>
-<img src="http://www.colorhexa.com/c1867f.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/bda77a.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/7f9d77.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/5da19f.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/7c98bf.png" height='24' width='24'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/b289ab.png" height='24' width='24'><br><br>
+<img src="http://www.colorhexa.com/292e36.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/2e3743.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/73829a.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/9babc3.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/dfe5ef.png" height='18' width='18'><br>
+<img src="http://www.colorhexa.com/c1867f.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/bda77a.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/7f9d77.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/5da19f.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/7c98bf.png" height='18' width='18'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/b289ab.png" height='18' width='18'><br><br>
 <pre>
 colorscheme snow
 set background=dark
