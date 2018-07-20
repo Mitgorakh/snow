@@ -28,7 +28,7 @@ set background=dark
 <table><tbody>
 
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life, reddish text is for...*
-- <img src="http://www.colorhexa.com/a8559e.png" height='12' width='12'> **names**, which give life <img height="7" src='https://github.com/nightsense/snow/raw/master/images/name.png' />&nbsp;&nbsp;to abstractions (like variables and functions)
+- <img src="http://www.colorhexa.com/a8559e.png" height='12' width='12'>&nbsp;&nbsp;**names**, which give life <img height="7" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
 - <img src="http://www.colorhexa.com/c04c48.png" height='12' width='12'>&nbsp;&nbsp;**types** ("meta-names" <img height="13" src='https://github.com/nightsense/snow/raw/master/images/type.png' />), such as variable type (int, char...) or storage class (static, register...)
 
 *because red is also the color of removal...*
