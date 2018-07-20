@@ -10,10 +10,10 @@ a blue-tinted winter vimscape
 <tr>
 <td align="center"><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" />
 <img src="http://www.colorhexa.com/eff2f5.png" height='12' width='12'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/dfe4ec.png" height='12' width='12'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/768294.png" height='12' width='12'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/545f70.png" height='12' width='12'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/31363e.png" height='12' width='12'><br>
+<img src="http://www.colorhexa.com/dfe5ef.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/73829a.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/505f75.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/2e3743.png" height='12' width='12'><br>
 <img src="http://www.colorhexa.com/c04c48.png" height='12' width='12'>&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/a07d19.png" height='12' width='12'>&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/3f8234.png" height='12' width='12'>&nbsp;&nbsp;
@@ -26,13 +26,13 @@ set background=light
 </pre>
 </td>
 <td align="center"><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="175" />
-<img src="http://www.colorhexa.com/2a2e34.png" height='12' width='12'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/31363e.png" height='12' width='12'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/768294.png" height='12' width='12'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/9daabd.png" height='12' width='12'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/dfe4ec.png" height='12' width='12'><br>
-<img src="http://www.colorhexa.com/c6837c.png" height='12' width='12'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/b8a06d.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/292e36.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/2e3743.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/73829a.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/9babc3.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/dfe5ef.png" height='12' width='12'><br>
+<img src="http://www.colorhexa.com/c1867f.png" height='12' width='12'>&nbsp;&nbsp;
+<img src="http://www.colorhexa.com/bda77a.png" height='12' width='12'>&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/7f9d77.png" height='12' width='12'>&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/5da19f.png" height='12' width='12'>&nbsp;&nbsp;
 <img src="http://www.colorhexa.com/7c98bf.png" height='12' width='12'>&nbsp;&nbsp;
