@@ -7,8 +7,8 @@ Short name:      snow
 Terminal Colors: 256
 
 Background: light
-Color:      gry0 #f0f2f4 ~
-Color:      gry1 #e1e5eb ~
+Color:      gry0 #eff2f5 ~
+Color:      gry1 #dfe4ec ~
 Color:      gry2 #768294 ~
 Color:      gry3 #545f70 ~
 Color:      gryc #31363e ~
@@ -104,7 +104,7 @@ Color:      gry0 #2a2e34 ~
 Color:      gry1 #31363e ~
 Color:      gry2 #768294 ~
 Color:      gry3 #9daabd ~
-Color:      gryc #e1e5eb ~
+Color:      gryc #dfe4ec ~
 Color:      gryy #2a2e34 ~
 Color:      red_ #c6837c ~
 Color:      gold #b8a06d ~
