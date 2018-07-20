@@ -24,16 +24,16 @@ Cursor             gryc   gry0   reverse
 TermCursor         gryc   gry0   reverse
 
 # reverse normal
+Folded             gry3   gry0   reverse
 PmenuSel           gry3   gry0   reverse
+StatusLineNC       gry3   gry0   reverse
+StatusLineTermNC   gry3   gry0   reverse
 TabLineSel         gry3   gry0   reverse
 WildMenu           gry3   gry0   reverse
 
 # reverse soft
-VertSplit          gry2   gry0   reverse
-Folded             gry2   gry0   reverse
-StatusLineNC       gry2   gry0   reverse
-StatusLineTermNC   gry2   gry0   reverse
 TermCursorNC       gry2   gry0   reverse
+VertSplit          gry2   gry0   reverse
 Visual             gry2   gry0   reverse
 VisualNOS          gry2   gry0   reverse
 
