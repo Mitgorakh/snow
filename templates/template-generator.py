@@ -55,7 +55,7 @@ def print_lightline(name,bg):
   print 'let s:gry2 = "@guigry2"'
   print 'let s:gry3 = "@guigry3"'
   print 'let s:red_ = "@guired_"'
-  print 'let s:gold = "@guigold"'
+  print 'let s:mgnt = "@guimgnt"'
   print 'let s:gren = "@guigren"'
   print 'let s:cyan = "@guicyan"'
   print ''
@@ -84,7 +84,7 @@ def print_lightline(name,bg):
   print 'let s:p.tabline.right   = [[ s:gry0, s:gry3 ]]'
   print ''
   print 'let s:p.normal.error    = [[ s:red_, s:gry0 ]]'
-  print 'let s:p.normal.warning  = [[ s:gold, s:gry0 ]]'
+  print 'let s:p.normal.warning  = [[ s:mgnt, s:gry0 ]]'
   print ''
   print 'let g:lightline#colorscheme#%s_%s#palette =' % (name, bg)
   print '  \ lightline#colorscheme#fill(s:p)'

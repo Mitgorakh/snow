@@ -68,6 +68,8 @@ if &background ==# 'dark'
   hi SpellRare ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=Magenta cterm=NONE,underline gui=NONE,undercurl
   hi Function ctermfg=139 ctermbg=NONE guifg=#b289ab guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Identifier ctermfg=139 ctermbg=NONE guifg=#b289ab guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi TooLong ctermfg=139 ctermbg=236 guifg=#b289ab guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi WarningMsg ctermfg=139 ctermbg=236 guifg=#b289ab guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi StorageClass ctermfg=174 ctermbg=NONE guifg=#c1867f guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Structure ctermfg=174 ctermbg=NONE guifg=#c1867f guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Type ctermfg=174 ctermbg=NONE guifg=#c1867f guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -76,8 +78,6 @@ if &background ==# 'dark'
   hi DiffRemoved ctermfg=174 ctermbg=236 guifg=#c1867f guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Error ctermfg=174 ctermbg=236 guifg=#c1867f guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi ErrorMsg ctermfg=174 ctermbg=236 guifg=#c1867f guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi TooLong ctermfg=174 ctermbg=236 guifg=#c1867f guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi WarningMsg ctermfg=174 ctermbg=236 guifg=#c1867f guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Conditional ctermfg=108 ctermbg=NONE guifg=#7f9d77 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Exception ctermfg=108 ctermbg=NONE guifg=#7f9d77 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Keyword ctermfg=108 ctermbg=NONE guifg=#7f9d77 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -165,6 +165,8 @@ hi SpellLocal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=DarkCyan cte
 hi SpellRare ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=Magenta cterm=NONE,underline gui=NONE,undercurl
 hi Function ctermfg=133 ctermbg=NONE guifg=#a8559e guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Identifier ctermfg=133 ctermbg=NONE guifg=#a8559e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi TooLong ctermfg=133 ctermbg=255 guifg=#a8559e guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi WarningMsg ctermfg=133 ctermbg=255 guifg=#a8559e guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi StorageClass ctermfg=131 ctermbg=NONE guifg=#c04c48 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Structure ctermfg=131 ctermbg=NONE guifg=#c04c48 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Type ctermfg=131 ctermbg=NONE guifg=#c04c48 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -173,8 +175,6 @@ hi DiffDelete ctermfg=131 ctermbg=255 guifg=#c04c48 guibg=#eff2f5 guisp=NONE cte
 hi DiffRemoved ctermfg=131 ctermbg=255 guifg=#c04c48 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi Error ctermfg=131 ctermbg=255 guifg=#c04c48 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi ErrorMsg ctermfg=131 ctermbg=255 guifg=#c04c48 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi TooLong ctermfg=131 ctermbg=255 guifg=#c04c48 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi WarningMsg ctermfg=131 ctermbg=255 guifg=#c04c48 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi Conditional ctermfg=28 ctermbg=NONE guifg=#3f8234 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Exception ctermfg=28 ctermbg=NONE guifg=#3f8234 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Keyword ctermfg=28 ctermbg=NONE guifg=#3f8234 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -277,6 +277,8 @@ finish
 " SpellRare          none   none   g=undercurl   s=dmgt   t=underline
 " Function           mgnt   none
 " Identifier         mgnt   none
+" TooLong            mgnt   gry0   reverse
+" WarningMsg         mgnt   gry0   reverse
 " StorageClass       red_   none
 " Structure          red_   none
 " Type               red_   none
@@ -285,8 +287,6 @@ finish
 " DiffRemoved        red_   gry0   reverse
 " Error              red_   gry0   reverse
 " ErrorMsg           red_   gry0   reverse
-" TooLong            red_   gry0   reverse
-" WarningMsg         red_   gry0   reverse
 " Conditional        gren   none
 " Exception          gren   none
 " Keyword            gren   none
@@ -387,6 +387,8 @@ finish
 " SpellRare          none   none   g=undercurl   s=dmgt   t=underline
 " Function           mgnt   none
 " Identifier         mgnt   none
+" TooLong            mgnt   gry0   reverse
+" WarningMsg         mgnt   gry0   reverse
 " StorageClass       red_   none
 " Structure          red_   none
 " Type               red_   none
@@ -395,8 +397,6 @@ finish
 " DiffRemoved        red_   gry0   reverse
 " Error              red_   gry0   reverse
 " ErrorMsg           red_   gry0   reverse
-" TooLong            red_   gry0   reverse
-" WarningMsg         red_   gry0   reverse
 " Conditional        gren   none
 " Exception          gren   none
 " Keyword            gren   none

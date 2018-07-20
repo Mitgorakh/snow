@@ -71,19 +71,21 @@ SpellRare          none   none   g=undercurl   s=dmgt   t=underline
 Function           mgnt   none
 Identifier         mgnt   none
 
+# reverse magenta warnings
+TooLong            mgnt   gry0   reverse
+WarningMsg         mgnt   gry0   reverse
+
 # red types
 StorageClass       red_   none
 Structure          red_   none
 Type               red_   none
 Typedef            red_   none
 
-# reverse red warnings and diff removals
+# reverse red errors and diff removals
 DiffDelete         red_   gry0   reverse
 DiffRemoved        red_   gry0   reverse
 Error              red_   gry0   reverse
 ErrorMsg           red_   gry0   reverse
-TooLong            red_   gry0   reverse
-WarningMsg         red_   gry0   reverse
 
 # green actions
 Conditional        gren   none

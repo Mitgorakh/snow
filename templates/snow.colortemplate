@@ -62,7 +62,7 @@ let s:gry1 = "@guigry1"
 let s:gry2 = "@guigry2"
 let s:gry3 = "@guigry3"
 let s:red_ = "@guired_"
-let s:gold = "@guigold"
+let s:mgnt = "@guimgnt"
 let s:gren = "@guigren"
 let s:cyan = "@guicyan"
 
@@ -91,7 +91,7 @@ let s:p.tabline.tabsel  = copy(s:p.normal.middle)
 let s:p.tabline.right   = [[ s:gry0, s:gry3 ]]
 
 let s:p.normal.error    = [[ s:red_, s:gry0 ]]
-let s:p.normal.warning  = [[ s:gold, s:gry0 ]]
+let s:p.normal.warning  = [[ s:mgnt, s:gry0 ]]
 
 let g:lightline#colorscheme#snow_light#palette =
   \ lightline#colorscheme#fill(s:p)
@@ -153,7 +153,7 @@ let s:gry1 = "@guigry1"
 let s:gry2 = "@guigry2"
 let s:gry3 = "@guigry3"
 let s:red_ = "@guired_"
-let s:gold = "@guigold"
+let s:mgnt = "@guimgnt"
 let s:gren = "@guigren"
 let s:cyan = "@guicyan"
 
@@ -182,7 +182,7 @@ let s:p.tabline.tabsel  = copy(s:p.normal.middle)
 let s:p.tabline.right   = [[ s:gry0, s:gry3 ]]
 
 let s:p.normal.error    = [[ s:red_, s:gry0 ]]
-let s:p.normal.warning  = [[ s:gold, s:gry0 ]]
+let s:p.normal.warning  = [[ s:mgnt, s:gry0 ]]
 
 let g:lightline#colorscheme#snow_dark#palette =
   \ lightline#colorscheme#fill(s:p)
