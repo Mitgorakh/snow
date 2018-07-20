@@ -1,13 +1,16 @@
 # regular fg/bg
 Bold               none   none   bold
 Conceal            none   none
+DiffChange         none   none
 Directory          none   none   bold
 EndOfBuffer        none   none
 Ignore             none   none
 Italic             none   none   italic
 ModeMsg            none   none
+MoreMsg            none   none
 NonText            none   none
 Normal             gry3   gry0
+Question           none   none
 Terminal           none   none
 Title              none   none   bold
 Underlined         none   none   underline
@@ -27,12 +30,13 @@ TermCursor         gryc   gry0   reverse
 # reverse normal
 Folded             gry3   gry0   reverse
 PmenuSel           gry3   gry0   reverse
-StatusLineNC       gry3   gry0   reverse
-StatusLineTermNC   gry3   gry0   reverse
 TabLineSel         gry3   gry0   reverse
 WildMenu           gry3   gry0   reverse
 
 # reverse soft
+MatchParen         gry2   gry0   reverse
+StatusLineNC       gry2   gry0   reverse
+StatusLineTermNC   gry2   gry0   reverse
 TermCursorNC       gry2   gry0   reverse
 VertSplit          gry2   gry0   reverse
 VisualNOS          gry2   gry0   reverse
@@ -41,7 +45,6 @@ VisualNOS          gry2   gry0   reverse
 ColorColumn        none   gry1
 CursorColumn       none   gry1
 CursorLine         none   gry1
-DiffChange         none   gry1
 Pmenu              gry3   gry1
 QuickFixLine       none   gry1
 StatusLine         gry3   gry1
@@ -56,21 +59,20 @@ TabLineFill        gry1   gry1
 ToolbarLine        gry1   gry1
 
 # spellcheck undercurl (default vim colors)
-Color:             defred_       Red           9           Red
-SpellBad           none   none   g=undercurl   s=defred_   t=underline
-Color:             defblue       Blue          12          Blue
-SpellCap           none   none   g=undercurl   s=defblue   t=underline
-Color:             defcyan       DarkCyan      6           DarkCyan
-SpellLocal         none   none   g=undercurl   s=defcyan   t=underline
-Color:             defmgnt       Magenta       13          Magenta
-SpellRare          none   none   g=undercurl   s=defmgnt   t=underline
+Color: dred Red      9  Red
+Color: dblu Blue     12 Blue
+Color: dcyn DarkCyan 6  DarkCyan
+Color: dmgt Magenta  13 Magenta
+SpellBad           none   none   g=undercurl   s=dred   t=underline
+SpellCap           none   none   g=undercurl   s=dblu   t=underline
+SpellLocal         none   none   g=undercurl   s=dcyn   t=underline
+SpellRare          none   none   g=undercurl   s=dmgt   t=underline
 
 # magenta names
 Function           mgnt   none
 Identifier         mgnt   none
 
-# reverse magenta matching parentheses
-MatchParen         mgnt   gry0   reverse
+# reverse magenta...
 
 # red types
 StorageClass       red_   none
@@ -98,8 +100,6 @@ Statement          gren   none
 # reverse green status line prompts and diff additions
 DiffAdd            gren   gry0   reverse
 DiffAdded          gren   gry0   reverse
-MoreMsg            gren   gry0   reverse
-Question           gren   gry0   reverse
 
 # cyan meta-actions
 Define             cyan   none
@@ -108,8 +108,7 @@ Macro              cyan   none
 PreCondit          cyan   none
 PreProc            cyan   none
 
-# reverse cyan search matches
-Search             cyan   gry0   reverse
+# reverse cyan...
 
 # blue constants
 Boolean            blue   none
@@ -132,6 +131,7 @@ SpecialKey         gold   none
 Tag                gold   none
 Todo               gold   none
 
-# reverse gold diff changes
+# reverse gold search matches and diff changes
 DiffChanged        gold   gry0   reverse
 DiffText           gold   gry0   reverse
+Search             gold   gry0   reverse
