@@ -7,10 +7,10 @@ Short name:      snow
 Terminal Colors: 256
 
 Background: light
-Color:      gry0 #f1f1f1 ~
-Color:      gry1 #e2e4e6 ~
-Color:      gry2 #758193 ~
-Color:      gry3 #535e6f ~
+Color:      gry0 #f0f2f4 ~
+Color:      gry1 #e1e5eb ~
+Color:      gry2 #768294 ~
+Color:      gry3 #545f70 ~
 Color:      gryc #31363e ~
 Color:      gryy #2a2e34 ~
 Color:      red_ #c04c48 ~
@@ -102,9 +102,9 @@ endauxfile
 Background: dark
 Color:      gry0 #2a2e34 ~
 Color:      gry1 #31363e ~
-Color:      gry2 #758193 ~
+Color:      gry2 #768294 ~
 Color:      gry3 #9daabd ~
-Color:      gryc #e2e4e6 ~
+Color:      gryc #e1e5eb ~
 Color:      gryy #2a2e34 ~
 Color:      red_ #c6837c ~
 Color:      gold #b8a06d ~
