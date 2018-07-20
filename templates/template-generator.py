@@ -112,7 +112,7 @@ cro_lt_hi = gold(1.25)
 lum_lt_lo = gold(1.25)
 cro_lt_lo = gold(1.50)
 
-lum_dk_hi = gold(0.875)
+lum_dk_hi = gold(1.00)
 lum_dk_lo = gold(0.75)
 cro_dk_hi = gold(2.75)
 cro_dk_lo = gold(3.00)
