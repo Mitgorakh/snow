@@ -93,25 +93,28 @@ def print_lightline(name,bg):
 
 hue_base = 262.50
 
-hexgry0_lt = tohex( gold(0.10) , gold(18.00) , hue_base )
-hexgry1_lt = tohex( gold(0.21) , gold(09.00) , hue_base )
-hexgry2_lt = tohex( gold(1.30) , gold(04.50) , hue_base )
-hexgry3_lt = tohex( gold(1.93) , gold(04.50) , hue_base )
+hexgry0_lt = tohex( gold(0.10) , gold(18.0) , hue_base )
+hexgry1_lt = tohex( gold(0.21) , gold(09.0) , hue_base )
+hexgry2_lt = tohex( gold(1.30) , gold(04.5) , hue_base )
+hexgry3_lt = tohex( gold(1.93) , gold(04.5) , hue_base )
 
-hexgry0_dk = tohex( gold(3.47) , gold(06.00) , hue_base )
-hexgry1_dk = tohex( gold(3.10) , gold(05.25) , hue_base )
-hexgry2_dk = tohex( gold(1.30) , gold(04.50) , hue_base )
-hexgry3_dk = tohex( gold(0.77) , gold(04.50) , hue_base )
+hexgry0_dk = tohex( gold(3.47) , gold(06.5) , hue_base )
+hexgry1_dk = tohex( gold(3.10) , gold(06.0) , hue_base )
+hexgry2_dk = tohex( gold(1.30) , gold(04.5) , hue_base )
+hexgry3_dk = tohex( gold(0.77) , gold(04.5) , hue_base )
 
-lum_lt_hi = gold(1.50)
-lum_lt_lo = gold(1.25)
-cro_lt_lo = gold(1.50)
-cro_lt_hi = gold(1.25)
+hi = 1.50
+lo = 1.25
 
-lum_dk_hi = gold(1.00)
-lum_dk_lo = gold(0.75)
-cro_dk_lo = gold(3.00)
-cro_dk_hi = gold(2.50)
+lum_lt_hi = gold(hi)
+lum_lt_lo = gold(lo)
+cro_lt_lo = gold(hi)
+cro_lt_hi = gold(lo)
+
+lum_dk_hi = gold(hi/1.5)
+lum_dk_lo = gold(lo/1.5)
+cro_dk_hi = gold(lo*2.0)
+cro_dk_lo = gold(hi*2.0)
 
 hexred__lt = tohex( lum_lt_hi , cro_lt_hi , 030.00 )
 hexgold_lt = tohex( lum_lt_lo , cro_lt_hi , 082.50 )

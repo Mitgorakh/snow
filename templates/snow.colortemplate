@@ -11,8 +11,8 @@ Color:      gry0 #f1f1f1 ~
 Color:      gry1 #e2e4e6 ~
 Color:      gry2 #758193 ~
 Color:      gry3 #535e6f ~
-Color:      gryc #2f3741 ~
-Color:      gryy #292e36 ~
+Color:      gryc #31363e ~
+Color:      gryy #2a2e34 ~
 Color:      red_ #c04c48 ~
 Color:      gold #a07d19 ~
 Color:      gren #3f8234 ~
@@ -100,14 +100,14 @@ let g:lightline#colorscheme#snow_light#palette =
 endauxfile
 
 Background: dark
-Color:      gry0 #292e36 ~
-Color:      gry1 #2f3741 ~
+Color:      gry0 #2a2e34 ~
+Color:      gry1 #31363e ~
 Color:      gry2 #758193 ~
 Color:      gry3 #9daabd ~
 Color:      gryc #e2e4e6 ~
-Color:      gryy #292e36 ~
+Color:      gryy #2a2e34 ~
 Color:      red_ #c6837c ~
-Color:      gold #bfa774 ~
+Color:      gold #b8a06d ~
 Color:      gren #7f9d77 ~
 Color:      cyan #5da19f ~
 Color:      blue #7c98bf ~
