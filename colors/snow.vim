@@ -40,7 +40,7 @@ if &background ==# 'dark'
   hi Cursor ctermfg=254 ctermbg=236 guifg=#dfe5ef guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi IncSearch ctermfg=254 ctermbg=236 guifg=#dfe5ef guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi TermCursor ctermfg=254 ctermbg=236 guifg=#dfe5ef guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Folded ctermfg=110 ctermbg=236 guifg=#9babc3 guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Folded ctermfg=67 ctermbg=236 guifg=#73829a guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi StatusLineNC ctermfg=67 ctermbg=236 guifg=#73829a guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi StatusLineTermNC ctermfg=67 ctermbg=236 guifg=#73829a guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi TermCursorNC ctermfg=67 ctermbg=236 guifg=#73829a guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
@@ -137,7 +137,7 @@ hi SignColumn ctermfg=67 ctermbg=NONE guifg=#73829a guibg=NONE guisp=NONE cterm=
 hi Cursor ctermfg=237 ctermbg=255 guifg=#2e3743 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi IncSearch ctermfg=237 ctermbg=255 guifg=#2e3743 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi TermCursor ctermfg=237 ctermbg=255 guifg=#2e3743 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi Folded ctermfg=24 ctermbg=255 guifg=#505f75 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi Folded ctermfg=67 ctermbg=255 guifg=#73829a guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi StatusLineNC ctermfg=67 ctermbg=255 guifg=#73829a guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi StatusLineTermNC ctermfg=67 ctermbg=255 guifg=#73829a guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi TermCursorNC ctermfg=67 ctermbg=255 guifg=#73829a guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
@@ -245,7 +245,7 @@ finish
 " Cursor             gryc   gry0   reverse
 " IncSearch          gryc   gry0   reverse
 " TermCursor         gryc   gry0   reverse
-" Folded             gry3   gry0   reverse
+" Folded             gry2   gry0   reverse
 " StatusLineNC       gry2   gry0   reverse
 " StatusLineTermNC   gry2   gry0   reverse
 " TermCursorNC       gry2   gry0   reverse
@@ -355,7 +355,7 @@ finish
 " Cursor             gryc   gry0   reverse
 " IncSearch          gryc   gry0   reverse
 " TermCursor         gryc   gry0   reverse
-" Folded             gry3   gry0   reverse
+" Folded             gry2   gry0   reverse
 " StatusLineNC       gry2   gry0   reverse
 " StatusLineTermNC   gry2   gry0   reverse
 " TermCursorNC       gry2   gry0   reverse

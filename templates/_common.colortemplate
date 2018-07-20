@@ -27,10 +27,8 @@ Cursor             gryc   gry0   reverse
 IncSearch          gryc   gry0   reverse
 TermCursor         gryc   gry0   reverse
 
-# reverse normal
-Folded             gry3   gry0   reverse
-
 # reverse soft
+Folded             gry2   gry0   reverse
 StatusLineNC       gry2   gry0   reverse
 StatusLineTermNC   gry2   gry0   reverse
 TermCursorNC       gry2   gry0   reverse
