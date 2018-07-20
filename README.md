@@ -102,165 +102,6 @@ set background=dark
 *because sea and sky also evoke the notion of specialization (as in life forms or technology)...*
 - bold blue text is for <img height="15" src='https://github.com/nightsense/snow/raw/master/images/special.png' /> **special elements**, like delimiters and debug statements
 
-<br>
-
-<table><tbody>
-<tr>
-<td align='center' colspan='6'>
-<h4>
-<img height="16" src='https://github.com/nightsense/snow/raw/master/images/redshift-red.png' />&nbsp;&nbsp;
-<img height="15" src='https://github.com/nightsense/snow/raw/master/images/redshift-green.png' />&nbsp;&nbsp;
-<img height="14" src='https://github.com/nightsense/snow/raw/master/images/redshift-blue.png' />
-<br>red-shifted theme variants</h4>
-</td>
-</tr>
-
-<tr>
-<td align='center' colspan='2'>
-<h5>
-<img src="http://www.colorhexa.com/b84bac.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;magenta&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/b783af.png" height='18' width='18'>
-</h5>
-</td>
-<td align='center' colspan='2'>
-<h5>
-<img src="http://www.colorhexa.com/6f7d00.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;moss green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/959860.png" height='18' width='18'>
-</h5>
-</td>
-<td align='center' colspan='2'>
-<h5>
-<img src="http://www.colorhexa.com/00819d.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;green-blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/42a1ad.png" height='18' width='18'>
-</h5>
-</td>
-</tr>
-<tr>
-<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, light version, red-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-redshift-plus.png" height="325" />
-<pre>
-colorscheme snow_redshift_plus
-set background=light
-</pre>
-<br>
-</td>
-<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, dark version, red-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-redshift-plus.png" height="325" />
-<pre>
-colorscheme snow_redshift_plus
-set background=dark
-</pre>
-<br>
-</td>
-</tr>
-
-<tr>
-<td align='center' colspan='2'>
-<h5>
-<img src="http://www.colorhexa.com/d13c7b.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;pink&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c68096.png" height='18' width='18'>
-</h5>
-</td>
-<td align='center' colspan='2'>
-<h5>
-<img src="http://www.colorhexa.com/528400.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;lawn green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/869b64.png" height='18' width='18'>
-</h5>
-</td>
-<td align='center' colspan='2'>
-<h5>
-<img src="http://www.colorhexa.com/007bc4.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;celestial blue&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/569cc0.png" height='18' width='18'>
-</h5>
-</td>
-</tr>
-<tr>
-<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, light version, red-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-redshift.png" height="325" />
-<pre>
-colorscheme snow_redshift
-set background=light
-</pre>
-</td>
-<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, dark version, red-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-redshift.png" height="325" />
-<pre>
-colorscheme snow_redshift
-set background=dark
-</pre>
-</td>
-</tr>
-</tbody></table>
-
-<br>
-
-<table><tbody>
-<tr>
-<td align='center' colspan='6'>
-<h4><img height="16" src='https://github.com/nightsense/snow/raw/master/images/blueshift-red.png' />&nbsp;&nbsp;
-<img height="15" src='https://github.com/nightsense/snow/raw/master/images/blueshift-green.png' />&nbsp;&nbsp;
-<img height="16" src='https://github.com/nightsense/snow/raw/master/images/blueshift-blue.png' /><br> blue-shifted theme variants</h4>
-</td>
-</tr>
-
-<tr>
-<td align='center' colspan='2'>
-<h5>
-<img src="http://www.colorhexa.com/c3552f.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;orange-red&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c18670.png" height='18' width='18'>
-</h5>
-</td>
-<td align='center' colspan='2'>
-<h5>
-<img src="http://www.colorhexa.com/00893b.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;emerald&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/68a078.png" height='18' width='18'>
-</h5>
-</td>
-<td align='center' colspan='2'>
-<h5>
-<img src="http://www.colorhexa.com/0076dc.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sapphire&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/7995c8.png" height='18' width='18'>
-</h5>
-</td>
-</tr>
-<tr>
-<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, light version, blue-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-blueshift.png" height="325" />
-<pre>
-colorscheme snow_blueshift
-set background=light
-</pre>
-<br>
-</td>
-<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, dark version, blue-shifted" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-blueshift.png" height="325" />
-<pre>
-colorscheme snow_blueshift
-set background=dark
-</pre>
-<br>
-</td>
-</tr>
-
-<tr>
-<td align='center' colspan='2'>
-<h5>
-<img src="http://www.colorhexa.com/b46115.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;orange&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/b98a67.png" height='18' width='18'>
-</h5>
-</td>
-<td align='center' colspan='2'>
-<h5>
-<img src="http://www.colorhexa.com/00866d.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;sea green&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/4ca292.png" height='18' width='18'>
-</h5>
-</td>
-<td align='center' colspan='2'>
-<h5>
-<img src="http://www.colorhexa.com/8064d1.png" height='18' width='18'>&nbsp;&nbsp;&nbsp;&nbsp;purple&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/9c8bc1.png" height='18' width='18'>
-</h5>
-</td>
-</tr>
-<tr>
-<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, light version, blue-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light-blueshift-plus.png" height="325" />
-<pre>
-colorscheme snow_blueshift_plus
-set background=light
-</pre>
-</td>
-<td align="center" colspan='3'><img alt="screenshot of the snow vim theme, dark version, blue-shifted-plus" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark-blueshift-plus.png" height="325" />
-<pre>
-colorscheme snow_blueshift_plus
-set background=dark
-</pre>
-</td>
-</tr>
-
-</tbody></table>
-
 ## installation
 
 If you don’t have a preferred plugin helper, consider trying [vim-plug](https://github.com/junegunn/vim-plug), which can be installed with:
@@ -296,44 +137,32 @@ colorscheme snow
 set background=dark
 ```
 
-In addition to `snow`, the following theme variants (featuring shifted accent color hues) are available: `snow_redshift_plus`, `snow_redshift`, `snow_blueshift`, and `snow_blueshift_plus`.
-
 ## status line themes
 
-snow comes with themes for airline and lightline. A separate theme is provided for each variant+background.
+snow comes with themes for airline and lightline, with separate themes for each background setting.
 
-For instance, to activate the airline theme for `snow_redshift` with dark background:
+For instance, to activate the airline theme with dark background:
 
 ```
-let g:airline_theme='snow_redshift_dark'
+let g:airline_theme='snow_dark'
 ```
 
 For lightline:
 
 ```
-let g:lightline = { 'colorscheme': 'snow_redshift_dark' }
+let g:lightline = { 'colorscheme': 'snow_dark' }
 ```
-
-`dark` can be replaced with `light`, and `snow_redshift` can be replaced with `snow_redshift_plus`, `snow`, `snow_blueshift`, or `snow_blueshift_plus`.
 
 ## rotation
 
 If you'd like themes and/or backgrounds to switch automatically (based on absolute time or sun-relative time), you might want to try out [night-and-day](https://github.com/nightsense/night-and-day).
 
-For instance, to rotate through all theme variants throughout the day, you could use:
+For instance, to use snow with light background 6AM-6PM, dark background otherwise:
 
 ```
 let g:nd_themes = [
-  \ [ '06:00' , 'snow_redshift_plus'  , 'light' ],
-  \ [ '08:24' , 'snow_redshift'       , 'light' ],
-  \ [ '10:48' , 'snow'                , 'light' ],
-  \ [ '13:12' , 'snow_blueshift'      , 'light' ],
-  \ [ '15:36' , 'snow_blueshift_plus' , 'light' ],
-  \ [ '18:00' , 'snow_redshift_plus'  , 'dark'  ],
-  \ [ '20:24' , 'snow_redshift'       , 'dark'  ],
-  \ [ '22:48' , 'snow'                , 'dark'  ],
-  \ [ '01:12' , 'snow_blueshift'      , 'dark'  ],
-  \ [ '03:36' , 'snow_blueshift_plus' , 'dark'  ],
+  \ [ '06:00' , 'snow' , 'light' ],
+  \ [ '18:00' , 'snow' , 'dark'  ],
   \ ]
 ```
 
@@ -341,16 +170,8 @@ Or, using sun-relative times and adding lightline themes:
 
 ```
 let g:nd_themes = [
-\ ['sunrise+0'  , 'snow_redshift_plus' , 'light', 'snow_redshift_plus_light' ],
-\ ['sunrise+1/5', 'snow_redshift'      , 'light', 'snow_redshift_light'      ],
-\ ['sunrise+2/5', 'snow'               , 'light', 'snow_light'               ],
-\ ['sunrise+3/5', 'snow_blueshift'     , 'light', 'snow_blueshift_light'     ],
-\ ['sunrise+4/5', 'snow_blueshift_plus', 'light', 'snow_blueshift_plus_light'],
-\ ['sunset+0'   , 'snow_redshift_plus' , 'dark' , 'snow_redshift_plus_dark'  ],
-\ ['sunset+1/5' , 'snow_redshift'      , 'dark' , 'snow_redshift_dark'       ],
-\ ['sunset+2/5' , 'snow'               , 'dark' , 'snow_dark'                ],
-\ ['sunset+3/5' , 'snow_blueshift'     , 'dark' , 'snow_blueshift_dark'      ],
-\ ['sunset+4/5' , 'snow_blueshift_plus', 'dark' , 'snow_blueshift_plus_dark' ],
+\ ['sunrise+0'  , 'snow' , 'light', 'snow_light' ],
+\ ['sunset+0'   , 'snow' , 'dark' , 'snow_dark'  ],
 \ ]
 let g:nd_latitude = '50'
 let g:nd_timeshift = '74'
@@ -384,5 +205,5 @@ let &t_EI = "\<Esc>[2 q"
 ---
 
 ###### ■&nbsp;&nbsp;the snow colorscheme is generated with [Colortemplate](https://github.com/lifepillar/vim-colortemplate) and provided under the [MIT license](https://opensource.org/licenses/MIT)
-###### ■&nbsp;&nbsp;text contrast meets the 4.5:1 [W3C standard](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html), except for peripheral text (e.g. comments) which meets the 3:1 ISO standard
+###### ■&nbsp;&nbsp;text contrast meets the 3:1 ISO standard, as well as the 4.5:1 [W3C standard](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) where aesthetically possible
 ###### ■&nbsp;&nbsp;snowflake macrophoto by [Olga & Alexey (CC BY-NC 2.0)](https://www.flickr.com/photos/chaoticmind75/39326731084/)

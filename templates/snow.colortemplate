@@ -7,21 +7,19 @@ Short name:      snow
 Terminal Colors: 256
 
 Background: light
-Color:      gry0 #ffffff ~
-Color:      gry1 #edf1f5 ~
-Color:      gry2 #8397ad ~
-Color:      gry3 #64788d ~
-Color:      gryc #51657a ~
-Color:      gryy #242e3a ~
-Color:      yllw #ffd63a ~
-Color:      red_ #cd4847 ~
-Color:      gren #288821 ~
-Color:      blue #0078d2 ~
+Color:      gry0 #f1f1f1 ~
+Color:      gry1 #e2e4e6 ~
+Color:      gry2 #758193 ~
+Color:      gry3 #535e6f ~
+Color:      gryc #2f3741 ~
+Color:      gryy #292e36 ~
+Color:      red_ #c04c48 ~
+Color:      gold #a07d19 ~
+Color:      gren #3f8234 ~
+Color:      cyan #008787 ~
+Color:      blue #0779c5 ~
+Color:      mgnt #a8559e ~
 Include:    _common.colortemplate
-DiffChanged yllw gryy reverse
-DiffText    yllw gryy reverse
-MatchParen  yllw gryy reverse
-Search      yllw gryy reverse
 
 auxfile autoload/airline/themes/snow_light.vim
 let g:airline#themes#snow_light#palette = {}
@@ -31,13 +29,13 @@ let s:gry1 = [ "@guigry1", @termgry1 ]
 let s:gry2 = [ "@guigry2", @termgry2 ]
 let s:gry3 = [ "@guigry3", @termgry3 ]
 let s:red_ = [ "@guired_", @termred_ ]
-let s:gren = [ "@guigren", @termgren ]
 let s:blue = [ "@guiblue", @termblue ]
+let s:mgnt = [ "@guimgnt", @termmgnt ]
 
 let s:nrm1 = [ s:gry0[0] , s:gry3[0] , s:gry0[1] , s:gry3[1] ]
 let s:nrm2 = [ s:gry3[0] , s:gry1[0] , s:gry3[1] , s:gry1[1] ]
-let s:insr = [ s:gry0[0] , s:gren[0] , s:gry0[1] , s:gren[1] ]
-let s:visl = [ s:gry0[0] , s:blue[0] , s:gry0[1] , s:blue[1] ]
+let s:insr = [ s:gry0[0] , s:blue[0] , s:gry0[1] , s:blue[1] ]
+let s:visl = [ s:gry0[0] , s:mgnt[0] , s:gry0[1] , s:mgnt[1] ]
 let s:rplc = [ s:gry0[0] , s:red_[0] , s:gry0[1] , s:red_[1] ]
 let s:inac = [ s:gry2[0] , s:gry1[0] , s:gry2[1] , s:gry1[1] ]
 
@@ -66,9 +64,9 @@ let s:gry2 = "@guigry2"
 let s:gry3 = "@guigry3"
 let s:gryy = "@guigryy"
 let s:red_ = "@guired_"
-let s:yllw = "@guiyllw"
-let s:gren = "@guigren"
+let s:gold = "@guigold"
 let s:blue = "@guiblue"
+let s:mgnt = "@guimgnt"
 
 let s:p = { "normal" : {} , "inactive": {} , "insert"  : {} ,
           \ "replace": {} , "visual"  : {} , "tabline" : {} }
@@ -81,11 +79,11 @@ let s:p.inactive.left   = copy(s:p.normal.middle)
 let s:p.inactive.middle = copy(s:p.normal.middle)
 let s:p.inactive.right  = copy(s:p.normal.middle)
 
-let s:p.insert.left     = [[ s:gry0, s:gren ]]
-let s:p.insert.right    = [[ s:gry0, s:gren ], [ s:gry0, s:gren ]]
+let s:p.insert.left     = [[ s:gry0, s:blue ]]
+let s:p.insert.right    = [[ s:gry0, s:blue ], [ s:gry0, s:blue ]]
 
-let s:p.visual.left     = [[ s:gry0, s:blue ]]
-let s:p.visual.right    = [[ s:gry0, s:blue ], [ s:gry0, s:blue ]]
+let s:p.visual.left     = [[ s:gry0, s:mgnt ]]
+let s:p.visual.right    = [[ s:gry0, s:mgnt ], [ s:gry0, s:mgnt ]]
 
 let s:p.replace.left    = [[ s:gry0, s:red_ ]]
 let s:p.replace.right   = [[ s:gry0, s:red_ ], [ s:gry0, s:red_ ]]
@@ -95,28 +93,26 @@ let s:p.tabline.tabsel  = copy(s:p.normal.middle)
 let s:p.tabline.right   = [[ s:gry0, s:gry3 ]]
 
 let s:p.normal.error    = [[ s:red_, s:gry0 ]]
-let s:p.normal.warning  = [[ s:yllw, s:gryy ]]
+let s:p.normal.warning  = [[ s:gold, s:gryy ]]
 
 let g:lightline#colorscheme#snow_light#palette =
   \ lightline#colorscheme#fill(s:p)
 endauxfile
 
 Background: dark
-Color:      gry0 #242e3a ~
-Color:      gry1 #283745 ~
-Color:      gry2 #64788d ~
-Color:      gry3 #8397ad ~
-Color:      gryc #99aec5 ~
-Color:      gryy #242e3a ~
-Color:      yllw #e2bd67 ~
-Color:      red_ #c6827b ~
-Color:      gren #779e6d ~
-Color:      blue #6799c6 ~
+Color:      gry0 #292e36 ~
+Color:      gry1 #2f3741 ~
+Color:      gry2 #758193 ~
+Color:      gry3 #9daabd ~
+Color:      gryc #e2e4e6 ~
+Color:      gryy #292e36 ~
+Color:      red_ #c6837c ~
+Color:      gold #bfa774 ~
+Color:      gren #7f9d77 ~
+Color:      cyan #5da19f ~
+Color:      blue #7c98bf ~
+Color:      mgnt #b289ab ~
 Include:    _common.colortemplate
-DiffChanged yllw gryy reverse
-DiffText    yllw gryy reverse
-MatchParen  yllw gryy reverse
-Search      yllw gryy reverse
 
 auxfile autoload/airline/themes/snow_dark.vim
 let g:airline#themes#snow_dark#palette = {}
@@ -126,13 +122,13 @@ let s:gry1 = [ "@guigry1", @termgry1 ]
 let s:gry2 = [ "@guigry2", @termgry2 ]
 let s:gry3 = [ "@guigry3", @termgry3 ]
 let s:red_ = [ "@guired_", @termred_ ]
-let s:gren = [ "@guigren", @termgren ]
 let s:blue = [ "@guiblue", @termblue ]
+let s:mgnt = [ "@guimgnt", @termmgnt ]
 
 let s:nrm1 = [ s:gry0[0] , s:gry3[0] , s:gry0[1] , s:gry3[1] ]
 let s:nrm2 = [ s:gry3[0] , s:gry1[0] , s:gry3[1] , s:gry1[1] ]
-let s:insr = [ s:gry0[0] , s:gren[0] , s:gry0[1] , s:gren[1] ]
-let s:visl = [ s:gry0[0] , s:blue[0] , s:gry0[1] , s:blue[1] ]
+let s:insr = [ s:gry0[0] , s:blue[0] , s:gry0[1] , s:blue[1] ]
+let s:visl = [ s:gry0[0] , s:mgnt[0] , s:gry0[1] , s:mgnt[1] ]
 let s:rplc = [ s:gry0[0] , s:red_[0] , s:gry0[1] , s:red_[1] ]
 let s:inac = [ s:gry2[0] , s:gry1[0] , s:gry2[1] , s:gry1[1] ]
 
@@ -161,9 +157,9 @@ let s:gry2 = "@guigry2"
 let s:gry3 = "@guigry3"
 let s:gryy = "@guigryy"
 let s:red_ = "@guired_"
-let s:yllw = "@guiyllw"
-let s:gren = "@guigren"
+let s:gold = "@guigold"
 let s:blue = "@guiblue"
+let s:mgnt = "@guimgnt"
 
 let s:p = { "normal" : {} , "inactive": {} , "insert"  : {} ,
           \ "replace": {} , "visual"  : {} , "tabline" : {} }
@@ -176,11 +172,11 @@ let s:p.inactive.left   = copy(s:p.normal.middle)
 let s:p.inactive.middle = copy(s:p.normal.middle)
 let s:p.inactive.right  = copy(s:p.normal.middle)
 
-let s:p.insert.left     = [[ s:gry0, s:gren ]]
-let s:p.insert.right    = [[ s:gry0, s:gren ], [ s:gry0, s:gren ]]
+let s:p.insert.left     = [[ s:gry0, s:blue ]]
+let s:p.insert.right    = [[ s:gry0, s:blue ], [ s:gry0, s:blue ]]
 
-let s:p.visual.left     = [[ s:gry0, s:blue ]]
-let s:p.visual.right    = [[ s:gry0, s:blue ], [ s:gry0, s:blue ]]
+let s:p.visual.left     = [[ s:gry0, s:mgnt ]]
+let s:p.visual.right    = [[ s:gry0, s:mgnt ], [ s:gry0, s:mgnt ]]
 
 let s:p.replace.left    = [[ s:gry0, s:red_ ]]
 let s:p.replace.right   = [[ s:gry0, s:red_ ], [ s:gry0, s:red_ ]]
@@ -190,7 +186,7 @@ let s:p.tabline.tabsel  = copy(s:p.normal.middle)
 let s:p.tabline.right   = [[ s:gry0, s:gry3 ]]
 
 let s:p.normal.error    = [[ s:red_, s:gry0 ]]
-let s:p.normal.warning  = [[ s:yllw, s:gryy ]]
+let s:p.normal.warning  = [[ s:gold, s:gryy ]]
 
 let g:lightline#colorscheme#snow_dark#palette =
   \ lightline#colorscheme#fill(s:p)

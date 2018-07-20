@@ -6,10 +6,8 @@ EndOfBuffer        none   none
 Ignore             none   none
 Italic             none   none   italic
 ModeMsg            none   none
-MoreMsg            none   none
 NonText            none   none
 Normal             gry3   gry0
-Question           none   none
 Terminal           none   none
 Title              none   none   bold
 Underlined         none   none   underline
@@ -23,7 +21,6 @@ SignColumn         gry2   none
 
 # reverse hard
 Cursor             gryc   gry0   reverse
-IncSearch          gryc   gry0   reverse
 TermCursor         gryc   gry0   reverse
 
 # reverse normal
@@ -58,17 +55,30 @@ PmenuThumb         gry3   gry3
 TabLineFill        gry1   gry1
 ToolbarLine        gry1   gry1
 
-# red names
-Function           red_   none
-Identifier         red_   none
+# spellcheck undercurl (default vim colors)
+Color:             defred_       Red           9           Red
+SpellBad           none   none   g=undercurl   s=defred_   t=underline
+Color:             defblue       Blue          12          Blue
+SpellCap           none   none   g=undercurl   s=defblue   t=underline
+Color:             defcyan       DarkCyan      6           DarkCyan
+SpellLocal         none   none   g=undercurl   s=defcyan   t=underline
+Color:             defmgnt       Magenta       13          Magenta
+SpellRare          none   none   g=undercurl   s=defmgnt   t=underline
 
-# bold red types
-StorageClass       red_   none   bold
-Structure          red_   none   bold
-Type               red_   none   bold
-Typedef            red_   none   bold
+# magenta names
+Function           mgnt   none
+Identifier         mgnt   none
 
-# reverse red warnings/deletions
+# reverse magenta matching parentheses
+MatchParen         mgnt   gry0   reverse
+
+# red types
+StorageClass       red_   none
+Structure          red_   none
+Type               red_   none
+Typedef            red_   none
+
+# reverse red warnings and diff removals
 DiffDelete         red_   gry0   reverse
 DiffRemoved        red_   gry0   reverse
 Error              red_   gry0   reverse
@@ -85,16 +95,21 @@ Operator           gren   none
 Repeat             gren   none
 Statement          gren   none
 
-# bold green meta-actions
-Define             gren   none   bold
-Include            gren   none   bold
-Macro              gren   none   bold
-PreCondit          gren   none   bold
-PreProc            gren   none   bold
-
-# reverse green additions
+# reverse green status line prompts and diff additions
 DiffAdd            gren   gry0   reverse
 DiffAdded          gren   gry0   reverse
+MoreMsg            gren   gry0   reverse
+Question           gren   gry0   reverse
+
+# cyan meta-actions
+Define             cyan   none
+Include            cyan   none
+Macro              cyan   none
+PreCondit          cyan   none
+PreProc            cyan   none
+
+# reverse cyan search matches
+Search             cyan   gry0   reverse
 
 # blue constants
 Boolean            blue   none
@@ -104,18 +119,19 @@ Float              blue   none
 Number             blue   none
 String             blue   none
 
-# bold blue special elements
-Debug              blue   none   bold
-Delimiter          blue   none   bold
-Special            blue   none   bold
-SpecialChar        blue   none   bold
-SpecialComment     blue   none   bold
-SpecialKey         blue   none   bold
-Tag                blue   none   bold
-Todo               blue   none   bold
+# reverse blue incsearch
+IncSearch          blue   gry0   reverse
 
-# reverse blue spellcheck
-SpellBad           blue   gry0   reverse
-SpellLocal         blue   gry0   reverse
-SpellCap           blue   gry0   reverse
-SpellRare          blue   gry0   reverse
+# gold specials
+Debug              gold   none
+Delimiter          gold   none
+Special            gold   none
+SpecialChar        gold   none
+SpecialComment     gold   none
+SpecialKey         gold   none
+Tag                gold   none
+Todo               gold   none
+
+# reverse gold diff changes
+DiffChanged        gold   gry0   reverse
+DiffText           gold   gry0   reverse
