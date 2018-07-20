@@ -21,6 +21,7 @@ SignColumn         gry2   none
 
 # reverse hard
 Cursor             gryc   gry0   reverse
+IncSearch          gryc   gry0   reverse
 TermCursor         gryc   gry0   reverse
 
 # reverse normal
@@ -120,7 +121,6 @@ Number             blue   none
 String             blue   none
 
 # reverse blue incsearch
-IncSearch          blue   gry0   reverse
 
 # gold specials
 Debug              gold   none

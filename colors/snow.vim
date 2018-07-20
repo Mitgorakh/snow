@@ -35,6 +35,7 @@ if &background ==# 'dark'
   hi LineNr ctermfg=67 ctermbg=NONE guifg=#768294 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi SignColumn ctermfg=67 ctermbg=NONE guifg=#768294 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Cursor ctermfg=254 ctermbg=236 guifg=#dfe4ec guibg=#2a2e34 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi IncSearch ctermfg=254 ctermbg=236 guifg=#dfe4ec guibg=#2a2e34 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi TermCursor ctermfg=254 ctermbg=236 guifg=#dfe4ec guibg=#2a2e34 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Folded ctermfg=110 ctermbg=236 guifg=#9daabd guibg=#2a2e34 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi PmenuSel ctermfg=110 ctermbg=236 guifg=#9daabd guibg=#2a2e34 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
@@ -100,7 +101,6 @@ if &background ==# 'dark'
   hi Float ctermfg=67 ctermbg=NONE guifg=#7c98bf guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Number ctermfg=67 ctermbg=NONE guifg=#7c98bf guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi String ctermfg=67 ctermbg=NONE guifg=#7c98bf guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi IncSearch ctermfg=67 ctermbg=236 guifg=#7c98bf guibg=#2a2e34 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Debug ctermfg=179 ctermbg=NONE guifg=#b8a06d guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Delimiter ctermfg=179 ctermbg=NONE guifg=#b8a06d guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Special ctermfg=179 ctermbg=NONE guifg=#b8a06d guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -132,6 +132,7 @@ hi FoldColumn ctermfg=67 ctermbg=NONE guifg=#768294 guibg=NONE guisp=NONE cterm=
 hi LineNr ctermfg=67 ctermbg=NONE guifg=#768294 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi SignColumn ctermfg=67 ctermbg=NONE guifg=#768294 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Cursor ctermfg=237 ctermbg=255 guifg=#31363e guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi IncSearch ctermfg=237 ctermbg=255 guifg=#31363e guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi TermCursor ctermfg=237 ctermbg=255 guifg=#31363e guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi Folded ctermfg=59 ctermbg=255 guifg=#545f70 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi PmenuSel ctermfg=59 ctermbg=255 guifg=#545f70 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
@@ -197,7 +198,6 @@ hi Constant ctermfg=32 ctermbg=NONE guifg=#0779c5 guibg=NONE guisp=NONE cterm=NO
 hi Float ctermfg=32 ctermbg=NONE guifg=#0779c5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Number ctermfg=32 ctermbg=NONE guifg=#0779c5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi String ctermfg=32 ctermbg=NONE guifg=#0779c5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi IncSearch ctermfg=32 ctermbg=255 guifg=#0779c5 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi Debug ctermfg=136 ctermbg=NONE guifg=#a07d19 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Delimiter ctermfg=136 ctermbg=NONE guifg=#a07d19 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Special ctermfg=136 ctermbg=NONE guifg=#a07d19 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -240,6 +240,7 @@ finish
 " LineNr             gry2   none
 " SignColumn         gry2   none
 " Cursor             gryc   gry0   reverse
+" IncSearch          gryc   gry0   reverse
 " TermCursor         gryc   gry0   reverse
 " Folded             gry3   gry0   reverse
 " PmenuSel           gry3   gry0   reverse
@@ -309,7 +310,6 @@ finish
 " Float              blue   none
 " Number             blue   none
 " String             blue   none
-" IncSearch          blue   gry0   reverse
 " Debug              gold   none
 " Delimiter          gold   none
 " Special            gold   none
@@ -350,6 +350,7 @@ finish
 " LineNr             gry2   none
 " SignColumn         gry2   none
 " Cursor             gryc   gry0   reverse
+" IncSearch          gryc   gry0   reverse
 " TermCursor         gryc   gry0   reverse
 " Folded             gry3   gry0   reverse
 " PmenuSel           gry3   gry0   reverse
@@ -419,7 +420,6 @@ finish
 " Float              blue   none
 " Number             blue   none
 " String             blue   none
-" IncSearch          blue   gry0   reverse
 " Debug              gold   none
 " Delimiter          gold   none
 " Special            gold   none
