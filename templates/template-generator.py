@@ -107,15 +107,15 @@ lt_lo = 1.25
 dk_al = 1.50
 dk_ac = 2.00
 
-lum_lt_hi = gold(lt_hi)
-lum_lt_lo = gold(lt_lo)
-cro_lt_lo = gold(lt_hi)
-cro_lt_hi = gold(lt_lo)
+lum_lt_hi = gold(1.50)
+cro_lt_hi = gold(1.25)
+lum_lt_lo = gold(1.25)
+cro_lt_lo = gold(1.50)
 
-lum_dk_hi = gold(lt_hi/dk_al)
-lum_dk_lo = gold(lt_lo/dk_al)
-cro_dk_hi = gold(lt_lo*dk_ac)
-cro_dk_lo = gold(lt_hi*dk_ac)
+lum_dk_hi = gold(0.875)
+lum_dk_lo = gold(0.75)
+cro_dk_hi = gold(2.75)
+cro_dk_lo = gold(3.00)
 
 hexred__lt = tohex( lum_lt_hi , cro_lt_hi , 030.00 )
 hexgold_lt = tohex( lum_lt_lo , cro_lt_hi , 082.50 )
