@@ -33,6 +33,7 @@ StatusLineNC       gry2   gry0   reverse
 StatusLineTermNC   gry2   gry0   reverse
 TermCursorNC       gry2   gry0   reverse
 VertSplit          gry2   gry0   reverse
+Visual             gry2   gry0   reverse
 VisualNOS          gry2   gry0   reverse
 
 # highlit background
@@ -115,9 +116,6 @@ Constant           blue   none
 Float              blue   none
 Number             blue   none
 String             blue   none
-
-# reverse blue visual selection
-Visual             blue   gry0   reverse
 
 # gold specials
 Debug              gold   none

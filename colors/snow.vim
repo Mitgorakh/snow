@@ -45,6 +45,7 @@ if &background ==# 'dark'
   hi StatusLineTermNC ctermfg=67 ctermbg=236 guifg=#73829a guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi TermCursorNC ctermfg=67 ctermbg=236 guifg=#73829a guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi VertSplit ctermfg=67 ctermbg=236 guifg=#73829a guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Visual ctermfg=67 ctermbg=236 guifg=#73829a guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi VisualNOS ctermfg=67 ctermbg=236 guifg=#73829a guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi ColorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2e3743 guisp=NONE cterm=NONE gui=NONE
   hi CursorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2e3743 guisp=NONE cterm=NONE gui=NONE
@@ -99,7 +100,6 @@ if &background ==# 'dark'
   hi Float ctermfg=67 ctermbg=NONE guifg=#7c98bf guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Number ctermfg=67 ctermbg=NONE guifg=#7c98bf guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi String ctermfg=67 ctermbg=NONE guifg=#7c98bf guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Visual ctermfg=67 ctermbg=236 guifg=#7c98bf guibg=#292e36 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Debug ctermfg=180 ctermbg=NONE guifg=#bda77a guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Delimiter ctermfg=180 ctermbg=NONE guifg=#bda77a guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Special ctermfg=180 ctermbg=NONE guifg=#bda77a guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -142,6 +142,7 @@ hi StatusLineNC ctermfg=67 ctermbg=255 guifg=#73829a guibg=#eff2f5 guisp=NONE ct
 hi StatusLineTermNC ctermfg=67 ctermbg=255 guifg=#73829a guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi TermCursorNC ctermfg=67 ctermbg=255 guifg=#73829a guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi VertSplit ctermfg=67 ctermbg=255 guifg=#73829a guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi Visual ctermfg=67 ctermbg=255 guifg=#73829a guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi VisualNOS ctermfg=67 ctermbg=255 guifg=#73829a guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi ColorColumn ctermfg=NONE ctermbg=254 guifg=NONE guibg=#dfe5ef guisp=NONE cterm=NONE gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=254 guifg=NONE guibg=#dfe5ef guisp=NONE cterm=NONE gui=NONE
@@ -196,7 +197,6 @@ hi Constant ctermfg=32 ctermbg=NONE guifg=#0779c5 guibg=NONE guisp=NONE cterm=NO
 hi Float ctermfg=32 ctermbg=NONE guifg=#0779c5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Number ctermfg=32 ctermbg=NONE guifg=#0779c5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi String ctermfg=32 ctermbg=NONE guifg=#0779c5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Visual ctermfg=32 ctermbg=255 guifg=#0779c5 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi Debug ctermfg=136 ctermbg=NONE guifg=#a07d19 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Delimiter ctermfg=136 ctermbg=NONE guifg=#a07d19 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Special ctermfg=136 ctermbg=NONE guifg=#a07d19 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -250,6 +250,7 @@ finish
 " StatusLineTermNC   gry2   gry0   reverse
 " TermCursorNC       gry2   gry0   reverse
 " VertSplit          gry2   gry0   reverse
+" Visual             gry2   gry0   reverse
 " VisualNOS          gry2   gry0   reverse
 " ColorColumn        none   gry1
 " CursorColumn       none   gry1
@@ -308,7 +309,6 @@ finish
 " Float              blue   none
 " Number             blue   none
 " String             blue   none
-" Visual             blue   gry0   reverse
 " Debug              gold   none
 " Delimiter          gold   none
 " Special            gold   none
@@ -360,6 +360,7 @@ finish
 " StatusLineTermNC   gry2   gry0   reverse
 " TermCursorNC       gry2   gry0   reverse
 " VertSplit          gry2   gry0   reverse
+" Visual             gry2   gry0   reverse
 " VisualNOS          gry2   gry0   reverse
 " ColorColumn        none   gry1
 " CursorColumn       none   gry1
@@ -418,7 +419,6 @@ finish
 " Float              blue   none
 " Number             blue   none
 " String             blue   none
-" Visual             blue   gry0   reverse
 " Debug              gold   none
 " Delimiter          gold   none
 " Special            gold   none
