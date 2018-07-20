@@ -25,58 +25,8 @@ set background=dark
 
 <table><tbody>
 
-<tr>
-<td align='center' colspan='3'><h4><img height="16.5" src='https://github.com/nightsense/snow/raw/master/images/base.png' /><br>base colors</h4></td>
-<td></td>
-<td align='center' colspan='3'><h4><img height="16.5" src='https://github.com/nightsense/snow/raw/master/images/accent.png' /><br>accent colors</h4></td>
-</tr>
-
-<tr>
-<td width='90' align='center'><img src="http://www.colorhexa.com/f1f1f1.png" height='18' width='18'></td>
-<td width='220' align='center'><h5>snowy day</h5></td>
-<td width='90' align='center'><img src="http://www.colorhexa.com/e2e4e6.png" height='18' width='18'></td>
-<td width='88'></td>
-<td width='90' align='center'><img src="http://www.colorhexa.com/cd4847.png" height='18' width='18'></td>
-<td width='220' align='center'><h5>(berry) red</h5></td>
-<td width='90' align='center'><img src="http://www.colorhexa.com/c6827b.png" height='18' width='18'></td>
-</tr>
-
-<tr>
-<td align='center'><img src="http://www.colorhexa.com/9daabd.png" height='18' width='18'></td>
-<td align='center'><h5>snowy morning</h5></td>
-<td align='center'><img src="http://www.colorhexa.com/758193.png" height='18' width='18'></td>
-<td></td>
-<td align='center'><img src="http://www.colorhexa.com/ffd63a.png" height='18' width='18'></td>
-<td align='center'><h5>(flower) yellow</h5></td>
-<td align='center'><img src="http://www.colorhexa.com/e2bd67.png" height='18' width='18'></td>
-</tr>
-
-<tr>
-<td align='center'><img src="http://www.colorhexa.com/758193.png" height='18' width='18'></td>
-<td align='center'><h5>snowy evening</h5></td>
-<td align='center'><img src="http://www.colorhexa.com/535e6f.png" height='18' width='18'></td>
-<td></td>
-<td align='center'><img src="http://www.colorhexa.com/288821.png" height='18' width='18'></td>
-<td align='center'><h5>(forest) green</h5></td>
-<td align='center'><img src="http://www.colorhexa.com/779e6d.png" height='18' width='18'></td>
-</tr>
-
-<tr>
-<td align='center'><img src="http://www.colorhexa.com/31363e.png" height='18' width='18'></td>
-<td align='center'><h5>snowy night</h5></td>
-<td align='center'><img src="http://www.colorhexa.com/2a2e34.png" height='18' width='18'></td>
-<td></td>
-<td align='center'><img src="http://www.colorhexa.com/0078d2.png" height='18' width='18'></td>
-<td align='center'><h5>(sky) blue</h5></td>
-<td align='center'><img src="http://www.colorhexa.com/6799c6.png" height='18' width='18'></td>
-</tr>
-
-</tbody></table>
-
-<br>
-
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life, reddish text is for...*
-- **names** (magenta), which give life <img height="7" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
+- <img src="http://www.colorhexa.com/6799c6.png" height='12' width='12'> **names** (magenta), which give life <img height="7" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
 - **types** (red), or "meta-names" <img height="13" src='https://github.com/nightsense/snow/raw/master/images/type.png' />, such as variable type (int, char...) or storage class (static, register...)
 
 *because red is also the color of removal...*
