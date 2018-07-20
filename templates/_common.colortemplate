@@ -29,12 +29,8 @@ TermCursor         gryc   gry0   reverse
 
 # reverse normal
 Folded             gry3   gry0   reverse
-PmenuSel           gry3   gry0   reverse
-TabLineSel         gry3   gry0   reverse
-WildMenu           gry3   gry0   reverse
 
 # reverse soft
-MatchParen         gry2   gry0   reverse
 StatusLineNC       gry2   gry0   reverse
 StatusLineTermNC   gry2   gry0   reverse
 TermCursorNC       gry2   gry0   reverse
@@ -54,7 +50,7 @@ ToolbarButton      gry3   gry1   bold
 
 # solid
 PmenuSbar          gry2   gry2
-PmenuThumb         gry3   gry3
+PmenuThumb         gryc   gryc
 TabLineFill        gry1   gry1
 ToolbarLine        gry1   gry1
 
@@ -72,7 +68,10 @@ SpellRare          none   none   g=undercurl   s=dmgt   t=underline
 Function           mgnt   none
 Identifier         mgnt   none
 
-# reverse magenta...
+# reverse magenta menu selections
+PmenuSel           mgnt   gry0   reverse
+TabLineSel         mgnt   gry0   reverse
+WildMenu           mgnt   gry0   reverse
 
 # red types
 StorageClass       red_   none
@@ -97,7 +96,7 @@ Operator           gren   none
 Repeat             gren   none
 Statement          gren   none
 
-# reverse green status line prompts and diff additions
+# reverse green diff additions
 DiffAdd            gren   gry0   reverse
 DiffAdded          gren   gry0   reverse
 
@@ -108,7 +107,8 @@ Macro              cyan   none
 PreCondit          cyan   none
 PreProc            cyan   none
 
-# reverse cyan...
+# reverse cyan matching parentheses
+MatchParen         cyan   gry0   reverse
 
 # blue constants
 Boolean            blue   none

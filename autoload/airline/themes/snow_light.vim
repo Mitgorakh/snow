@@ -1,9 +1,9 @@
 let g:airline#themes#snow_light#palette = {}
 
 let s:gry0 = [ "#eff2f5", 255 ]
-let s:gry1 = [ "#dfe4ec", 254 ]
-let s:gry2 = [ "#768294", 67 ]
-let s:gry3 = [ "#545f70", 59 ]
+let s:gry1 = [ "#dfe5ef", 254 ]
+let s:gry2 = [ "#73829a", 67 ]
+let s:gry3 = [ "#505f75", 24 ]
 let s:red_ = [ "#c04c48", 131 ]
 let s:gren = [ "#3f8234", 28 ]
 let s:cyan = [ "#008787", 30 ]
