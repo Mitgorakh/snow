@@ -35,7 +35,6 @@ WildMenu           gry3   gry0   reverse
 # reverse soft
 TermCursorNC       gry2   gry0   reverse
 VertSplit          gry2   gry0   reverse
-Visual             gry2   gry0   reverse
 VisualNOS          gry2   gry0   reverse
 
 # highlit background
@@ -120,7 +119,8 @@ Float              blue   none
 Number             blue   none
 String             blue   none
 
-# reverse blue incsearch
+# reverse blue visual selection
+Visual             blue   gry0   reverse
 
 # gold specials
 Debug              gold   none
