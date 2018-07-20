@@ -53,14 +53,14 @@ set background=dark
 - <img src="http://www.colorhexa.com/a8559e.png" height='12' width='12'> **names**, which give life <img height="8" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
 - <img src="http://www.colorhexa.com/c04c48.png" height='12' width='12'> **types** ("meta-names" <img height="13" src='https://github.com/nightsense/snow/raw/master/images/type.png' />), such as variable type (int, char...) or storage class (static, register...)
 
-*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/match.png' /> gold is a special color, gold text is for...*
-- <img src="http://www.colorhexa.com/a07d19.png" height='12' width='12'> **special elements** <img height="16" src='https://github.com/nightsense/snow/raw/master/images/yellow.png' />, such as delimiters and debug statements
+*because <img src="http://www.colorhexa.com/a07d19.png" height='12' width='12'> gold is a special color, gold text is for...*
+- <img height="16" src='https://github.com/nightsense/snow/raw/master/images/match.png' /> **special elements** <img height="16" src='https://github.com/nightsense/snow/raw/master/images/yellow.png' />, such as delimiters and debug statements
 
-*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action, greenish text is for...*
+*because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action, greenish text is for...*
 - <img src="http://www.colorhexa.com/3f8234.png" height='12' width='12'> **statements** (the magic <img height="9" src='https://github.com/nightsense/snow/raw/master/images/statement.png' /> "action words" of code), such as conditions (if, then...) or loops (for, do...)
 - <img src="http://www.colorhexa.com/008787.png" height='12' width='12'> **meta-statements** ("meta-actions" <img height="15" src='https://github.com/nightsense/snow/raw/master/images/metastatement.png' />), such as macros and "include module" statements
 
-*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm, stable color of sea and sky, evoking enduring constancy, blue text is for...*
+*because <img height="10" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm, stable color of sea and sky, evoking enduring constancy, blue text is for...*
 - <img src="http://www.colorhexa.com/0779c5.png" height='12' width='12'> **constants** (values that are fixed <img height="22" src='https://github.com/nightsense/snow/raw/master/images/constant.png' /> in place), such as booleans, integers, and strings
 
 ## installation
