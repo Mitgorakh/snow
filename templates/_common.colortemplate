@@ -27,6 +27,10 @@ Cursor             gryc   gry0   reverse
 IncSearch          gryc   gry0   reverse
 TermCursor         gryc   gry0   reverse
 
+# reverse regular
+PmenuSel           gry3   gry0   reverse
+WildMenu           gry3   gry0   reverse
+
 # reverse soft
 Folded             gry2   gry0   reverse
 StatusLineNC       gry2   gry0   reverse
@@ -49,7 +53,7 @@ ToolbarButton      gry3   gry1   bold
 
 # solid
 PmenuSbar          gry2   gry2
-PmenuThumb         gryc   gryc
+PmenuThumb         gry3   gry3
 TabLineFill        gry1   gry1
 ToolbarLine        gry1   gry1
 
@@ -66,11 +70,6 @@ SpellRare          none   none   g=undercurl   s=dmgt   t=underline
 # magenta names
 Function           mgnt   none
 Identifier         mgnt   none
-
-# reverse magenta menu selections
-PmenuSel           mgnt   gry0   reverse
-TabLineSel         mgnt   gry0   reverse
-WildMenu           mgnt   gry0   reverse
 
 # red types
 StorageClass       red_   none
@@ -116,6 +115,9 @@ Constant           blue   none
 Float              blue   none
 Number             blue   none
 String             blue   none
+
+# reverse blue selected tab
+TabLineSel         blue   gry0   reverse
 
 # gold specials
 Debug              gold   none
