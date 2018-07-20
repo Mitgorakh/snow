@@ -54,7 +54,6 @@ def print_lightline(name,bg):
   print 'let s:gry1 = "@guigry1"'
   print 'let s:gry2 = "@guigry2"'
   print 'let s:gry3 = "@guigry3"'
-  print 'let s:gryy = "@guigryy"'
   print 'let s:red_ = "@guired_"'
   print 'let s:gold = "@guigold"'
   print 'let s:blue = "@guiblue"'
@@ -85,7 +84,7 @@ def print_lightline(name,bg):
   print 'let s:p.tabline.right   = [[ s:gry0, s:gry3 ]]'
   print ''
   print 'let s:p.normal.error    = [[ s:red_, s:gry0 ]]'
-  print 'let s:p.normal.warning  = [[ s:gold, s:gryy ]]'
+  print 'let s:p.normal.warning  = [[ s:gold, s:gry0 ]]'
   print ''
   print 'let g:lightline#colorscheme#%s_%s#palette =' % (name, bg)
   print '  \ lightline#colorscheme#fill(s:p)'
@@ -144,7 +143,6 @@ print 'Color:      gry1 %s ~' % hexgry1_lt
 print 'Color:      gry2 %s ~' % hexgry2_lt
 print 'Color:      gry3 %s ~' % hexgry3_lt
 print 'Color:      gryc %s ~' % hexgry1_dk
-print 'Color:      gryy %s ~' % hexgry0_dk
 print 'Color:      red_ %s ~' % hexred__lt
 print 'Color:      gold %s ~' % hexgold_lt
 print 'Color:      gren %s ~' % hexgren_lt
@@ -162,7 +160,6 @@ print 'Color:      gry1 %s ~' % hexgry1_dk
 print 'Color:      gry2 %s ~' % hexgry2_dk
 print 'Color:      gry3 %s ~' % hexgry3_dk
 print 'Color:      gryc %s ~' % hexgry1_lt
-print 'Color:      gryy %s ~' % hexgry0_dk
 print 'Color:      red_ %s ~' % hexred__dk
 print 'Color:      gold %s ~' % hexgold_dk
 print 'Color:      gren %s ~' % hexgren_dk
