@@ -43,11 +43,18 @@ set background=dark
 </pre>
 </td>
 </tr>
+
+<tr>
+
+<td><img src="https://github.com/nightsense/snow/raw/master/images/colors-base.jpg" height='357' /></td>
+
+<td></td>
+
+</tr>
+
 </tbody></table>
 
 <br>
-
-<table><tbody>
 
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life, reddish text is for...*
 - <img src="http://www.colorhexa.com/a8559e.png" height='12' width='12'> **names**, which give life <img height="9" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
