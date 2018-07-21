@@ -120,9 +120,9 @@ set background=dark
 
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life, reddish text is for...*
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/a8559e.png" height='10' width='10'> **names**, which give life <img height="9" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/a8559e.png" height='9' width='9'> **names**, which give life <img height="9" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c04c48.png" height='10' width='10'> **types** ("meta-names" <img height="16" src='https://github.com/nightsense/snow/raw/master/images/type.png' />), such as variable type (int, char...) or storage class (static, register...)
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c04c48.png" height='9' width='9'> **types** ("meta-names" <img height="16" src='https://github.com/nightsense/snow/raw/master/images/type.png' />), such as variable type (int, char...) or storage class (static, register...)
 
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/gold2.png' /> gold is a special color, gold text is for...*
 - <img src="http://www.colorhexa.com/a07d19.png" height='12' width='12'> **special elements** <img height="16" src='https://github.com/nightsense/snow/raw/master/images/special.png' />, such as delimiters and debug statements
