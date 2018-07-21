@@ -69,7 +69,7 @@ set background=dark
 
 </td>
 
-<td align='center'>
+<td align='center' valign='top'>
 <h4><img src="https://github.com/nightsense/snow/raw/master/images/accent.png" height='14' /><br>accent colors</h4>
 
 <table><tbody>
