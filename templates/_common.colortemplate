@@ -70,7 +70,9 @@ SpellRare          none   none   g=undercurl   s=dmgt   t=underline
 Function           mgnt   none
 Identifier         mgnt   none
 
-# reverse magenta warnings
+# reverse magenta warnings and diff changes
+DiffChanged        mgnt   gry0   reverse
+DiffText           mgnt   gry0   reverse
 TooLong            mgnt   gry0   reverse
 WarningMsg         mgnt   gry0   reverse
 
@@ -117,8 +119,8 @@ Float              blue   none
 Number             blue   none
 String             blue   none
 
-# reverse blue selected tab
-TabLineSel         blue   gry0   reverse
+# reverse blue tab and visual selection
+TabLineSel         gry3   gry0   reverse
 Visual             blue   gry0   reverse
 
 # gold specials
@@ -132,6 +134,4 @@ Tag                gold   none
 Todo               gold   none
 
 # reverse gold search matches and diff changes
-DiffChanged        gold   gry0   reverse
-DiffText           gold   gry0   reverse
 Search             gold   gry0   reverse
