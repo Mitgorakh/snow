@@ -54,11 +54,11 @@ set background=dark
 
 <tr>
 <td><img src="https://github.com/nightsense/snow/raw/master/images/base-midday.png" height='36' /></td>
-<td width='200'>winter's midday</td>
+<td align='center' width='200'>winter's midday</td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/base-midday.png" height='36' /></td>
+<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-midday.png" height='36' /></td>
 <td>winter's midday</td>
 </tr>
 
