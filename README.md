@@ -46,7 +46,7 @@ set background=dark
 
 <tr>
 
-<td><img src="https://github.com/nightsense/snow/raw/master/images/colors-base.png" height='250' /></td>
+<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/colors-base.png" height='250' /></td>
 
 <td></td>
 
