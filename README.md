@@ -97,18 +97,13 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/base-midday.png" height='36' /></td>
-<td>winter's midday</td>
-</tr>
-
-<tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/base-midday.png" height='36' /></td>
-<td>winter's midday</td>
+<td><img src="http://www.colorhexa.com/c04c48.png" height='24' width='132'></td>
+<td>red</td>
+<td><img src="http://www.colorhexa.com/c1867f.png" height='24' width='132'></td>
 </tr>
 
 </tbody></table>
 </td>
-
 </tr>
 
 </tbody></table>
