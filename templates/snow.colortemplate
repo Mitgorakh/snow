@@ -7,11 +7,11 @@ Short name:      snow
 Terminal Colors: 256
 
 Background: light
-Color:      gry0 #eff2f5 ~
-Color:      gry1 #e1e5ed ~
+Color:      gry0 #eef2f8 ~
+Color:      gry1 #dde4f1 ~
 Color:      gry2 #748196 ~
-Color:      gry3 #4f5d70 ~
-Color:      gryc #2c3643 ~
+Color:      gry3 #4a5a6f ~
+Color:      gryc #283647 ~
 Color:      red_ #c04c48 ~
 Color:      gold #a07d19 ~
 Color:      gren #3f8234 ~
@@ -98,11 +98,11 @@ let g:lightline#colorscheme#snow_light#palette =
 endauxfile
 
 Background: dark
-Color:      gry0 #252e39 ~
-Color:      gry1 #2c3643 ~
+Color:      gry0 #222d3d ~
+Color:      gry1 #283647 ~
 Color:      gry2 #748196 ~
-Color:      gry3 #a2acbd ~
-Color:      gryc #e1e5ed ~
+Color:      gry3 #a4afc0 ~
+Color:      gryc #dde4f1 ~
 Color:      red_ #c1867f ~
 Color:      gold #bda77a ~
 Color:      gren #7f9d77 ~
