@@ -98,20 +98,18 @@ hexgry2_lt = tohex( gold(1.30) , gold(4.75) , hue_base )
 hexgry3_lt = tohex( gold(1.97) , gold(4.75) , hue_base )
 
 hexgry0_dk = tohex( gold(3.53) , gold(5.25) , hue_base )
-hexgry1_dk = tohex( gold(3.14) , gold(5.00) , hue_base )
+hexgry1_dk = tohex( gold(3.15) , gold(4.75) , hue_base )
 hexgry2_dk = tohex( gold(1.30) , gold(4.75) , hue_base )
 hexgry3_dk = tohex( gold(0.74) , gold(5.25) , hue_base )
 
 lum_lt_hi = gold(1.375)
-lum_lt_lo = gold(1.250)
-
+lum_lt_lo = gold(1.25)
 cro_lt_hi = gold(1.50)
 cro_lt_lo = gold(1.75)
 
 lum_dk_hi = gold(1.00)
-lum_dk_lo = gold(0.875)
-
-cro_dk_hi = gold(2.75)
+lum_dk_lo = gold(0.75)
+cro_dk_hi = gold(2.50)
 cro_dk_lo = gold(3.00)
 
 hexred__lt = tohex( lum_lt_hi , cro_lt_hi , 030.00 )

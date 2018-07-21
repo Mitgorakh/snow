@@ -37,7 +37,6 @@ StatusLineNC       gry2   gry0   reverse
 StatusLineTermNC   gry2   gry0   reverse
 TermCursorNC       gry2   gry0   reverse
 VertSplit          gry2   gry0   reverse
-Visual             gry2   gry0   reverse
 VisualNOS          gry2   gry0   reverse
 
 # highlit background
@@ -120,6 +119,7 @@ String             blue   none
 
 # reverse blue selected tab
 TabLineSel         blue   gry0   reverse
+Visual             blue   gry0   reverse
 
 # gold specials
 Debug              gold   none
