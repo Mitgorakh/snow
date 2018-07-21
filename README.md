@@ -44,6 +44,8 @@ set background=dark
 </td>
 </tr>
 
+<tr></tr>
+
 <tr>
 <td align='center'>
 <h4><img src="https://github.com/nightsense/snow/raw/master/images/base.png" height='14' /><br>base colors</h4>
@@ -64,7 +66,7 @@ set background=dark
 
 </td>
 
-<td>
+<td align='center'>
 <h4><img src="https://github.com/nightsense/snow/raw/master/images/accent.png" height='14' /><br>accent colors</h4>
 
 <table><tbody>
