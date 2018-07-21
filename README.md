@@ -9,34 +9,12 @@ a blue-tinted winter vimscape
 
 <tr>
 <td align="center"><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" />
-<img src="http://www.colorhexa.com/eef2f8.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/dde4f1.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/748196.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/4a5a6f.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/283647.png" height='18' width='18'><br>
-<img src="http://www.colorhexa.com/c04c48.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/a07d19.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/3f8234.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/008787.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/0779c5.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/a8559e.png" height='18' width='18'><br><br>
 <pre>
 colorscheme snow
 set background=light
 </pre>
 </td>
 <td align="center"><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="175" />
-<img src="http://www.colorhexa.com/222d3d.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/283647.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/748196.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/a4afc0.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/dde4f1.png" height='18' width='18'><br>
-<img src="http://www.colorhexa.com/c1867f.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/bda77a.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/7f9d77.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/5da19f.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/7c98bf.png" height='18' width='18'>&nbsp;&nbsp;
-<img src="http://www.colorhexa.com/b289ab.png" height='18' width='18'><br><br>
 <pre>
 colorscheme snow
 set background=dark
