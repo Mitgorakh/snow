@@ -58,8 +58,33 @@ set background=dark
 </tr>
 
 <tr>
-<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-midday.png" height='36' /></td>
-<td>winter's midday</td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-day.png" height='36' /></td>
+<td align='center'>winter's day</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-afternoon.png" height='36' /></td>
+<td align='center'>winter's afternoon</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-evening.png" height='36' /></td>
+<td align='center'>winter's evening</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-twilight.png" height='36' /></td>
+<td align='center'>winter's twilight</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-night.png" height='36' /></td>
+<td align='center'>winter's night</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-midnight.png" height='36' /></td>
+<td align='center'>winter's midnight</td>
 </tr>
 
 </tbody></table>
