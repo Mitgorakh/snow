@@ -102,6 +102,36 @@ set background=dark
 <td><img src="http://www.colorhexa.com/c1867f.png" height='24' width='132'></td>
 </tr>
 
+<tr>
+<td><img src="http://www.colorhexa.com/a07d19.png" height='24' width='132'></td>
+<td width='105' align='center'>gold</td>
+<td><img src="http://www.colorhexa.com/bda77a.png" height='24' width='132'></td>
+</tr>
+
+<tr>
+<td><img src="http://www.colorhexa.com/3f8234.png" height='24' width='132'></td>
+<td width='105' align='center'>green</td>
+<td><img src="http://www.colorhexa.com/7f9d77.png" height='24' width='132'></td>
+</tr>
+
+<tr>
+<td><img src="http://www.colorhexa.com/008787.png" height='24' width='132'></td>
+<td width='105' align='center'>aqua</td>
+<td><img src="http://www.colorhexa.com/5da19f.png" height='24' width='132'></td>
+</tr>
+
+<tr>
+<td><img src="http://www.colorhexa.com/0779c5.png" height='24' width='132'></td>
+<td width='105' align='center'>blue</td>
+<td><img src="http://www.colorhexa.com/7c98bf.png" height='24' width='132'></td>
+</tr>
+
+<tr>
+<td><img src="http://www.colorhexa.com/a8559e.png" height='24' width='132'></td>
+<td width='105' align='center'>magenta</td>
+<td><img src="http://www.colorhexa.com/b289ab.png" height='24' width='132'></td>
+</tr>
+
 </tbody></table>
 </td>
 </tr>
