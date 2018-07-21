@@ -64,12 +64,12 @@ set background=dark
 
 <tr>
 <td><img src="https://github.com/nightsense/snow/raw/master/images/base-afternoon.png" height='36' /></td>
-<td align='center'>winter's afternoon</td>
+<td align='center'>winter's low-sun</td>
 </tr>
 
 <tr>
 <td><img src="https://github.com/nightsense/snow/raw/master/images/base-evening.png" height='36' /></td>
-<td align='center'>winter's evening</td>
+<td align='center'>winter's horizon-sun</td>
 </tr>
 
 <tr>
@@ -98,37 +98,37 @@ set background=dark
 
 <tr>
 <td><img src="http://www.colorhexa.com/c04c48.png" height='24' width='132'></td>
-<td width='105' align='center'>red</td>
+<td width='105' align='center'>berry red</td>
 <td><img src="http://www.colorhexa.com/c1867f.png" height='24' width='132'></td>
 </tr>
 
 <tr>
 <td><img src="http://www.colorhexa.com/a07d19.png" height='24' width='132'></td>
-<td width='105' align='center'>gold</td>
+<td width='105' align='center'>lichen gold</td>
 <td><img src="http://www.colorhexa.com/bda77a.png" height='24' width='132'></td>
 </tr>
 
 <tr>
 <td><img src="http://www.colorhexa.com/3f8234.png" height='24' width='132'></td>
-<td width='105' align='center'>green</td>
+<td width='105' align='center'>conifer green</td>
 <td><img src="http://www.colorhexa.com/7f9d77.png" height='24' width='132'></td>
 </tr>
 
 <tr>
 <td><img src="http://www.colorhexa.com/008787.png" height='24' width='132'></td>
-<td width='105' align='center'>aqua</td>
+<td width='105' align='center'>iceberg blue-green</td>
 <td><img src="http://www.colorhexa.com/5da19f.png" height='24' width='132'></td>
 </tr>
 
 <tr>
 <td><img src="http://www.colorhexa.com/0779c5.png" height='24' width='132'></td>
-<td width='105' align='center'>blue</td>
+<td width='105' align='center'>frost blue</td>
 <td><img src="http://www.colorhexa.com/7c98bf.png" height='24' width='132'></td>
 </tr>
 
 <tr>
 <td><img src="http://www.colorhexa.com/a8559e.png" height='24' width='132'></td>
-<td width='105' align='center'>magenta</td>
+<td width='105' align='center'>plum red-purple</td>
 <td><img src="http://www.colorhexa.com/b289ab.png" height='24' width='132'></td>
 </tr>
 
