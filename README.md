@@ -98,7 +98,7 @@ set background=dark
 
 <tr>
 <td><img src="http://www.colorhexa.com/c04c48.png" height='24' width='132'></td>
-<td width='105'>red</td>
+<td width='105' align='center'>red</td>
 <td><img src="http://www.colorhexa.com/c1867f.png" height='24' width='132'></td>
 </tr>
 
