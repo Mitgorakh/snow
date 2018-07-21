@@ -49,10 +49,25 @@ set background=dark
 <tr>
 <td align='center'>
 <h4><img src="https://github.com/nightsense/snow/raw/master/images/base.png" height='14' /><br>base colors</h4>
-<img src="https://github.com/nightsense/snow/raw/master/images/colors-base.png" height='260' /><br><br>
+
+<table><tbody>
+
+<tr>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-midday.png" height='36' /></td>
+<td>winter's midday</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-midday.png" height='36' /></td>
+<td>winter's midday</td>
+</tr>
+
+<br><br>
 </td>
 
 <td>
+<h4><img src="https://github.com/nightsense/snow/raw/master/images/base.png" height='14' /><br>accent colors</h4>
+<img src="https://github.com/nightsense/snow/raw/master/images/colors-base.png" height='260' /><br><br>
 </td>
 
 </tr>
