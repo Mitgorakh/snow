@@ -7,17 +7,17 @@ Short name:      snow
 Terminal Colors: 256
 
 Background: light
-Color:      gry0 #eff2f7 ~
-Color:      gry1 #dfe5ef ~
-Color:      gry2 #768191 ~
-Color:      gry3 #525c6b ~
+Color:      gry0 #eff2f5 ~
+Color:      gry1 #e1e5ed ~
+Color:      gry2 #748196 ~
+Color:      gry3 #4f5d70 ~
 Color:      gryc #2c3643 ~
-Color:      red_ #c25a54 ~
-Color:      gold #9e7e2a ~
-Color:      gren #4e8844 ~
-Color:      cyan #008e8d ~
-Color:      blue #3880c4 ~
-Color:      mgnt #ab61a1 ~
+Color:      red_ #c04c48 ~
+Color:      gold #a07d19 ~
+Color:      gren #3f8234 ~
+Color:      cyan #008787 ~
+Color:      blue #0779c5 ~
+Color:      mgnt #a8559e ~
 Include:    _common.colortemplate
 
 auxfile autoload/airline/themes/snow_light.vim
@@ -98,13 +98,13 @@ let g:lightline#colorscheme#snow_light#palette =
 endauxfile
 
 Background: dark
-Color:      gry0 #262d38 ~
+Color:      gry0 #252e39 ~
 Color:      gry1 #2c3643 ~
-Color:      gry2 #768191 ~
-Color:      gry3 #a4acb9 ~
-Color:      gryc #dfe5ef ~
-Color:      red_ #c6837c ~
-Color:      gold #bfa774 ~
+Color:      gry2 #748196 ~
+Color:      gry3 #a2acbd ~
+Color:      gryc #e1e5ed ~
+Color:      red_ #c1867f ~
+Color:      gold #bda77a ~
 Color:      gren #7f9d77 ~
 Color:      cyan #5da19f ~
 Color:      blue #7c98bf ~

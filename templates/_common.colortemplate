@@ -29,6 +29,7 @@ TermCursor         gryc   gry0   reverse
 
 # reverse regular
 PmenuSel           gry3   gry0   reverse
+TabLineSel         gry3   gry0   reverse
 WildMenu           gry3   gry0   reverse
 
 # reverse soft
@@ -119,8 +120,7 @@ Float              blue   none
 Number             blue   none
 String             blue   none
 
-# reverse blue tab and visual selection
-TabLineSel         gry3   gry0   reverse
+# reverse blue visual selection
 Visual             blue   gry0   reverse
 
 # gold specials
@@ -133,5 +133,5 @@ SpecialKey         gold   none
 Tag                gold   none
 Todo               gold   none
 
-# reverse gold search matches and diff changes
+# reverse gold search matches
 Search             gold   gry0   reverse
