@@ -68,8 +68,6 @@ if &background ==# 'dark'
   hi SpellRare ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=Magenta cterm=NONE,underline gui=NONE,undercurl
   hi Function ctermfg=139 ctermbg=NONE guifg=#bd82b4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Identifier ctermfg=139 ctermbg=NONE guifg=#bd82b4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi DiffChanged ctermfg=139 ctermbg=236 guifg=#bd82b4 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffText ctermfg=139 ctermbg=236 guifg=#bd82b4 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi TooLong ctermfg=139 ctermbg=236 guifg=#bd82b4 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi WarningMsg ctermfg=139 ctermbg=236 guifg=#bd82b4 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi StorageClass ctermfg=167 ctermbg=NONE guifg=#ce7069 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -80,6 +78,17 @@ if &background ==# 'dark'
   hi DiffRemoved ctermfg=167 ctermbg=236 guifg=#ce7069 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Error ctermfg=167 ctermbg=236 guifg=#ce7069 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi ErrorMsg ctermfg=167 ctermbg=236 guifg=#ce7069 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Debug ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Delimiter ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Special ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpecialChar ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpecialComment ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpecialKey ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Tag ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Todo ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi DiffChanged ctermfg=179 ctermbg=236 guifg=#ba9b51 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffText ctermfg=179 ctermbg=236 guifg=#ba9b51 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Search ctermfg=179 ctermbg=236 guifg=#ba9b51 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Conditional ctermfg=108 ctermbg=NONE guifg=#74a169 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Exception ctermfg=108 ctermbg=NONE guifg=#74a169 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Keyword ctermfg=108 ctermbg=NONE guifg=#74a169 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -102,15 +111,6 @@ if &background ==# 'dark'
   hi Number ctermfg=75 ctermbg=NONE guifg=#6c99d1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi String ctermfg=75 ctermbg=NONE guifg=#6c99d1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Visual ctermfg=75 ctermbg=236 guifg=#6c99d1 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Debug ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Delimiter ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Special ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpecialChar ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpecialComment ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpecialKey ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Tag ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Todo ctermfg=179 ctermbg=NONE guifg=#ba9b51 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Search ctermfg=179 ctermbg=236 guifg=#ba9b51 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   finish
 endif
 
@@ -165,8 +165,6 @@ hi SpellLocal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=DarkCyan cte
 hi SpellRare ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=Magenta cterm=NONE,underline gui=NONE,undercurl
 hi Function ctermfg=163 ctermbg=NONE guifg=#bc3eb0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Identifier ctermfg=163 ctermbg=NONE guifg=#bc3eb0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi DiffChanged ctermfg=163 ctermbg=255 guifg=#bc3eb0 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi DiffText ctermfg=163 ctermbg=255 guifg=#bc3eb0 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi TooLong ctermfg=163 ctermbg=255 guifg=#bc3eb0 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi WarningMsg ctermfg=163 ctermbg=255 guifg=#bc3eb0 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi StorageClass ctermfg=167 ctermbg=NONE guifg=#d64747 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -177,6 +175,17 @@ hi DiffDelete ctermfg=167 ctermbg=255 guifg=#d64747 guibg=#e9f3ff guisp=NONE cte
 hi DiffRemoved ctermfg=167 ctermbg=255 guifg=#d64747 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi Error ctermfg=167 ctermbg=255 guifg=#d64747 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi ErrorMsg ctermfg=167 ctermbg=255 guifg=#d64747 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi Debug ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Delimiter ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Special ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi SpecialChar ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi SpecialComment ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi SpecialKey ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Tag ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Todo ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi DiffChanged ctermfg=136 ctermbg=255 guifg=#9b7400 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi DiffText ctermfg=136 ctermbg=255 guifg=#9b7400 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi Search ctermfg=136 ctermbg=255 guifg=#9b7400 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi Conditional ctermfg=28 ctermbg=NONE guifg=#008706 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Exception ctermfg=28 ctermbg=NONE guifg=#008706 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Keyword ctermfg=28 ctermbg=NONE guifg=#008706 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -199,15 +208,6 @@ hi Float ctermfg=33 ctermbg=NONE guifg=#007dea guibg=NONE guisp=NONE cterm=NONE 
 hi Number ctermfg=33 ctermbg=NONE guifg=#007dea guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi String ctermfg=33 ctermbg=NONE guifg=#007dea guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Visual ctermfg=33 ctermbg=255 guifg=#007dea guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi Debug ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Delimiter ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Special ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi SpecialChar ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi SpecialComment ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi SpecialKey ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Tag ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Todo ctermfg=136 ctermbg=NONE guifg=#9b7400 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Search ctermfg=136 ctermbg=255 guifg=#9b7400 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 finish
 
 " Background: light
@@ -277,8 +277,6 @@ finish
 " SpellRare          none   none   g=undercurl   s=dmgt   t=underline
 " Function           mgnt   none
 " Identifier         mgnt   none
-" DiffChanged        mgnt   gry0   reverse
-" DiffText           mgnt   gry0   reverse
 " TooLong            mgnt   gry0   reverse
 " WarningMsg         mgnt   gry0   reverse
 " StorageClass       red_   none
@@ -289,6 +287,17 @@ finish
 " DiffRemoved        red_   gry0   reverse
 " Error              red_   gry0   reverse
 " ErrorMsg           red_   gry0   reverse
+" Debug              gold   none
+" Delimiter          gold   none
+" Special            gold   none
+" SpecialChar        gold   none
+" SpecialComment     gold   none
+" SpecialKey         gold   none
+" Tag                gold   none
+" Todo               gold   none
+" DiffChanged        gold   gry0   reverse
+" DiffText           gold   gry0   reverse
+" Search             gold   gry0   reverse
 " Conditional        gren   none
 " Exception          gren   none
 " Keyword            gren   none
@@ -311,15 +320,6 @@ finish
 " Number             blue   none
 " String             blue   none
 " Visual             blue   gry0   reverse
-" Debug              gold   none
-" Delimiter          gold   none
-" Special            gold   none
-" SpecialChar        gold   none
-" SpecialComment     gold   none
-" SpecialKey         gold   none
-" Tag                gold   none
-" Todo               gold   none
-" Search             gold   gry0   reverse
 " Background: dark
 " Color:      gry0 #252d39 ~
 " Color:      gry1 #2b3747 ~
@@ -387,8 +387,6 @@ finish
 " SpellRare          none   none   g=undercurl   s=dmgt   t=underline
 " Function           mgnt   none
 " Identifier         mgnt   none
-" DiffChanged        mgnt   gry0   reverse
-" DiffText           mgnt   gry0   reverse
 " TooLong            mgnt   gry0   reverse
 " WarningMsg         mgnt   gry0   reverse
 " StorageClass       red_   none
@@ -399,6 +397,17 @@ finish
 " DiffRemoved        red_   gry0   reverse
 " Error              red_   gry0   reverse
 " ErrorMsg           red_   gry0   reverse
+" Debug              gold   none
+" Delimiter          gold   none
+" Special            gold   none
+" SpecialChar        gold   none
+" SpecialComment     gold   none
+" SpecialKey         gold   none
+" Tag                gold   none
+" Todo               gold   none
+" DiffChanged        gold   gry0   reverse
+" DiffText           gold   gry0   reverse
+" Search             gold   gry0   reverse
 " Conditional        gren   none
 " Exception          gren   none
 " Keyword            gren   none
@@ -421,12 +430,3 @@ finish
 " Number             blue   none
 " String             blue   none
 " Visual             blue   gry0   reverse
-" Debug              gold   none
-" Delimiter          gold   none
-" Special            gold   none
-" SpecialChar        gold   none
-" SpecialComment     gold   none
-" SpecialKey         gold   none
-" Tag                gold   none
-" Todo               gold   none
-" Search             gold   gry0   reverse
