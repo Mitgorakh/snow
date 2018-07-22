@@ -31,37 +31,37 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/base-midday.png" height='36' /></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-midday.png" height='18' /></td>
 <td align='center' width='200'>winter noon</td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/base-day.png" height='36' /></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-day.png" height='18' /></td>
 <td align='center'>winter day</td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/base-afternoon.png" height='36' /></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-afternoon.png" height='18' /></td>
 <td align='center'>winter morn-eve</td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/base-evening.png" height='36' /></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-evening.png" height='18' /></td>
 <td align='center'>winter dawn-dusk</td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/base-twilight.png" height='36' /></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-twilight.png" height='18' /></td>
 <td align='center'>winter twilight</td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/base-night.png" height='36' /></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-night.png" height='18' /></td>
 <td align='center'>winter night</td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/base-midnight.png" height='36' /></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/base-midnight.png" height='18' /></td>
 <td align='center'>winter midnight</td>
 </tr>
 
