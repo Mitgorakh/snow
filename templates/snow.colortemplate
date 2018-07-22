@@ -9,14 +9,14 @@ Background: light
 Color:      gry0 #e9f3ff ~
 Color:      gry1 #d6e2f7 ~
 Color:      gry2 #728199 ~
-Color:      gry3 #4a5a6f ~
+Color:      gry3 #4b5a70 ~
 Color:      gryc #2b3747 ~
-Color:      red_ #d1373d ~
+Color:      red_ #da4144 ~
 Color:      gold #9c7400 ~
-Color:      gren #008706 ~
-Color:      cyan #008d90 ~
-Color:      blue #007dea ~
-Color:      mgnt #bc3eb0 ~
+Color:      gren #158f13 ~
+Color:      cyan #009598 ~
+Color:      blue #0084f3 ~
+Color:      mgnt #c547b8 ~
 Include:    _common.colortemplate
 
 auxfile autoload/airline/themes/snow_light.vim
