@@ -75,39 +75,39 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td><img src="http://www.colorhexa.com/d1373d.png" height='24' width='132'></td>
+<td><img src="http://www.colorhexa.com/d1373d.png" height='16' width='88'></td>
 <td width='105' align='center'>berry<br>red</td>
-<td><img src="http://www.colorhexa.com/d27d75.png" height='24' width='132'></td>
+<td><img src="http://www.colorhexa.com/d27d75.png" height='16' width='88'></td>
 </tr>
 
 <tr>
-<td><img src="http://www.colorhexa.com/9c7400.png" height='24' width='132'></td>
+<td><img src="http://www.colorhexa.com/9c7400.png" height='16' width='88'></td>
 <td width='105' align='center'>lichen<br>gold</td>
-<td><img src="http://www.colorhexa.com/c4a665.png" height='24' width='132'></td>
+<td><img src="http://www.colorhexa.com/c4a665.png" height='16' width='88'></td>
 </tr>
 
 <tr>
-<td><img src="http://www.colorhexa.com/008706.png" height='24' width='132'></td>
+<td><img src="http://www.colorhexa.com/008706.png" height='16' width='88'></td>
 <td width='105' align='center'>conifer<br>green</td>
-<td><img src="http://www.colorhexa.com/789f6e.png" height='24' width='132'></td>
+<td><img src="http://www.colorhexa.com/789f6e.png" height='16' width='88'></td>
 </tr>
 
 <tr>
-<td><img src="http://www.colorhexa.com/008d90.png" height='24' width='132'></td>
+<td><img src="http://www.colorhexa.com/008d90.png" height='16' width='88'></td>
 <td width='105' align='center'>iceberg<br>blue-green</td>
-<td><img src="http://www.colorhexa.com/47a4a2.png" height='24' width='132'></td>
+<td><img src="http://www.colorhexa.com/47a4a2.png" height='16' width='88'></td>
 </tr>
 
 <tr>
-<td><img src="http://www.colorhexa.com/007dea.png" height='24' width='132'></td>
+<td><img src="http://www.colorhexa.com/007dea.png" height='16' width='88'></td>
 <td width='105' align='center'>frost<br>blue</td>
-<td><img src="http://www.colorhexa.com/7299ca.png" height='24' width='132'></td>
+<td><img src="http://www.colorhexa.com/7299ca.png" height='16' width='88'></td>
 </tr>
 
 <tr>
-<td><img src="http://www.colorhexa.com/bc3eb0.png" height='24' width='132'></td>
+<td><img src="http://www.colorhexa.com/bc3eb0.png" height='16' width='88'></td>
 <td width='105' align='center'>plum<br>red-purple</td>
-<td><img src="http://www.colorhexa.com/b985b1.png" height='24' width='132'></td>
+<td><img src="http://www.colorhexa.com/b985b1.png" height='16' width='88'></td>
 </tr>
 
 </tbody></table>
