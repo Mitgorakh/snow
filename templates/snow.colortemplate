@@ -28,12 +28,12 @@ let s:gry2 = [ "@guigry2", @termgry2 ]
 let s:gry3 = [ "@guigry3", @termgry3 ]
 let s:red_ = [ "@guired_", @termred_ ]
 let s:gren = [ "@guigren", @termgren ]
-let s:cyan = [ "@guicyan", @termcyan ]
+let s:blue = [ "@guiblue", @termblue ]
 
 let s:nrm1 = [ s:gry0[0] , s:gry3[0] , s:gry0[1] , s:gry3[1] ]
 let s:nrm2 = [ s:gry3[0] , s:gry1[0] , s:gry3[1] , s:gry1[1] ]
 let s:insr = [ s:gry0[0] , s:gren[0] , s:gry0[1] , s:gren[1] ]
-let s:visl = [ s:gry0[0] , s:cyan[0] , s:gry0[1] , s:cyan[1] ]
+let s:visl = [ s:gry0[0] , s:blue[0] , s:gry0[1] , s:blue[1] ]
 let s:rplc = [ s:gry0[0] , s:red_[0] , s:gry0[1] , s:red_[1] ]
 let s:inac = [ s:gry2[0] , s:gry1[0] , s:gry2[1] , s:gry1[1] ]
 
@@ -63,7 +63,7 @@ let s:gry3 = "@guigry3"
 let s:red_ = "@guired_"
 let s:mgnt = "@guimgnt"
 let s:gren = "@guigren"
-let s:cyan = "@guicyan"
+let s:blue = "@guiblue"
 
 let s:p = { "normal" : {} , "inactive": {} , "insert"  : {} ,
           \ "replace": {} , "visual"  : {} , "tabline" : {} }
@@ -79,8 +79,8 @@ let s:p.inactive.right  = copy(s:p.normal.middle)
 let s:p.insert.left     = [[ s:gry0, s:gren ]]
 let s:p.insert.right    = [[ s:gry0, s:gren ], [ s:gry0, s:gren ]]
 
-let s:p.visual.left     = [[ s:gry0, s:cyan ]]
-let s:p.visual.right    = [[ s:gry0, s:cyan ], [ s:gry0, s:cyan ]]
+let s:p.visual.left     = [[ s:gry0, s:blue ]]
+let s:p.visual.right    = [[ s:gry0, s:blue ], [ s:gry0, s:blue ]]
 
 let s:p.replace.left    = [[ s:gry0, s:red_ ]]
 let s:p.replace.right   = [[ s:gry0, s:red_ ], [ s:gry0, s:red_ ]]
@@ -119,12 +119,12 @@ let s:gry2 = [ "@guigry2", @termgry2 ]
 let s:gry3 = [ "@guigry3", @termgry3 ]
 let s:red_ = [ "@guired_", @termred_ ]
 let s:gren = [ "@guigren", @termgren ]
-let s:cyan = [ "@guicyan", @termcyan ]
+let s:blue = [ "@guiblue", @termblue ]
 
 let s:nrm1 = [ s:gry0[0] , s:gry3[0] , s:gry0[1] , s:gry3[1] ]
 let s:nrm2 = [ s:gry3[0] , s:gry1[0] , s:gry3[1] , s:gry1[1] ]
 let s:insr = [ s:gry0[0] , s:gren[0] , s:gry0[1] , s:gren[1] ]
-let s:visl = [ s:gry0[0] , s:cyan[0] , s:gry0[1] , s:cyan[1] ]
+let s:visl = [ s:gry0[0] , s:blue[0] , s:gry0[1] , s:blue[1] ]
 let s:rplc = [ s:gry0[0] , s:red_[0] , s:gry0[1] , s:red_[1] ]
 let s:inac = [ s:gry2[0] , s:gry1[0] , s:gry2[1] , s:gry1[1] ]
 
@@ -154,7 +154,7 @@ let s:gry3 = "@guigry3"
 let s:red_ = "@guired_"
 let s:mgnt = "@guimgnt"
 let s:gren = "@guigren"
-let s:cyan = "@guicyan"
+let s:blue = "@guiblue"
 
 let s:p = { "normal" : {} , "inactive": {} , "insert"  : {} ,
           \ "replace": {} , "visual"  : {} , "tabline" : {} }
@@ -170,8 +170,8 @@ let s:p.inactive.right  = copy(s:p.normal.middle)
 let s:p.insert.left     = [[ s:gry0, s:gren ]]
 let s:p.insert.right    = [[ s:gry0, s:gren ], [ s:gry0, s:gren ]]
 
-let s:p.visual.left     = [[ s:gry0, s:cyan ]]
-let s:p.visual.right    = [[ s:gry0, s:cyan ], [ s:gry0, s:cyan ]]
+let s:p.visual.left     = [[ s:gry0, s:blue ]]
+let s:p.visual.right    = [[ s:gry0, s:blue ], [ s:gry0, s:blue ]]
 
 let s:p.replace.left    = [[ s:gry0, s:red_ ]]
 let s:p.replace.right   = [[ s:gry0, s:red_ ], [ s:gry0, s:red_ ]]

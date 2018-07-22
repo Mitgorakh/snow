@@ -1,7 +1,6 @@
 # regular fg/bg
 Bold               none   none   bold
 Conceal            none   none
-DiffChange         none   none
 Directory          none   none   bold
 EndOfBuffer        none   none
 Ignore             none   none
@@ -44,6 +43,7 @@ VisualNOS          gry2   gry0   reverse
 ColorColumn        none   gry1
 CursorColumn       none   gry1
 CursorLine         none   gry1
+DiffChange         none   gry1
 Pmenu              gry3   gry1
 QuickFixLine       none   gry1
 StatusLine         gry3   gry1

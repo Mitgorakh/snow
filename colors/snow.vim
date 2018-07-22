@@ -19,7 +19,6 @@ let g:colors_name = 'snow'
 if &background ==# 'dark'
   hi Bold ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
   hi Conceal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi DiffChange ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Directory ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
   hi EndOfBuffer ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Ignore ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -52,6 +51,7 @@ if &background ==# 'dark'
   hi ColorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2b3747 guisp=NONE cterm=NONE gui=NONE
   hi CursorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2b3747 guisp=NONE cterm=NONE gui=NONE
   hi CursorLine ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2b3747 guisp=NONE cterm=NONE gui=NONE
+  hi DiffChange ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2b3747 guisp=NONE cterm=NONE gui=NONE
   hi Pmenu ctermfg=110 ctermbg=237 guifg=#9fb0c8 guibg=#2b3747 guisp=NONE cterm=NONE gui=NONE
   hi QuickFixLine ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2b3747 guisp=NONE cterm=NONE gui=NONE
   hi StatusLine ctermfg=110 ctermbg=237 guifg=#9fb0c8 guibg=#2b3747 guisp=NONE cterm=NONE gui=NONE
@@ -116,7 +116,6 @@ endif
 
 hi Bold ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi Conceal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi DiffChange ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Directory ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi EndOfBuffer ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Ignore ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -149,6 +148,7 @@ hi VisualNOS ctermfg=67 ctermbg=255 guifg=#728199 guibg=#e9f3ff guisp=NONE cterm
 hi ColorColumn ctermfg=NONE ctermbg=153 guifg=NONE guibg=#d6e2f7 guisp=NONE cterm=NONE gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=153 guifg=NONE guibg=#d6e2f7 guisp=NONE cterm=NONE gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=153 guifg=NONE guibg=#d6e2f7 guisp=NONE cterm=NONE gui=NONE
+hi DiffChange ctermfg=NONE ctermbg=153 guifg=NONE guibg=#d6e2f7 guisp=NONE cterm=NONE gui=NONE
 hi Pmenu ctermfg=24 ctermbg=153 guifg=#4b5a70 guibg=#d6e2f7 guisp=NONE cterm=NONE gui=NONE
 hi QuickFixLine ctermfg=NONE ctermbg=153 guifg=NONE guibg=#d6e2f7 guisp=NONE cterm=NONE gui=NONE
 hi StatusLine ctermfg=24 ctermbg=153 guifg=#4b5a70 guibg=#d6e2f7 guisp=NONE cterm=NONE gui=NONE
@@ -224,7 +224,6 @@ finish
 " Color:      mgnt #bc3eb0 ~
 " Bold               none   none   bold
 " Conceal            none   none
-" DiffChange         none   none
 " Directory          none   none   bold
 " EndOfBuffer        none   none
 " Ignore             none   none
@@ -257,6 +256,7 @@ finish
 " ColorColumn        none   gry1
 " CursorColumn       none   gry1
 " CursorLine         none   gry1
+" DiffChange         none   gry1
 " Pmenu              gry3   gry1
 " QuickFixLine       none   gry1
 " StatusLine         gry3   gry1
@@ -334,7 +334,6 @@ finish
 " Color:      mgnt #bd82b4 ~
 " Bold               none   none   bold
 " Conceal            none   none
-" DiffChange         none   none
 " Directory          none   none   bold
 " EndOfBuffer        none   none
 " Ignore             none   none
@@ -367,6 +366,7 @@ finish
 " ColorColumn        none   gry1
 " CursorColumn       none   gry1
 " CursorLine         none   gry1
+" DiffChange         none   gry1
 " Pmenu              gry3   gry1
 " QuickFixLine       none   gry1
 " StatusLine         gry3   gry1
