@@ -31,7 +31,7 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td align='center' width='192'><img src="https://github.com/nightsense/snow/raw/master/images/base-midday.png" height='24' /></td>
+<td align='center' width='192'><img src="https://github.com/nightsense/snow/raw/master/images/base-noon.png" height='24' /></td>
 <td align='center' width='250'>winter noon</td>
 </tr>
 
@@ -41,12 +41,12 @@ set background=dark
 </tr>
 
 <tr>
-<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-afternoon.png" height='24' /></td>
+<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-morn-eve.png" height='24' /></td>
 <td align='center'>winter morn-eve</td>
 </tr>
 
 <tr>
-<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-evening.png" height='24' /></td>
+<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-dawn-dusk.png" height='24' /></td>
 <td align='center'>winter dawn-dusk</td>
 </tr>
 
@@ -75,39 +75,39 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td><img src="http://www.colorhexa.com/d64747.png" height='16' width='88'></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-red.png" height='24' /></td>
 <td width='187' align='center'>berry red</td>
-<td><img src="http://www.colorhexa.com/ce7069.png" height='16' width='88'></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-red.png" height='24' /></td>
 </tr>
 
 <tr>
-<td><img src="http://www.colorhexa.com/9b7400.png" height='16' width='88'></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-red.png" height='24' /></td>
 <td width='105' align='center'>lichen gold</td>
-<td><img src="http://www.colorhexa.com/ba9b51.png" height='16' width='88'></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-red.png" height='24' /></td>
 </tr>
 
 <tr>
-<td><img src="http://www.colorhexa.com/008706.png" height='16' width='88'></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-red.png" height='24' /></td>
 <td width='105' align='center'>conifer green</td>
-<td><img src="http://www.colorhexa.com/74a169.png" height='16' width='88'></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-red.png" height='24' /></td>
 </tr>
 
 <tr>
-<td><img src="http://www.colorhexa.com/008d90.png" height='16' width='88'></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-red.png" height='24' /></td>
 <td width='105' align='center'>iceberg blue-green</td>
-<td><img src="http://www.colorhexa.com/34a6a4.png" height='16' width='88'></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-red.png" height='24' /></td>
 </tr>
 
 <tr>
-<td><img src="http://www.colorhexa.com/007dea.png" height='16' width='88'></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-red.png" height='24' /></td>
 <td width='105' align='center'>frost blue</td>
-<td><img src="http://www.colorhexa.com/6c99d1.png" height='16' width='88'></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-red.png" height='24' /></td>
 </tr>
 
 <tr>
-<td><img src="http://www.colorhexa.com/bc3eb0.png" height='16' width='88'></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-red.png" height='24' /></td>
 <td width='105' align='center'>plum red-purple</td>
-<td><img src="http://www.colorhexa.com/bd82b4.png" height='16' width='88'></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-red.png" height='24' /></td>
 </tr>
 
 </tbody></table>
@@ -124,7 +124,7 @@ set background=dark
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/d64747.png" height='12' width='12'> **types** ("meta-names" <img height="16" src='https://github.com/nightsense/snow/raw/master/images/type.png' />), such as variable type (int, char...) or storage class (static, register...)
 
-*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/gold2.png' /> gold is a special color, gold text is for...*
+*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/gold.png' /> gold is a special color, gold text is for...*
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/9b7400.png" height='12' width='12'> **special elements** <img height="16" src='https://github.com/nightsense/snow/raw/master/images/special.png' />, such as delimiters and debug statements
 
