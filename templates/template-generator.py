@@ -20,12 +20,12 @@ def print_airline(name,bg):
   print 'let s:gry3 = [ "@guigry3", @termgry3 ]'
   print 'let s:red_ = [ "@guired_", @termred_ ]'
   print 'let s:gren = [ "@guigren", @termgren ]'
-  print 'let s:cyan = [ "@guicyan", @termcyan ]'
+  print 'let s:blue = [ "@guiblue", @termblue ]'
   print ''
   print 'let s:nrm1 = [ s:gry0[0] , s:gry3[0] , s:gry0[1] , s:gry3[1] ]'
   print 'let s:nrm2 = [ s:gry3[0] , s:gry1[0] , s:gry3[1] , s:gry1[1] ]'
   print 'let s:insr = [ s:gry0[0] , s:gren[0] , s:gry0[1] , s:gren[1] ]'
-  print 'let s:visl = [ s:gry0[0] , s:cyan[0] , s:gry0[1] , s:cyan[1] ]'
+  print 'let s:visl = [ s:gry0[0] , s:blue[0] , s:gry0[1] , s:blue[1] ]'
   print 'let s:rplc = [ s:gry0[0] , s:red_[0] , s:gry0[1] , s:red_[1] ]'
   print 'let s:inac = [ s:gry2[0] , s:gry1[0] , s:gry2[1] , s:gry1[1] ]'
   print ''
@@ -57,7 +57,7 @@ def print_lightline(name,bg):
   print 'let s:red_ = "@guired_"'
   print 'let s:mgnt = "@guimgnt"'
   print 'let s:gren = "@guigren"'
-  print 'let s:cyan = "@guicyan"'
+  print 'let s:blue = "@guiblue"'
   print ''
   print 'let s:p = { "normal" : {} , "inactive": {} , "insert"  : {} ,'
   print '          \ "replace": {} , "visual"  : {} , "tabline" : {} }'
@@ -73,8 +73,8 @@ def print_lightline(name,bg):
   print 'let s:p.insert.left     = [[ s:gry0, s:gren ]]'
   print 'let s:p.insert.right    = [[ s:gry0, s:gren ], [ s:gry0, s:gren ]]'
   print ''
-  print 'let s:p.visual.left     = [[ s:gry0, s:cyan ]]'
-  print 'let s:p.visual.right    = [[ s:gry0, s:cyan ], [ s:gry0, s:cyan ]]'
+  print 'let s:p.visual.left     = [[ s:gry0, s:blue ]]'
+  print 'let s:p.visual.right    = [[ s:gry0, s:blue ], [ s:gry0, s:blue ]]'
   print ''
   print 'let s:p.replace.left    = [[ s:gry0, s:red_ ]]'
   print 'let s:p.replace.right   = [[ s:gry0, s:red_ ], [ s:gry0, s:red_ ]]'
@@ -107,7 +107,7 @@ lt_lum_main = gold(1.500)
 lt_lum_gold = gold(1.375)
 
 lt_cro_rdgl = gold(0.875)
-lt_cro_main = gold(0.75)
+lt_cro_main = gold(0.750)
 
 dk_lum_red_ = gold(1.125)
 dk_lum_main = gold(1.000)
