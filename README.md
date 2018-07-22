@@ -25,7 +25,7 @@ set background=dark
 <tr></tr>
 
 <tr>
-<td align='center' height='44'>
+<td align='center'>
 <h4><img src="https://github.com/nightsense/snow/raw/master/images/base.png" height='14' /><br>base colors</h4>
 
 <table><tbody>
@@ -74,7 +74,7 @@ set background=dark
 
 <table><tbody>
 
-<tr>
+<tr height='44'>
 <td><img src="http://www.colorhexa.com/d64747.png" height='16' width='88'></td>
 <td width='187' align='center'>berry red</td>
 <td><img src="http://www.colorhexa.com/ce7069.png" height='16' width='88'></td>
