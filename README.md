@@ -107,7 +107,7 @@ set background=dark
 </tr>
 
 <tr height='44.33'>
-<td><img src="http://www.colorhexa.com/bc3eb0.png" height='11' width='68'></td>
+<ta><img src="http://www.colorhexa.com/bc3eb0.png" height='11' width='68'></td>
 <td width='105' align='center'>plum red-purple</td>
 <td><img src="http://www.colorhexa.com/bd82b4.png" height='11' width='68'></td>
 </tr>
