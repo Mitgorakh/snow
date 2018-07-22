@@ -31,7 +31,7 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td align='center' width='192' height='59'><img src="https://github.com/nightsense/snow/raw/master/images/base-noon.png" height='24' /></td>
+<td align='center' width='192'><img src="https://github.com/nightsense/snow/raw/master/images/base-noon.png" height='24' /></td>
 <td align='center' width='250'>winter noon</td>
 </tr>
 
@@ -80,7 +80,7 @@ set background=dark
 <td><img src="http://www.colorhexa.com/ce7069.png" height='16' width='88'></td>
 </tr>
 
-<tr>
+<tr height='74'>
 <td><img src="http://www.colorhexa.com/9b7400.png" height='16' width='88'></td>
 <td width='105' align='center'>lichen gold</td>
 <td><img src="http://www.colorhexa.com/ba9b51.png" height='16' width='88'></td>
