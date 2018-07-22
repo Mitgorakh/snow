@@ -79,9 +79,9 @@
 <table><tbody>
 
 <tr>
-<td align='center' height='44.33' width='110'><img src="http://www.colorhexa.com/d64747.png" height='11' width='68'></td>
-<td width='222' align='center'>berry red</td>
-<td align='center' width='110'><img src="http://www.colorhexa.com/ce7069.png" height='11' width='68'></td>
+<td align='center' height='44.33' width='120'><img src="http://www.colorhexa.com/d64747.png" height='11' width='68'></td>
+<td width='202' align='center'>berry red</td>
+<td align='center' width='120'><img src="http://www.colorhexa.com/ce7069.png" height='11' width='68'></td>
 </tr>
 
 <tr height='44.33'>
