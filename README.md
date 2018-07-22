@@ -1,22 +1,21 @@
-<table><tbody><tr><td align="center"><h1>snow</h1>
-<img src="https://github.com/nightsense/snow/raw/master/images/header.jpg" />
-<h4>
-a blue-tinted winter vimscape
-</h4>
-</td></tr></tbody></table>
-
 <table><tbody>
 
 <tr>
-<td align="center"><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" /><br>
+<td align='center' colspan='2'><h1>snow</h1>
+<img src="https://github.com/nightsense/snow/raw/master/images/header.jpg" />
+<h4>a blue-tinted winter vimscape</h4>
+</td>
+</tr>
+
+<tr>
+<td align='center' colspan='2'>
+<img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" /><br>
 <img src="https://github.com/nightsense/snow/raw/master/images/palette-light.png" height="66" />
 </td>
 <td align="center"><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="175" /><br>
 <img src="https://github.com/nightsense/snow/raw/master/images/palette-dark.png" height="66" />
 </td>
 </tr>
-
-<tr></tr>
 
 <tr>
 <td align='center'>
