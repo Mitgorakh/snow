@@ -35,8 +35,8 @@
 <table><tbody>
 
 <tr>
-<td align='center' width='202'><img src="https://github.com/nightsense/snow/raw/master/images/base-noon.png" height='18' /></td>
-<td align='center' width='240'>winter noon</td>
+<td align='center' width='221'><img src="https://github.com/nightsense/snow/raw/master/images/base-noon.png" height='18' /></td>
+<td align='center' width='221'>winter noon</td>
 </tr>
 
 <tr>
@@ -79,9 +79,9 @@
 <table><tbody>
 
 <tr>
-<td align='center' height='44.33' width='111.33'><img src="http://www.colorhexa.com/d64747.png" height='11' width='68'></td>
-<td width='187' align='center'>berry red</td>
-<td align='center' width='111.33'><img src="http://www.colorhexa.com/ce7069.png" height='11' width='68'></td>
+<td align='center' height='44.33' width='110'><img src="http://www.colorhexa.com/d64747.png" height='11' width='68'></td>
+<td width='222' align='center'>berry red</td>
+<td align='center' width='110'><img src="http://www.colorhexa.com/ce7069.png" height='11' width='68'></td>
 </tr>
 
 <tr height='44.33'>
