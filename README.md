@@ -76,7 +76,7 @@ set background=dark
 
 <tr>
 <td><img src="http://www.colorhexa.com/d1373d.png" height='16' width='88'></td>
-<td width='105' align='center'>berry red</td>
+<td width='187' align='center'>berry red</td>
 <td><img src="http://www.colorhexa.com/d27d75.png" height='16' width='88'></td>
 </tr>
 
