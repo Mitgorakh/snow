@@ -77,37 +77,37 @@ set background=dark
 <tr>
 <td><img src="http://www.colorhexa.com/d1373d.png" height='16' width='88'></td>
 <td width='187' align='center'>berry red</td>
-<td><img src="http://www.colorhexa.com/d27d75.png" height='16' width='88'></td>
+<td><img src="http://www.colorhexa.com/ce7069.png" height='16' width='88'></td>
 </tr>
 
 <tr>
 <td><img src="http://www.colorhexa.com/9c7400.png" height='16' width='88'></td>
 <td width='105' align='center'>lichen gold</td>
-<td><img src="http://www.colorhexa.com/c4a665.png" height='16' width='88'></td>
+<td><img src="http://www.colorhexa.com/ba9b51.png" height='16' width='88'></td>
 </tr>
 
 <tr>
 <td><img src="http://www.colorhexa.com/008706.png" height='16' width='88'></td>
 <td width='105' align='center'>conifer green</td>
-<td><img src="http://www.colorhexa.com/789f6e.png" height='16' width='88'></td>
+<td><img src="http://www.colorhexa.com/74a169.png" height='16' width='88'></td>
 </tr>
 
 <tr>
 <td><img src="http://www.colorhexa.com/008d90.png" height='16' width='88'></td>
 <td width='105' align='center'>iceberg blue-green</td>
-<td><img src="http://www.colorhexa.com/47a4a2.png" height='16' width='88'></td>
+<td><img src="http://www.colorhexa.com/34a6a4.png" height='16' width='88'></td>
 </tr>
 
 <tr>
 <td><img src="http://www.colorhexa.com/007dea.png" height='16' width='88'></td>
 <td width='105' align='center'>frost blue</td>
-<td><img src="http://www.colorhexa.com/7299ca.png" height='16' width='88'></td>
+<td><img src="http://www.colorhexa.com/6c99d1.png" height='16' width='88'></td>
 </tr>
 
 <tr>
 <td><img src="http://www.colorhexa.com/bc3eb0.png" height='16' width='88'></td>
 <td width='105' align='center'>plum red-purple</td>
-<td><img src="http://www.colorhexa.com/b985b1.png" height='16' width='88'></td>
+<td><img src="http://www.colorhexa.com/bd82b4.png" height='16' width='88'></td>
 </tr>
 
 </tbody></table>
