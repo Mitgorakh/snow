@@ -81,9 +81,9 @@ set background=dark
 </tr>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-red.png" height='24' /></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-gold.png" height='24' /></td>
 <td width='105' align='center'>lichen gold</td>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-red.png" height='24' /></td>
+<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-gold.png" height='24' /></td>
 </tr>
 
 <tr>
