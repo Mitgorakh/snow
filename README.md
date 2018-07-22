@@ -134,7 +134,7 @@ set background=dark
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/008787.png" height='9' width='9'> **meta-statements** ("meta-actions", or "meta-magic" <img height="16" src='https://github.com/nightsense/snow/raw/master/images/metastatement.png' />), such as macros and "include module" statements
 
-*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calming color of sea and sky, evoking enduring constancy, blue text is for...*
+*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm color of sea and sky, evoking enduring constancy, blue text is for...*
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/0779c5.png" height='9' width='9'> **constants** (values that are fixed <img height="22" src='https://github.com/nightsense/snow/raw/master/images/constant.png' /> in place), such as booleans, integers, and strings
 

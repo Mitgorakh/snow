@@ -93,24 +93,24 @@ def print_lightline(name,bg):
 hue_base = 262.50
 
 hexgry0_lt = tohex( gold(0.10) , gold(7.00) , hue_base )
-hexgry1_lt = tohex( gold(0.21) , gold(5.50) , hue_base )
-hexgry2_lt = tohex( gold(1.30) , gold(4.25) , hue_base )
+hexgry1_lt = tohex( gold(0.23) , gold(5.50) , hue_base )
+hexgry2_lt = tohex( gold(1.30) , gold(4.00) , hue_base )
 hexgry3_lt = tohex( gold(2.04) , gold(4.00) , hue_base )
 
-hexgry0_dk = tohex( gold(3.55) , gold(4.50) , hue_base )
-hexgry1_dk = tohex( gold(3.16) , gold(4.25) , hue_base )
-hexgry2_dk = tohex( gold(1.30) , gold(4.25) , hue_base )
-hexgry3_dk = tohex( gold(0.71) , gold(4.75) , hue_base )
+hexgry0_dk = tohex( gold(3.55) , gold(5.00) , hue_base )
+hexgry1_dk = tohex( gold(3.10) , gold(4.50) , hue_base )
+hexgry2_dk = tohex( gold(1.30) , gold(4.00) , hue_base )
+hexgry3_dk = tohex( gold(0.71) , gold(4.00) , hue_base )
 
-lum_lt_hi = gold(1.50)
-lum_lt_lo = gold(1.25)
-cro_lt_hi = gold(1.25)
-cro_lt_lo = gold(1.50)
+lum_lt_hi = gold(1.500)
+lum_lt_lo = gold(1.375)
+cro_lt_hi = gold(0.750)
+cro_lt_lo = gold(0.750)
 
 lum_dk_hi = gold(1.00)
 lum_dk_lo = gold(0.75)
-cro_dk_hi = gold(2.75)
-cro_dk_lo = gold(3.00)
+cro_dk_hi = gold(2.00)
+cro_dk_lo = gold(2.50)
 
 hexred__lt = tohex( lum_lt_hi , cro_lt_hi , 030.00 )
 hexgold_lt = tohex( lum_lt_lo , cro_lt_hi , 082.50 )
@@ -126,7 +126,6 @@ hexcyan_dk = tohex( lum_dk_hi , cro_dk_lo , 195.00 )
 hexblue_dk = tohex( lum_dk_hi , cro_dk_lo , 262.50 )
 hexmgnt_dk = tohex( lum_dk_hi , cro_dk_lo , 330.00 )
 
-print '# general'
 print 'Author:          nightsense'
 print 'Maintainer:      nightsense'
 print 'License:         MIT'

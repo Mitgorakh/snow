@@ -1,4 +1,3 @@
-# general
 Author:          nightsense
 Maintainer:      nightsense
 License:         MIT
@@ -8,16 +7,16 @@ Terminal Colors: 256
 
 Background: light
 Color:      gry0 #eef2f8 ~
-Color:      gry1 #dde4f1 ~
-Color:      gry2 #748196 ~
+Color:      gry1 #dae2ee ~
+Color:      gry2 #728199 ~
 Color:      gry3 #4a5a6f ~
-Color:      gryc #283647 ~
-Color:      red_ #c04c48 ~
-Color:      gold #a07d19 ~
-Color:      gren #3f8234 ~
-Color:      cyan #008787 ~
-Color:      blue #0779c5 ~
-Color:      mgnt #a8559e ~
+Color:      gryc #2b3747 ~
+Color:      red_ #d1373d ~
+Color:      gold #9c7400 ~
+Color:      gren #008706 ~
+Color:      cyan #008d90 ~
+Color:      blue #007dea ~
+Color:      mgnt #bc3eb0 ~
 Include:    _common.colortemplate
 
 auxfile autoload/airline/themes/snow_light.vim
@@ -98,17 +97,17 @@ let g:lightline#colorscheme#snow_light#palette =
 endauxfile
 
 Background: dark
-Color:      gry0 #222d3d ~
-Color:      gry1 #283647 ~
-Color:      gry2 #748196 ~
-Color:      gry3 #a4afc0 ~
-Color:      gryc #dde4f1 ~
-Color:      red_ #c1867f ~
-Color:      gold #bda77a ~
-Color:      gren #7f9d77 ~
-Color:      cyan #5da19f ~
-Color:      blue #7c98bf ~
-Color:      mgnt #b289ab ~
+Color:      gry0 #252d39 ~
+Color:      gry1 #2b3747 ~
+Color:      gry2 #728199 ~
+Color:      gry3 #9fb0c8 ~
+Color:      gryc #dae2ee ~
+Color:      red_ #d27d75 ~
+Color:      gold #c4a665 ~
+Color:      gren #789f6e ~
+Color:      cyan #47a4a2 ~
+Color:      blue #7299ca ~
+Color:      mgnt #b985b1 ~
 Include:    _common.colortemplate
 
 auxfile autoload/airline/themes/snow_dark.vim
