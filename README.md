@@ -31,7 +31,7 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td align='center' width='192'><img src="https://github.com/nightsense/snow/raw/master/images/base-noon.png" height='24' /></td>
+<td align='center' width='192'><img src="https://github.com/nightsense/snow/raw/master/images/base-noon.png" height='32' /></td>
 <td align='center' width='250'>winter noon</td>
 </tr>
 
