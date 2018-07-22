@@ -25,8 +25,8 @@ a blue-tinted winter vimscape
 <table><tbody>
 
 <tr>
-<td align='center' width='192'><img src="https://github.com/nightsense/snow/raw/master/images/base-noon.png" height='18' /></td>
-<td align='center' width='250'>winter noon</td>
+<td align='center' width='202'><img src="https://github.com/nightsense/snow/raw/master/images/base-noon.png" height='18' /></td>
+<td align='center' width='240'>winter noon</td>
 </tr>
 
 <tr>
