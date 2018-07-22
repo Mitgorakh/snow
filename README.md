@@ -69,9 +69,9 @@ a blue-tinted winter vimscape
 <table><tbody>
 
 <tr>
-<td height='44.33'><img src="http://www.colorhexa.com/d64747.png" height='11' width='68'></td>
+<td height='44.33' width='111.33'><img src="http://www.colorhexa.com/d64747.png" height='11' width='68'></td>
 <td width='187' align='center'>berry red</td>
-<td><img src="http://www.colorhexa.com/ce7069.png" height='11' width='68'></td>
+<td width='111.33'><img src="http://www.colorhexa.com/ce7069.png" height='11' width='68'></td>
 </tr>
 
 <tr height='44.33'>
