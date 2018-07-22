@@ -32,7 +32,7 @@ set background=dark
 
 <tr>
 <td><img src="https://github.com/nightsense/snow/raw/master/images/base-midday.png" height='24' /></td>
-<td align='center' width='200'>winter noon</td>
+<td align='center' width='302'>winter noon</td>
 </tr>
 
 <tr>
