@@ -33,10 +33,12 @@ WildMenu           gry3   gry0   reverse
 
 # reverse soft
 Folded             gry2   gry0   reverse
+MatchParen         gry2   gry0   reverse
 StatusLineNC       gry2   gry0   reverse
 StatusLineTermNC   gry2   gry0   reverse
 TermCursorNC       gry2   gry0   reverse
 VertSplit          gry2   gry0   reverse
+Visual             gry2   gry0   reverse
 VisualNOS          gry2   gry0   reverse
 
 # highlit background
@@ -57,21 +59,12 @@ PmenuThumb         gry3   gry3
 TabLineFill        gry1   gry1
 ToolbarLine        gry1   gry1
 
-# spellcheck undercurls (default vim colors)
-Color: dred Red      9  Red
-Color: dblu Blue     12 Blue
-Color: dcyn DarkCyan 6  DarkCyan
-Color: dmgt Magenta  13 Magenta
-SpellBad           none   none   g=undercurl   s=dred   t=underline
-SpellCap           none   none   g=undercurl   s=dblu   t=underline
-SpellLocal         none   none   g=undercurl   s=dcyn   t=underline
-SpellRare          none   none   g=undercurl   s=dmgt   t=underline
-
 # magenta names
 Function           mgnt   none
 Identifier         mgnt   none
 
-# reverse magenta warnings
+# reverse magenta warnings and rare words
+SpellRare          mgnt   gry0   reverse   g=undercurl s=gry0 t=underline
 TooLong            mgnt   gry0   reverse
 WarningMsg         mgnt   gry0   reverse
 
@@ -81,11 +74,12 @@ Structure          red_   none
 Type               red_   none
 Typedef            red_   none
 
-# reverse red errors and diff removals
+# reverse red errors, diff removals, and misspelled words
 DiffDelete         red_   gry0   reverse
 DiffRemoved        red_   gry0   reverse
 Error              red_   gry0   reverse
 ErrorMsg           red_   gry0   reverse
+SpellBad           red_   gry0   reverse   g=undercurl s=gry0 t=underline
 
 # gold specials
 Debug              gold   none
@@ -122,8 +116,8 @@ Macro              cyan   none
 PreCondit          cyan   none
 PreProc            cyan   none
 
-# reverse cyan matching parentheses
-MatchParen         cyan   gry0   reverse
+# reverse cyan mis-localized words
+SpellLocal         cyan   gry0   reverse   g=undercurl s=gry0 t=underline
 
 # blue constants
 Boolean            blue   none
@@ -133,5 +127,5 @@ Float              blue   none
 Number             blue   none
 String             blue   none
 
-# reverse blue visual selection
-Visual             blue   gry0   reverse
+# reverse blue mis-uncapitalized words
+SpellCap           blue   gry0   reverse   g=undercurl s=gry0 t=underline
