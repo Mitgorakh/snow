@@ -234,6 +234,6 @@ let &t_EI = "\<Esc>[2 q"
 
 ---
 
-###### ■&nbsp;&nbsp;the snow colorscheme is generated with [Colortemplate](https://github.com/lifepillar/vim-colortemplate) and provided under the [MIT license](https://opensource.org/licenses/MIT)
-###### ■&nbsp;&nbsp;text contrast meets the 3:1 ISO standard, as well as the 4.5:1 [W3C standard](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) where aesthetically possible
-###### ■&nbsp;&nbsp;snowflake macrophoto by [Olga & Alexey (CC BY-NC 2.0)](https://www.flickr.com/photos/chaoticmind75/39326731084/)
+###### license: [MIT](https://opensource.org/licenses/MIT)
+###### generated with [Colortemplate](https://github.com/lifepillar/vim-colortemplate)
+###### snowflake macrophoto by [Olga & Alexey (CC BY-NC 2.0)](https://www.flickr.com/photos/chaoticmind75/39326731084/)
