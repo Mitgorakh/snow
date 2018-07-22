@@ -75,13 +75,13 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td><img src="http://www.colorhexa.com/d1373d.png" height='16' width='88'></td>
+<td><img src="http://www.colorhexa.com/d64747.png" height='16' width='88'></td>
 <td width='187' align='center'>berry red</td>
 <td><img src="http://www.colorhexa.com/ce7069.png" height='16' width='88'></td>
 </tr>
 
 <tr>
-<td><img src="http://www.colorhexa.com/9c7400.png" height='16' width='88'></td>
+<td><img src="http://www.colorhexa.com/9b7400.png" height='16' width='88'></td>
 <td width='105' align='center'>lichen gold</td>
 <td><img src="http://www.colorhexa.com/ba9b51.png" height='16' width='88'></td>
 </tr>
