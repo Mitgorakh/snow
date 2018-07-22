@@ -19,6 +19,8 @@
 </td>
 </tr>
 
+<tr></tr>
+
 <tr>
 <td align='center'>
 <h4><img src="https://github.com/nightsense/snow/raw/master/images/base.png" height='14' /><br>base colors</h4>
