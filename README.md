@@ -8,7 +8,8 @@ a blue-tinted winter vimscape
 <table><tbody>
 
 <tr>
-<td align="center"><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" />
+<td align="center"><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" /><br>
+<img src="https://github.com/nightsense/snow/raw/master/images/palette-light.png" height="100" />
 <pre>
 colorscheme snow
 set background=light
