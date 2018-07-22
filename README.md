@@ -77,36 +77,36 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td height='44.4'><img src="http://www.colorhexa.com/d64747.png" height='11' width='68'></td>
+<td height='44.33'><img src="http://www.colorhexa.com/d64747.png" height='11' width='68'></td>
 <td width='187' align='center'>berry red</td>
 <td><img src="http://www.colorhexa.com/ce7069.png" height='11' width='68'></td>
 </tr>
 
-<tr height='44.4'>
+<tr height='44.33'>
 <td><img src="http://www.colorhexa.com/9b7400.png" height='11' width='68'></td>
 <td width='105' align='center'>lichen gold</td>
 <td><img src="http://www.colorhexa.com/ba9b51.png" height='11' width='68'></td>
 </tr>
 
-<tr height='44.4'>
+<tr height='44.33'>
 <td><img src="http://www.colorhexa.com/008706.png" height='11' width='68'></td>
 <td width='105' align='center'>conifer green</td>
 <td><img src="http://www.colorhexa.com/74a169.png" height='11' width='68'></td>
 </tr>
 
-<tr height='44.4'>
+<tr height='44.33'>
 <td><img src="http://www.colorhexa.com/008d90.png" height='11' width='68'></td>
 <td width='105' align='center'>iceberg blue-green</td>
 <td><img src="http://www.colorhexa.com/34a6a4.png" height='11' width='68'></td>
 </tr>
 
-<tr height='44.4'>
+<tr height='44.33'>
 <td><img src="http://www.colorhexa.com/007dea.png" height='11' width='68'></td>
 <td width='105' align='center'>frost blue</td>
 <td><img src="http://www.colorhexa.com/6c99d1.png" height='11' width='68'></td>
 </tr>
 
-<tr height='44.4'>
+<tr height='44.33'>
 <td><img src="http://www.colorhexa.com/bc3eb0.png" height='11' width='68'></td>
 <td width='105' align='center'>plum red-purple</td>
 <td><img src="http://www.colorhexa.com/bd82b4.png" height='11' width='68'></td>
