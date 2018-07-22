@@ -31,7 +31,7 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td align='center' width='192'><img src="https://github.com/nightsense/snow/raw/master/images/base-noon.png" height='32' /></td>
+<td align='center' width='192'><img src="https://github.com/nightsense/snow/raw/master/images/base-noon.png" height='24' /></td>
 <td align='center' width='250'>winter noon</td>
 </tr>
 
@@ -75,39 +75,39 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-red.png" height='24' /></td>
+<td><img src="http://www.colorhexa.com/d64747.png" height='16' width='88'></td>
 <td width='187' align='center'>berry red</td>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-red.png" height='24' /></td>
+<td><img src="http://www.colorhexa.com/ce7069.png" height='16' width='88'></td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-gold.png" height='24' /></td>
+<td><img src="http://www.colorhexa.com/9b7400.png" height='16' width='88'></td>
 <td width='105' align='center'>lichen gold</td>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-gold.png" height='24' /></td>
+<td><img src="http://www.colorhexa.com/ba9b51.png" height='16' width='88'></td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-red.png" height='24' /></td>
+<td><img src="http://www.colorhexa.com/008706.png" height='16' width='88'></td>
 <td width='105' align='center'>conifer green</td>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-red.png" height='24' /></td>
+<td><img src="http://www.colorhexa.com/74a169.png" height='16' width='88'></td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-red.png" height='24' /></td>
+<td><img src="http://www.colorhexa.com/008d90.png" height='16' width='88'></td>
 <td width='105' align='center'>iceberg blue-green</td>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-red.png" height='24' /></td>
+<td><img src="http://www.colorhexa.com/34a6a4.png" height='16' width='88'></td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-red.png" height='24' /></td>
+<td><img src="http://www.colorhexa.com/007dea.png" height='16' width='88'></td>
 <td width='105' align='center'>frost blue</td>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-red.png" height='24' /></td>
+<td><img src="http://www.colorhexa.com/6c99d1.png" height='16' width='88'></td>
 </tr>
 
 <tr>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-light-red.png" height='24' /></td>
+<td><img src="http://www.colorhexa.com/bc3eb0.png" height='16' width='88'></td>
 <td width='105' align='center'>plum red-purple</td>
-<td><img src="https://github.com/nightsense/snow/raw/master/images/accent-dark-red.png" height='24' /></td>
+<td><img src="http://www.colorhexa.com/bd82b4.png" height='16' width='88'></td>
 </tr>
 
 </tbody></table>
