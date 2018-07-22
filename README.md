@@ -88,7 +88,7 @@ a blue-tinted winter vimscape
 
 <tr height='44.33'>
 <td align='center'><img src="http://www.colorhexa.com/008d90.png" height='11' width='68'></td>
-<td width='105' align='center'>iceberg blue-green</td>
+<td width='105' align='center'>ice blue-green</td>
 <td align='center'><img src="http://www.colorhexa.com/34a6a4.png" height='11' width='68'></td>
 </tr>
 
