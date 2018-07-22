@@ -33,37 +33,37 @@ set background=dark
 <table><tbody>
 
 <tr>
-<td align='center' width='192'><img src="https://github.com/nightsense/snow/raw/master/images/base-noon.png" height='24' /></td>
+<td align='center' width='192'><img src="https://github.com/nightsense/snow/raw/master/images/base-noon.png" height='18' /></td>
 <td align='center' width='250'>winter noon</td>
 </tr>
 
 <tr>
-<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-day.png" height='24' /></td>
+<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-day.png" height='18' /></td>
 <td align='center'>winter day</td>
 </tr>
 
 <tr>
-<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-morn-eve.png" height='24' /></td>
+<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-morn-eve.png" height='18' /></td>
 <td align='center'>winter morn-eve</td>
 </tr>
 
 <tr>
-<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-dawn-dusk.png" height='24' /></td>
+<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-dawn-dusk.png" height='18' /></td>
 <td align='center'>winter dawn-dusk</td>
 </tr>
 
 <tr>
-<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-twilight.png" height='24' /></td>
+<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-twilight.png" height='18' /></td>
 <td align='center'>winter twilight</td>
 </tr>
 
 <tr>
-<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-night.png" height='24' /></td>
+<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-night.png" height='18' /></td>
 <td align='center'>winter night</td>
 </tr>
 
 <tr>
-<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-midnight.png" height='24' /></td>
+<td align='center'><img src="https://github.com/nightsense/snow/raw/master/images/base-midnight.png" height='18' /></td>
 <td align='center'>winter midnight</td>
 </tr>
 
