@@ -10,17 +10,16 @@
 <tr></tr>
 
 <tr>
-<td align='center' width='50%'>
-<img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" />
+
+<td align='center' width='50%'><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" />
 <br>
 <img src="https://github.com/nightsense/snow/raw/master/images/palette-light.png" height="66" />
 <br>
 </td>
-<td align="center" width='50%'>
-<img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="175" />
+
+<td align='center' width='50%'><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="175" />
 <br>
 <img src="https://github.com/nightsense/snow/raw/master/images/palette-dark.png" height="66" />
-<br>
 <br>
 </td>
 </tr>
