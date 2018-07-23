@@ -92,34 +92,34 @@ def print_lightline(name,bg):
 
 hue_base = 262.50
 
-hexgry0_lt = tohex( gold(0.10) , gold(5.00) , hue_base )
-hexgry1_lt = tohex( gold(0.23) , gold(4.50) , hue_base )
-hexgry2_lt = tohex( gold(1.30) , gold(4.00) , hue_base )
-hexgry3_lt = tohex( gold(2.03) , gold(4.00) , hue_base )
+hexgry0_lt = tohex( gold(0.10) , gold(5.0) , hue_base )
+hexgry1_lt = tohex( gold(0.23) , gold(4.5) , hue_base )
+hexgry2_lt = tohex( gold(1.30) , gold(4.0) , hue_base )
+hexgry3_lt = tohex( gold(2.03) , gold(4.0) , hue_base )
 
-hexgry0_dk = tohex( gold(3.54) , gold(5.00) , hue_base )
-hexgry1_dk = tohex( gold(3.10) , gold(4.50) , hue_base )
-hexgry2_dk = tohex( gold(1.30) , gold(4.00) , hue_base )
-hexgry3_dk = tohex( gold(0.71) , gold(4.00) , hue_base )
+hexgry0_dk = tohex( gold(3.54) , gold(5.0) , hue_base )
+hexgry1_dk = tohex( gold(3.10) , gold(4.5) , hue_base )
+hexgry2_dk = tohex( gold(1.30) , gold(4.0) , hue_base )
+hexgry3_dk = tohex( gold(0.71) , gold(4.0) , hue_base )
 
 lt_lum = gold(1.5)
 lt_cro = gold(1.0)
 dk_lum = gold(1.0)
 dk_cro = gold(2.5)
 
-hexred__lt = tohex( lt_lum , lt_cro , 030.00 )
-hexgold_lt = tohex( lt_lum , lt_cro , 082.50 )
-hexgren_lt = tohex( lt_lum , lt_cro , 135.00 )
-hexcyan_lt = tohex( lt_lum , lt_cro , 195.00 )
-hexblue_lt = tohex( lt_lum , lt_cro , 262.50 )
-hexmgnt_lt = tohex( lt_lum , lt_cro , 330.00 )
+hexred__lt = tohex( lt_lum , lt_cro , 030.0 )
+hexgold_lt = tohex( lt_lum , lt_cro , 082.5 )
+hexgren_lt = tohex( lt_lum , lt_cro , 135.0 )
+hexcyan_lt = tohex( lt_lum , lt_cro , 195.0 )
+hexblue_lt = tohex( lt_lum , lt_cro , 262.5 )
+hexmgnt_lt = tohex( lt_lum , lt_cro , 330.0 )
 
-hexred__dk = tohex( dk_lum , dk_cro , 030.00 )
-hexgold_dk = tohex( dk_lum , dk_cro , 082.50 )
-hexgren_dk = tohex( dk_lum , dk_cro , 135.00 )
-hexcyan_dk = tohex( dk_lum , dk_cro , 195.00 )
-hexblue_dk = tohex( dk_lum , dk_cro , 262.50 )
-hexmgnt_dk = tohex( dk_lum , dk_cro , 330.00 )
+hexred__dk = tohex( dk_lum , dk_cro , 030.0 )
+hexgold_dk = tohex( dk_lum , dk_cro , 082.5 )
+hexgren_dk = tohex( dk_lum , dk_cro , 135.0 )
+hexcyan_dk = tohex( dk_lum , dk_cro , 195.0 )
+hexblue_dk = tohex( dk_lum , dk_cro , 262.5 )
+hexmgnt_dk = tohex( dk_lum , dk_cro , 330.0 )
 
 print 'Author:          nightsense'
 print 'Maintainer:      nightsense'
