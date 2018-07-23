@@ -187,17 +187,17 @@ For instance, to activate the airline theme with dark background:
 let g:airline_theme='snow_dark'
 ```
 
-For lightline:
+For the lightline theme with light background:
 
 ```
-let g:lightline = { 'colorscheme': 'snow_dark' }
+let g:lightline = { 'colorscheme': 'snow_light' }
 ```
 
 ## rotation
 
 If you'd like themes and/or backgrounds to switch automatically (based on absolute time or sun-relative time), you might want to try out [night-and-day](https://github.com/nightsense/night-and-day).
 
-For instance, to use snow with light background 6AM-6PM, dark background otherwise:
+For instance, to use the light snow theme 6AM-6PM, dark theme otherwise:
 
 ```
 let g:nd_themes = [
