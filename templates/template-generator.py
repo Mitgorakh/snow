@@ -93,7 +93,7 @@ def print_lightline(name,bg):
 hue_base = 262.50
 
 hexgry0_lt = tohex( gold(0.10) , gold(8.0) , hue_base )
-hexgry1_lt = tohex( gold(0.23) , gold(7.0) , hue_base )
+hexgry1_lt = tohex( gold(0.23) , gold(6.5) , hue_base )
 hexgry2_lt = tohex( gold(1.30) , gold(4.0) , hue_base )
 hexgry3_lt = tohex( gold(2.04) , gold(4.0) , hue_base )
 
