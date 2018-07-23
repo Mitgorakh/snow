@@ -64,53 +64,53 @@ if &background ==# 'dark'
   hi PmenuThumb ctermfg=110 ctermbg=110 guifg=#9fb0c8 guibg=#9fb0c8 guisp=NONE cterm=NONE gui=NONE
   hi TabLineFill ctermfg=237 ctermbg=237 guifg=#2b3747 guibg=#2b3747 guisp=NONE cterm=NONE gui=NONE
   hi ToolbarLine ctermfg=237 ctermbg=237 guifg=#2b3747 guibg=#2b3747 guisp=NONE cterm=NONE gui=NONE
-  hi Function ctermfg=139 ctermbg=NONE guifg=#c88cbf guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Identifier ctermfg=139 ctermbg=NONE guifg=#c88cbf guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpellRare ctermfg=139 ctermbg=236 guifg=#c88cbf guibg=#252d39 guisp=#252d39 cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
-  hi TooLong ctermfg=139 ctermbg=236 guifg=#c88cbf guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi WarningMsg ctermfg=139 ctermbg=236 guifg=#c88cbf guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi StorageClass ctermfg=174 ctermbg=NONE guifg=#d78b83 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Structure ctermfg=174 ctermbg=NONE guifg=#d78b83 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Type ctermfg=174 ctermbg=NONE guifg=#d78b83 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Typedef ctermfg=174 ctermbg=NONE guifg=#d78b83 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi DiffDelete ctermfg=174 ctermbg=236 guifg=#d78b83 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffRemoved ctermfg=174 ctermbg=236 guifg=#d78b83 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Error ctermfg=174 ctermbg=236 guifg=#d78b83 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi ErrorMsg ctermfg=174 ctermbg=236 guifg=#d78b83 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi SpellBad ctermfg=174 ctermbg=236 guifg=#d78b83 guibg=#252d39 guisp=#252d39 cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
-  hi Debug ctermfg=179 ctermbg=NONE guifg=#b69c63 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Delimiter ctermfg=179 ctermbg=NONE guifg=#b69c63 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Special ctermfg=179 ctermbg=NONE guifg=#b69c63 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpecialChar ctermfg=179 ctermbg=NONE guifg=#b69c63 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpecialComment ctermfg=179 ctermbg=NONE guifg=#b69c63 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpecialKey ctermfg=179 ctermbg=NONE guifg=#b69c63 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Tag ctermfg=179 ctermbg=NONE guifg=#b69c63 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Todo ctermfg=179 ctermbg=NONE guifg=#b69c63 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi DiffChanged ctermfg=179 ctermbg=236 guifg=#b69c63 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffText ctermfg=179 ctermbg=236 guifg=#b69c63 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Search ctermfg=179 ctermbg=236 guifg=#b69c63 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Conditional ctermfg=108 ctermbg=NONE guifg=#7eab73 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Exception ctermfg=108 ctermbg=NONE guifg=#7eab73 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Keyword ctermfg=108 ctermbg=NONE guifg=#7eab73 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Label ctermfg=108 ctermbg=NONE guifg=#7eab73 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Operator ctermfg=108 ctermbg=NONE guifg=#7eab73 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Repeat ctermfg=108 ctermbg=NONE guifg=#7eab73 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Statement ctermfg=108 ctermbg=NONE guifg=#7eab73 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi DiffAdd ctermfg=108 ctermbg=236 guifg=#7eab73 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffAdded ctermfg=108 ctermbg=236 guifg=#7eab73 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Define ctermfg=37 ctermbg=NONE guifg=#41b0ae guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Include ctermfg=37 ctermbg=NONE guifg=#41b0ae guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Macro ctermfg=37 ctermbg=NONE guifg=#41b0ae guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi PreCondit ctermfg=37 ctermbg=NONE guifg=#41b0ae guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi PreProc ctermfg=37 ctermbg=NONE guifg=#41b0ae guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpellLocal ctermfg=37 ctermbg=236 guifg=#41b0ae guibg=#252d39 guisp=#252d39 cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
-  hi Boolean ctermfg=110 ctermbg=NONE guifg=#76a4db guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Character ctermfg=110 ctermbg=NONE guifg=#76a4db guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Constant ctermfg=110 ctermbg=NONE guifg=#76a4db guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Float ctermfg=110 ctermbg=NONE guifg=#76a4db guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Number ctermfg=110 ctermbg=NONE guifg=#76a4db guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi String ctermfg=110 ctermbg=NONE guifg=#76a4db guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpellCap ctermfg=110 ctermbg=236 guifg=#76a4db guibg=#252d39 guisp=#252d39 cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
+  hi Function ctermfg=139 ctermbg=NONE guifg=#c48fbb guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Identifier ctermfg=139 ctermbg=NONE guifg=#c48fbb guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpellRare ctermfg=139 ctermbg=236 guifg=#c48fbb guibg=#252d39 guisp=#252d39 cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
+  hi TooLong ctermfg=139 ctermbg=236 guifg=#c48fbb guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi WarningMsg ctermfg=139 ctermbg=236 guifg=#c48fbb guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi StorageClass ctermfg=174 ctermbg=NONE guifg=#d18d86 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Structure ctermfg=174 ctermbg=NONE guifg=#d18d86 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Type ctermfg=174 ctermbg=NONE guifg=#d18d86 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Typedef ctermfg=174 ctermbg=NONE guifg=#d18d86 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi DiffDelete ctermfg=174 ctermbg=236 guifg=#d18d86 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffRemoved ctermfg=174 ctermbg=236 guifg=#d18d86 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Error ctermfg=174 ctermbg=236 guifg=#d18d86 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi ErrorMsg ctermfg=174 ctermbg=236 guifg=#d18d86 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi SpellBad ctermfg=174 ctermbg=236 guifg=#d18d86 guibg=#252d39 guisp=#252d39 cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
+  hi Debug ctermfg=137 ctermbg=NONE guifg=#b49c6a guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Delimiter ctermfg=137 ctermbg=NONE guifg=#b49c6a guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Special ctermfg=137 ctermbg=NONE guifg=#b49c6a guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpecialChar ctermfg=137 ctermbg=NONE guifg=#b49c6a guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpecialComment ctermfg=137 ctermbg=NONE guifg=#b49c6a guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpecialKey ctermfg=137 ctermbg=NONE guifg=#b49c6a guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Tag ctermfg=137 ctermbg=NONE guifg=#b49c6a guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Todo ctermfg=137 ctermbg=NONE guifg=#b49c6a guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi DiffChanged ctermfg=137 ctermbg=236 guifg=#b49c6a guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffText ctermfg=137 ctermbg=236 guifg=#b49c6a guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Search ctermfg=137 ctermbg=236 guifg=#b49c6a guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Conditional ctermfg=108 ctermbg=NONE guifg=#82aa78 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Exception ctermfg=108 ctermbg=NONE guifg=#82aa78 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Keyword ctermfg=108 ctermbg=NONE guifg=#82aa78 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Label ctermfg=108 ctermbg=NONE guifg=#82aa78 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Operator ctermfg=108 ctermbg=NONE guifg=#82aa78 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Repeat ctermfg=108 ctermbg=NONE guifg=#82aa78 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Statement ctermfg=108 ctermbg=NONE guifg=#82aa78 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi DiffAdd ctermfg=108 ctermbg=236 guifg=#82aa78 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffAdded ctermfg=108 ctermbg=236 guifg=#82aa78 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Define ctermfg=73 ctermbg=NONE guifg=#52aeac guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Include ctermfg=73 ctermbg=NONE guifg=#52aeac guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Macro ctermfg=73 ctermbg=NONE guifg=#52aeac guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi PreCondit ctermfg=73 ctermbg=NONE guifg=#52aeac guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi PreProc ctermfg=73 ctermbg=NONE guifg=#52aeac guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpellLocal ctermfg=73 ctermbg=236 guifg=#52aeac guibg=#252d39 guisp=#252d39 cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
+  hi Boolean ctermfg=110 ctermbg=NONE guifg=#7da3d5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Character ctermfg=110 ctermbg=NONE guifg=#7da3d5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Constant ctermfg=110 ctermbg=NONE guifg=#7da3d5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Float ctermfg=110 ctermbg=NONE guifg=#7da3d5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Number ctermfg=110 ctermbg=NONE guifg=#7da3d5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi String ctermfg=110 ctermbg=NONE guifg=#7da3d5 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpellCap ctermfg=110 ctermbg=236 guifg=#7da3d5 guibg=#252d39 guisp=#252d39 cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
   finish
 endif
 
@@ -322,12 +322,12 @@ finish
 " Color:      gry2 #728199 ~
 " Color:      gry3 #9fb0c8 ~
 " Color:      gryc #d6e2f7 ~
-" Color:      red_ #d78b83 ~
-" Color:      gold #b69c63 ~
-" Color:      gren #7eab73 ~
-" Color:      cyan #41b0ae ~
-" Color:      blue #76a4db ~
-" Color:      mgnt #c88cbf ~
+" Color:      red_ #d18d86 ~
+" Color:      gold #b49c6a ~
+" Color:      gren #82aa78 ~
+" Color:      cyan #52aeac ~
+" Color:      blue #7da3d5 ~
+" Color:      mgnt #c48fbb ~
 " Bold               none   none   bold
 " Conceal            none   none
 " Directory          none   none   bold

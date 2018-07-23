@@ -102,12 +102,12 @@ Color:      gry1 #2b3747 ~
 Color:      gry2 #728199 ~
 Color:      gry3 #9fb0c8 ~
 Color:      gryc #d6e2f7 ~
-Color:      red_ #d78b83 ~
-Color:      gold #b69c63 ~
-Color:      gren #7eab73 ~
-Color:      cyan #41b0ae ~
-Color:      blue #76a4db ~
-Color:      mgnt #c88cbf ~
+Color:      red_ #d18d86 ~
+Color:      gold #b49c6a ~
+Color:      gren #82aa78 ~
+Color:      cyan #52aeac ~
+Color:      blue #7da3d5 ~
+Color:      mgnt #c48fbb ~
 Include:    _common.colortemplate
 
 auxfile autoload/airline/themes/snow_dark.vim
