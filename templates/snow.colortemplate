@@ -11,11 +11,11 @@ Color:      gry1 #d6e2f7 ~
 Color:      gry2 #728199 ~
 Color:      gry3 #4b5a70 ~
 Color:      gryc #2b3747 ~
-Color:      red_ #c84343 ~
-Color:      gold #916d00 ~
-Color:      gren #24851d ~
-Color:      cyan #008b8d ~
-Color:      blue #007bdc ~
+Color:      red_ #cd3e40 ~
+Color:      gold #9a7500 ~
+Color:      gren #298922 ~
+Color:      cyan #008e8f ~
+Color:      blue #007cdf ~
 Color:      mgnt #b448a9 ~
 Include:    _common.colortemplate
 
@@ -102,11 +102,11 @@ Color:      gry1 #2b3747 ~
 Color:      gry2 #728199 ~
 Color:      gry3 #9fb0c8 ~
 Color:      gryc #d6e2f7 ~
-Color:      red_ #c6837c ~
-Color:      gold #a99260 ~
-Color:      gren #789f6e ~
-Color:      cyan #47a4a2 ~
-Color:      blue #7299ca ~
+Color:      red_ #cc8079 ~
+Color:      gold #c0a771 ~
+Color:      gren #82aa78 ~
+Color:      cyan #5eadab ~
+Color:      blue #6f99cd ~
 Color:      mgnt #b985b1 ~
 Include:    _common.colortemplate
 

@@ -2,10 +2,10 @@ let s:gry0 = "#e9f3ff"
 let s:gry1 = "#d6e2f7"
 let s:gry2 = "#728199"
 let s:gry3 = "#4b5a70"
-let s:red_ = "#c84343"
+let s:red_ = "#cd3e40"
 let s:mgnt = "#b448a9"
-let s:gren = "#24851d"
-let s:blue = "#007bdc"
+let s:gren = "#298922"
+let s:blue = "#007cdf"
 
 let s:p = { "normal" : {} , "inactive": {} , "insert"  : {} ,
           \ "replace": {} , "visual"  : {} , "tabline" : {} }
