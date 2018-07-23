@@ -7,17 +7,17 @@ Terminal Colors: 256
 
 Background: light
 Color:      gry0 #eff2f5 ~
-Color:      gry1 #dde2e9 ~
+Color:      gry1 #dce2eb ~
 Color:      gry2 #728199 ~
 Color:      gry3 #4a5a6f ~
 Color:      gryc #2d3745 ~
 Color:      srch #e5bc5a ~
-Color:      prnt #007aca ~
+Color:      prnt #007ad0 ~
 Color:      red_ #c04c48 ~
-Color:      gold #97750e ~
-Color:      gren #3f8234 ~
+Color:      gold #967619 ~
+Color:      gren #3a8330 ~
 Color:      cyan #008787 ~
-Color:      blue #007aca ~
+Color:      blue #007ad0 ~
 Color:      mgnt #ab52a0 ~
 Include:    _common.colortemplate
 
@@ -103,14 +103,14 @@ Color:      gry0 #252d39 ~
 Color:      gry1 #2d3745 ~
 Color:      gry2 #728199 ~
 Color:      gry3 #9fb0c8 ~
-Color:      gryc #dde2e9 ~
+Color:      gryc #dce2eb ~
 Color:      srch #95638e ~
 Color:      prnt #5da19f ~
 Color:      red_ #c6837c ~
-Color:      gold #b49c6a ~
-Color:      gren #7f9d77 ~
+Color:      gold #b29c70 ~
+Color:      gren #7c9e73 ~
 Color:      cyan #5da19f ~
-Color:      blue #7899c4 ~
+Color:      blue #7299ca ~
 Color:      mgnt #b587ae ~
 Include:    _common.colortemplate
 

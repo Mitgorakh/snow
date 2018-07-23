@@ -4,8 +4,8 @@ let s:gry2 = "#728199"
 let s:gry3 = "#9fb0c8"
 let s:red_ = "#c6837c"
 let s:mgnt = "#b587ae"
-let s:gren = "#7f9d77"
-let s:blue = "#7899c4"
+let s:gren = "#7c9e73"
+let s:blue = "#7299ca"
 
 let s:p = { "normal" : {} , "inactive": {} , "insert"  : {} ,
           \ "replace": {} , "visual"  : {} , "tabline" : {} }
