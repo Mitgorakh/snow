@@ -11,12 +11,12 @@ Color:      gry1 #d6e2f7 ~
 Color:      gry2 #728199 ~
 Color:      gry3 #4b5a70 ~
 Color:      gryc #2b3747 ~
-Color:      red_ #cd3e40 ~
-Color:      gold #9b7400 ~
-Color:      gren #178614 ~
-Color:      cyan #008c8e ~
-Color:      blue #007ce3 ~
-Color:      mgnt #b843ad ~
+Color:      red_ #c84343 ~
+Color:      gold #916d00 ~
+Color:      gren #24851d ~
+Color:      cyan #008b8d ~
+Color:      blue #007bdc ~
+Color:      mgnt #b448a9 ~
 Include:    _common.colortemplate
 
 auxfile autoload/airline/themes/snow_light.vim
@@ -102,12 +102,12 @@ Color:      gry1 #2b3747 ~
 Color:      gry2 #728199 ~
 Color:      gry3 #9fb0c8 ~
 Color:      gryc #d6e2f7 ~
-Color:      red_ #cc8079 ~
-Color:      gold #b69c63 ~
-Color:      gren #74a169 ~
-Color:      cyan #34a6a4 ~
-Color:      blue #6c99d1 ~
-Color:      mgnt #bd82b4 ~
+Color:      red_ #c6837c ~
+Color:      gold #a99260 ~
+Color:      gren #789f6e ~
+Color:      cyan #47a4a2 ~
+Color:      blue #7299ca ~
+Color:      mgnt #b985b1 ~
 Include:    _common.colortemplate
 
 auxfile autoload/airline/themes/snow_dark.vim
