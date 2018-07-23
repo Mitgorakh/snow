@@ -86,7 +86,7 @@ if &background ==# 'dark'
   hi SpecialKey ctermfg=179 ctermbg=NONE guifg=#b9a16f guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Tag ctermfg=179 ctermbg=NONE guifg=#b9a16f guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Todo ctermfg=179 ctermbg=NONE guifg=#b9a16f guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Search ctermfg=96 ctermbg=254 guifg=#9d5d95 guibg=#dde2e9 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Search ctermfg=133 ctermbg=254 guifg=#a5659c guibg=#dde2e9 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi DiffChanged ctermfg=179 ctermbg=236 guifg=#b9a16f guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi DiffText ctermfg=179 ctermbg=236 guifg=#b9a16f guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Conditional ctermfg=108 ctermbg=NONE guifg=#84a27c guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -328,7 +328,7 @@ finish
 " Color:      gry2 #728199 ~
 " Color:      gry3 #9fb0c8 ~
 " Color:      gryc #dde2e9 ~
-" Color:      srch #9d5d95 ~
+" Color:      srch #a5659c ~
 " Color:      prnt #62a6a4 ~
 " Color:      red_ #cc8881 ~
 " Color:      gold #b9a16f ~

@@ -102,7 +102,7 @@ hexgry0_dk = tohex( gold(3.54) , gold(5.00) , hue_base )
 hexgry1_dk = tohex( gold(3.10) , gold(4.75) , hue_base )
 hexgry2_dk = tohex( gold(1.30) , gold(4.00) , hue_base )
 hexgry3_dk = tohex( gold(0.71) , gold(4.00) , hue_base )
-hexsrch_dk = tohex( gold(1.50) , gold(2.00) , 330.0    )
+hexsrch_dk = tohex( gold(1.38) , gold(2.00) , 330.0    )
 
 lt_lum = gold(1.438)
 dk_lum = gold(0.938)
