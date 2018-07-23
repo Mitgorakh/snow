@@ -64,20 +64,20 @@ if &background ==# 'dark'
   hi PmenuThumb ctermfg=110 ctermbg=110 guifg=#9fb0c8 guibg=#9fb0c8 guisp=NONE cterm=NONE gui=NONE
   hi TabLineFill ctermfg=237 ctermbg=237 guifg=#2b3747 guibg=#2b3747 guisp=NONE cterm=NONE gui=NONE
   hi ToolbarLine ctermfg=237 ctermbg=237 guifg=#2b3747 guibg=#2b3747 guisp=NONE cterm=NONE gui=NONE
-  hi Function ctermfg=139 ctermbg=NONE guifg=#b78eb0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Identifier ctermfg=139 ctermbg=NONE guifg=#b78eb0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpellRare ctermfg=139 ctermbg=236 guifg=#b78eb0 guibg=#252d39 guisp=#252d39 cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
-  hi TooLong ctermfg=139 ctermbg=236 guifg=#b78eb0 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi WarningMsg ctermfg=139 ctermbg=236 guifg=#b78eb0 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi StorageClass ctermfg=174 ctermbg=NONE guifg=#cc8881 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Structure ctermfg=174 ctermbg=NONE guifg=#cc8881 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Type ctermfg=174 ctermbg=NONE guifg=#cc8881 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Typedef ctermfg=174 ctermbg=NONE guifg=#cc8881 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi DiffDelete ctermfg=174 ctermbg=236 guifg=#cc8881 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffRemoved ctermfg=174 ctermbg=236 guifg=#cc8881 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Error ctermfg=174 ctermbg=236 guifg=#cc8881 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi ErrorMsg ctermfg=174 ctermbg=236 guifg=#cc8881 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi SpellBad ctermfg=174 ctermbg=236 guifg=#cc8881 guibg=#252d39 guisp=#252d39 cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
+  hi Function ctermfg=139 ctermbg=NONE guifg=#ba8cb3 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Identifier ctermfg=139 ctermbg=NONE guifg=#ba8cb3 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpellRare ctermfg=139 ctermbg=236 guifg=#ba8cb3 guibg=#252d39 guisp=#252d39 cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
+  hi TooLong ctermfg=139 ctermbg=236 guifg=#ba8cb3 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi WarningMsg ctermfg=139 ctermbg=236 guifg=#ba8cb3 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi StorageClass ctermfg=174 ctermbg=NONE guifg=#d1857e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Structure ctermfg=174 ctermbg=NONE guifg=#d1857e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Type ctermfg=174 ctermbg=NONE guifg=#d1857e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Typedef ctermfg=174 ctermbg=NONE guifg=#d1857e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi DiffDelete ctermfg=174 ctermbg=236 guifg=#d1857e guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffRemoved ctermfg=174 ctermbg=236 guifg=#d1857e guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Error ctermfg=174 ctermbg=236 guifg=#d1857e guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi ErrorMsg ctermfg=174 ctermbg=236 guifg=#d1857e guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi SpellBad ctermfg=174 ctermbg=236 guifg=#d1857e guibg=#252d39 guisp=#252d39 cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
   hi Debug ctermfg=180 ctermbg=NONE guifg=#b8a275 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Delimiter ctermfg=180 ctermbg=NONE guifg=#b8a275 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Special ctermfg=180 ctermbg=NONE guifg=#b8a275 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -161,20 +161,20 @@ hi PmenuSbar ctermfg=67 ctermbg=67 guifg=#728199 guibg=#728199 guisp=NONE cterm=
 hi PmenuThumb ctermfg=24 ctermbg=24 guifg=#4b5a70 guibg=#4b5a70 guisp=NONE cterm=NONE gui=NONE
 hi TabLineFill ctermfg=153 ctermbg=153 guifg=#d6e2f7 guibg=#d6e2f7 guisp=NONE cterm=NONE gui=NONE
 hi ToolbarLine ctermfg=153 ctermbg=153 guifg=#d6e2f7 guibg=#d6e2f7 guisp=NONE cterm=NONE gui=NONE
-hi Function ctermfg=133 ctermbg=NONE guifg=#ac59a2 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Identifier ctermfg=133 ctermbg=NONE guifg=#ac59a2 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi SpellRare ctermfg=133 ctermbg=255 guifg=#ac59a2 guibg=#e9f3ff guisp=#e9f3ff cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
-hi TooLong ctermfg=133 ctermbg=255 guifg=#ac59a2 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi WarningMsg ctermfg=133 ctermbg=255 guifg=#ac59a2 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi StorageClass ctermfg=167 ctermbg=NONE guifg=#c4504c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Structure ctermfg=167 ctermbg=NONE guifg=#c4504c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Type ctermfg=167 ctermbg=NONE guifg=#c4504c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Typedef ctermfg=167 ctermbg=NONE guifg=#c4504c guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi DiffDelete ctermfg=167 ctermbg=255 guifg=#c4504c guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi DiffRemoved ctermfg=167 ctermbg=255 guifg=#c4504c guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi Error ctermfg=167 ctermbg=255 guifg=#c4504c guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi ErrorMsg ctermfg=167 ctermbg=255 guifg=#c4504c guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi SpellBad ctermfg=167 ctermbg=255 guifg=#c4504c guibg=#e9f3ff guisp=#e9f3ff cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
+hi Function ctermfg=133 ctermbg=NONE guifg=#af56a4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Identifier ctermfg=133 ctermbg=NONE guifg=#af56a4 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi SpellRare ctermfg=133 ctermbg=255 guifg=#af56a4 guibg=#e9f3ff guisp=#e9f3ff cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
+hi TooLong ctermfg=133 ctermbg=255 guifg=#af56a4 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi WarningMsg ctermfg=133 ctermbg=255 guifg=#af56a4 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi StorageClass ctermfg=167 ctermbg=NONE guifg=#c84c49 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Structure ctermfg=167 ctermbg=NONE guifg=#c84c49 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Type ctermfg=167 ctermbg=NONE guifg=#c84c49 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Typedef ctermfg=167 ctermbg=NONE guifg=#c84c49 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi DiffDelete ctermfg=167 ctermbg=255 guifg=#c84c49 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi DiffRemoved ctermfg=167 ctermbg=255 guifg=#c84c49 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi Error ctermfg=167 ctermbg=255 guifg=#c84c49 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi ErrorMsg ctermfg=167 ctermbg=255 guifg=#c84c49 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi SpellBad ctermfg=167 ctermbg=255 guifg=#c84c49 guibg=#e9f3ff guisp=#e9f3ff cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
 hi Debug ctermfg=136 ctermbg=NONE guifg=#967619 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Delimiter ctermfg=136 ctermbg=NONE guifg=#967619 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Special ctermfg=136 ctermbg=NONE guifg=#967619 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -216,12 +216,12 @@ finish
 " Color:      gry2 #728199 ~
 " Color:      gry3 #4b5a70 ~
 " Color:      gryc #2b3747 ~
-" Color:      red_ #c4504c ~
+" Color:      red_ #c84c49 ~
 " Color:      gold #967619 ~
 " Color:      gren #438638 ~
 " Color:      cyan #008b8b ~
 " Color:      blue #007ed4 ~
-" Color:      mgnt #ac59a2 ~
+" Color:      mgnt #af56a4 ~
 " Bold               none   none   bold
 " Conceal            none   none
 " Directory          none   none   bold
@@ -322,12 +322,12 @@ finish
 " Color:      gry2 #728199 ~
 " Color:      gry3 #9fb0c8 ~
 " Color:      gryc #d6e2f7 ~
-" Color:      red_ #cc8881 ~
+" Color:      red_ #d1857e ~
 " Color:      gold #b8a275 ~
 " Color:      gren #84a27c ~
 " Color:      cyan #62a6a4 ~
 " Color:      blue #779ecf ~
-" Color:      mgnt #b78eb0 ~
+" Color:      mgnt #ba8cb3 ~
 " Bold               none   none   bold
 " Conceal            none   none
 " Directory          none   none   bold
