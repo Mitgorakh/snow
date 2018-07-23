@@ -17,9 +17,7 @@ Underlined         none   none   underline
 # soft fg
 Comment            gry2   none
 CursorLineNr       gry2   none
-FoldColumn         gry2   none
 LineNr             gry2   none
-SignColumn         gry2   none
 
 # reverse hard
 Cursor             gryc   gry0   reverse
@@ -27,14 +25,16 @@ IncSearch          gryc   gry0   reverse
 TermCursor         gryc   gry0   reverse
 
 # reverse regular
+FoldColumn         gry3   none
 PmenuSel           gry3   gry0   reverse
+SignColumn         gry3   none
+StatusLine         gry3   gry0   reverse
+StatusLineTerm     gry3   gry0   reverse
 TabLineSel         gry3   gry0   reverse
 WildMenu           gry3   gry0   reverse
 
 # reverse soft
-Folded             gry2   gry0   reverse
 TermCursorNC       gry2   gry0   reverse
-VertSplit          gry2   gry0   reverse
 VisualNOS          gry2   gry0   reverse
 
 # highlit background
@@ -42,12 +42,11 @@ ColorColumn        none   gry1
 CursorColumn       none   gry1
 CursorLine         none   gry1
 DiffChange         none   gry1
+Folded             none   gry1
 Pmenu              gry3   gry1
 QuickFixLine       none   gry1
-StatusLine         gry3   gry1
-StatusLineNC       gry2   gry1
-StatusLineTerm     gry3   gry1
-StatusLineTermNC   gry2   gry1
+StatusLineNC       gry3   gry1
+StatusLineTermNC   gry3   gry1
 TabLine            gry3   gry1
 ToolbarButton      gry3   gry1   bold
 
@@ -56,6 +55,7 @@ PmenuSbar          gry2   gry2
 PmenuThumb         gry3   gry3
 TabLineFill        gry1   gry1
 ToolbarLine        gry1   gry1
+VertSplit          gry2   gry2
 
 # spellcheck undercurl (default vim colors)
 Color: dred Red      9  Red
@@ -97,9 +97,6 @@ SpecialKey         gold   none
 Tag                gold   none
 Todo               gold   none
 
-# reverse gold/magenta search match
-Search             srch   gryc   reverse
-
 # reverse gold diff changes
 DiffChanged        gold   gry0   reverse
 DiffText           gold   gry0   reverse
@@ -113,7 +110,7 @@ Operator           gren   none
 Repeat             gren   none
 Statement          gren   none
 
-# reverse green diff additions and vim prompts
+# reverse green diff additions
 DiffAdd            gren   gry0   reverse
 DiffAdded          gren   gry0   reverse
 
@@ -137,3 +134,6 @@ String             blue   none
 
 # reverse blue visual selection
 Visual             blue   gry0   reverse
+
+# reverse gold/magenta search match
+Search             srch   gryc   reverse
