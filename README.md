@@ -79,9 +79,9 @@
 <table><tbody>
 
 <tr>
-<td align='center' height='44.33' width='120'><img src="http://www.colorhexa.com/c4504c.png" height='11' width='68'></td>
+<td align='center' height='44.33' width='120'><img src="http://www.colorhexa.com/c84c49.png" height='11' width='68'></td>
 <td width='202' align='center'>berry red</td>
-<td align='center' width='120'><img src="http://www.colorhexa.com/cc8881.png" height='11' width='68'></td>
+<td align='center' width='120'><img src="http://www.colorhexa.com/d1857e.png" height='11' width='68'></td>
 </tr>
 
 <tr height='44.33'>
@@ -109,9 +109,9 @@
 </tr>
 
 <tr height='44.33'>
-<td align='center'><img src="http://www.colorhexa.com/ac59a2.png" height='11' width='68'></td>
+<td align='center'><img src="http://www.colorhexa.com/af56a4.png" height='11' width='68'></td>
 <td width='105' align='center'>plum red-purple</td>
-<td align='center'><img src="http://www.colorhexa.com/b78eb0.png" height='11' width='68'></td>
+<td align='center'><img src="http://www.colorhexa.com/ba8cb3.png" height='11' width='68'></td>
 </tr>
 
 </tbody></table>
@@ -124,9 +124,9 @@
 
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life, reddish text is for...*
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/ac59a2.png" height='12' width='12'> **names**, which give life <img height="9" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/af56a4.png" height='12' width='12'> **names**, which give life <img height="9" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c4504c.png" height='12' width='12'> **types** ("meta-names" <img height="15" src='https://github.com/nightsense/snow/raw/master/images/type.png' />), such as variable type (int, char...) or storage class (static, register...)
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c84c49.png" height='12' width='12'> **types** ("meta-names" <img height="15" src='https://github.com/nightsense/snow/raw/master/images/type.png' />), such as variable type (int, char...) or storage class (static, register...)
 
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/gold.png' /> gold is a special color, gold text is for...*
 
