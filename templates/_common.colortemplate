@@ -57,7 +57,7 @@ TabLineFill        gry1   gry1
 ToolbarLine        gry1   gry1
 VertSplit          gry2   gry2
 
-# spellcheck undercurl (default vim colors)
+# spellcheck undercurls (default vim colors)
 Color: dred Red      9  Red
 Color: dblu Blue     12 Blue
 Color: dcyn DarkCyan 6  DarkCyan
