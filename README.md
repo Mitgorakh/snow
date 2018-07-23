@@ -79,39 +79,39 @@
 <table><tbody>
 
 <tr>
-<td align='center' height='44.33' width='120'><img src="http://www.colorhexa.com/d1373d.png" height='11' width='68'></td>
+<td align='center' height='44.33' width='120'><img src="http://www.colorhexa.com/c84343.png" height='11' width='68'></td>
 <td width='202' align='center'>berry red</td>
-<td align='center' width='120'><img src="http://www.colorhexa.com/dd877f.png" height='11' width='68'></td>
+<td align='center' width='120'><img src="http://www.colorhexa.com/d18d86.png" height='11' width='68'></td>
 </tr>
 
 <tr height='44.33'>
-<td align='center'><img src="http://www.colorhexa.com/9c7400.png" height='11' width='68'></td>
+<td align='center'><img src="http://www.colorhexa.com/916d00.png" height='11' width='68'></td>
 <td width='105' align='center'>lichen gold</td>
-<td align='center'><img src="http://www.colorhexa.com/c4a665.png" height='11' width='68'></td>
+<td align='center'><img src="http://www.colorhexa.com/b49c6a.png" height='11' width='68'></td>
 </tr>
 
 <tr height='44.33'>
-<td align='center'><img src="http://www.colorhexa.com/008706.png" height='11' width='68'></td>
+<td align='center'><img src="http://www.colorhexa.com/24851d.png" height='11' width='68'></td>
 <td width='105' align='center'>conifer green</td>
-<td align='center'><img src="http://www.colorhexa.com/79ac6d.png" height='11' width='68'></td>
+<td align='center'><img src="http://www.colorhexa.com/82aa78.png" height='11' width='68'></td>
 </tr>
 
 <tr height='44.33'>
-<td align='center'><img src="http://www.colorhexa.com/008d90.png" height='11' width='68'></td>
+<td align='center'><img src="http://www.colorhexa.com/008b8d.png" height='11' width='68'></td>
 <td width='105' align='center'>ice blue-green</td>
-<td align='center'><img src="http://www.colorhexa.com/25b2b0.png" height='11' width='68'></td>
+<td align='center'><img src="http://www.colorhexa.com/52aeac.png" height='11' width='68'></td>
 </tr>
 
 <tr height='44.33'>
-<td align='center'><img src="http://www.colorhexa.com/007dea.png" height='11' width='68'></td>
+<td align='center'><img src="http://www.colorhexa.com/007bdc.png" height='11' width='68'></td>
 <td width='105' align='center'>frost blue</td>
-<td align='center'><img src="http://www.colorhexa.com/6ea4e3.png" height='11' width='68'></td>
+<td align='center'><img src="http://www.colorhexa.com/7da3d5.png" height='11' width='68'></td>
 </tr>
 
 <tr height='44.33'>
-<td align='center'><img src="http://www.colorhexa.com/bc3eb0.png" height='11' width='68'></td>
+<td align='center'><img src="http://www.colorhexa.com/b448a9.png" height='11' width='68'></td>
 <td width='105' align='center'>plum red-purple</td>
-<td align='center'><img src="http://www.colorhexa.com/cd89c3.png" height='11' width='68'></td>
+<td align='center'><img src="http://www.colorhexa.com/c48fbb.png" height='11' width='68'></td>
 </tr>
 
 </tbody></table>
