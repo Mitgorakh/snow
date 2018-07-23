@@ -122,7 +122,7 @@ PreCondit          cyan   none
 PreProc            cyan   none
 
 # reverse cyan parenthesis match
-MatchParen         cyan   gry0   reverse
+MatchParen         cyan   gry1   reverse
 
 # blue constants
 Boolean            blue   none

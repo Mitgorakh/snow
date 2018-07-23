@@ -102,7 +102,7 @@ if &background ==# 'dark'
   hi Macro ctermfg=73 ctermbg=NONE guifg=#5da19f guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi PreCondit ctermfg=73 ctermbg=NONE guifg=#5da19f guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi PreProc ctermfg=73 ctermbg=NONE guifg=#5da19f guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi MatchParen ctermfg=73 ctermbg=236 guifg=#5da19f guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi MatchParen ctermfg=73 ctermbg=237 guifg=#5da19f guibg=#2d3745 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Boolean ctermfg=67 ctermbg=NONE guifg=#7299ca guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Character ctermfg=67 ctermbg=NONE guifg=#7299ca guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Constant ctermfg=67 ctermbg=NONE guifg=#7299ca guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -199,7 +199,7 @@ hi Include ctermfg=30 ctermbg=NONE guifg=#008787 guibg=NONE guisp=NONE cterm=NON
 hi Macro ctermfg=30 ctermbg=NONE guifg=#008787 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi PreCondit ctermfg=30 ctermbg=NONE guifg=#008787 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi PreProc ctermfg=30 ctermbg=NONE guifg=#008787 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi MatchParen ctermfg=30 ctermbg=255 guifg=#008787 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi MatchParen ctermfg=30 ctermbg=254 guifg=#008787 guibg=#dce2eb guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi Boolean ctermfg=32 ctermbg=NONE guifg=#007ad0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Character ctermfg=32 ctermbg=NONE guifg=#007ad0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Constant ctermfg=32 ctermbg=NONE guifg=#007ad0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -313,7 +313,7 @@ finish
 " Macro              cyan   none
 " PreCondit          cyan   none
 " PreProc            cyan   none
-" MatchParen         cyan   gry0   reverse
+" MatchParen         cyan   gry1   reverse
 " Boolean            blue   none
 " Character          blue   none
 " Constant           blue   none
@@ -425,7 +425,7 @@ finish
 " Macro              cyan   none
 " PreCondit          cyan   none
 " PreProc            cyan   none
-" MatchParen         cyan   gry0   reverse
+" MatchParen         cyan   gry1   reverse
 " Boolean            blue   none
 " Character          blue   none
 " Constant           blue   none
