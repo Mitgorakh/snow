@@ -78,17 +78,17 @@ if &background ==# 'dark'
   hi Error ctermfg=174 ctermbg=236 guifg=#cc8881 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi ErrorMsg ctermfg=174 ctermbg=236 guifg=#cc8881 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi SpellBad ctermfg=174 ctermbg=236 guifg=#cc8881 guibg=#252d39 guisp=#252d39 cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
-  hi Debug ctermfg=179 ctermbg=NONE guifg=#c5ad79 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Delimiter ctermfg=179 ctermbg=NONE guifg=#c5ad79 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Special ctermfg=179 ctermbg=NONE guifg=#c5ad79 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpecialChar ctermfg=179 ctermbg=NONE guifg=#c5ad79 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpecialComment ctermfg=179 ctermbg=NONE guifg=#c5ad79 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi SpecialKey ctermfg=179 ctermbg=NONE guifg=#c5ad79 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Tag ctermfg=179 ctermbg=NONE guifg=#c5ad79 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Todo ctermfg=179 ctermbg=NONE guifg=#c5ad79 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi DiffChanged ctermfg=179 ctermbg=236 guifg=#c5ad79 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi DiffText ctermfg=179 ctermbg=236 guifg=#c5ad79 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi Search ctermfg=179 ctermbg=236 guifg=#c5ad79 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Debug ctermfg=179 ctermbg=NONE guifg=#b9a16f guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Delimiter ctermfg=179 ctermbg=NONE guifg=#b9a16f guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Special ctermfg=179 ctermbg=NONE guifg=#b9a16f guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpecialChar ctermfg=179 ctermbg=NONE guifg=#b9a16f guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpecialComment ctermfg=179 ctermbg=NONE guifg=#b9a16f guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi SpecialKey ctermfg=179 ctermbg=NONE guifg=#b9a16f guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Tag ctermfg=179 ctermbg=NONE guifg=#b9a16f guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Todo ctermfg=179 ctermbg=NONE guifg=#b9a16f guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi DiffChanged ctermfg=179 ctermbg=236 guifg=#b9a16f guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi DiffText ctermfg=179 ctermbg=236 guifg=#b9a16f guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi Search ctermfg=179 ctermbg=236 guifg=#b9a16f guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Conditional ctermfg=108 ctermbg=NONE guifg=#84a27c guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Exception ctermfg=108 ctermbg=NONE guifg=#84a27c guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Keyword ctermfg=108 ctermbg=NONE guifg=#84a27c guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -175,17 +175,17 @@ hi DiffRemoved ctermfg=167 ctermbg=255 guifg=#c4504c guibg=#e9f3ff guisp=NONE ct
 hi Error ctermfg=167 ctermbg=255 guifg=#c4504c guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi ErrorMsg ctermfg=167 ctermbg=255 guifg=#c4504c guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi SpellBad ctermfg=167 ctermbg=255 guifg=#c4504c guibg=#e9f3ff guisp=#e9f3ff cterm=NONE,reverse,underline gui=NONE,reverse,undercurl
-hi Debug ctermfg=136 ctermbg=NONE guifg=#9c7914 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Delimiter ctermfg=136 ctermbg=NONE guifg=#9c7914 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Special ctermfg=136 ctermbg=NONE guifg=#9c7914 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi SpecialChar ctermfg=136 ctermbg=NONE guifg=#9c7914 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi SpecialComment ctermfg=136 ctermbg=NONE guifg=#9c7914 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi SpecialKey ctermfg=136 ctermbg=NONE guifg=#9c7914 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Tag ctermfg=136 ctermbg=NONE guifg=#9c7914 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Todo ctermfg=136 ctermbg=NONE guifg=#9c7914 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi DiffChanged ctermfg=136 ctermbg=255 guifg=#9c7914 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi DiffText ctermfg=136 ctermbg=255 guifg=#9c7914 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi Search ctermfg=136 ctermbg=255 guifg=#9c7914 guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi Debug ctermfg=136 ctermbg=NONE guifg=#97750e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Delimiter ctermfg=136 ctermbg=NONE guifg=#97750e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Special ctermfg=136 ctermbg=NONE guifg=#97750e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi SpecialChar ctermfg=136 ctermbg=NONE guifg=#97750e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi SpecialComment ctermfg=136 ctermbg=NONE guifg=#97750e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi SpecialKey ctermfg=136 ctermbg=NONE guifg=#97750e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Tag ctermfg=136 ctermbg=NONE guifg=#97750e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Todo ctermfg=136 ctermbg=NONE guifg=#97750e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi DiffChanged ctermfg=136 ctermbg=255 guifg=#97750e guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi DiffText ctermfg=136 ctermbg=255 guifg=#97750e guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi Search ctermfg=136 ctermbg=255 guifg=#97750e guibg=#e9f3ff guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi Conditional ctermfg=28 ctermbg=NONE guifg=#438638 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Exception ctermfg=28 ctermbg=NONE guifg=#438638 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Keyword ctermfg=28 ctermbg=NONE guifg=#438638 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -217,7 +217,7 @@ finish
 " Color:      gry3 #4b5a70 ~
 " Color:      gryc #2b3747 ~
 " Color:      red_ #c4504c ~
-" Color:      gold #9c7914 ~
+" Color:      gold #97750e ~
 " Color:      gren #438638 ~
 " Color:      cyan #008b8b ~
 " Color:      blue #007ed4 ~
@@ -323,7 +323,7 @@ finish
 " Color:      gry3 #9fb0c8 ~
 " Color:      gryc #d6e2f7 ~
 " Color:      red_ #cc8881 ~
-" Color:      gold #c5ad79 ~
+" Color:      gold #b9a16f ~
 " Color:      gren #84a27c ~
 " Color:      cyan #62a6a4 ~
 " Color:      blue #779ecf ~
