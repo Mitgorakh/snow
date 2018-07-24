@@ -24,6 +24,25 @@
 </td>
 </tr>
 
+<tr></tr>
+
+<tr><td colspan='2'>
+
+<table><tbody>
+<tr>
+<td><h5>background</h5><h6>winter noon</h6></td>
+<td><img src='http://www.colorhexa.com/eff2f5.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/c44846.png' height='24' width='39'></td>
+<td><h5>types</h5><h6>poinsettia red</h6></td>
+<td><img src='http://www.colorhexa.com/d27d75.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/252d39.png' height='24' width='39'></td>
+<td><h5>background</h5><h6>winter midnight</h6></td>
+</tr>
+</tbody></table>
+
+</td></tr>
+
+
 </tbody></table>
 
 <br>
