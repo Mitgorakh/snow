@@ -4,7 +4,7 @@ let s:gry2 = "#728199"
 let s:gry3 = "#4a5a6f"
 let s:red_ = "#c44846"
 let s:mgnt = "#ae4fa3"
-let s:gren = "#34832a"
+let s:gren = "#36852c"
 let s:blue = "#007ad0"
 
 let s:p = { "normal" : {} , "inactive": {} , "insert"  : {} ,
