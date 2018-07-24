@@ -36,7 +36,7 @@
 <td width='202'><h5>types</h5><h6>poinsettia red</h6></td>
 <td><img src='http://www.colorhexa.com/d27d75.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/252d39.png' height='24' width='39'></td>
-<td width='202'><h5>background</h5><h6>winter midnight</h6></td>
+<td width='202'><h5>background<h6>winter midnight</h6></h5></td>
 </tr>
 </tbody></table>
 
