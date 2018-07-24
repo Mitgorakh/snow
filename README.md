@@ -55,6 +55,16 @@
 <td><img src='http://www.colorhexa.com/728199.png' height='24' width='39'></td>
 <td><h5>comments</h5><h6>winter dawn</h6></td>
 </tr>
+<tr></tr>
+<tr>
+<td><h5>text</h5><h6>winter twilight</h6></td>
+<td><img src='http://www.colorhexa.com/4a5a6f.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/008b8c.png' height='24' width='39'></td>
+<td colspan='2'><h5>meta-statements</h5><h6>ice blue-green</h6></td>
+<td><img src='http://www.colorhexa.com/59a8a5.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/9fb0c8.png' height='24' width='39'></td>
+<td><h5>text</h5><h6>winter morning</h6></td>
+</tr>
 
 
 </tbody></table>
