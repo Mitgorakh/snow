@@ -30,7 +30,6 @@ PmenuSel           gry3   gry0   reverse
 SignColumn         gry3   none
 StatusLine         gry3   gry0   reverse
 StatusLineTerm     gry3   gry0   reverse
-TabLineSel         gry3   gry0   reverse
 
 # reverse soft
 TermCursorNC       gry2   gry0   reverse
@@ -106,9 +105,10 @@ Operator           gren   none
 Repeat             gren   none
 Statement          gren   none
 
-# reverse green diff additions
+# reverse green selected tab and diff additions
 DiffAdd            gren   gry0   reverse
 DiffAdded          gren   gry0   reverse
+TabLineSel         gren   gry0   reverse
 
 # cyan meta-actions
 Define             cyan   none

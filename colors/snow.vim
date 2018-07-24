@@ -42,7 +42,6 @@ if &background ==# 'dark'
   hi SignColumn ctermfg=250 ctermbg=NONE guifg=#b3c0d3 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi StatusLine ctermfg=250 ctermbg=236 guifg=#b3c0d3 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi StatusLineTerm ctermfg=250 ctermbg=236 guifg=#b3c0d3 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi TabLineSel ctermfg=250 ctermbg=236 guifg=#b3c0d3 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi TermCursorNC ctermfg=67 ctermbg=236 guifg=#758193 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi VisualNOS ctermfg=67 ctermbg=236 guifg=#758193 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi ColorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2d3744 guisp=NONE cterm=NONE gui=NONE
@@ -97,6 +96,7 @@ if &background ==# 'dark'
   hi Statement ctermfg=108 ctermbg=NONE guifg=#86a97d guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi DiffAdd ctermfg=108 ctermbg=236 guifg=#86a97d guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi DiffAdded ctermfg=108 ctermbg=236 guifg=#86a97d guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi TabLineSel ctermfg=108 ctermbg=236 guifg=#86a97d guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi Define ctermfg=73 ctermbg=NONE guifg=#6faaa8 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Include ctermfg=73 ctermbg=NONE guifg=#6faaa8 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Macro ctermfg=73 ctermbg=NONE guifg=#6faaa8 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -139,7 +139,6 @@ hi PmenuSel ctermfg=239 ctermbg=255 guifg=#434e5f guibg=#eff2f7 guisp=NONE cterm
 hi SignColumn ctermfg=239 ctermbg=NONE guifg=#434e5f guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi StatusLine ctermfg=239 ctermbg=255 guifg=#434e5f guibg=#eff2f7 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi StatusLineTerm ctermfg=239 ctermbg=255 guifg=#434e5f guibg=#eff2f7 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi TabLineSel ctermfg=239 ctermbg=255 guifg=#434e5f guibg=#eff2f7 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi TermCursorNC ctermfg=67 ctermbg=255 guifg=#758193 guibg=#eff2f7 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi VisualNOS ctermfg=67 ctermbg=255 guifg=#758193 guibg=#eff2f7 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi ColorColumn ctermfg=NONE ctermbg=254 guifg=NONE guibg=#dce2eb guisp=NONE cterm=NONE gui=NONE
@@ -194,6 +193,7 @@ hi Repeat ctermfg=28 ctermbg=NONE guifg=#3e8633 guibg=NONE guisp=NONE cterm=NONE
 hi Statement ctermfg=28 ctermbg=NONE guifg=#3e8633 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi DiffAdd ctermfg=28 ctermbg=255 guifg=#3e8633 guibg=#eff2f7 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi DiffAdded ctermfg=28 ctermbg=255 guifg=#3e8633 guibg=#eff2f7 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi TabLineSel ctermfg=28 ctermbg=255 guifg=#3e8633 guibg=#eff2f7 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi Define ctermfg=30 ctermbg=NONE guifg=#008a8a guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Include ctermfg=30 ctermbg=NONE guifg=#008a8a guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Macro ctermfg=30 ctermbg=NONE guifg=#008a8a guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -253,7 +253,6 @@ finish
 " SignColumn         gry3   none
 " StatusLine         gry3   gry0   reverse
 " StatusLineTerm     gry3   gry0   reverse
-" TabLineSel         gry3   gry0   reverse
 " TermCursorNC       gry2   gry0   reverse
 " VisualNOS          gry2   gry0   reverse
 " ColorColumn        none   gry1
@@ -308,6 +307,7 @@ finish
 " Statement          gren   none
 " DiffAdd            gren   gry0   reverse
 " DiffAdded          gren   gry0   reverse
+" TabLineSel         gren   gry0   reverse
 " Define             cyan   none
 " Include            cyan   none
 " Macro              cyan   none
@@ -365,7 +365,6 @@ finish
 " SignColumn         gry3   none
 " StatusLine         gry3   gry0   reverse
 " StatusLineTerm     gry3   gry0   reverse
-" TabLineSel         gry3   gry0   reverse
 " TermCursorNC       gry2   gry0   reverse
 " VisualNOS          gry2   gry0   reverse
 " ColorColumn        none   gry1
@@ -420,6 +419,7 @@ finish
 " Statement          gren   none
 " DiffAdd            gren   gry0   reverse
 " DiffAdded          gren   gry0   reverse
+" TabLineSel         gren   gry0   reverse
 " Define             cyan   none
 " Include            cyan   none
 " Macro              cyan   none
