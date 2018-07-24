@@ -101,7 +101,7 @@
 
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/gold.png' /> gold is a special color, gold text is for...*
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/937207.png" height='12' width='12'> **specials** (that is, elements with a specialized function <img height="16" src='https://github.com/nightsense/snow/raw/master/images/special.png' />), such as delimiters and debug statements
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/937207.png" height='12' width='12'> **specials** (elements with a specialized function <img height="16" src='https://github.com/nightsense/snow/raw/master/images/special.png' />), such as delimiters and debug statements
 
 <br>
 
