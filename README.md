@@ -1,7 +1,7 @@
-<table><tbody>
+<table><tbody align='center'>
 
-<tr align='center'>
-<td colspan='2'><h1>snow</h1>
+<tr>
+<td colspan='8'><h1>snow</h1>
 <img src="https://github.com/nightsense/snow/raw/master/images/header.jpg" />
 <h4>a blue-tinted winter vimscape</h4>
 </td>
@@ -9,15 +9,15 @@
 
 <tr></tr>
 
-<tr align='center'>
+<tr>
 
-<td width='50%'><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" />
+<td colspan='4' width='50%'><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" />
 <br>
 <img src="https://github.com/nightsense/snow/raw/master/images/palette-light.png" height="66" />
 <br>
 </td>
 
-<td width='50%'><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="175" />
+<td colspan='4' width='50%'><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="175" />
 <br>
 <img src="https://github.com/nightsense/snow/raw/master/images/palette-dark.png" height="66" />
 <br>
@@ -26,19 +26,16 @@
 
 <tr></tr>
 
-<tr><td colspan='2'>
-
-<table><tbody align='center'>
-<tr align='center'>
+<tr>
 <td width='202'><h5>background</h5><h6>winter noon</h6></td>
 <td><img src='http://www.colorhexa.com/eff2f5.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/c44846.png' height='24' width='39'></td>
-<td width='202'><h5>types</h5><h6>poinsettia red</h6></td>
+<td width='202' colspan='2'><h5>types</h5><h6>poinsettia red</h6></td>
 <td><img src='http://www.colorhexa.com/d27d75.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/252d39.png' height='24' width='39'></td>
 <td width='202'><h5>background</h5><h6>winter midnight</h6></td>
 </tr>
-<tr align='center'>
+<tr>
 <td><h5>highlights</h5><h6>winter day</h6></td>
 <td><img src='http://www.colorhexa.com/dce2eb.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/97750e.png' height='24' width='39'></td>
@@ -56,9 +53,6 @@
 <td><img src='http://www.colorhexa.com/2d3745.png' height='24' width='39'></td>
 <td><h5>highlights</h5><h6>winter night</h6></td>
 </tr>
-</tbody></table>
-
-</td></tr>
 
 
 </tbody></table>
