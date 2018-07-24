@@ -1,7 +1,7 @@
 <table><tbody>
 
-<tr>
-<td align='center' colspan='2'><h1>snow</h1>
+<tr align='center'>
+<td colspan='2'><h1>snow</h1>
 <img src="https://github.com/nightsense/snow/raw/master/images/header.jpg" />
 <h4>a blue-tinted winter vimscape</h4>
 </td>
@@ -9,15 +9,15 @@
 
 <tr></tr>
 
-<tr>
+<tr align='center'>
 
-<td align='center' width='50%'><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" />
+<td width='50%'><img alt="screenshot of the snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-light.png" height="175" />
 <br>
 <img src="https://github.com/nightsense/snow/raw/master/images/palette-light.png" height="66" />
 <br>
 </td>
 
-<td align='center' width='50%'><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="175" />
+<td width='50%'><img alt="screenshot of the snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-dark.png" height="175" />
 <br>
 <img src="https://github.com/nightsense/snow/raw/master/images/palette-dark.png" height="66" />
 <br>
@@ -30,13 +30,13 @@
 
 <table><tbody>
 <tr align='center'>
-<td><h5>background</h5><h6>winter noon</h6></td>
+<td width='143'><h5>background</h5><h6>winter noon</h6></td>
 <td><img src='http://www.colorhexa.com/eff2f5.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/c44846.png' height='24' width='39'></td>
-<td><h5>types</h5><h6>poinsettia red</h6></td>
+<td width='143'><h5>types</h5><h6>poinsettia red</h6></td>
 <td><img src='http://www.colorhexa.com/d27d75.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/252d39.png' height='24' width='39'></td>
-<td><h5>background</h5><h6>winter midnight</h6></td>
+<td width='143'><h5>background</h5><h6>winter midnight</h6></td>
 </tr>
 </tbody></table>
 
