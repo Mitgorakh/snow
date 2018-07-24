@@ -91,9 +91,7 @@
 
 <br>
 
-<em>*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life, reddish text is for...*</em>
-
-<br>
+*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life, reddish text is for...*
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/ae4fa3.png" height='12' width='12'> **names**, which give life <img height="9" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
 
