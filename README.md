@@ -156,9 +156,24 @@ colorscheme snow
 set background=dark
 ```
 
+To set the background automatically based on the time at which vim is launched:
+
+```
+colorscheme snow
+if strftime('%H') >= 7 && strftime('%H') < 19
+  set background=light
+else
+  set background=dark
+endif
+```
+
+...which activates the light version of snow during the day (7AM-7PM), dark version at night.
+
+> If you'd like themes and/or backgrounds to switch automatically (based on absolute time or sun-relative time), you might want to try out [night-and-day](https://github.com/nightsense/night-and-day).
+
 ## status line themes
 
-snow comes with themes for airline and lightline, with separate themes for each background setting.
+snow comes with themes for airline and lightline, with separate light/dark themes.
 
 For instance, to activate the airline theme with dark background:
 
@@ -172,29 +187,17 @@ For the lightline theme with light background:
 let g:lightline = { 'colorscheme': 'snow_light' }
 ```
 
-## rotation
-
-If you'd like themes and/or backgrounds to switch automatically (based on absolute time or sun-relative time), you might want to try out [night-and-day](https://github.com/nightsense/night-and-day).
-
-For instance, to use the light snow theme 6AM-6PM, dark theme otherwise:
+Status line themes can be added to the time-based snippet above:
 
 ```
-let g:nd_themes = [
-  \ [ '06:00' , 'snow' , 'light' ],
-  \ [ '18:00' , 'snow' , 'dark'  ],
-  \ ]
-```
-
-Or, using sun-relative times and adding lightline themes:
-
-```
-let g:nd_themes = [
-\ ['sunrise+0'  , 'snow' , 'light', 'snow_light' ],
-\ ['sunset+0'   , 'snow' , 'dark' , 'snow_dark'  ],
-\ ]
-let g:nd_latitude = '50'
-let g:nd_timeshift = '74'
-let g:nd_lightline = 1
+color snow
+if strftime('%H') >= 7 && strftime('%H') < 19
+  set background=light
+  let g:lightline = { 'colorscheme': 'snow_light' }
+else
+  set background=dark
+  let g:lightline = { 'colorscheme': 'snow_dark' }
+endif
 ```
 
 ## terminal vim
