@@ -35,6 +35,7 @@
 <td><img src='http://www.colorhexa.com/252d39.png' height='24' width='39'></td>
 <td width='202'><h5>background</h5><h6>winter midnight</h6></td>
 </tr>
+<tr></tr>
 <tr>
 <td><h5>highlights</h5><h6>winter day</h6></td>
 <td><img src='http://www.colorhexa.com/dce2eb.png' height='24' width='39'></td>
@@ -44,14 +45,15 @@
 <td><img src='http://www.colorhexa.com/2d3745.png' height='24' width='39'></td>
 <td><h5>highlights</h5><h6>winter night</h6></td>
 </tr>
+<tr></tr>
 <tr>
-<td><h5>comments</h5><h6>winter day</h6></td>
-<td><img src='http://www.colorhexa.com/dce2eb.png' height='24' width='39'></td>
-<td><img src='http://www.colorhexa.com/97750e.png' height='24' width='39'></td>
-<td colspan='2'><h5>special elements</h5><h6>lichen gold</h6></td>
-<td><img src='http://www.colorhexa.com/bfa774.png' height='24' width='39'></td>
-<td><img src='http://www.colorhexa.com/2d3745.png' height='24' width='39'></td>
-<td><h5>highlights</h5><h6>winter night</h6></td>
+<td><h5>comments</h5><h6>winter dusk</h6></td>
+<td><img src='http://www.colorhexa.com/728199.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/36852c.png' height='24' width='39'></td>
+<td colspan='2'><h5>statements</h5><h6>conifer green</h6></td>
+<td><img src='http://www.colorhexa.com/7da573.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/728199.png' height='24' width='39'></td>
+<td><h5>comments</h5><h6>winter dawn</h6></td>
 </tr>
 
 
