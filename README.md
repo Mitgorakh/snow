@@ -43,8 +43,8 @@
 <td><img src='http://www.colorhexa.com/dce2eb.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/97750e.png' height='24' width='39'></td>
 <td><h5>special elements</h5><h6>lichen gold</h6></td>
-<td><img src='http://www.colorhexa.com/2d3745.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/bfa774.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/2d3745.png' height='24' width='39'></td>
 <td><h5>highlights</h5><h6>winter night</h6></td>
 </tr>
 </tbody></table>
