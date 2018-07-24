@@ -121,9 +121,6 @@
 
 </tbody></table>
 
-<br>
-
-
 ## installation
 
 If you don’t have a preferred plugin helper, consider trying [vim-plug](https://github.com/junegunn/vim-plug), which can be installed with:
