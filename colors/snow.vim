@@ -62,10 +62,10 @@ if &background ==# 'dark'
   hi TabLineFill ctermfg=237 ctermbg=237 guifg=#2d3745 guibg=#2d3745 guisp=NONE cterm=NONE gui=NONE
   hi ToolbarLine ctermfg=237 ctermbg=237 guifg=#2d3745 guibg=#2d3745 guisp=NONE cterm=NONE gui=NONE
   hi VertSplit ctermfg=67 ctermbg=67 guifg=#728199 guibg=#728199 guisp=NONE cterm=NONE gui=NONE
-  hi SpellBad ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=Red cterm=NONE,underline gui=NONE,undercurl
-  hi SpellCap ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=Blue cterm=NONE,underline gui=NONE,undercurl
-  hi SpellLocal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=DarkCyan cterm=NONE,underline gui=NONE,undercurl
-  hi SpellRare ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=Magenta cterm=NONE,underline gui=NONE,undercurl
+  hi SpellBad ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#ff5255 cterm=NONE,underline gui=NONE,undercurl
+  hi SpellCap ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#00a0ff cterm=NONE,underline gui=NONE,undercurl
+  hi SpellLocal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#00b4b7 cterm=NONE,underline gui=NONE,undercurl
+  hi SpellRare ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#ec59dd cterm=NONE,underline gui=NONE,undercurl
   hi Function ctermfg=139 ctermbg=NONE guifg=#b985b1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Identifier ctermfg=139 ctermbg=NONE guifg=#b985b1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi TooLong ctermfg=139 ctermbg=236 guifg=#b985b1 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
@@ -159,10 +159,10 @@ hi PmenuThumb ctermfg=24 ctermbg=24 guifg=#4a5a6f guibg=#4a5a6f guisp=NONE cterm
 hi TabLineFill ctermfg=254 ctermbg=254 guifg=#dce2eb guibg=#dce2eb guisp=NONE cterm=NONE gui=NONE
 hi ToolbarLine ctermfg=254 ctermbg=254 guifg=#dce2eb guibg=#dce2eb guisp=NONE cterm=NONE gui=NONE
 hi VertSplit ctermfg=67 ctermbg=67 guifg=#728199 guibg=#728199 guisp=NONE cterm=NONE gui=NONE
-hi SpellBad ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=Red cterm=NONE,underline gui=NONE,undercurl
-hi SpellCap ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=Blue cterm=NONE,underline gui=NONE,undercurl
-hi SpellLocal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=DarkCyan cterm=NONE,underline gui=NONE,undercurl
-hi SpellRare ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=Magenta cterm=NONE,underline gui=NONE,undercurl
+hi SpellBad ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#f20028 cterm=NONE,underline gui=NONE,undercurl
+hi SpellCap ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#0082ff cterm=NONE,underline gui=NONE,undercurl
+hi SpellLocal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#00949d cterm=NONE,underline gui=NONE,undercurl
+hi SpellRare ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#d800cb cterm=NONE,underline gui=NONE,undercurl
 hi Function ctermfg=133 ctermbg=NONE guifg=#ae4fa3 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Identifier ctermfg=133 ctermbg=NONE guifg=#ae4fa3 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi TooLong ctermfg=133 ctermbg=255 guifg=#ae4fa3 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
@@ -217,6 +217,10 @@ finish
 " Color:      gry3 #4a5a6f ~
 " Color:      gryc #2d3745 ~
 " Color:      srch #e5bc5a ~
+" Color:      sprd #f20028 ~
+" Color:      spbl #0082ff ~
+" Color:      spcy #00949d ~
+" Color:      spmg #d800cb ~
 " Color:      prnt #007ad0 ~
 " Color:      red_ #c44846 ~
 " Color:      gold #97750e ~
@@ -269,14 +273,10 @@ finish
 " TabLineFill        gry1   gry1
 " ToolbarLine        gry1   gry1
 " VertSplit          gry2   gry2
-" Color: dred Red      9  Red
-" Color: dblu Blue     12 Blue
-" Color: dcyn DarkCyan 6  DarkCyan
-" Color: dmgt Magenta  13 Magenta
-" SpellBad           none   none   g=undercurl   s=dred   t=underline
-" SpellCap           none   none   g=undercurl   s=dblu   t=underline
-" SpellLocal         none   none   g=undercurl   s=dcyn   t=underline
-" SpellRare          none   none   g=undercurl   s=dmgt   t=underline
+" SpellBad           none   none   g=undercurl   s=sprd   t=underline
+" SpellCap           none   none   g=undercurl   s=spbl   t=underline
+" SpellLocal         none   none   g=undercurl   s=spcy   t=underline
+" SpellRare          none   none   g=undercurl   s=spmg   t=underline
 " Function           mgnt   none
 " Identifier         mgnt   none
 " TooLong            mgnt   gry0   reverse
@@ -328,6 +328,10 @@ finish
 " Color:      gry2 #728199 ~
 " Color:      gry3 #9fb0c8 ~
 " Color:      gryc #dce2eb ~
+" Color:      sprd #ff5255 ~
+" Color:      spbl #00a0ff ~
+" Color:      spcy #00b4b7 ~
+" Color:      spmg #ec59dd ~
 " Color:      srch #95638e ~
 " Color:      prnt #59a8a5 ~
 " Color:      red_ #d27d75 ~
@@ -381,14 +385,10 @@ finish
 " TabLineFill        gry1   gry1
 " ToolbarLine        gry1   gry1
 " VertSplit          gry2   gry2
-" Color: dred Red      9  Red
-" Color: dblu Blue     12 Blue
-" Color: dcyn DarkCyan 6  DarkCyan
-" Color: dmgt Magenta  13 Magenta
-" SpellBad           none   none   g=undercurl   s=dred   t=underline
-" SpellCap           none   none   g=undercurl   s=dblu   t=underline
-" SpellLocal         none   none   g=undercurl   s=dcyn   t=underline
-" SpellRare          none   none   g=undercurl   s=dmgt   t=underline
+" SpellBad           none   none   g=undercurl   s=sprd   t=underline
+" SpellCap           none   none   g=undercurl   s=spbl   t=underline
+" SpellLocal         none   none   g=undercurl   s=spcy   t=underline
+" SpellRare          none   none   g=undercurl   s=spmg   t=underline
 " Function           mgnt   none
 " Identifier         mgnt   none
 " TooLong            mgnt   gry0   reverse

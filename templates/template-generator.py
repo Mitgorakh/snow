@@ -104,6 +104,16 @@ hexgry2_dk = tohex( gold(1.30) , gold(4.00) , hue_base )
 hexgry3_dk = tohex( gold(0.71) , gold(4.00) , hue_base )
 hexsrch_dk = tohex( gold(1.50) , gold(2.50) , 330.0    )
 
+hexsprd_lt = tohex( gold(1.50) , gold(0.00) , 030.0    )
+hexspbl_lt = tohex( gold(1.50) , gold(0.00) , 262.5    )
+hexspcy_lt = tohex( gold(1.50) , gold(0.00) , 195.0    )
+hexspmg_lt = tohex( gold(1.50) , gold(0.00) , 330.0    )
+
+hexsprd_dk = tohex( gold(1.00) , gold(0.50) , 030.0    )
+hexspbl_dk = tohex( gold(1.00) , gold(0.50) , 262.5    )
+hexspcy_dk = tohex( gold(1.00) , gold(0.50) , 195.0    )
+hexspmg_dk = tohex( gold(1.00) , gold(0.50) , 330.0    )
+
 lt_lum = gold(1.5)
 dk_lum = gold(1.0)
 
@@ -135,6 +145,10 @@ print 'Color:      gry2 %s ~' % hexgry2_lt
 print 'Color:      gry3 %s ~' % hexgry3_lt
 print 'Color:      gryc %s ~' % hexgry1_dk
 print 'Color:      srch %s ~' % hexsrch_lt
+print 'Color:      sprd %s ~' % hexsprd_lt
+print 'Color:      spbl %s ~' % hexspbl_lt
+print 'Color:      spcy %s ~' % hexspcy_lt
+print 'Color:      spmg %s ~' % hexspmg_lt
 print 'Color:      prnt %s ~' % hexblue_lt
 print 'Color:      red_ %s ~' % hexred__lt
 print 'Color:      gold %s ~' % hexgold_lt
@@ -153,6 +167,10 @@ print 'Color:      gry1 %s ~' % hexgry1_dk
 print 'Color:      gry2 %s ~' % hexgry2_dk
 print 'Color:      gry3 %s ~' % hexgry3_dk
 print 'Color:      gryc %s ~' % hexgry1_lt
+print 'Color:      sprd %s ~' % hexsprd_dk
+print 'Color:      spbl %s ~' % hexspbl_dk
+print 'Color:      spcy %s ~' % hexspcy_dk
+print 'Color:      spmg %s ~' % hexspmg_dk
 print 'Color:      srch %s ~' % hexsrch_dk
 print 'Color:      prnt %s ~' % hexcyan_dk
 print 'Color:      red_ %s ~' % hexred__dk

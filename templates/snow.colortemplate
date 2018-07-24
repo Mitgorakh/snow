@@ -12,6 +12,10 @@ Color:      gry2 #728199 ~
 Color:      gry3 #4a5a6f ~
 Color:      gryc #2d3745 ~
 Color:      srch #e5bc5a ~
+Color:      sprd #f20028 ~
+Color:      spbl #0082ff ~
+Color:      spcy #00949d ~
+Color:      spmg #d800cb ~
 Color:      prnt #007ad0 ~
 Color:      red_ #c44846 ~
 Color:      gold #97750e ~
@@ -104,6 +108,10 @@ Color:      gry1 #2d3745 ~
 Color:      gry2 #728199 ~
 Color:      gry3 #9fb0c8 ~
 Color:      gryc #dce2eb ~
+Color:      sprd #ff5255 ~
+Color:      spbl #00a0ff ~
+Color:      spcy #00b4b7 ~
+Color:      spmg #ec59dd ~
 Color:      srch #95638e ~
 Color:      prnt #59a8a5 ~
 Color:      red_ #d27d75 ~

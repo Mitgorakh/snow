@@ -1,4 +1,4 @@
-# regular fg/bg
+# regular
 Bold               none   none   bold
 Conceal            none   none
 Directory          none   none   bold
@@ -14,7 +14,7 @@ Terminal           none   none
 Title              none   none   bold
 Underlined         none   none   underline
 
-# soft fg
+# soft
 Comment            gry2   none
 CursorLineNr       gry2   none
 LineNr             gry2   none
@@ -37,7 +37,7 @@ WildMenu           gry3   gry0   reverse
 TermCursorNC       gry2   gry0   reverse
 VisualNOS          gry2   gry0   reverse
 
-# highlit background
+# highlit
 ColorColumn        none   gry1
 CursorColumn       none   gry1
 CursorLine         none   gry1
@@ -57,15 +57,11 @@ TabLineFill        gry1   gry1
 ToolbarLine        gry1   gry1
 VertSplit          gry2   gry2
 
-# spellcheck undercurls (default vim colors)
-Color: dred Red      9  Red
-Color: dblu Blue     12 Blue
-Color: dcyn DarkCyan 6  DarkCyan
-Color: dmgt Magenta  13 Magenta
-SpellBad           none   none   g=undercurl   s=dred   t=underline
-SpellCap           none   none   g=undercurl   s=dblu   t=underline
-SpellLocal         none   none   g=undercurl   s=dcyn   t=underline
-SpellRare          none   none   g=undercurl   s=dmgt   t=underline
+# undercurled
+SpellBad           none   none   g=undercurl   s=sprd   t=underline
+SpellCap           none   none   g=undercurl   s=spbl   t=underline
+SpellLocal         none   none   g=undercurl   s=spcy   t=underline
+SpellRare          none   none   g=undercurl   s=spmg   t=underline
 
 # magenta names
 Function           mgnt   none
