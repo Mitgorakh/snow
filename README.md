@@ -68,7 +68,7 @@
 <tr></tr>
 <tr>
 <td><h5>cursor</h5><h6>winter night</h6></td>
-<td><img src='http://www.colorhexa.com/ae4fa3.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/2d3745.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/007ad0.png' height='24' width='39'></td>
 <td colspan='2'><h5>constants</h5><h6>frost blue</h6></td>
 <td><img src='http://www.colorhexa.com/7299ca.png' height='24' width='39'></td>
