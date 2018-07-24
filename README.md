@@ -173,7 +173,7 @@ endif
 
 ## status line themes
 
-snow comes with themes for airline and lightline, with separate light/dark themes.
+snow comes with light and dark themes for airline and lightline.
 
 For instance, to activate the airline theme with dark background:
 
