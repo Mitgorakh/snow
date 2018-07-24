@@ -85,13 +85,13 @@
 <td><img src='http://www.colorhexa.com/95638e.png' height='24' width='39'></td>
 <td><h5>search</h5><h6>dark sugarplum</h6></td>
 </tr>
+<tr></tr>
 
+<td colspan='8'>
 
-</tbody></table>
+<em>*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life, reddish text is for...*</em>
 
 <br>
-
-*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life, reddish text is for...*
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/ae4fa3.png" height='12' width='12'> **names**, which give life <img height="9" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
 
@@ -110,6 +110,13 @@
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm color of sea and sky, evoking enduring constancy, blue text is for...*
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/007ad0.png" height='12' width='12'> **constants** (values that are fixed <img height="22" src='https://github.com/nightsense/snow/raw/master/images/constant.png' /> in place), such as booleans, integers, and strings
+
+</td>
+
+</tbody></table>
+
+<br>
+
 
 ## installation
 
