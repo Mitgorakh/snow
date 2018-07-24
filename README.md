@@ -29,7 +29,7 @@
 <tr><td colspan='2'>
 
 <table><tbody>
-<tr>
+<tr align='center'>
 <td><h5>background</h5><h6>winter noon</h6></td>
 <td><img src='http://www.colorhexa.com/eff2f5.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/c44846.png' height='24' width='39'></td>
