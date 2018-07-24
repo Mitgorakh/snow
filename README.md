@@ -101,7 +101,7 @@
 
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/gold.png' /> gold is a special color, gold text is for...*
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/937207.png" height='12' width='12'> **special elements** <img height="16" src='https://github.com/nightsense/snow/raw/master/images/special.png' />, such as delimiters and debug statements
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/937207.png" height='12' width='12'> **special elements** <img height="15" src='https://github.com/nightsense/snow/raw/master/images/special.png' />, such as delimiters and debug statements
 
 <br>
 
@@ -113,7 +113,7 @@
 
 <br>
 
-*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm color of sea and sky, evoking enduring constancy, blue text is for...*
+*because <img height="14" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm color of sea and sky, evoking enduring constancy, blue text is for...*
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/007ad0.png" height='12' width='12'> **constants** (values that are fixed <img height="22" src='https://github.com/nightsense/snow/raw/master/images/constant.png' /> in place), such as booleans, integers, and strings
 
