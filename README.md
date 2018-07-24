@@ -75,6 +75,16 @@
 <td><img src='http://www.colorhexa.com/dce2eb.png' height='24' width='39'></td>
 <td><h5>cursor</h5><h6>winter day</h6></td>
 </tr>
+<tr></tr>
+<tr>
+<td><h5>search</h5><h6>yellow</h6></td>
+<td><img src='http://www.colorhexa.com/e5bc5a.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/ae4fa3.png' height='24' width='39'></td>
+<td colspan='2'><h5>names</h5><h6>sugarplum red-purple</h6></td>
+<td><img src='http://www.colorhexa.com/b985b1.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/95638e.png' height='24' width='39'></td>
+<td><h5>search</h5><h6>magenta</h6></td>
+</tr>
 
 
 </tbody></table>
