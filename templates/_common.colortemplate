@@ -31,7 +31,6 @@ SignColumn         gry3   none
 StatusLine         gry3   gry0   reverse
 StatusLineTerm     gry3   gry0   reverse
 TabLineSel         gry3   gry0   reverse
-WildMenu           gry3   gry0   reverse
 
 # reverse soft
 TermCursorNC       gry2   gry0   reverse
@@ -49,6 +48,7 @@ StatusLineNC       gry3   gry1
 StatusLineTermNC   gry3   gry1
 TabLine            gry3   gry1
 ToolbarButton      gry3   gry1   bold
+WildMenu           gry3   gry1
 
 # solid
 PmenuSbar          gry2   gry2

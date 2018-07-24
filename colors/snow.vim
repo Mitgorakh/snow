@@ -43,7 +43,6 @@ if &background ==# 'dark'
   hi StatusLine ctermfg=110 ctermbg=236 guifg=#9fb0c8 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi StatusLineTerm ctermfg=110 ctermbg=236 guifg=#9fb0c8 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi TabLineSel ctermfg=110 ctermbg=236 guifg=#9fb0c8 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi WildMenu ctermfg=110 ctermbg=236 guifg=#9fb0c8 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi TermCursorNC ctermfg=67 ctermbg=236 guifg=#728199 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi VisualNOS ctermfg=67 ctermbg=236 guifg=#728199 guibg=#252d39 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi ColorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2d3745 guisp=NONE cterm=NONE gui=NONE
@@ -57,6 +56,7 @@ if &background ==# 'dark'
   hi StatusLineTermNC ctermfg=110 ctermbg=237 guifg=#9fb0c8 guibg=#2d3745 guisp=NONE cterm=NONE gui=NONE
   hi TabLine ctermfg=110 ctermbg=237 guifg=#9fb0c8 guibg=#2d3745 guisp=NONE cterm=NONE gui=NONE
   hi ToolbarButton ctermfg=110 ctermbg=237 guifg=#9fb0c8 guibg=#2d3745 guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi WildMenu ctermfg=110 ctermbg=237 guifg=#9fb0c8 guibg=#2d3745 guisp=NONE cterm=NONE gui=NONE
   hi PmenuSbar ctermfg=67 ctermbg=67 guifg=#728199 guibg=#728199 guisp=NONE cterm=NONE gui=NONE
   hi PmenuThumb ctermfg=110 ctermbg=110 guifg=#9fb0c8 guibg=#9fb0c8 guisp=NONE cterm=NONE gui=NONE
   hi TabLineFill ctermfg=237 ctermbg=237 guifg=#2d3745 guibg=#2d3745 guisp=NONE cterm=NONE gui=NONE
@@ -140,7 +140,6 @@ hi SignColumn ctermfg=24 ctermbg=NONE guifg=#4a5a6f guibg=NONE guisp=NONE cterm=
 hi StatusLine ctermfg=24 ctermbg=255 guifg=#4a5a6f guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi StatusLineTerm ctermfg=24 ctermbg=255 guifg=#4a5a6f guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi TabLineSel ctermfg=24 ctermbg=255 guifg=#4a5a6f guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi WildMenu ctermfg=24 ctermbg=255 guifg=#4a5a6f guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi TermCursorNC ctermfg=67 ctermbg=255 guifg=#728199 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi VisualNOS ctermfg=67 ctermbg=255 guifg=#728199 guibg=#eff2f5 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi ColorColumn ctermfg=NONE ctermbg=254 guifg=NONE guibg=#dce2eb guisp=NONE cterm=NONE gui=NONE
@@ -154,6 +153,7 @@ hi StatusLineNC ctermfg=24 ctermbg=254 guifg=#4a5a6f guibg=#dce2eb guisp=NONE ct
 hi StatusLineTermNC ctermfg=24 ctermbg=254 guifg=#4a5a6f guibg=#dce2eb guisp=NONE cterm=NONE gui=NONE
 hi TabLine ctermfg=24 ctermbg=254 guifg=#4a5a6f guibg=#dce2eb guisp=NONE cterm=NONE gui=NONE
 hi ToolbarButton ctermfg=24 ctermbg=254 guifg=#4a5a6f guibg=#dce2eb guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi WildMenu ctermfg=24 ctermbg=254 guifg=#4a5a6f guibg=#dce2eb guisp=NONE cterm=NONE gui=NONE
 hi PmenuSbar ctermfg=67 ctermbg=67 guifg=#728199 guibg=#728199 guisp=NONE cterm=NONE gui=NONE
 hi PmenuThumb ctermfg=24 ctermbg=24 guifg=#4a5a6f guibg=#4a5a6f guisp=NONE cterm=NONE gui=NONE
 hi TabLineFill ctermfg=254 ctermbg=254 guifg=#dce2eb guibg=#dce2eb guisp=NONE cterm=NONE gui=NONE
@@ -254,7 +254,6 @@ finish
 " StatusLine         gry3   gry0   reverse
 " StatusLineTerm     gry3   gry0   reverse
 " TabLineSel         gry3   gry0   reverse
-" WildMenu           gry3   gry0   reverse
 " TermCursorNC       gry2   gry0   reverse
 " VisualNOS          gry2   gry0   reverse
 " ColorColumn        none   gry1
@@ -268,6 +267,7 @@ finish
 " StatusLineTermNC   gry3   gry1
 " TabLine            gry3   gry1
 " ToolbarButton      gry3   gry1   bold
+" WildMenu           gry3   gry1
 " PmenuSbar          gry2   gry2
 " PmenuThumb         gry3   gry3
 " TabLineFill        gry1   gry1
@@ -366,7 +366,6 @@ finish
 " StatusLine         gry3   gry0   reverse
 " StatusLineTerm     gry3   gry0   reverse
 " TabLineSel         gry3   gry0   reverse
-" WildMenu           gry3   gry0   reverse
 " TermCursorNC       gry2   gry0   reverse
 " VisualNOS          gry2   gry0   reverse
 " ColorColumn        none   gry1
@@ -380,6 +379,7 @@ finish
 " StatusLineTermNC   gry3   gry1
 " TabLine            gry3   gry1
 " ToolbarButton      gry3   gry1   bold
+" WildMenu           gry3   gry1
 " PmenuSbar          gry2   gry2
 " PmenuThumb         gry3   gry3
 " TabLineFill        gry1   gry1
