@@ -181,7 +181,7 @@ For instance, to activate the airline theme with dark background:
 let g:airline_theme='snow_dark'
 ```
 
-For the lightline theme with light background:
+Or the lightline theme with light background:
 
 ```
 let g:lightline = { 'colorscheme': 'snow_light' }
@@ -190,7 +190,7 @@ let g:lightline = { 'colorscheme': 'snow_light' }
 Status line themes can be added to the time-based snippet above:
 
 ```
-color snow
+colorscheme snow
 if strftime('%H') >= 7 && strftime('%H') < 19
   set background=light
   let g:lightline = { 'colorscheme': 'snow_light' }
