@@ -89,6 +89,8 @@
 
 <td colspan='8'>
 
+<br>
+
 <em>*because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life, reddish text is for...*</em>
 
 <br>
@@ -96,6 +98,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/ae4fa3.png" height='12' width='12'> **names**, which give life <img height="9" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c44846.png" height='12' width='12'> **types** ("meta-names" <img height="15" src='https://github.com/nightsense/snow/raw/master/images/type.png' />), such as variable type (int, char...) or storage class (static, register...)
+
+<br>
 
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/gold.png' /> gold is a special color, gold text is for...*
 
