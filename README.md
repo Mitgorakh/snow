@@ -47,7 +47,7 @@
 </tr>
 <tr></tr>
 <tr>
-<td><h5>comment</h5><h6>winter dawn</h6></td>
+<td><h5>comment</h5><h6>winter dusk</h6></td>
 <td><img src='http://www.colorhexa.com/728199.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/97750e.png' height='24' width='39'></td>
 <td colspan='2'><h5>special</h5><h6>lichen gold</h6></td>
