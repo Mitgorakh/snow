@@ -225,7 +225,7 @@ let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
 let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 ```
 
-Alternatively, if `termguicolors` is not set, terminal vim will fall back to an [xterm-color](https://jonasjacek.github.io/colors/) approximation of snow:
+If `termguicolors` is not set, terminal vim will fall back to an [xterm-color](https://jonasjacek.github.io/colors/) approximation of snow:
 
 <table><tbody>
 <tr>
