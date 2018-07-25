@@ -167,7 +167,7 @@ else
 endif
 ```
 
-...which activates the light version of snow during the day (7AM-7PM), dark version at night.
+...which activates the light version of snow during the day (defined here as 7AM-7PM), dark version at night.
 
 > The [night-and-day](https://github.com/nightsense/night-and-day) plugin can switch themes and/or backgrounds automatically, using absolute or sun-relative time.
 
