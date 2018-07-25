@@ -212,7 +212,7 @@ endif
 
 True-color terminals can produce the exact colors of the snow vim theme.
 
-> "Does my terminal have true-color support?" See [here](https://gist.github.com/XVilka/8346728) for a list of terminals that do, along with a dollop of messy technical detail.
+> See [here](https://gist.github.com/XVilka/8346728) for a list of terminals that feature true-color support, along with a dollop of messy technical detail.
 
 To enable true-color terminal support, add to vimrc:
 
