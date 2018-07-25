@@ -130,7 +130,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
   https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
-With vim-plug, snow can be installed by adding the following to the top of your vimrc...
+Having installed vim-plug, snow can be installed by adding the following to the top of your vimrc...
 
 ```
 call plug#begin('~/.vim/plugged')
