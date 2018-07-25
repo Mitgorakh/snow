@@ -49,13 +49,13 @@ def print_airline(name,bg):
 
 def print_lightline(name,bg):
   print 'auxfile autoload/lightline/colorscheme/%s_%s.vim' % (name, bg)
-  print 'let s:gry0 = "@guigry0"'
-  print 'let s:gry1 = "@guigry1"'
-  print 'let s:gry3 = "@guigry3"'
-  print 'let s:red_ = "@guired_"'
-  print 'let s:mgnt = "@guimgnt"'
-  print 'let s:gren = "@guigren"'
-  print 'let s:blue = "@guiblue"'
+  print 'let s:gry0 = [ "@guigry0", @termgry0 ]'
+  print 'let s:gry1 = [ "@guigry1", @termgry1 ]'
+  print 'let s:gry3 = [ "@guigry3", @termgry3 ]'
+  print 'let s:red_ = [ "@guired_", @termred_ ]'
+  print 'let s:mgnt = [ "@guimgnt", @termmgnt ]'
+  print 'let s:gren = [ "@guigren", @termgren ]'
+  print 'let s:blue = [ "@guiblue", @termblue ]'
   print ''
   print 'let s:p = { "normal" : {} , "inactive": {} , "insert"  : {} ,'
   print '          \ "replace": {} , "visual"  : {} , "tabline" : {} }'
@@ -85,7 +85,7 @@ def print_lightline(name,bg):
   print 'let s:p.normal.warning  = [[ s:mgnt, s:gry0 ]]'
   print ''
   print 'let g:lightline#colorscheme#%s_%s#palette =' % (name, bg)
-  print '  \ lightline#colorscheme#fill(s:p)'
+  print '  \ lightline#colorscheme#flatten(s:p)'
   print 'endauxfile'
 
 hue_base = 262.5
