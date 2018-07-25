@@ -27,53 +27,53 @@
 <tr></tr>
 
 <tr>
-<td width='202'><h5>background</h5><h6>winter noon</h6></td>
+<td width='202'><h5>background</h5><h6>snowy noon</h6></td>
 <td><img src='http://www.colorhexa.com/eff2f7.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/b051a5.png' height='24' width='39'></td>
-<td colspan='2'><h5>name</h5><h6>sugarplum red-purple</h6></td>
+<td colspan='2'><h5>name</h5><h6>icewine red-purple</h6></td>
 <td><img src='http://www.colorhexa.com/be8ab6.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/252d39.png' height='24' width='39'></td>
-<td width='202'><h5>background</h5><h6>winter midnight</h6></td>
+<td width='202'><h5>background</h5><h6>snowy midnight</h6></td>
 </tr>
 <tr></tr>
 <tr>
-<td><h5>highlight</h5><h6>winter day</h6></td>
+<td><h5>highlight</h5><h6>snowy day</h6></td>
 <td><img src='http://www.colorhexa.com/dce2eb.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/c84343.png' height='24' width='39'></td>
 <td width='202' colspan='2'><h5>type</h5><h6>poinsettia red</h6></td>
 <td><img src='http://www.colorhexa.com/d27d75.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/2d3744.png' height='24' width='39'></td>
-<td><h5>highlight</h5><h6>winter night</h6></td>
+<td><h5>highlight</h5><h6>snowy night</h6></td>
 </tr>
 <tr></tr>
 <tr>
-<td><h5>comment</h5><h6>winter dusk</h6></td>
+<td><h5>comment</h5><h6>snowy dusk</h6></td>
 <td><img src='http://www.colorhexa.com/758193.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/9b7700.png' height='24' width='39'></td>
 <td colspan='2'><h5>special</h5><h6>lichen gold</h6></td>
 <td><img src='http://www.colorhexa.com/c7ac72.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/758193.png' height='24' width='39'></td>
-<td><h5>comment</h5><h6>winter dusk</h6></td>
+<td><h5>comment</h5><h6>snowy dusk</h6></td>
 </tr>
 <tr></tr>
 <tr>
-<td><h5>text</h5><h6>winter twilight</h6></td>
+<td><h5>text</h5><h6>snowy twilight</h6></td>
 <td><img src='http://www.colorhexa.com/434e5f.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/408835.png' height='24' width='39'></td>
 <td colspan='2'><h5>statement</h5><h6>conifer green</h6></td>
 <td><img src='http://www.colorhexa.com/8bae82.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/b3c0d3.png' height='24' width='39'></td>
-<td><h5>text</h5><h6>winter evening</h6></td>
+<td><h5>text</h5><h6>snowy evening</h6></td>
 </tr>
 <tr></tr>
 <tr>
-<td><h5>cursor</h5><h6>winter night</h6></td>
+<td><h5>cursor</h5><h6>snowy night</h6></td>
 <td><img src='http://www.colorhexa.com/2d3744.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/008b8b.png' height='24' width='39'></td>
-<td colspan='2'><h5>meta-statement</h5><h6>ice blue-green</h6></td>
+<td colspan='2'><h5>meta-statement</h5><h6>iceberg blue-green</h6></td>
 <td><img src='http://www.colorhexa.com/68aba9.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/dce2eb.png' height='24' width='39'></td>
-<td><h5>cursor</h5><h6>winter day</h6></td>
+<td><h5>cursor</h5><h6>snowy day</h6></td>
 </tr>
 <tr></tr>
 <tr>
