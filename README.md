@@ -210,7 +210,7 @@ endif
 
 ### colors
 
-Terminals with true-color support (see [list](https://gist.github.com/XVilka/8346728)) can display the exact snow colors.
+Terminals/multiplexers with true-color support (see [list](https://gist.github.com/XVilka/8346728)) can display the exact snow colors.
 
 In most cases, you just need this vimrc setting:
 
