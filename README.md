@@ -77,13 +77,13 @@
 </tr>
 <tr></tr>
 <tr>
-<td><h5>search</h5><h6>bright lichen</h6></td>
+<td><h5>search</h5><h6>light lichen</h6></td>
 <td><img src='http://www.colorhexa.com/e5bc5a.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/007ed4.png' height='24' width='39'></td>
 <td colspan='2'><h5>constant</h5><h6>frost blue</h6></td>
 <td><img src='http://www.colorhexa.com/7da3d5.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/95638e.png' height='24' width='39'></td>
-<td><h5>search</h5><h6>dark sugarplum</h6></td>
+<td><h5>search</h5><h6>dark icewine</h6></td>
 </tr>
 <tr></tr>
 
