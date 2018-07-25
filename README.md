@@ -178,17 +178,17 @@ snow comes with light and dark themes for airline and lightline.
 <table><tbody align='center'>
 <tr>
 <td></td>
-<td>light</td>
-<td>dark</td>
-</tr>
-<tr>
 <td>airline</td>
-<td><code>let g:airline_theme='snow_light'</code></td>
-<td><code>let g:airline_theme='snow_dark'</code></td>
+<td>lightline</td>
 </tr>
 <tr>
-<td>lightline</td>
+<td>dark</td>
+<td><code>let g:airline_theme='snow_light'</code></td>
 <td><code>let g:lightline = { 'colorscheme': 'snow_light' }</code></td>
+</tr>
+<tr>
+<td>light</td>
+<td><code>let g:airline_theme='snow_dark'</code></td>
 <td><code>let g:lightline = { 'colorscheme': 'snow_dark' }</code></td>
 </tr>
 </tbody></table>
