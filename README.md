@@ -173,9 +173,9 @@ endif
 
 ## status line themes
 
-snow comes with light and dark themes for airline and lightline.
+snow comes with themes for airline and lightline, which can be activated using the vimrc code provided in the table below.
 
-<table><tbody align='center'>
+<table><tbody align='center' width='100%'>
 <tr>
 <td></td>
 <td>airline</td>
