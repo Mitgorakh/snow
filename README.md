@@ -212,13 +212,13 @@ endif
 
 Terminals/multiplexers with true-color support (see [list](https://gist.github.com/XVilka/8346728)) can display the exact snow colors.
 
-In most cases, you just need this vimrc setting:
+In most cases, the only vimrc setting you need is:
 
 ```
 set termguicolors
 ```
 
-In some cases, you'll also need:
+In some cases you'll also need:
 
 ```
 let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
