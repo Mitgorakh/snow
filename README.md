@@ -225,7 +225,7 @@ let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
 let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 ```
 
-> For information on what these settings do, see the vim documentation entries for `termguicolors` (run `:h termguicolors` at the vim command line) and `xterm-true-color`.
+> For information on what these settings do, see the vim documentation entries for `termguicolors`<br>(run `:h termguicolors` at the vim command line) and `xterm-true-color`.
 
 ### fallback colors
 
