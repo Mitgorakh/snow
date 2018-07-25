@@ -210,28 +210,24 @@ endif
 
 ### colors
 
-True-color terminals can produce the exact colors of the snow vim theme.
+Terminals with true-color support (see [list](https://gist.github.com/XVilka/8346728)) can display the exact colors of the snow vim theme.
 
-> See [here](https://gist.github.com/XVilka/8346728) for a list of terminals that feature true-color support, along with a dollop of messy technical detail.
-
-To enable true-color terminal support, add to vimrc:
+In most cases, you just need this vimrc setting:
 
 ```
 set termguicolors
 ```
 
-> For more info, see the vim documentation entry for `termguicolors` (run `:h termguicolors` at the vim command line).
-
-In some cases, you'll also need to add:
+In some cases, you'll also need:
 
 ```
 let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
 let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 ```
 
-> See `:h xterm-true-color`.
+> For information on what these settings do, see the vim documentation entries for `termguicolors` (run `:h termguicolors` at the vim command line) and `xterm-true-color`.
 
-If `termguicolors` is not set, terminal vim will fall back to an [xterm-color](https://jonasjacek.github.io/colors/) approximation of the snow theme.
+Alternatively, if `termguicolors` is not set, terminal vim will fall back to an [xterm-color](https://jonasjacek.github.io/colors/) approximation of the snow theme:
 
 <table><tbody>
 <tr>
