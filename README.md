@@ -175,17 +175,23 @@ endif
 
 snow comes with light and dark themes for airline and lightline.
 
-For instance, to activate the airline theme with dark background:
-
-```
-let g:airline_theme='snow_dark'
-```
-
-Or the lightline theme with light background:
-
-```
-let g:lightline = { 'colorscheme': 'snow_light' }
-```
+<table><tbody align='center'>
+<tr>
+<td></td>
+<td>light</td>
+<td>dark</td>
+</tr>
+<tr>
+<td>airline</td>
+<td><code>let g:airline_theme='snow_light'</code></td>
+<td><code>let g:airline_theme='snow_dark'</code></td>
+</tr>
+<tr>
+<td>lightline</td>
+<td><code>let g:lightline = { 'colorscheme': 'snow_light' }</code></td>
+<td><code>let g:lightline = { 'colorscheme': 'snow_dark' }</code></td>
+</tr>
+</tbody></table>
 
 Status line themes can be added to the time-based snippet above:
 
