@@ -220,7 +220,7 @@ To enable true-color terminal support, add to vimrc:
 set termguicolors
 ```
 
-> For an explanation of this setting, see the vim documentation entry for `termguicolors` (run `:h termguicolors` at the vim command line).
+> For more info, see the vim documentation entry for `termguicolors` (run `:h termguicolors` at the vim command line).
 
 In some cases, you'll also need to add:
 
