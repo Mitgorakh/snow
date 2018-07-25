@@ -177,9 +177,9 @@ snow comes with themes for airline and lightline, which can be activated using t
 
 <table><tbody align='center'>
 <tr>
-<td width='98'></td>
-<td width='350'>airline</td>
-<td width='450'>lightline</td>
+<td width='88'></td>
+<td width='340'>airline</td>
+<td width='470'>lightline</td>
 </tr>
 <tr>
 <td>dark</td>
