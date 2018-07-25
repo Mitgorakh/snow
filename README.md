@@ -175,19 +175,19 @@ endif
 
 snow comes with themes for airline and lightline, which can be activated using the vimrc code provided in the table below.
 
-<table><tbody align='center' width='100%'>
+<table><tbody align='center'>
 <tr>
-<td></td>
+<td width='98'></td>
 <td>airline</td>
 <td>lightline</td>
 </tr>
 <tr>
-<td>dark</td>
+<td width='350'>dark</td>
 <td><code>let g:airline_theme='snow_light'</code></td>
 <td><code>let g:lightline = { 'colorscheme': 'snow_light' }</code></td>
 </tr>
 <tr>
-<td>light</td>
+<td width='450'>light</td>
 <td><code>let g:airline_theme='snow_dark'</code></td>
 <td><code>let g:lightline = { 'colorscheme': 'snow_dark' }</code></td>
 </tr>
