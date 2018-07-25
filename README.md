@@ -173,7 +173,7 @@ endif
 
 ## status line themes
 
-snow comes with themes for airline and lightline, which can be activated using the vimrc code provided in the table below.
+snow comes with themes for airline and lightline, which can be activated with the following vimrc code:
 
 <table><tbody align='center'>
 <tr>
