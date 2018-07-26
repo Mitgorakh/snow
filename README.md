@@ -70,7 +70,7 @@
 <td><h5>cursor</h5><h6>snowy night</h6></td>
 <td><img src='http://www.colorhexa.com/2a3749.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/008c8c.png' height='24' width='39'></td>
-<td colspan='2'><h5>meta-statement</h5><h6>iceberg blue-green</h6></td>
+<td colspan='2'><h5>meta-statement</h5><h6>iceberg green-blue</h6></td>
 <td><img src='http://www.colorhexa.com/5eadab.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/dae2ee.png' height='24' width='39'></td>
 <td><h5>cursor</h5><h6>snowy day</h6></td>
