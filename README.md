@@ -93,7 +93,7 @@
 
 *because <img height="16" src='https://github.com/nightsense/snow/raw/master/images/red.png' /> red is the color of life, reddish text is for...*
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/b051a5.png" height='12' width='12'> **names**, which give life <img height="9" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/b550aa.png" height='12' width='12'> **names**, which give life <img height="9" src='https://github.com/nightsense/snow/raw/master/images/name.png' /> to abstractions (like variables and functions)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/c84343.png" height='12' width='12'> **types** ("meta-names" <img height="15" src='https://github.com/nightsense/snow/raw/master/images/type.png' />), such as variable type (int, char...) or storage class (static, register...)
 
@@ -107,15 +107,15 @@
 
 *because <img height="15" src='https://github.com/nightsense/snow/raw/master/images/green.png' /> green is the color of proceeding with action, greenish text is for...*
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/408835.png" height='12' width='12'> **statements** (the magic <img height="11" src='https://github.com/nightsense/snow/raw/master/images/statement.png' /> "action words" of code), such as conditions (if, then...) or loops (for, do...)
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/38872e.png" height='12' width='12'> **statements** (the magic <img height="11" src='https://github.com/nightsense/snow/raw/master/images/statement.png' /> "action words" of code), such as conditions (if, then...) or loops (for, do...)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/008b8b.png" height='12' width='12'> **meta-statements** ("meta-actions", or "meta-magic" <img height="16" src='https://github.com/nightsense/snow/raw/master/images/meta-statement.png' />), such as macros and "include module" statements
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/008c8c.png" height='12' width='12'> **meta-statements** ("meta-actions", or "meta-magic" <img height="16" src='https://github.com/nightsense/snow/raw/master/images/meta-statement.png' />), such as macros and "include module" statements
 
 <br>
 
 *because <img height="14" src='https://github.com/nightsense/snow/raw/master/images/blue.png' /> blue is the calm color of sea and sky, evoking enduring constancy, blue text is for...*
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/007ed4.png" height='12' width='12'> **constants** (values that are fixed <img height="22" src='https://github.com/nightsense/snow/raw/master/images/constant.png' /> in place), such as booleans, integers, and strings
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.colorhexa.com/007fda.png" height='12' width='12'> **constants** (values that are fixed <img height="22" src='https://github.com/nightsense/snow/raw/master/images/constant.png' /> in place), such as booleans, integers, and strings
 
 </td>
 
