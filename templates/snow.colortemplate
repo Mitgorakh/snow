@@ -8,8 +8,8 @@ Terminal Colors: 256
 Background: light
 Color:      gry0 #eef2f8 ~
 Color:      gry1 #dae2ee ~
-Color:      gry2 #728199 ~
-Color:      gry3 #3f4e63 ~
+Color:      gry2 #728199 244
+Color:      gry3 #3f4e63 238
 Color:      gryc #2a3749 ~
 Color:      srch #e5bc5a ~
 Color:      sprd #f20028 ~
@@ -103,8 +103,8 @@ endauxfile
 Background: dark
 Color:      gry0 #222e3d ~
 Color:      gry1 #2a3749 ~
-Color:      gry2 #728199 ~
-Color:      gry3 #b0c0d9 ~
+Color:      gry2 #728199 244
+Color:      gry3 #b0c0d9 250
 Color:      gryc #dae2ee ~
 Color:      sprd #ff5255 ~
 Color:      spbl #00a0ff ~

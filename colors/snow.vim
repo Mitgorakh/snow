@@ -27,40 +27,40 @@ if &background ==# 'dark'
   hi MoreMsg ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Question ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi NonText ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Normal ctermfg=153 ctermbg=236 guifg=#b0c0d9 guibg=#222e3d guisp=NONE cterm=NONE gui=NONE
+  hi Normal ctermfg=250 ctermbg=236 guifg=#b0c0d9 guibg=#222e3d guisp=NONE cterm=NONE gui=NONE
   hi Terminal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Title ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
   hi Underlined ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,underline gui=NONE,underline
-  hi Comment ctermfg=67 ctermbg=NONE guifg=#728199 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi CursorLineNr ctermfg=67 ctermbg=NONE guifg=#728199 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi LineNr ctermfg=67 ctermbg=NONE guifg=#728199 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Comment ctermfg=244 ctermbg=NONE guifg=#728199 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi CursorLineNr ctermfg=244 ctermbg=NONE guifg=#728199 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi LineNr ctermfg=244 ctermbg=NONE guifg=#728199 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Cursor ctermfg=254 ctermbg=236 guifg=#dae2ee guibg=#222e3d guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi IncSearch ctermfg=254 ctermbg=236 guifg=#dae2ee guibg=#222e3d guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi TermCursor ctermfg=254 ctermbg=236 guifg=#dae2ee guibg=#222e3d guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi FoldColumn ctermfg=153 ctermbg=NONE guifg=#b0c0d9 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi PmenuSel ctermfg=153 ctermbg=236 guifg=#b0c0d9 guibg=#222e3d guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi SignColumn ctermfg=153 ctermbg=NONE guifg=#b0c0d9 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi StatusLine ctermfg=153 ctermbg=236 guifg=#b0c0d9 guibg=#222e3d guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi StatusLineTerm ctermfg=153 ctermbg=236 guifg=#b0c0d9 guibg=#222e3d guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi TermCursorNC ctermfg=67 ctermbg=236 guifg=#728199 guibg=#222e3d guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-  hi VisualNOS ctermfg=67 ctermbg=236 guifg=#728199 guibg=#222e3d guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi FoldColumn ctermfg=250 ctermbg=NONE guifg=#b0c0d9 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi PmenuSel ctermfg=250 ctermbg=236 guifg=#b0c0d9 guibg=#222e3d guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi SignColumn ctermfg=250 ctermbg=NONE guifg=#b0c0d9 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi StatusLine ctermfg=250 ctermbg=236 guifg=#b0c0d9 guibg=#222e3d guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi StatusLineTerm ctermfg=250 ctermbg=236 guifg=#b0c0d9 guibg=#222e3d guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi TermCursorNC ctermfg=244 ctermbg=236 guifg=#728199 guibg=#222e3d guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+  hi VisualNOS ctermfg=244 ctermbg=236 guifg=#728199 guibg=#222e3d guisp=NONE cterm=NONE,reverse gui=NONE,reverse
   hi ColorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
   hi CursorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
   hi CursorLine ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
   hi DiffChange ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
   hi Folded ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
-  hi Pmenu ctermfg=153 ctermbg=237 guifg=#b0c0d9 guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
+  hi Pmenu ctermfg=250 ctermbg=237 guifg=#b0c0d9 guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
   hi QuickFixLine ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
-  hi StatusLineNC ctermfg=153 ctermbg=237 guifg=#b0c0d9 guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
-  hi StatusLineTermNC ctermfg=153 ctermbg=237 guifg=#b0c0d9 guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
-  hi TabLine ctermfg=153 ctermbg=237 guifg=#b0c0d9 guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
-  hi ToolbarButton ctermfg=153 ctermbg=237 guifg=#b0c0d9 guibg=#2a3749 guisp=NONE cterm=NONE,bold gui=NONE,bold
-  hi WildMenu ctermfg=153 ctermbg=237 guifg=#b0c0d9 guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
-  hi PmenuSbar ctermfg=67 ctermbg=67 guifg=#728199 guibg=#728199 guisp=NONE cterm=NONE gui=NONE
-  hi PmenuThumb ctermfg=153 ctermbg=153 guifg=#b0c0d9 guibg=#b0c0d9 guisp=NONE cterm=NONE gui=NONE
+  hi StatusLineNC ctermfg=250 ctermbg=237 guifg=#b0c0d9 guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
+  hi StatusLineTermNC ctermfg=250 ctermbg=237 guifg=#b0c0d9 guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
+  hi TabLine ctermfg=250 ctermbg=237 guifg=#b0c0d9 guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
+  hi ToolbarButton ctermfg=250 ctermbg=237 guifg=#b0c0d9 guibg=#2a3749 guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi WildMenu ctermfg=250 ctermbg=237 guifg=#b0c0d9 guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
+  hi PmenuSbar ctermfg=244 ctermbg=244 guifg=#728199 guibg=#728199 guisp=NONE cterm=NONE gui=NONE
+  hi PmenuThumb ctermfg=250 ctermbg=250 guifg=#b0c0d9 guibg=#b0c0d9 guisp=NONE cterm=NONE gui=NONE
   hi TabLineFill ctermfg=237 ctermbg=237 guifg=#2a3749 guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
   hi ToolbarLine ctermfg=237 ctermbg=237 guifg=#2a3749 guibg=#2a3749 guisp=NONE cterm=NONE gui=NONE
-  hi VertSplit ctermfg=67 ctermbg=67 guifg=#728199 guibg=#728199 guisp=NONE cterm=NONE gui=NONE
+  hi VertSplit ctermfg=244 ctermbg=244 guifg=#728199 guibg=#728199 guisp=NONE cterm=NONE gui=NONE
   hi SpellBad ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#ff5255 cterm=NONE,underline gui=NONE,undercurl
   hi SpellCap ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#00a0ff cterm=NONE,underline gui=NONE,undercurl
   hi SpellLocal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#00b4b7 cterm=NONE,underline gui=NONE,undercurl
@@ -124,40 +124,40 @@ hi ModeMsg ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE
 hi MoreMsg ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Question ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi NonText ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Normal ctermfg=239 ctermbg=255 guifg=#3f4e63 guibg=#eef2f8 guisp=NONE cterm=NONE gui=NONE
+hi Normal ctermfg=238 ctermbg=255 guifg=#3f4e63 guibg=#eef2f8 guisp=NONE cterm=NONE gui=NONE
 hi Terminal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Title ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi Underlined ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,underline gui=NONE,underline
-hi Comment ctermfg=67 ctermbg=NONE guifg=#728199 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi CursorLineNr ctermfg=67 ctermbg=NONE guifg=#728199 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi LineNr ctermfg=67 ctermbg=NONE guifg=#728199 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Comment ctermfg=244 ctermbg=NONE guifg=#728199 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi CursorLineNr ctermfg=244 ctermbg=NONE guifg=#728199 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi LineNr ctermfg=244 ctermbg=NONE guifg=#728199 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Cursor ctermfg=237 ctermbg=255 guifg=#2a3749 guibg=#eef2f8 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi IncSearch ctermfg=237 ctermbg=255 guifg=#2a3749 guibg=#eef2f8 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi TermCursor ctermfg=237 ctermbg=255 guifg=#2a3749 guibg=#eef2f8 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi FoldColumn ctermfg=239 ctermbg=NONE guifg=#3f4e63 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi PmenuSel ctermfg=239 ctermbg=255 guifg=#3f4e63 guibg=#eef2f8 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi SignColumn ctermfg=239 ctermbg=NONE guifg=#3f4e63 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi StatusLine ctermfg=239 ctermbg=255 guifg=#3f4e63 guibg=#eef2f8 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi StatusLineTerm ctermfg=239 ctermbg=255 guifg=#3f4e63 guibg=#eef2f8 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi TermCursorNC ctermfg=67 ctermbg=255 guifg=#728199 guibg=#eef2f8 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi VisualNOS ctermfg=67 ctermbg=255 guifg=#728199 guibg=#eef2f8 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi FoldColumn ctermfg=238 ctermbg=NONE guifg=#3f4e63 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi PmenuSel ctermfg=238 ctermbg=255 guifg=#3f4e63 guibg=#eef2f8 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi SignColumn ctermfg=238 ctermbg=NONE guifg=#3f4e63 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi StatusLine ctermfg=238 ctermbg=255 guifg=#3f4e63 guibg=#eef2f8 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi StatusLineTerm ctermfg=238 ctermbg=255 guifg=#3f4e63 guibg=#eef2f8 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi TermCursorNC ctermfg=244 ctermbg=255 guifg=#728199 guibg=#eef2f8 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
+hi VisualNOS ctermfg=244 ctermbg=255 guifg=#728199 guibg=#eef2f8 guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi ColorColumn ctermfg=NONE ctermbg=254 guifg=NONE guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=254 guifg=NONE guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=254 guifg=NONE guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
 hi DiffChange ctermfg=NONE ctermbg=254 guifg=NONE guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
 hi Folded ctermfg=NONE ctermbg=254 guifg=NONE guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
-hi Pmenu ctermfg=239 ctermbg=254 guifg=#3f4e63 guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
+hi Pmenu ctermfg=238 ctermbg=254 guifg=#3f4e63 guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
 hi QuickFixLine ctermfg=NONE ctermbg=254 guifg=NONE guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
-hi StatusLineNC ctermfg=239 ctermbg=254 guifg=#3f4e63 guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
-hi StatusLineTermNC ctermfg=239 ctermbg=254 guifg=#3f4e63 guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
-hi TabLine ctermfg=239 ctermbg=254 guifg=#3f4e63 guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
-hi ToolbarButton ctermfg=239 ctermbg=254 guifg=#3f4e63 guibg=#dae2ee guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi WildMenu ctermfg=239 ctermbg=254 guifg=#3f4e63 guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
-hi PmenuSbar ctermfg=67 ctermbg=67 guifg=#728199 guibg=#728199 guisp=NONE cterm=NONE gui=NONE
-hi PmenuThumb ctermfg=239 ctermbg=239 guifg=#3f4e63 guibg=#3f4e63 guisp=NONE cterm=NONE gui=NONE
+hi StatusLineNC ctermfg=238 ctermbg=254 guifg=#3f4e63 guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
+hi StatusLineTermNC ctermfg=238 ctermbg=254 guifg=#3f4e63 guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
+hi TabLine ctermfg=238 ctermbg=254 guifg=#3f4e63 guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
+hi ToolbarButton ctermfg=238 ctermbg=254 guifg=#3f4e63 guibg=#dae2ee guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi WildMenu ctermfg=238 ctermbg=254 guifg=#3f4e63 guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
+hi PmenuSbar ctermfg=244 ctermbg=244 guifg=#728199 guibg=#728199 guisp=NONE cterm=NONE gui=NONE
+hi PmenuThumb ctermfg=238 ctermbg=238 guifg=#3f4e63 guibg=#3f4e63 guisp=NONE cterm=NONE gui=NONE
 hi TabLineFill ctermfg=254 ctermbg=254 guifg=#dae2ee guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
 hi ToolbarLine ctermfg=254 ctermbg=254 guifg=#dae2ee guibg=#dae2ee guisp=NONE cterm=NONE gui=NONE
-hi VertSplit ctermfg=67 ctermbg=67 guifg=#728199 guibg=#728199 guisp=NONE cterm=NONE gui=NONE
+hi VertSplit ctermfg=244 ctermbg=244 guifg=#728199 guibg=#728199 guisp=NONE cterm=NONE gui=NONE
 hi SpellBad ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#f20028 cterm=NONE,underline gui=NONE,undercurl
 hi SpellCap ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#0082ff cterm=NONE,underline gui=NONE,undercurl
 hi SpellLocal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=#00949d cterm=NONE,underline gui=NONE,undercurl
@@ -213,8 +213,8 @@ finish
 " Background: light
 " Color:      gry0 #eef2f8 ~
 " Color:      gry1 #dae2ee ~
-" Color:      gry2 #728199 ~
-" Color:      gry3 #3f4e63 ~
+" Color:      gry2 #728199 244
+" Color:      gry3 #3f4e63 238
 " Color:      gryc #2a3749 ~
 " Color:      srch #e5bc5a ~
 " Color:      sprd #f20028 ~
@@ -325,8 +325,8 @@ finish
 " Background: dark
 " Color:      gry0 #222e3d ~
 " Color:      gry1 #2a3749 ~
-" Color:      gry2 #728199 ~
-" Color:      gry3 #b0c0d9 ~
+" Color:      gry2 #728199 244
+" Color:      gry3 #b0c0d9 250
 " Color:      gryc #dae2ee ~
 " Color:      sprd #ff5255 ~
 " Color:      spbl #00a0ff ~
