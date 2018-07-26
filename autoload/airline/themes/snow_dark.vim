@@ -2,9 +2,9 @@ let g:airline#themes#snow_dark#palette = {}
 
 let s:gry0 = [ "#222e3d", 236 ]
 let s:gry1 = [ "#2a3749", 237 ]
-let s:gry3 = [ "#b0c0d9", 250 ]
-let s:red_ = [ "#d27d75", 174 ]
-let s:gren = [ "#82aa78", 108 ]
+let s:gry3 = [ "#b0c0d9", 251 ]
+let s:red_ = [ "#d27d75", 173 ]
+let s:gren = [ "#82aa78", 107 ]
 let s:blue = [ "#76a4db", 110 ]
 
 let s:nrm1 = [ s:gry0[0] , s:gry3[0] , s:gry0[1] , s:gry3[1] ]
