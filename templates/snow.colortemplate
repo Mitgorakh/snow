@@ -7,22 +7,22 @@ Terminal Colors: 256
 
 Background: light
 Color:      gry0 #eef2f8 ~
-Color:      gry1 #dbe2ee ~
-Color:      gry2 #748196 ~
-Color:      gry3 #414e61 ~
-Color:      gryc #2b3746 ~
+Color:      gry1 #dae2ee ~
+Color:      gry2 #728199 ~
+Color:      gry3 #3f4e63 ~
+Color:      gryc #2c3747 ~
 Color:      srch #e5bc5a ~
 Color:      sprd #f20028 ~
 Color:      spbl #0082ff ~
 Color:      spcy #00949d ~
 Color:      spmg #d800cb ~
-Color:      prnt #007cd2 ~
-Color:      red_ #c84343 ~
+Color:      prnt #007dd8 ~
+Color:      red_ #ca4545 ~
 Color:      gold #9b7700 ~
 Color:      gren #38872e ~
 Color:      cyan #008a8a ~
-Color:      blue #007cd2 ~
-Color:      mgnt #b051a5 ~
+Color:      blue #007dd8 ~
+Color:      mgnt #b34ea8 ~
 Include:    _common.colortemplate
 
 auxfile autoload/airline/themes/snow_light.vim
@@ -102,17 +102,17 @@ endauxfile
 
 Background: dark
 Color:      gry0 #242d3b ~
-Color:      gry1 #2b3746 ~
-Color:      gry2 #748196 ~
-Color:      gry3 #b2c0d6 ~
-Color:      gryc #dbe2ee ~
+Color:      gry1 #2c3747 ~
+Color:      gry2 #728199 ~
+Color:      gry3 #b0c0d9 ~
+Color:      gryc #dae2ee ~
 Color:      sprd #ff5255 ~
 Color:      spbl #00a0ff ~
 Color:      spcy #00b4b7 ~
 Color:      spmg #ec59dd ~
 Color:      srch #95638e ~
 Color:      prnt #59a8a5 ~
-Color:      red_ #d27d75 ~
+Color:      red_ #d7827a ~
 Color:      gold #c7ac72 ~
 Color:      gren #82aa78 ~
 Color:      cyan #59a8a5 ~
