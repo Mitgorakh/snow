@@ -2,9 +2,9 @@ let s:gry0 = [ "#eef2f8", 255 ]
 let s:gry1 = [ "#dae2ee", 254 ]
 let s:gry3 = [ "#3f4e63", 239 ]
 let s:red_ = [ "#c84343", 167 ]
-let s:mgnt = [ "#b34ea8", 133 ]
+let s:mgnt = [ "#b550aa", 133 ]
 let s:gren = [ "#38872e", 28 ]
-let s:blue = [ "#007dd8", 32 ]
+let s:blue = [ "#007fda", 32 ]
 
 let s:p = { "normal" : {} , "inactive": {} , "insert"  : {} ,
           \ "replace": {} , "visual"  : {} , "tabline" : {} }

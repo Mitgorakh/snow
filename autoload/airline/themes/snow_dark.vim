@@ -5,7 +5,7 @@ let s:gry1 = [ "#2a3749", 237 ]
 let s:gry3 = [ "#b0c0d9", 153 ]
 let s:red_ = [ "#d27d75", 174 ]
 let s:gren = [ "#82aa78", 108 ]
-let s:blue = [ "#719ed6", 75 ]
+let s:blue = [ "#76a4db", 110 ]
 
 let s:nrm1 = [ s:gry0[0] , s:gry3[0] , s:gry0[1] , s:gry3[1] ]
 let s:nrm2 = [ s:gry3[0] , s:gry1[0] , s:gry3[1] , s:gry1[1] ]

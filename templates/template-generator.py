@@ -116,15 +116,15 @@ hexred__lt = tohex( gold(1.500) , gold(1.000) , 030.0    )
 hexgold_lt = tohex( gold(1.344) , gold(1.125) , 082.5    )
 hexgren_lt = tohex( gold(1.438) , gold(1.250) , 135.0    )
 hexcyan_lt = tohex( gold(1.438) , gold(1.375) , 195.0    )
-hexblue_lt = tohex( gold(1.469) , gold(1.125) , 262.5    )
-hexmgnt_lt = tohex( gold(1.469) , gold(1.125) , 330.0    )
+hexblue_lt = tohex( gold(1.438) , gold(1.125) , 262.5    )
+hexmgnt_lt = tohex( gold(1.438) , gold(1.125) , 330.0    )
 
 hexred__dk = tohex( gold(1.000) , gold(2.00)  , 030.0    )
 hexgold_dk = tohex( gold(0.688) , gold(2.25)  , 082.5    )
 hexgren_dk = tohex( gold(0.875) , gold(2.50)  , 135.0    )
 hexcyan_dk = tohex( gold(0.875) , gold(2.75)  , 195.0    )
-hexblue_dk = tohex( gold(0.938) , gold(2.25)  , 262.5    )
-hexmgnt_dk = tohex( gold(0.938) , gold(2.25)  , 330.0    )
+hexblue_dk = tohex( gold(0.875) , gold(2.25)  , 262.5    )
+hexmgnt_dk = tohex( gold(0.875) , gold(2.25)  , 330.0    )
 
 print 'Author:          nightsense'
 print 'Maintainer:      nightsense'
