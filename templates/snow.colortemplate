@@ -10,17 +10,17 @@ Color:      gry0 #eef2f8 ~
 Color:      gry1 #dae2ee ~
 Color:      gry2 #728199 ~
 Color:      gry3 #3f4e63 ~
-Color:      gryc #2c3747 ~
+Color:      gryc #2a3749 ~
 Color:      srch #e5bc5a ~
 Color:      sprd #f20028 ~
 Color:      spbl #0082ff ~
 Color:      spcy #00949d ~
 Color:      spmg #d800cb ~
 Color:      prnt #007dd8 ~
-Color:      red_ #ca4545 ~
+Color:      red_ #c84343 ~
 Color:      gold #9b7700 ~
 Color:      gren #38872e ~
-Color:      cyan #008a8a ~
+Color:      cyan #008c8c ~
 Color:      blue #007dd8 ~
 Color:      mgnt #b34ea8 ~
 Include:    _common.colortemplate
@@ -101,8 +101,8 @@ let g:lightline#colorscheme#snow_light#palette =
 endauxfile
 
 Background: dark
-Color:      gry0 #242d3b ~
-Color:      gry1 #2c3747 ~
+Color:      gry0 #222e3d ~
+Color:      gry1 #2a3749 ~
 Color:      gry2 #728199 ~
 Color:      gry3 #b0c0d9 ~
 Color:      gryc #dae2ee ~
@@ -111,11 +111,11 @@ Color:      spbl #00a0ff ~
 Color:      spcy #00b4b7 ~
 Color:      spmg #ec59dd ~
 Color:      srch #95638e ~
-Color:      prnt #59a8a5 ~
-Color:      red_ #d7827a ~
+Color:      prnt #5eadab ~
+Color:      red_ #d27d75 ~
 Color:      gold #c7ac72 ~
 Color:      gren #82aa78 ~
-Color:      cyan #59a8a5 ~
+Color:      cyan #5eadab ~
 Color:      blue #719ed6 ~
 Color:      mgnt #c287b9 ~
 Include:    _common.colortemplate
