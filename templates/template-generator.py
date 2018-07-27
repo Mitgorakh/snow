@@ -93,13 +93,13 @@ hue_base = 262.5
 hexgry0_lt = tohex( gold(0.10) , gold(7.00) , hue_base )
 hexgry1_lt = tohex( gold(0.23) , gold(5.50) , hue_base )
 hexgry2_lt = tohex( gold(1.30) , gold(4.00) , hue_base )
-hexgry3_lt = tohex( gold(1.98) , gold(4.00) , hue_base )
+hexgry3_lt = tohex( gold(1.85) , gold(4.00) , hue_base )
 hexsrch_lt = tohex( gold(0.50) , gold(1.25) , 082.5    )
 
 hexgry0_dk = tohex( gold(3.54) , gold(4.50) , hue_base )
 hexgry1_dk = tohex( gold(3.09) , gold(4.25) , hue_base )
 hexgry2_dk = tohex( gold(1.30) , gold(4.00) , hue_base )
-hexgry3_dk = tohex( gold(0.74) , gold(4.00) , hue_base )
+hexgry3_dk = tohex( gold(0.83) , gold(4.00) , hue_base )
 hexsrch_dk = tohex( gold(1.50) , gold(2.50) , 330.0    )
 
 hexsprd_lt = tohex( gold(1.50) , gold(0.00) , 030.0    )

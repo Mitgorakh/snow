@@ -9,7 +9,7 @@ Background: light
 Color:      gry0 #eef2f8 ~
 Color:      gry1 #dae2ee ~
 Color:      gry2 #728199 ~
-Color:      gry3 #4d5c72 ~
+Color:      gry3 #536278 ~
 Color:      gryc #2a3749 ~
 Color:      srch #e5bc5a ~
 Color:      sprd #ff0000 196
@@ -103,7 +103,7 @@ Background: dark
 Color:      gry0 #222e3d ~
 Color:      gry1 #2a3749 ~
 Color:      gry2 #728199 ~
-Color:      gry3 #9dadc5 ~
+Color:      gry3 #95a5bd ~
 Color:      gryc #dae2ee ~
 Color:      sprd #ff5f5f 203
 Color:      spbl #5fafff 75
