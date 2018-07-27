@@ -10,7 +10,7 @@ Color:      gry0 #eef2f8 ~
 Color:      gry1 #dae2ee ~
 Color:      gry2 #728199 ~
 Color:      gry3 #536278 ~
-Color:      gryc #2a3749 ~
+Color:      gryc #2c3747 ~
 Color:      srch #e5bc5a ~
 Color:      sprd #ff0000 196
 Color:      spbl #0087ff 33
@@ -100,8 +100,8 @@ let g:lightline#colorscheme#snow_light#palette =
 endauxfile
 
 Background: dark
-Color:      gry0 #222e3d ~
-Color:      gry1 #2a3749 ~
+Color:      gry0 #252d39 ~
+Color:      gry1 #2c3747 ~
 Color:      gry2 #728199 ~
 Color:      gry3 #95a5bd ~
 Color:      gryc #dae2ee ~
@@ -110,12 +110,12 @@ Color:      spbl #5fafff 75
 Color:      spcy #00afaf 37
 Color:      spmg #d75fd7 170
 Color:      srch #95638e ~
-Color:      red_ #c1867f ~
-Color:      gold #a6936c ~
+Color:      red_ #c6837c ~
+Color:      gold #a89266 ~
 Color:      gren #829d7a ~
 Color:      cyan #6c9f9d ~
-Color:      blue #7299ca ~
-Color:      mgnt #b289ab ~
+Color:      blue #7899c4 ~
+Color:      mgnt #af8aa8 ~
 Include:    _common.colortemplate
 
 auxfile autoload/airline/themes/snow_dark.vim
