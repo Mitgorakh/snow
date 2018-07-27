@@ -58,11 +58,11 @@
 <tr></tr>
 <tr>
 <td><h5>text</h5><h6>snowy twilight</h6></td>
-<td><img src='http://www.colorhexa.com/4d5c72.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/536278.png' height='24' width='39'></td>
 <td><img src='http://www.colorhexa.com/438138.png' height='24' width='39'></td>
 <td colspan='2'><h5>statement</h5><h6>conifer green</h6></td>
 <td><img src='http://www.colorhexa.com/829d7a.png' height='24' width='39'></td>
-<td><img src='http://www.colorhexa.com/9dadc5.png' height='24' width='39'></td>
+<td><img src='http://www.colorhexa.com/95a5bd.png' height='24' width='39'></td>
 <td><h5>text</h5><h6>snowy evening</h6></td>
 </tr>
 <tr></tr>
