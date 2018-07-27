@@ -225,22 +225,7 @@ let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
 let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 ```
 
-If `termguicolors` is not set, terminal vim will fall back to an [xterm-color](https://commons.wikimedia.org/wiki/File:Xterm_256color_chart.svg) approximation of snow:
-
-<table><tbody>
-<tr>
-<td width='50%'>
-<br>
-<img alt="screenshot of the xterm-color fallback snow vim theme, light version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-256-light.png" width='422' />
-<br><br>
-</td>
-<td width='50%'>
-<br>
-<img alt="screenshot of the xterm-color fallback snow vim theme, dark version" src="https://github.com/nightsense/snow/raw/master/images/screenshot-256-dark.png" width='422' />
-<br><br>
-</td>
-</tr>
-</tbody></table>
+If `termguicolors` is not set, terminal vim will fall back to an [xterm-color](https://commons.wikimedia.org/wiki/File:Xterm_256color_chart.svg) approximation of snow.
 
 ### cursor shape
 
