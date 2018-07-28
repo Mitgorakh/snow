@@ -231,7 +231,7 @@ If `termguicolors` is not set, terminal vim will fall back to an [xterm-color](h
 
 To set mode-specific cursor shapes in terminal vim, see the [Vim Tips Wiki](http://vim.wikia.com/wiki/Change_cursor_shape_in_different_modes).
 
-For instance, to set cursor shapes in vte-compatible terminals (like urxvt), you could add to vimrc:
+For instance, to set cursor shapes in vte-compatible terminals, you could add to vimrc:
 
 ```
 let &t_SI = "\<Esc>[6 q"
