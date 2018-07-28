@@ -6,22 +6,22 @@ Short name:      snow
 Terminal Colors: 256
 
 Background: light
-Color:      gry0 #eef2f8 ~
-Color:      gry1 #dae2ee ~
-Color:      gry2 #728199 ~
-Color:      gry3 #536278 ~
-Color:      gryc #2c3747 ~
+Color:      gry0 #f1f3f7 ~
+Color:      gry1 #dde3ed ~
+Color:      gry2 #73839a ~
+Color:      gry3 #4e5d73 ~
+Color:      gryc #2c3848 ~
 Color:      srch #e5bc5a ~
 Color:      sprd #ff0000 196
 Color:      spbl #0087ff 33
 Color:      spcy #008787 30
 Color:      spmg #d700d7 164
-Color:      red_ #c04c48 ~
-Color:      gold #8e6e10 ~
-Color:      gren #438138 ~
-Color:      cyan #008685 ~
-Color:      blue #007aca ~
-Color:      mgnt #a5579b ~
+Color:      red_ #c44846 ~
+Color:      gold #947100 ~
+Color:      gren #3a8330 ~
+Color:      cyan #008888 ~
+Color:      blue #007ad0 ~
+Color:      mgnt #ac51a2 ~
 Include:    _common.colortemplate
 
 auxfile autoload/airline/themes/snow_light.vim
@@ -100,22 +100,22 @@ let g:lightline#colorscheme#snow_light#palette =
 endauxfile
 
 Background: dark
-Color:      gry0 #252d39 ~
-Color:      gry1 #2c3747 ~
-Color:      gry2 #728199 ~
-Color:      gry3 #95a5bd ~
-Color:      gryc #dae2ee ~
+Color:      gry0 #262e3a ~
+Color:      gry1 #2c3848 ~
+Color:      gry2 #73839a ~
+Color:      gry3 #9dadc5 ~
+Color:      gryc #dde3ed ~
 Color:      sprd #ff5f5f 203
 Color:      spbl #5fafff 75
 Color:      spcy #00afaf 37
 Color:      spmg #d75fd7 170
 Color:      srch #95638e ~
-Color:      red_ #c6837c ~
-Color:      gold #a89266 ~
-Color:      gren #829d7a ~
-Color:      cyan #6c9f9d ~
-Color:      blue #7899c4 ~
-Color:      mgnt #af8aa8 ~
+Color:      red_ #cc8079 ~
+Color:      gold #b59c66 ~
+Color:      gren #7c9e73 ~
+Color:      cyan #59a2a0 ~
+Color:      blue #7299ca ~
+Color:      mgnt #b786af ~
 Include:    _common.colortemplate
 
 auxfile autoload/airline/themes/snow_dark.vim

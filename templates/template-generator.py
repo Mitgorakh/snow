@@ -90,16 +90,16 @@ def print_lightline(name,bg):
 
 hue_base = 262.5
 
-hexgry0_lt = tohex( gold(0.10) , gold(7.00) , hue_base )
-hexgry1_lt = tohex( gold(0.23) , gold(5.50) , hue_base )
-hexgry2_lt = tohex( gold(1.30) , gold(4.00) , hue_base )
-hexgry3_lt = tohex( gold(1.85) , gold(4.00) , hue_base )
+hexgry0_lt = tohex( gold(0.09) , gold(8.00) , hue_base )
+hexgry1_lt = tohex( gold(0.22) , gold(6.00) , hue_base )
+hexgry2_lt = tohex( gold(1.28) , gold(4.00) , hue_base )
+hexgry3_lt = tohex( gold(1.96) , gold(4.00) , hue_base )
 hexsrch_lt = tohex( gold(0.50) , gold(1.25) , 082.5    )
 
-hexgry0_dk = tohex( gold(3.54) , gold(5.00) , hue_base )
-hexgry1_dk = tohex( gold(3.09) , gold(4.50) , hue_base )
-hexgry2_dk = tohex( gold(1.30) , gold(4.00) , hue_base )
-hexgry3_dk = tohex( gold(0.83) , gold(4.00) , hue_base )
+hexgry0_dk = tohex( gold(3.50) , gold(5.00) , hue_base )
+hexgry1_dk = tohex( gold(3.06) , gold(4.50) , hue_base )
+hexgry2_dk = tohex( gold(1.28) , gold(4.00) , hue_base )
+hexgry3_dk = tohex( gold(0.74) , gold(4.00) , hue_base )
 hexsrch_dk = tohex( gold(1.50) , gold(2.50) , 330.0    )
 
 hexsprd_lt = tohex( gold(1.50) , gold(0.00) , 030.0    )
@@ -112,19 +112,19 @@ hexspbl_dk = tohex( gold(1.00) , gold(0.50) , 262.5    )
 hexspcy_dk = tohex( gold(1.00) , gold(0.50) , 195.0    )
 hexspmg_dk = tohex( gold(1.00) , gold(0.50) , 330.0    )
 
-hexred__lt = tohex( gold(1.50) , gold(1.25) , 030.0    )
-hexgold_lt = tohex( gold(1.50) , gold(1.38) , 082.5    )
-hexgren_lt = tohex( gold(1.50) , gold(1.62) , 135.0    )
-hexcyan_lt = tohex( gold(1.50) , gold(1.75) , 195.0    )
-hexblue_lt = tohex( gold(1.50) , gold(1.38) , 262.5    )
-hexmgnt_lt = tohex( gold(1.50) , gold(1.62) , 330.0    )
+hexred__lt = tohex( gold(1.500) , gold(1.125) , 030.0    )
+hexgold_lt = tohex( gold(1.438) , gold(1.188) , 082.5    )
+hexgren_lt = tohex( gold(1.500) , gold(1.375) , 135.0    )
+hexcyan_lt = tohex( gold(1.500) , gold(1.438) , 195.0    )
+hexblue_lt = tohex( gold(1.500) , gold(1.250) , 262.5    )
+hexmgnt_lt = tohex( gold(1.500) , gold(1.312) , 330.0    )
 
-hexred__dk = tohex( gold(1.00) , gold(2.50) , 030.0    )
-hexgold_dk = tohex( gold(1.00) , gold(2.75) , 082.5    )
-hexgren_dk = tohex( gold(1.00) , gold(3.25) , 135.0    )
-hexcyan_dk = tohex( gold(1.00) , gold(3.50) , 195.0    )
-hexblue_dk = tohex( gold(1.00) , gold(2.75) , 262.5    )
-hexmgnt_dk = tohex( gold(1.00) , gold(3.25) , 330.0    )
+hexred__dk = tohex( gold(1.000) , gold(2.250) , 030.0    )
+hexgold_dk = tohex( gold(0.875) , gold(2.375) , 082.5    )
+hexgren_dk = tohex( gold(1.000) , gold(2.750) , 135.0    )
+hexcyan_dk = tohex( gold(1.000) , gold(2.875) , 195.0    )
+hexblue_dk = tohex( gold(1.000) , gold(2.500) , 262.5    )
+hexmgnt_dk = tohex( gold(1.000) , gold(2.625) , 330.0    )
 
 print 'Author:          nightsense'
 print 'Maintainer:      nightsense'
