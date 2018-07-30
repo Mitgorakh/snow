@@ -110,11 +110,11 @@ Color:      spbl #5fafff 75
 Color:      spcy #00afaf 37
 Color:      spmg #d75fd7 170
 Color:      srch #95638e ~
-Color:      red_ #c1867f ~
-Color:      gold #b29c70 ~
+Color:      red_ #bf8079 ~
+Color:      gold #ac976c ~
 Color:      gren #829d7a ~
-Color:      cyan #65a09e ~
-Color:      blue #7a98c1 ~
+Color:      cyan #699f9e ~
+Color:      blue #7c98bf ~
 Color:      mgnt #b089aa ~
 Include:    _common.colortemplate
 
